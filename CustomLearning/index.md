@@ -12,7 +12,7 @@ description: Learn how custom learning solutions can speed your use and adoption
 Custom Learning Solutions by Microsoft is a set of training and adoption tools that will increase your use of Office 365.  Created in partership by the *find the real name of the MAX team*, Microsoft Teams and SharePoint Engineering Groups these simple to use solutions can be installed and customized in your own SharePoint Online tenant and integrated with your installation of Microsoft Teams. 
 
 > [!IMPORTANT]
-> [!Custom Learnign Solutions are currently in Phase 2 Beta testing by select customers.  To put your organization's name on the list to be incuded in this test please fill out and submit *this form* Get link]
+> [Custom Learnign Solutions are currently in Phase 2 Beta testing by select customers.  To put your organization's name on the list to be incuded in this test please fill out and submit *this form* Get link]
 
 ## What we offer
 
@@ -30,5 +30,5 @@ Select, install and configure this SharePoint Online communication site package 
 
 ## 3 Easy Steps
 
-Lets <a-href "getstarted.md"get started</a> creating a simple training solutions with up to date Microsoft content.
+Lets [get started](getstarted.md) creating a simple training solutions with up to date Microsoft content.
 
