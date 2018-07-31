@@ -31,3 +31,9 @@ Select, install and configure this SharePoint Online communication site package 
 
 Lets [get started](getstarted.md) creating a simple training solutions with up to date Microsoft content.
 
+1. Select the solution right for you
+2. Complete your installation
+3. Select the services that are in use in your company
+
+
+
