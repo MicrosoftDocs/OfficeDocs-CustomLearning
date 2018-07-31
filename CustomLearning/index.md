@@ -1,6 +1,5 @@
 ---
 title:  Overview of Custom Learning Solutions by Microsoft
-author: Karuana Gatimu
 ms.date: 07/31/2018
 description: Learn how custom learning solutions can speed your use and adoption of Office 365
 ---
@@ -21,7 +20,7 @@ We offer two separate solutions to fit perfectly in your environment. Both solut
 1. Our Training Solution WebPart
 Select and install this downloadable webpart to enhance your existing training site inside your organization with Microsoft content.  This webpart uses a playlist structure to make it simple for your employees to find exactly what they need, on demand.
 
-(media/webpart.png)
+[!Custom Learning Services webpart home](../media/webpart.png "Custom Learning Solutions webpart")
 
 2. Our Toolkit for Teamwork Site Solution
 Select, install and configure this SharePoint Online communication site package to create a training portal for your company. This trainign portal can be edited to add your own custom help, support and community content as well as to remove any services you are not currently using from Office 365.  
