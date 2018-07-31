@@ -31,3 +31,4 @@ Select, install and configure this SharePoint Online communication site package 
 ## 3 Easy Steps
 
 Lets <a-href "getstarted.md"get started</a> creating a simple training solutions with up to date Microsoft content.
+
