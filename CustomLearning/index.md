@@ -1,5 +1,5 @@
 ---
-title:  Overview of Custom Learning Solutions by Microsoft
+title:  Overview of Custom Learning for Office 365
 ms.date: 07/31/2018
 description: Learn how custom learning solutions can speed your use and adoption of Office 365
 ---
