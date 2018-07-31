@@ -20,14 +20,20 @@ We offer two separate solutions to fit perfectly in your environment. Both solut
 1. Our Training Solution WebPart
 Select and install this downloadable webpart to enhance your existing training site inside your organization with Microsoft content.  This webpart uses a playlist structure to make it simple for your employees to find exactly what they need, on demand.
 
-![Custom Learning Services webpart](customlearning/media/webpart.png)
+![Custom Learning Services webpart](/customlearning/media/webpart.png)
 
 2. Our Toolkit for Teamwork Site Solution
 Select, install and configure this SharePoint Online communication site package to create a training portal for your company. This trainign portal can be edited to add your own custom help, support and community content as well as to remove any services you are not currently using from Office 365.  
 
-![Custom Learning Solutions Toolkit for Teamwork site experience](customlearning/media/clssitehome.png)
+![Custom Learning Solutions Toolkit for Teamwork site experience](/customlearning/media/clssitehome.png)
 
 ## 3 Easy Steps
 
 Lets [get started](getstarted.md) creating a simple training solutions with up to date Microsoft content.
+
+1. Select the solution right for you
+2. Complete your installation
+3. Select the services that are in use in your company
+
+
 
