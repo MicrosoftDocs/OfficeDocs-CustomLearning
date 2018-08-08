@@ -1,11 +1,13 @@
 ---
-title:  Overview of Custom learning for Office 365
+title:  Overview of Custom Learning for Office 365
+
 ms.date: 07/31/2018
 description: Learn how Custom learning for Office 365 can accelerate usage and adoption of Office 365 in your organization
 ---
 
 # Custom learning for Office 365
 
+![Custom Learning Solutions header](customlearning/media/clsheader.png)
 # Overview
 
 Custom learning for Office 365 is a set of training and adoption tools design to increase usage of Office 365 in your organization.  Created in partership with Microsoft Teams, SharePoint Engineering, and the Modern Assistance and Experience team, these simple-to-use solutions can be installed and customized in your SharePoint Online tenant and integrated with your installation of Microsoft Teams. 
