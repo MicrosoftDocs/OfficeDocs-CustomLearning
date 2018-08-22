@@ -1,13 +1,21 @@
-# Install the Custom Learning Webpart
+> [!Prerequisite]
 
-> [!IMPORTANT]
-> [To install the Custom Learning webpart for your entire tenant you will need to have Office 365 Administrative permissions.  If you do not have these permissoins you can either work with your Office 365 Administrator or install the webpart for your individual site collection. To install this webpart in an individual site collection you must be an Owner of that site collection. ]
+> [For a tenant-wide installation:  
+
+- To install the Custom Learning webpart for your entire tenant you will need to have Office 365 Administrative permissions.  If you do not have these permissions you can either work with your Office 365 Administrator or install the webpart for an individual site collection.
+- You or your Office 365 Administrator must have setup and configured a tenant-wide [App Catalog](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant) or a [Site Collection App Catalog](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/site-collection-app-catalog)to receive the webpart.]
 
 ## Add the Custom Learning webpart to your tenant 
 
-1. Download the Customer Learning webpart
-2. Navigate to the SharePoint Online Admin portal, Apps, App Catalog, Apps for SharePoint experience
-3. Upload the webpart, accepting the prompts 
+1. Download the Custom Learning webpart and save it to your local drive.  This file is named "ms-custom-learning.sppkg".  Do not change the name or suffix of the file. 
+2. Navigate to the [Office 365 Admin portal](https://admin.microsoft.com/AdminPortal/Home#/homepage) for your tenant
+3. From the left navigation select Admin Centers, SharePoint. This will open in a new tab. 
+, In the SharePoint Admin Center select Apps, App Catalog, Apps for SharePoint 
+4. Select upload the webpart and choose the "ms-custom-learning.sppkg" file you downloaded
+5. For this tenant-wide installation check the box next to "Make this solution available to all sits in the organization."  
+
+![Deploy Solution](media/trustapp_sm.png)
+
 
 ## Add the Customer Learning webpart to a SharePoint Online Page
 
@@ -25,4 +33,7 @@ After Custom Learning is installed in your tenant you can add the Web part to a 
  You can now click on the tiles to explore the default content included in the solution.  
 
 # Next Steps
-Explore the default content included in the webpart to prepare for customizing the webpart for your environment. 
+- Explore the [default content](sitecontent.md) included in the webpart.
+- [Customize](customization.md) the training experience for your organization.
+- [Drive adoption](driveadoption.md) of your training solution.
+
