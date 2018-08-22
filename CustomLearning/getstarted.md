@@ -31,4 +31,4 @@ Lets make some decisions about how to utilize the Custom Learning solutions befo
 - **NO**:  Discuss the installation of the site/webpart with your IT staff who provide SharePoint Online support.  
 
 > [!NOTE]
-> This open source project is supported through our [online issues list](https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr/issues) on GitHub. These solutions are not covered by any existing Microsoft support contract.  To learn nore visit our [Feedback and Support](feedback.md) page.
+> This open source project is supported through our [online issues list](https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr/issues) on GitHub. These solutions are not covered by any existing Microsoft support contract.  To learn more visit our [Feedback and Support](feedback.md) page.
