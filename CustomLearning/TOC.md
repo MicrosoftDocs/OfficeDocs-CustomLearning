@@ -2,7 +2,7 @@
 # [Getting Started](getstarted.md)
 ## [Installing the Webpart](installwebpart.md)
 ## [Installing the Site Package](installsitepackage.md)
-## [Custom Playlists](customplaylist.md)
+## [Edit Services and Create Custom Playlists](customplaylist.md)
 ## [Customize your Content](sitecontent.md)
 # [Drive Adoption](driveadoption.md)
 # [Feedback and Support](feedback.md)
