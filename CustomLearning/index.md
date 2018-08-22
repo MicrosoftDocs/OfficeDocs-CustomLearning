@@ -1,20 +1,24 @@
 ---
 title:  Overview of Custom Learning Solutions by Microsoft 
 
-ms.date: 07/31/2018
-description: Learn how Custom Learning solutions for Office 365 can accelerate usage and adoption of Office 365 in your organization
+ms.date: 08/15/2018
+description: Learn how Custom Learning solutions for Office 365 can accelerate usage and adoption of Office 365 in your organization. Our solutions include a custom SharePoint Online webpart and a modern SharePoint Online communications training site. 
 ---
 
 # Custom Learning for Office 365
 
-# Overview
+# Training made easy
 
-Custom Learning for Office 365 is a set of training and adoption tools designed to increase usage of Office 365 in your organization. Created in partnership with Microsoft Teams, SharePoint Engineering and the Modern Assistance and Experience team, these simple-to-use solutions can be installed and customized in your SharePoint Online tenant and integrated with your installation of Microsoft Teams.
+Custom Learning for Office 365 is a set of training and adoption tools designed to increase usage of Office 365 in your organization. Created in partnership with Microsoft Teams and SharePoint Produce Engineering groups and the Modern Assistance and Experience team, these simple-to-use solutions can be installed and customized in your SharePoint Online tenant.  
+
+These solutions bring to your end-users all the training content that Microsoft has to offer and keeps that content up to date on demand.  The site can easily be integrated with your installation of Microsoft Teams or other existing SharePoint Online sites in your company.
+
+Our custom learning content is currently scoped to all Office 365 products.  If you'd like to see more content included, give us [suggestions and feedback](feedback.md) in our online forum.  
 
 > [!IMPORTANT]
-> [Custom learning for Office 365 will be available for Beta Preview in Fall, 2018. To get on the waitlist for the Fall preview, if you haven't already signed up,  please register at [https://aka.ms/mtspilot]
+> [Custom learning for Office 365 will be available for Beta Preview in Fall, 2018. To get on the waitlist for the Fall preview, if you haven't already signed up,  please register at [https://aka.ms/mtspilot](https://aka.ms/mtspilot).
 
-## What Custom Learning for Office 365 offers
+## Custom Learning for Office 365 Offerings
 
 Custom Learning for Office 365 provides two options: 
 

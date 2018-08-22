@@ -1,4 +1,6 @@
-# Provide us feedback
+# Feedback and Support
+
+## Provide us feedback
 
 Our solution is only a success if it is enabling your business outcomes!  Please help us to make it better by giving us regular feedback through  [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  We regularly review all your comments and questions.
 

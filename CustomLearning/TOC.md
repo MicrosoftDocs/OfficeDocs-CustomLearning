@@ -4,5 +4,5 @@
 ## [Installing the Webpart](installwebpart.md)
 ## [Customize your Content](sitecontent.md)
 # [Drive Adoption](driveadoption.md)
-# [Giving Feedback](feedback.md)
+# [Feedback and Support](feedback.md)
 # [About us](aboutus.md)
