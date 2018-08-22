@@ -16,7 +16,7 @@ These solutions bring to your end-users all the training content that Microsoft 
 Our custom learning content is currently scoped to all Office 365 products.  If you'd like to see more content included, give us [suggestions and feedback](feedback.md) in our online forum.  
 
 > [!IMPORTANT]
-> [Custom learning for Office 365 will be available for Beta Preview in Fall, 2018. To get on the waitlist for the Fall preview, if you haven't already signed up,  please register at [https://aka.ms/mtspilot](https://aka.ms/mtspilot).
+> Custom learning for Office 365 will be available for Beta Preview in Fall, 2018. To get on the waitlist for the Fall preview, if you haven't already signed up,  please register at [https://aka.ms/mtspilot](https://aka.ms/mtspilot).
 
 ## Custom Learning Solution Offerings
 
