@@ -22,13 +22,16 @@
 
 After Custom Learning is installed in your tenant you can add the Web part to a SharePoint page. When you do, suddenly Office 365 training is available to you. 
 
-1. Add the Custom Learning webpart in a full width column layout
+1. Add the Custom Learning webpart in a full width column layout:
+
 ![SharePoint Page Layout](media/clo365fullcolumnwidth.png)
 
 2. In the SharePoint page, select Add section and then select full width column.  You'll see the following prompt:
+
 ![AddWebpart](media/clo365addfullwidthwebpart.png)
 
 3. Select Microsoft Learning.  You should now see the following: 
+
 ![Custom Learning webpart](media/clo365addwebpart.png)
 
  You can now click on the tiles to explore the default content included in the solution.  
