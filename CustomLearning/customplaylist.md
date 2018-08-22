@@ -16,6 +16,7 @@ To hide and show content in the Web part:
 ![Menu Option](media/clohideshow.png)
 
 2. Select a checkox to hide or show a technology and select **Apply**.
+
 ![Technology Options](media/clohideshow1.png)
 
 ### Create a Playlist
@@ -56,6 +57,7 @@ In this example, we’ll first create a SharePoint page to add to the playlist. 
 In this step, you’ll add existing assets from Microsoft and the SharePoint page you created to the playlist. 
 
 1.	Click the menu button, then click Add Existing Asset.
+
 ![add asset](media/clo365addasset.png)
 
 2.	Filter on Office 365 Apps > Microsoft Teams Training
