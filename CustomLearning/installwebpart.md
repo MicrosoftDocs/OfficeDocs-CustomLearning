@@ -1,7 +1,10 @@
+# Installing the Custom Learning Solution Webpart
+
 Prerequisites for a tenant-wide installation:
 
 - To install the Custom Learning webpart for your entire tenant you will need to have Office 365 Administrative permissions.  If you do not have these permissions you can either work with your Office 365 Administrator or install the webpart for an individual site collection.
 - You or your Office 365 Administrator must have setup and configured a tenant-wide [App Catalog](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant) or a [Site Collection App Catalog](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/site-collection-app-catalog)to receive the webpart.]
+- We support SharePoint Online only. The web part is not support for installation on any version of SharePoint on premises.
 
 ## Add the Custom Learning webpart to your tenant 
 
@@ -31,7 +34,7 @@ After Custom Learning is installed in your tenant you can add the Web part to a 
  You can now click on the tiles to explore the default content included in the solution.  
 
 # Next Steps
-- Explore the [default content](sitecontent.md) included in the webpart.
+- Explore the [default content](webpartcontent.md) included in the webpart.
 - [Customize](customization.md) the training experience for your organization.
 - [Drive adoption](driveadoption.md) of your training solution.
 
