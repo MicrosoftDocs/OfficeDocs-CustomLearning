@@ -21,8 +21,11 @@
     "resource": [
       {
         "files": [
-          "**/*.png",
-          "**/*.jpg"
+          "**/*.pdf",
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.svg",
+          "**/*.png"
         ],
         "exclude": [
           "**/obj/**",
@@ -37,7 +40,10 @@
     "globalMetadata": {
       "breadcrumb_path": "/CustomLearning/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "searchScope": ["Office 365 Custom Learning"],
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/OfficeDocs-CustomLearning",
+      "feedback_product_url": "https://microsoftteams.uservoice.com/forums/913429-learning-solutions"
     },
     "fileMetadata": {},
     "template": [],
