@@ -6,4 +6,4 @@
 ## [Customize your Content](sitecontent.md)
 # [Drive Adoption](driveadoption.md)
 # [Feedback and Support](feedback.md)
-# [About the Team](aboutus.md)
+
