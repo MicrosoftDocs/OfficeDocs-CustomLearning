@@ -26,12 +26,12 @@ Custom Learning for Office 365 provides two options:
 
 Select, install, and configure this SharePoint Online communication site package to create a training portal for your company. Formerly known as Toolkit for Teamwork, this training portal can be customized to add your organization's help, support, and community content. You can also remove any content related to services not supported within your organization. The custom learning site package also includes the Custom Learning web part that provides an up-to-date feed of Office 365 training content to your organization. 
 
-![Custom Learning for Office 365 site experience](/customlearning/media/clo365homepage.png)
+![Custom Learning for Office 365 site experience](media/clo365homepage.png)
 
 **Option 2**: [The Custom Learning for Office 365 web part ](installwebpart.md)
 The Custom Learning web part option is designed for organizations that want to integrate Office 365 training into an existing SharePoint Online communication site. The Custom Learning web part can be installed on any SharePoint Online page and provides an up-to-date feed of the full suite of Office 365 training content from Microsoft's Support.Office.com site. Training content delivered through the web part is organized in easy-to-consume playlists. Administrators can also use the web part to build custom training playlists, combining content from YouTube, locally hosted content like .PDFs, and Office 365 training content, to provide training experiences tailored to the unique needs of the organization.
 
-![Custom Learning for Office 365 webpart](/customlearning/media/clo365customplaylist.png)
+![Custom Learning for Office 365 webpart](media/clo365customplaylist.png)
 
 ## 3 Easy Steps
 
