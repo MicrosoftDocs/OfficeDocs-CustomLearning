@@ -38,7 +38,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/CustomLearning/breadcrumb/toc.json",
+      "breadcrumb_path": "/Office365/CustomLearning/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "searchScope": ["Office 365 Custom Learning"],
       "feedback_system": "GitHub",
