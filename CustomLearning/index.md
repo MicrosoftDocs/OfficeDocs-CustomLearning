@@ -1,8 +1,10 @@
 ---
-title:  Overview of Custom Learning Solutions by Microsoft 
+author: karuang
+ms.author: karuanag
+title:  Overview of Custom Learning for Office 365 by Microsoft 
 
 ms.date: 08/15/2018
-description: Learn how Custom Learning solutions for Office 365 can accelerate usage and adoption of Office 365 in your organization. Our solutions include a custom SharePoint Online webpart and a modern SharePoint Online communications training site. 
+description: Learn how Custom Learning for Office 365 can accelerate usage and adoption of Office 365 in your organization. Our solutions include a custom SharePoint Online web part and a modern SharePoint Online communications training site that is easily provisioned to your Office 365 tenant. 
 ---
 
 # Custom Learning for Office 365

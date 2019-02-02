@@ -1,3 +1,12 @@
+---
+title:                     # Day in the Life with Office 365 - Morning Coffee
+description:               # Quick steps to be ready for the day at hand with Office 365
+author: {github-id}        # karuanag
+ms.author: {ms-alias}      # karuanag
+ms.date: {@date}           # 02/01/2019
+ms.topic: getting-started  # how-to
+---
+
 # During Morning Coffee
 
 It's 7:00 AM, and even before opening your computer, you can get a lot done on your mobile device while drinking your morning coffee. In this section, we'll show you how to kick-start your day with Office 365 apps on your phone.
@@ -5,13 +14,13 @@ It's 7:00 AM, and even before opening your computer, you can get a lot done on y
 Office 365 makes it possible to work from any of your devices, wherever you are. You'll discover the benefits of using your mobile device to read the latest emails that have come in overnight, check tasks, reschedule a meeting, review your PowerBI dashboards, correct a presentation or send a message. 
 
 # Tools
-Outlook (mobile)
-Microsoft Teams (mobile)
-SharePoint News (mobile)
-Office (mobile)
+- Outlook (mobile)
+- Microsoft Teams (mobile)
+- SharePoint News (mobile)
+- Office (mobile)
 
-Checklist for your morning coffee
-* Check mail from your mobile device
+## Checklist for your morning coffee
+* Check mail in Outlook or Outlook mobile
 * Get up to date on projects in Microsoft Teams & SharePoint News
 * Manage calendar items on your mobile device
 * Check tasks for the day
