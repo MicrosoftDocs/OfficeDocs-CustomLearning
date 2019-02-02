@@ -1,13 +1,16 @@
-# Day in the Life with Microsoft 365
+# Day in the Life with Office 365
 
-Use Microsoft 365 cloud services to improve your Teamwork on any device.  Let us show you how to streamline your collaboration, communication and content creation as you go through your day. 
+Use Office 365 cloud services to improve your teamwork on any device.  Take steps to streamline your collaboration, communication and content creation as you go through your day.  
 
-(m365day.png)
+![Day in the Life visual](media/m365day.png)
 
-During morning coffee
-On your commute
-Meeting at the office
-Collaborating with your team
-Connecting across the company
+Follow us through these common scenarios to learn more about improving your productivity with Office 365.
 
+- [During morning coffee](ditl_coffee.md)
+- On your commute
+- Meeting at the office
+- Collaborating with your team
+- Connecting across the company
 
+> [!TIP]
+> If you do not have some of the products shown in our examples in your experience of Office 365 speak to your administrator who can help you get access to our services. 
