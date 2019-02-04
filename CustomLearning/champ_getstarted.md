@@ -31,3 +31,15 @@ The champion personality does not usually engage because of these rewards, but i
 ## Why are champions important? 
 
 Learning via co-workers is among the most effective method of learning in a professional environment. Champions will also provide your adoption program valuable insight about what is and is not working about your service deployment, training program and overall sentiment regarding the changes you are implementing.  
+
+![Percent using learning method vs helpfulness](media/champstats.png)
+
+## How will Champions Support you?
+
+Champions will help reduce the strain on the resources of the core project team, and help drive engagement throughout the community. They will also:
+
+1. Create the groundswell an enthusiasm that grows adoption of improved ways of working
+1. Build a circle of influence amongst their teams
+1. Bring the new ways of working ot life across teams
+1. Identify business challenges and possible solutions
+1. Provide feedback to the project team and sponsors
