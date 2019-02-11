@@ -35,7 +35,7 @@ Work with your human resources team to align the launch of your training portal 
 
 ## Use our Success Kit resources
 
-Download our [launch kit](embeds\custom_learning_launch_kit.zip) to print and post our flyers and posters.  Edit and send our launch email to yoru employees to give them 3 simple steps to getting started with the portal.  
+Download our [launch kit](/embeds/custom_learning_launch_kit.zip) to print and post our flyers and posters.  Edit and send our launch email to yoru employees to give them 3 simple steps to getting started with the portal.  
 
 > [!NOTE]
 > You will need to edit the launch email to include the proper web address (URL) for your particular installation of the custom learning portal.
