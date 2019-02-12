@@ -1,5 +1,5 @@
 # [Overview](index.md)
-# [Getting Started](prereq.md)
+# [Getting Started](prereqs.md)
 ## [Service Decisions](servicedecisions.md)
 ## [Installing the Site Package](installsitepackage.md)
 ## [Installing the Webpart](installwebpart.md)
@@ -10,3 +10,4 @@
 # [Drive Adoption](driveadoption.md)
 # [Feedback and Support](feedback.md)
 # [Frequently Asked Questions](faq.md)
+
