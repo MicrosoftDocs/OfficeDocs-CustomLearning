@@ -1,5 +1,5 @@
 # [Overview](index.md)
-# [Getting Started](prereq.md)
+# [Getting Started](prereqs.md)
 ## [Service Decisions](servicedecisions.md)
 ## [Installing the Site Package](installsitepackage.md)
 ## [Installing the Webpart](installwebpart.md)
