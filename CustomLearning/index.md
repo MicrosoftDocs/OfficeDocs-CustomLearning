@@ -1,5 +1,5 @@
 ---
-author: karuang
+author: karuanag
 ms.author: karuanag
 title:  Overview of Custom Learning for Office 365 Open Source solution
 
