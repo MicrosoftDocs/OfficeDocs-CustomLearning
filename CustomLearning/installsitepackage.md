@@ -1,16 +1,21 @@
-# Install the Custom Learning Site Package
+---
+author: karuanag
+ms.author: karuanag
+title:  Provision the site experience
+ms.date: 02/10/2019
+description: Provision the Custom Learning for Office 365 site 
+---
 
-## Prerequisite for installation
+# Provision the Custom Learning Site
 
-- To install the Custom Learning site package for your tenant you will need to have Office 365 Administrative permissions.  If you do not have these permissions you can either work with your Office 365 Administrator or install the webpart alone for an individual site collection.
-- You may want to consider installing the package in a testing location to get familiar with the content.  If you take this approach you will need to reinstall the package in your production tenant and recreate any customizations that you completed during testing. 
-- Updates to the webpart training content will not effect your page customizations.
-- We support SharePoint Online only. The web part is not support for installation on any version of SharePoint on premises.
-
-## Add the Custom Learning site to your tenant 
-
-**1. Add package instructions here**
-
+1. Go to http://provisioning.sharepointpnp.com and sign in using your credentials for the targeted tenant you plan on using for the installation.
+![pnphome.png](media/pnphome.png)
+1. Check off Consent on behalf of your organization and select Accept.
+1. Select Custom Learning for Office 365 from the solution gallery. 
+1. Select Add to your Tenant 
+1. Adjust default selections on the provisioning page as required and select Provision when ready to install CLO365 into your tenant environment.  
+1. The provisioning process will take up to 15 minutes. You will be notified via email (to the notification email address you entered on the Provisioning page) when the site is ready for access. 
+1. Once logged on to CLO365 in your tenant, favorite the site and copy the url for future reference.  
 
 
 ## Next Steps

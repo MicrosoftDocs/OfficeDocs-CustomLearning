@@ -1,8 +1,20 @@
+---
+author: karuanag
+ms.author: karuanag
+title:  Feedback and Support
+ms.date: 02/10/2019
+description: Feedback and support information for Custom Learning for Office 365
+---
+
 # Feedback and Support
 
-## Get Support
+This open source project is supported through our [online issues list](https://aka.ms/CustomLearningHelp) on GitHub. These solutions are not covered by any existing Microsoft support contract.  
 
-If you have issues with the open source site template or webpart that delivers the Custom Learning experience please enter your issue in our GitHub issues list.  You can find this list at https://aka.ms/CustomLearningHelp  As is standard with open source solutions the community triages these issues for resolution.  Feature requests are transferred into our User Voice instance noted below.  Code bugs are escalated to the community and service managers for triage and resolution.  
+## Report Issues
+
+If you have issues with the open source site template or webpart that delivers the Custom Learning experience please enter your issue in our GitHub issues list.  You can find this list at https://aka.ms/CustomLearningHelp  
+
+As is standard with open source solutions the community triages these issues for resolution.  Feature requests are transferred into our User Voice instance noted below.  Code bugs are escalated to the community and service managers for triage and resolution.  
 
 ## Provide us feedback
 
