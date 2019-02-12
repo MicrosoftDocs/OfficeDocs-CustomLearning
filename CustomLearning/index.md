@@ -2,7 +2,6 @@
 author: karuanag
 ms.author: karuanag
 title:  Overview of Custom Learning for Office 365 Open Source solution
-
 ms.date: 02/10/2019
 description: Learn how Custom Learning for Office 365 can accelerate usage and adoption of Office 365 in your organization. Our solutions include a custom SharePoint Online web part and a modern SharePoint Online communications training site that is easily provisioned to your Office 365 tenant. 
 ---
@@ -32,9 +31,9 @@ The Custom Learning web part option is designed for organizations that want to i
 
 ![Custom Learning for Office 365 webpart](media/clo365customplaylist.png)
 
-## 4 Easy Steps
+## 3 Easy Steps
 
-Lets [get started](getstarted.md) creating a simple training solutions with up to date Microsoft content.
+Lets [get started](prereqs.md) creating a simple training solutions with up to date Microsoft content.
 
 1. Select the solution right for you
 2. Complete your installation & customize your content
