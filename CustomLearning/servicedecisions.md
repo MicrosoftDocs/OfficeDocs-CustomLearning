@@ -1,11 +1,19 @@
-# Get Started
+---
+author: karuanag
+ms.author: karuanag
+title:  Pre-requisites and Decisions
+ms.date: 02/10/2019
+description: Decisions and pre-requisite information for Custom Learning installation and setup 
+---
+ 
+## Service Decisions
 
-Lets make some decisions about how to utilize the Custom Learning solutions before we get started.  Here are your key considerations:
+Once your pre-requisites are met and prior to installation you should make the following decisions about your implemenation of CLO365:
 
-1. **Do you already have a training portal in your company?  Is it serving your company's needs by having a modern, accessible interface?**
+1. **Do you already have a training portal in your company with a modern interface?**
 
 - **YES** If your answer to these questions are yes, then [installing the webpart](installwebpart.md) within that existing site experience is our recommended course of action.
-- **NO** If you answer no to either of these questions we suggest [installing the full Custom Learning site](installsitepackage.md) package.  This will prepare you with a modern SharePoint Online communication site that your can expand to house other information that is important to your end users.  Customizing the site will not impact the webpart's ability to get content updates. 
+- **NO** If you answer no we suggest [installing the full Custom Learning site](installsitepackage.md) package.  This will prepare you with a modern SharePoint Online communication site that your can expand to house other information that is important to your end users.  Customizing the site will not impact the webpart's ability to get content updates. 
 
 2. **Are you an Office 365 Administrator?**
 
@@ -30,5 +38,4 @@ Lets make some decisions about how to utilize the Custom Learning solutions befo
     3. A formal support ticketing process can be suppored with Forms, Flow and SharePoint Online lists or through other 3rd party tools which you may already have for IT support in your company. 
 - **NO**:  Discuss the installation of the site/webpart with your IT staff who provide SharePoint Online support.  
 
-> [!NOTE]
-> This open source project is supported through our [online issues list](https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr/issues) on GitHub. These solutions are not covered by any existing Microsoft support contract.  To learn more visit our [Feedback and Support](feedback.md) page.
+## Next Steps - [Site](installsitepackage.md) or [webpart](installwebpart.md) installation
