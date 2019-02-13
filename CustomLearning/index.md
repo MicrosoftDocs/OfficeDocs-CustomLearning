@@ -14,7 +14,7 @@ Custom Learning for Office 365 is a set of training and adoption open source too
 
 These solutions bring to your end-users all the training content that Microsoft has to offer and keeps that content up to date on demand.  The site can easily be integrated with your installation of Microsoft Teams or other existing SharePoint Online sites in your company.
 
-Our custom learning content is currently scoped to beginning content for Office 365 products.  If you'd like to see more content included, give us [suggestions and feedback](feedback.md) in our online forum.  
+Our custom learning content is currently scoped to beginning content for Office 365 and Windows 10 products.  If you'd like to see more content included, give us [suggestions and feedback](feedback.md) in our online forum.  
 
 ## Custom Learning Open Source Components
 
