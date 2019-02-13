@@ -1,13 +1,12 @@
 ---
 author: karuanag
 ms.author: karuanag
-title:  Browse the site and default content
+title:  Explore the site and default content
 ms.date: 02/10/2019
-description: Browse the site and default content
+description: Explore the Custom Learning site and default content
 ---
 
-
-# Browse the site and default content
+# Explore the site and default content
 
 ![Six Simple Steps](media/clo365homepage.png)
 
