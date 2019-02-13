@@ -11,33 +11,41 @@ description: Browse the site and default content
 
 ![Six Simple Steps](media/clo365homepage.png)
 
-Now that you’ve installed CLO365, it’s time to take a tour of the site. 
+### Tour the site 
 
-1. Navigate to the Home page and select Office 365 Training. This will display all the content available within the Web part.
+Navigate to the Home page and select Office 365 Training. EAch page in the SharePoint Online site is configured to host the Microsoft Learning webpart. This enables the page to  display all the content available within the webpart.
 
 ![webpart](media/webpart.PNG)
 
-2. From the menu bar, point to Office 365 Training and then select Get Started with OneDrive. In this case, the Web part filters the content to show only OneDrive content, as shown in the following illustration.
+From the menu bar, select the navigation item **Office 365 Training** and then select **Get Started with OneDrive**. In this case, the Web part filters the content to show only OneDrive content.
 
-{insert image}
+Repeat these steps for the other two menu options, **Get Started with Teams** and **Get Started with SharePoint Online** to review their content and test the navigation.
 
-3. Repeat these steps for the other two menu options, Get Started with Teams and Get Started with SharePoint Online to review their content and test the navigation.
-
-{insert image} 
-
-4. Navigate back to the Home page and select Start with Six Simple Steps. This takes you to the Six Simple Steps playlist as shown in the following illustration.  
+Navigate back to the Home page and select **Start with Six Simple Steps**. This takes you to the Six Simple Steps playlist.
 
 > [!TIP]
-> The six simple steps are derived from a Microsoft research team. These are the steps that Microsoft researchers have found to be the most sticky, meaning if users go through these steps, their use of Office 365 will increase and they will become more productive workers. And that’s good for everybody.
+> The Six Simple Steps are derived from a Microsoft research team. These are the steps that Microsoft researchers have found to be the most sticky, meaning if users go through these steps, their use of Office 365 will increase and they will become more productive workers. And that’s good for everybody.
 
-Go to Start with six simple steps
+### Go to Start with Six Simple Steps
 - From the Home page, click Start with six simple steps. 
 - You see the Office Training page with the Custom Learning web part routed to the Start with six simple steps playlist.  
 
 ![Six Steps Playlist](media/clo365sixsteps.png)
 
-Your site is now set up with the correct content being displayed on each page. If you would like to customize the training content on the site, please see Custom Learning for Office 365 Administrator Guide to Customization. 
+### View a list of playlists for a category
+
+From the Office 365 training page select Excel Training to go to a list of Excel Training playlists.
+
+![content_excel.png](media/content_excel.png)
+
+### View a Playlist
+
+Click **Welcome to Excel** to view the playlist
+
+![content_exwel.png](media/content_exwel.png)
+
+Your site is now set up with the correct content being displayed on each page. 
 
 ## Next Steps
-[Customize site content](customization.md)
-[Drive adoption](driveadoption.md) 
+- [Customize site content](customization.md)
+- [Drive adoption](driveadoption.md) 
