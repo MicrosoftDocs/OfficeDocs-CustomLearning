@@ -1,3 +1,10 @@
+---
+author: karuanag
+ms.author: karuanag
+title:  Installing the Custom Learning Solution Webpart
+ms.date: 02/10/2019
+description: Installation instructions for the Custom Learning Solution Webpart
+---
 # Installing the Custom Learning Solution Webpart
 
 ## Prerequisites for a tenant-wide installation
@@ -14,13 +21,16 @@
 , In the SharePoint Admin Center select Apps, App Catalog, Apps for SharePoint 
 4. Select upload the webpart and choose the "ms-custom-learning.sppkg" file you downloaded
 5. For this tenant-wide installation check the box next to "Make this solution available to all sits in the organization."  
+ 
+> [!NOTE]
+> Once the webpart is installed you will find it in your webpart gallery in SharePoint Online.  **In the gallery the webpart is named "Microsoft Learning"**
 
 ![Deploy Solution](media/trustapp_sm.png)
 
 
-## Add the Customer Learning webpart to a SharePoint Online Page
+## Add the Microsoft Learning webpart to a SharePoint Online Page
 
-After Custom Learning is installed in your tenant you can add the Web part to a SharePoint page. When you do, suddenly Office 365 training is available to you. 
+After Custom Learning is installed in your tenant you can add the Web part to a SharePoint page. When you do Office 365 and Windows 10 training is available to your site.
 
 1. Add the Custom Learning webpart in a full width column layout:
 
@@ -36,7 +46,7 @@ After Custom Learning is installed in your tenant you can add the Web part to a 
 
  You can now click on the tiles to explore the default content included in the solution.  
 
-## Next Steps
+### Next Steps
 - Explore the [default content](webpartcontent.md) included in the webpart.
 - [Customize](customization.md) the training experience for your organization.
 - [Drive adoption](driveadoption.md) of your training solution.

@@ -38,4 +38,4 @@ Once your pre-requisites are met and prior to installation you should make the f
     3. A formal support ticketing process can be suppored with Forms, Flow and SharePoint Online lists or through other 3rd party tools which you may already have for IT support in your company. 
 - **NO**:  Discuss the installation of the site/webpart with your IT staff who provide SharePoint Online support.  
 
-## Next Steps - [Site](installsitepackage.md) or [webpart](installwebpart.md) installation
+### Next Steps - [Site Provisioning](installsitepackage.md) or [webpart](installwebpart.md) installation steps
