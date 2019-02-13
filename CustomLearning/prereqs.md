@@ -2,7 +2,7 @@
 author: karuanag
 ms.author: karuanag
 title:  Prerequisites for Installation
-ms.date: 02/10/2019
+ms.date: 02/11/2019
 description: Decisions and pre-requisite information for Custom Learning installation and setup 
 ---
 
