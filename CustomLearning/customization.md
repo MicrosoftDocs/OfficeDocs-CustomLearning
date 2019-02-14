@@ -8,7 +8,7 @@ description: Learn about the variety of customizations available with Custom Lea
 
 # Customize the Training Experience
 
-This is a test three. By default both the site experience and the webpart include content for all Office 365 and Windows 10 services.  If only all or some of these services are available in your company you can adjust what content is available to your users.  
+This is a test four. By default both the site experience and the webpart include content for all Office 365 and Windows 10 services.  If only all or some of these services are available in your company you can adjust what content is available to your users.  
 
 There are several kinds of customizations that are available to the owners of this site. 
 
