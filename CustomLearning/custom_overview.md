@@ -8,13 +8,14 @@ description: Overview of Custom Learning for Office 365 for Administrators
 
 # Overview of Custom Learning
 Introducing Custom Learning for Office 365, a new solution from Microsoft designed to speed the usage and adoption of Office 365 within an organization. With Custom Learning, you can:
-- Tailor Custom Learning for Office 365 to your environment. Modify site pages with your brand and logo, training events, and support info. Hide and show content for services or features that are not supported in your organization. 
-- Let Microsoft keep your content and users up-to-date – Custom Learning provides a dynamic feed of learning content that Microsoft keeps up-to-date. 
-- Build categories and custom playlists reflecting your organization’s policies, procedures, and culture, enabling users to build skills with learning content crafted specifically to their needs.
+- Tailor Office 365 learning and adoption content for your environment. 
+- Hide or show content to reflect the services or features supported in your organization. 
+- Keep your content and users current with an up-to-date feed of learning content from Microsoft 
+- Build custom playlists crafted specifically for your user's needs
 
 ![cg_introducing.png](media/cg_introducing01.png)
 
-## How does Custom Learning word?
+## How does Custom Learning work?
 Custom Learning for Office 365 (Custom Learning for short) consists of three parts: 
 - a SharePoint communication site
 - a SharePoint web part
