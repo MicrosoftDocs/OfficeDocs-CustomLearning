@@ -24,13 +24,15 @@ Change the image links
 5.	Repeat for the other two images that aren’t linked.
 
 ## Change the text on the page
-- Hover over the text area, then edit the text for the page. 
-- Click the Publish button when you’re done
+
+1. Hover over the text area, then edit the text for the page. 
+2. Click the Publish button when you’re done
 
 ## Other customization options
 Other pages you might want to consider editing are:
-•	Training events calendar.aspx
-•	The Hero web part on Home.aspx
+
+- Training events calendar.aspx
+- The Hero web part on Home.aspx
 
 ### Next Steps
 
