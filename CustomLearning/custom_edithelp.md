@@ -8,7 +8,7 @@ description: Learn about the variety of customizations available with Custom Lea
 
 # Customize the Custom Learning site
 
-The Custom Learning site is based on a SharePoint communication template. The template is relatively simple and you can customize the site pages to meet your organization's needs. For example, you can change the site name, logo, menu items, and content on the pages. If you need help customizig a communication site, see <link here>. 
+The Custom Learning site is based on a SharePoint communication template. The template is relatively simple and you can customize the site pages to meet your organization's needs. For example, you can change the site name, logo, menu items, and content on the pages. If you need help customizig a communication site, see **link here**. 
 
 ## Customize the Ask questions and get help page
 
