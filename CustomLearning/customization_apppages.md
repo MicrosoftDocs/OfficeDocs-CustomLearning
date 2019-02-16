@@ -10,7 +10,10 @@ description: Learn about the functionality of SharePoint Application Pages in Cu
 
 Custom Learning provides two SharePoint Application pages that you should know about as an administrator of the solution. These two pages non-editable. 
 
-##CustomLearningAdmin.aspx##
+- CustomLearningAdmin.aspx
+- CustomLearningAdmin.aspx
+
+## CustomLearningAdmin.aspx
 
 The CustomLearningAdmin.aspx page provides Administrative features for Custom Learning, including hiding and showing content and creating and editing subcategories and playlists. We’ll cover this page and its functionality in more detail in later topics.
 
@@ -21,7 +24,7 @@ The CustomLearningAdmin.aspx page provides Administrative features for Custom Le
 
 ![cg_adminapppage.png](media/cg_adminapppage.png)
 
-##CustomLearningViewer.aspx##
+## CustomLearningAdmin.aspx
 The CustomLearningViewer.aspx page provides a Viewer page for displaying Custom Learning contents. For example, if you copy a Playlist link and share it with a co-worker, the link, when clicked, takes the user to the Viewer page and displays the linked content. We’ll cover this page and its functionality in more detail in later topics.
 
 **To view CustomLearningViewer.aspx**
