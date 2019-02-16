@@ -1,5 +1,5 @@
 ---
-author: karuanag
+author: pkrebs
 ms.author: pkrebs
 title:  Where is the Custom Learning web part
 ms.date: 02/15/2019
@@ -45,9 +45,7 @@ The Web part on the Office 365 training page is configured to show all the categ
 
 ![cg_whereiswp_o365.png](media/cg_whereisweb_o365.png)
 
-
-
-### Next Steps
+## Next Steps
 
 - [Customize and Share Playlists](customplaylist.md)
 - [Drive Adoption](driveadoption.md) 
