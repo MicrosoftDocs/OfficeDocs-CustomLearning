@@ -8,7 +8,7 @@ description: Learn where the Custom Learning web part appears in the Custom Lear
 
 # Where is the Custom Learning web part?
 
-When the Custom Learning is provisioned in your organization, the Custom Learning SharePoint site and web part are added to your organization’s SharePoint tenant. As part of the provisioning, the Custom Learning web part is added to the following pages of the Custom Learning Web site:
+When Custom Learning is provisioned in your organization, the Custom Learning SharePoint site and web part are added to your organization’s SharePoint tenant. As part of the provisioning, the Custom Learning web part is added to the following pages of the Custom Learning Web site:
 
 - Start-with-Six-Simple-Steps.aspx 
 - Recommended-Playlists.aspx
