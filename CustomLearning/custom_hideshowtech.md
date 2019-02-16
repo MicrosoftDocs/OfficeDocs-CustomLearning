@@ -1,0 +1,34 @@
+---
+author: pkrebs
+ms.author: pkrebs
+title:  Hide and show technology
+ms.date: 02/15/2019
+description: How to hide and show technology
+---
+
+# Hide and show Technology
+
+In some cases, you’ll want to hide content for a technology that’s not supported in your organization. The Hide Technology feature is designed to prevent technology from appearing throughout the Web part. It offers a broader way to hide and show content than hiding it by subcategory or playlist. For example, you can hide a Yammer subcategory, but Yammer may still show up in certain scenario playlists such as Connect your organization with Yammer. To ensure a specific technology is not exposed to end users, you can also hide content by Technology. 
+
+**Hide a Technology** 
+
+1. From the Custom Learning Home page, click the Office 365 training tile.
+2. From the Custom Learning Web part, select the System menu, then select Custom Learning Administration. You should now have two tabs open. One with the Custom Learning Administration page, and one with the Office 365 training page. 
+3. From the Custom Learning Administration page, click a Technology, and then select the eyeball for the Technology to hide it. For this example, click the Yammer Technology, and then hide it.  
+
+![cg_hidetech.png](media/cg_hidetech.png)
+
+**Verify the playlist is hidden**
+- To verify Yammer technology is hidden, select the browser tab with the Get Started with Office 365 page loaded, and then refresh the page. You should now see the Yammer subcategory is hidden. 
+- Click the Recommended subcategory. You'll notice that the Connect your organization with Yammer playlist is hidden. 
+
+![cg_hidetechrefresh.png](media/cg_hidetechrefresh.png)
+
+**Unhide a Technology** 
+
+- From the Custom Learning Administration page, under Technology, select a technology, then select the eyeball for the hidden technology to unhide it. For this example, unhide the Yammer technology. 
+
+### Next Steps
+
+- [Customize and Share Playlists](customplaylist.md)
+- [Drive Adoption](driveadoption.md) 
