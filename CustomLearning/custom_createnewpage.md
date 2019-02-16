@@ -21,7 +21,7 @@ You can create a custom playlist from existing Microsoft-provided, Custom Learni
 3. In the left column, click +, and then click the Embed web part. 
 4. In the right column, click +, and then click the Text Web part. Your page should now look like this.
 
-![cg_newplaypagestart.png](media/ccg_newplaypagestart.png)
+![cg_newplaypagestart.png](media/cg_newplaypagestart.png)
 
 **Add a video and text from YouTube**
 
@@ -34,7 +34,7 @@ You can create a custom playlist from existing Microsoft-provided, Custom Learni
 7. Select the Edit web part icon   in the Title area of the SharePoint page, and then name the page “Custom Playlist Introduction”. 
 8. For Layout, select Plain, then close Title Region properties pane. The page should now look something like the following. 
 
-![cg_newplaypagestart.png](media/ccg_newplaypagestart.png)
+![cg_newplaypagestart.png](media/cg_newplaypagestart.png)
 
 **Publish the page**
 
