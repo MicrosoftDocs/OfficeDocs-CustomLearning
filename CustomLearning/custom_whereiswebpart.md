@@ -25,7 +25,7 @@ Here’s an example of the Get Started with Microsoft Teams page with the Web pa
 
 - From the Custom Learning Home page, select Get started with Microsoft Teams.
 
-![cg_whereiswp_teams.png](media/cg_whereisweb_teams.png)
+![cg_whereiswp_teams.png](media/cg_whereiswp_teams.png)
 
 ## View the Six Simple Steps playlist
 
@@ -35,7 +35,7 @@ The web part on the Start-with-Six-Simple-Steps.aspx page is configured to show 
 
 The following page, Start-with-Six-Simple-Steps.aspx, appears with the Web part configured to show the first asset in the Six Simple Steps playlist.
 
-![cg_whereiswp_six.png](media/cg_whereisweb_six.png)
+![cg_whereiswp_six.png](media/cg_whereiswp_six.png)
 
 ## View all Office 365 training
 
@@ -43,7 +43,7 @@ The Web part on the Office 365 training page is configured to show all the categ
 
 - From the Custom Learning Home page, click Office 365 training. The page appears appears with the Web part configured to show all the categories and subcategories available from the Custom Learning Catalog.
 
-![cg_whereiswp_o365.png](media/cg_whereisweb_o365.png)
+![cg_whereiswp_o365.png](media/cg_whereiswp_o365.png)
 
 ## Next Steps
 
