@@ -17,7 +17,7 @@ When Custom Learning is provisioned in your organization, the Custom Learning Sh
 - Get-started-with-OneDrive.aspx
 - Get-started-with-SPO.aspx
 
-For each page, the Web part is configured differently to show the categories and playlists designed to support the intent of the page. The Custom Learning web part, as we’ll show you later, can be filtered to show specific categories, playlists, or assets. Let's take a look. 
+For each page, the Web part is configured differently to show the categories and playlists designed to support the intent of the page. The Custom Learning web part, as we’ll show you later, can be added to just about any SharePoint pages and filtered to show specific categories, playlists, or assets. Let's take a look. 
 
 ## View Microsoft Teams playlists
 
@@ -27,13 +27,15 @@ Here’s an example of the Get Started with Microsoft Teams page with the Web pa
 
 ![cg_whereiswp_teams.png](media/cg_whereiswp_teams.png)
 
+- Click the Home button on the Custom Learning site menu to return to the Site Home page.
+
+![cg_homebtnmenu.png](media/cg_homebtnmenu.png)
+
 ## View the Six Simple Steps playlist
 
-The web part on the Start-with-Six-Simple-Steps.aspx page is configured to show the first asset in the Six Simple Steps playlist.
+The web part on the Start-with-Six-Simple-Steps.aspx page is configured to show the first asset in the Six Simple Steps playlist. The tart-with-Six-Simple-Steps.aspx page appears with the Web part configured to show the first asset in the Six Simple Steps playlist.
 
 - From the Home page of Custom Learning for Office 365, select Start with six simple steps. 
-
-The following page, Start-with-Six-Simple-Steps.aspx, appears with the Web part configured to show the first asset in the Six Simple Steps playlist.
 
 ![cg_whereiswp_six.png](media/cg_whereiswp_six.png)
 
@@ -41,9 +43,11 @@ The following page, Start-with-Six-Simple-Steps.aspx, appears with the Web part 
 
 The Web part on the Office 365 training page is configured to show all the categories and subcategories available from the Custom Learning catalog. This includes subcategories from Microsoft along with any subcategories that you create for your organization.
 
-- From the Custom Learning Home page, click Office 365 training. The page appears appears with the Web part configured to show all the categories and subcategories available from the Custom Learning Catalog.
+- From the Custom Learning Home page, click Office 365 training. The page appears appears with the Web part configured to show all the categories and subcategories available from the Custom Learning catalog.
 
 ![cg_whereiswp_o365.png](media/cg_whereiswp_o365.png)
+
+- Click the Home button on the Custom Learning site menu to return to the Site Home page.
 
 ## Next Steps
 
