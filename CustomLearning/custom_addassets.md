@@ -41,26 +41,19 @@ Existing assets consist of Microsoft-provided Custom Learning assets or assets t
 
 ![cg_existsplaylistsearch.png](media/cg_existsplaylistsearch.png)
 
+## Edit, move, and delete assets
+You can edit custom assets that you create, but not assets from Microsoft. However, you can remove all assets from a playlist and change the order assets. 
 
-You can fully customize the Custom Learning web site. If you are not familiar with creating pages within modern SharePoint Online sites we suggest you review [Customize your SharePoint site](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) article on support.office.com. 
+![cg_playlistassetedit.png](media/cg_playlistassetedit.png)
 
-### Customize the **Ask Questions and Get Help** page
+**Edit an asset**
+- Click the Edit button for an asset, modify the asset, and then click Save Asset. 
 
-As a starting point for customizing the site, select Ask questions and get help from the menu bar, then click the SharePoint Edit button and change the images and the links. 
+**Move an asset in a playlist**
+- Click the up or down arrow to the right of the asset to move the asset order in the playlist
 
-![custom_ask.png](media/custom_ask.png)
-
-## Customize available services
-
-1.	Navigate to the Custom Learning Administration page within the website
-![custom_admin.png](media/custom_admin.png)
-1. Select **Technology** to see the full list of services that are included in the solution
-1. Select a technology and **click the eye symbol** to hide this content.  Click the eye symbol again to show the content within the experience. 
-![custom](media/custom_techlist.png)
-
-The same process can be repeated for categories of playlists within the experience.  Simply select the Category option to show/hide playlists. 
-
-![custom_cat.png](media/custom_cat.png)
+**Remove an asset from a playlist**
+- Click the Remove from Playlist X icon for the asset. 
 
 ### Next Steps
 
