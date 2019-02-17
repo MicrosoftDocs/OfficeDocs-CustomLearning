@@ -8,9 +8,9 @@ description: How to create new playlists
 
 # Creating new playlists
 
-When creating a new playlist, you can add existing Custom Learning assets from Microsoft or you can add new assets such as the SharePoint page covered in the Create SharePoint pages for playlists section. Typically, when creating a new playlist, you first create a series of SharePoint pages, and then go to the Custom Learning Administration page to add the pages to a playlist. 
+When you create a new playlist, you first create the playlist with the playlist details, and then add assets to the playlist. You can add the playlist to any subcategory. For example, you can add a playlist to the First Days subcategory or a product subcategory like Excel. In this section, we’ll cover how to create a playlist. Adding assets to the playlist will be covered in the following section, Add assets to a playlist. 
 
-**Create a new playlist** 
+**Create a playlist** 
 
 1. From the Custom Learning Home page, click Office 365 training, select the system menu from the Web part, and then select Administer Playlist. 
 2. Select a subcategory. In this example, select First Days.  
