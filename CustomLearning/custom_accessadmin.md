@@ -16,19 +16,14 @@ The Custom Learning Administration page is the central controlling point for Adm
 ## Access from the Custom Learning Web part - preferred method
 As we'll show you in this example, opening the Custom Learning Administration page from the web part is the preferred method since it opens the Admin page in a new browser tabbed window. With this method, it's easy to flip back and forth between the tabbed pages to check or modify your work as we'll demonstrate later in this guide. 
 
-1. From the Custom Learning Home page, click the Office 365 training tile.
-2. Click the Custom Learning System menu, then click Administer Playlist. 
+1. From the Custom Learning Home page, click the **Office 365 training** tile.
+2. Click the **Custom Learning System** menu, then click **Administer Playlist**. 
 
-![cg_adminaccbtn.png](media/cg_adminaccbtn.png)
+![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
 
 ## Access from the Custom Learning menu item
-Rather than navigate to a page with a Web part, administrators can access the Custom Learning page from the SharePoint Home menu item. 
+Rather than navigate to a page with a Web part, administrators can access the Custom Learning Adminstration page from the SharePoint **Home** menu item. 
 
 - From the Custom Learning Home page, click Home, then click Custom Learning Administration.
 
-![cg_adminaccmenu.png](media/cg_adminaccbtn.png)
-
-### Next Steps
-
-- [Customize and Share Playlists](customplaylist.md)
-- [Drive Adoption](driveadoption.md) 
+![cg-adminaccmenu.png](media/cg-adminaccmenu.png)
