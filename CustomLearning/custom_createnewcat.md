@@ -19,13 +19,13 @@ In some cases, you’ll want to create a new custom Subcategory. For example, if
 > [!TIP]
 > Microsoft-provided subcategories can be hidden, but not edited or deleted. 
 
-**Edit a subcategory**
+## Edit a subcategory
 - Select the Edit icon for subcategory, make edits to the Subcategory title, and then click Save.
 
-**Hide a subcategory**
+## Hide a subcategory
 - Select the eyeball for subcategory to hide it. 
 
-**Delete a subcategory**
+## Delete a subcategory
 - Select the Edit icon for subcategory, then select Delete. 
 
 ### Next Steps
