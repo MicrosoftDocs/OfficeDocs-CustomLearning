@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  SharePoint Application Pages for Custom Learning
+title:  Get to know the SharePoint Application pages
 ms.date: 02/15/2019
 description: Learn about the functionality of SharePoint Application Pages in Custom Learning
 ---
