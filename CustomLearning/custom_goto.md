@@ -6,9 +6,9 @@ ms.date: 02/18/2019
 description: Go to the Custom Learning Site
 ---
 
-# Go to the Custom Learning for Office 365 site
+# Go to the Custom Learning site
 
-Custom Learning for Office 365 is hosted in your Office 365 tenant. If you haven’t already signed into Office 365, sign in now. 
+The Custom Learning for Office 365 site is hosted in your Office 365 tenant, so you'll need to sign in to Office 365 to get to the site. If you haven’t already signed into Office 365, sign in now. 
 
 ## Sign in to Office 365 
 
@@ -18,7 +18,7 @@ Custom Learning for Office 365 is hosted in your Office 365 tenant. If you haven
 select SharePoint from the Office 365 Home page, and then select the Custom Learning for Office 365 site. 
 5. Click the Office 365 training tile to see the full suite of training playlist available with Custom Learning. 
 
-![cg_goto.png](media/cg_goto.png)
+![cg-goto.png](media/cg-goto.png)
 
 ## View all the Custom Learning content
 The Office 365 training page host the Custom Learning Web part configured to show all the training available for Custom Learning. 
@@ -26,5 +26,5 @@ The Office 365 training page host the Custom Learning Web part configured to sho
 1. Scroll down the page to view all the categories and subcategories.
 2. Kick the tires a bit. Click a few subcategories, and then click a few playlists to get a feel for how Custom Learning content is organized. 
 
-![cg_goto.png](media/cg_gotoall.png)
+![cg-gotoall.png](media/cg-gotoall.png)
 
