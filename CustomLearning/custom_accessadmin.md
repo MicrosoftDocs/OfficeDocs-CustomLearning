@@ -24,6 +24,6 @@ As we'll show you in this example, opening the Custom Learning Administration pa
 ## Access from the Custom Learning menu item
 Rather than navigate to a page with a Web part, administrators can access the Custom Learning Adminstration page from the SharePoint **Home** menu item. 
 
-- From the Custom Learning Home page, click Home, then click Custom Learning Administration.
+- From the Custom Learning Home page, click the **Home** menu, then click **Custom Learning Administration**.
 
 ![cg-adminaccmenu.png](media/cg-adminaccmenu.png)
