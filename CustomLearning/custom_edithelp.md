@@ -1,7 +1,7 @@
 ---
-author: karuanag
+author: pkrebs
 ms.author: pkrebs
-title:  Customize Ask Questions and Get Help
+title:  Customize the Custom Learning site
 ms.date: 02/15/2019
 description: Learn about the variety of customizations available with Custom Learning for Office 365
 ---
