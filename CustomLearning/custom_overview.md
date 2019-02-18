@@ -23,7 +23,7 @@ Custom Learning for Office 365 (Custom Learning for short) consists of three par
 2. a SharePoint communication site
 3. a SharePoint web part 
 
-![cg_howitworks.png](media/cg-howitworks01.png)
+![cg-howitworks.png](media/cg-howitworks01.png)
 
 ## Requirements and Permissions
 
