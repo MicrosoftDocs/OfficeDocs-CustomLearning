@@ -1,12 +1,12 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  How to access the Custom Learning Administration page
+title:  Access the Custom Learning Administration page
 ms.date: 02/15/2019
 description: How to access the Custom Learning Admin page from the Web part or the menu
 ---
 
-# How to access the Custom Learning Administration page
+# Access the Custom Learning Administration page
 
 The Custom Learning Administration page is the central controlling point for Administration of the Custom Learning Web part. The Custom Learning Administration page is only available to SharePoint Administrators. Users with member privilges visiting the site will not see the Administer Playlist option. In addition, only Administrators will have the ability to open the Custom Learning Administration page from the SharePoint Home menu item.  
 
