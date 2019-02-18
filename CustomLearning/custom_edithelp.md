@@ -8,12 +8,12 @@ description: Learn about the variety of customizations available with Custom Lea
 
 # Customize the Custom Learning site
 
-The Custom Learning site is based on a SharePoint communication template. The template is relatively simple and you can customize the site pages to meet your organization's needs. For example, you can change the site name, logo, menu items, and content on the pages. If you need help customizig a communication site, see **link here**. 
+The Custom Learning site is based on a SharePoint communication template. The template is relatively simple and you can customize the site pages to meet your organization's needs. For example, you can change the site name, logo, menu items, and content on the pages. If you need help customizing a communication site, see **link here**. 
 
 ## Customize the Ask questions and get help page
 
 As an administrator of the Custom Learning site, one of the things you’ll definitely want to do is change the links on the Get Help and Support page to point to resources in your organization. 
-Change the image links 
+
 1.	From the Custom Learning Home page, click Ask questions and get help.
 2.	Click the Edit button.
 3.	Hover over a Help option button, then click Edit web part.
