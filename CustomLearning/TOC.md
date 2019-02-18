@@ -13,7 +13,7 @@
 ## [Access Custom Learning Administration](custom_accessadmin.md)
 ## [Hide and show Subcategories](custom_hideshowsub.md)
 ## [Hide and show Playlists](custom_hideshowplaylists.md)
-## [Hide and show Technology](custom_hideshowtechnology.md)
+## [Hide and show Technology](custom_hideshowtech.md)
 ## [Create a new page](custom_createnewpage.md)
 ## [Create a new playlist](custom_addassets.md)
 ## [Add assets to a playlist](custom_createnewplaylist.md)
