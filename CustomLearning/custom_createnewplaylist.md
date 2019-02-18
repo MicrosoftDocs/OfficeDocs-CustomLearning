@@ -6,37 +6,32 @@ ms.date: 02/10/2019
 description: How to create new playlists
 ---
 
-# Creating new playlists
+# Create new playlists
 
-When you create a new playlist, you first create the playlist with the playlist details, and then add assets to the playlist. You can add the playlist to any subcategory. For example, you can add a playlist to the First Days subcategory or a product subcategory like Excel. In this section, we’ll cover how to create a playlist. Adding assets to the playlist will be covered in the following section, Add assets to a playlist. 
+When you create a new playlist, you first create the playlist with the playlist details, and then add assets to the playlist. You can add a playlist to any subcategory. For example, you can add a playlist to the **First Days** subcategory or a **Product** subcategory like Excel. In this section, we’ll cover how to create a playlist, and then cover adding assets to a playlist in the following section, [Add assets to a custom playlist](custom_addassets.md)
 
-**Create a playlist** 
+### Create a playlist 
 
-1. From the Custom Learning Home page, click Office 365 training, select the system menu from the Web part, and then select Administer Playlist. 
-2. Select a subcategory. In this example, select First Days.  
+1. From the Custom Learning **Home** page, click **Office 365 training**, select the system menu from the Web part, and then select **Administer Playlist**. 
+2. Select a subcategory. In this example, select **First Days**.  
 3. Click the + icon.  
 
-![cg_newplaylist+btn.png](media/cg_newplaylist+btn.png)
+![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
 
 4.	Fill out the fields in the playlist as shown in the following example. You can leave the default icon for this example. 
 
-![cg_newplaylistdetails.png](media/cg_newplaylistdetails.png)
+![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
 
-5.	When you are done, select Save Detail. 
+5.	When you are done, select **Save Detail**. 
 
-**Edit a playlist**
+### Edit a playlist
 
-- From the Custom Learning Administration page, click the playlist, and then click Edit Detail.  
+- From the **Custom Learning Administration** page, click the playlist, and then click **Edit Detail**.  
 
-![cg_editplaylist.png](media/cg_editplaylist.png)
+![cg-editplaylist.png](media/cg-editplaylist.png)
 
-# Delete a playlist
+### Delete a playlist
 
-- From the Custom Learning Administration page, click the Delete icon for the playlist.  
+- From the Custom Learning Administration page, click the **Delete** icon for the playlist.  
 
-![cg_deleteplaylist.png](media/cg_deleteplaylist.png)
-
-### Next Steps
-
-- [Customize and Share Playlists](customplaylist.md)
-- [Drive Adoption](driveadoption.md) 
+![cg-deleteplaylist.png](media/cg-deleteplaylist.png)
