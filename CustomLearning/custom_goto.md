@@ -1,5 +1,5 @@
 ---
-author: karuanag
+author: pkrebs
 ms.author: pkrebs
 title:  Go to the Custom Learning for Office 365 site
 ms.date: 02/15/2019
@@ -9,6 +9,7 @@ description: Go to the Custom Learning Site
 # Go to the Custom Learning for Office 365 site
 
 Custom Learning for Office 365 is hosted in your Office 365 tenant. If you haven’t already signed into Office 365, sign in now. 
+
 1.	Open your Web browser and navigate to office.com or your organization’s sign-in location. 
 2.	Sign in with your user name and password.
 3. 	Navigate to the location of the site using the URL supplied by your tenant administrator, or 
