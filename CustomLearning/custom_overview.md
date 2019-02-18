@@ -14,7 +14,7 @@ Introducing Custom Learning for Office 365, a new solution from Microsoft design
 - Keep your content and users current with an up-to-date feed of learning content from Microsoft 
 - Build custom playlists and categories crafted specifically for your user's needs
 
-![cg_introducing.png](media/cg-introducing01.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ## How does Custom Learning work?
 
@@ -23,7 +23,7 @@ Custom Learning for Office 365 (Custom Learning for short) consists of three par
 2. a SharePoint communication site
 3. a SharePoint web part 
 
-![cg-howitworks.png](media/cg-howitworks01.png)
+![cg-howitworks.png](media/cg-howitworks.png)
 
 ## Requirements and Permissions
 
