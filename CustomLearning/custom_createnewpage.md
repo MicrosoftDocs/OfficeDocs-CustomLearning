@@ -39,4 +39,3 @@ You can create a custom playlist from existing Microsoft-provided, Custom Learni
 ### Publish the page
 
 - Select the **Publish** button. Now you're ready to add this SharePoint page to your custom playlist. 
-
