@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Add the Custom Learning web part to a SharePoint page
+title:  Add and edit the Custom Learning Web part
 ms.date: 02/17/2019
 description: Add the Custom Learning web part to a SharePoint page
 ---
@@ -14,14 +14,14 @@ Custom Learning gives you the flexibility to add the Custom Learning Web part to
 2.	Click **Add a new section (+)** on the left-hand side of the page, and then click **One Column**.
 3.	Click **+**, then select **Custom Learning for Office 365** web part. 
 
-![cg_webpartadd.png](media/cg_webpartadd.png)
+![cg-webpartadd.png](media/cg-webpartadd.png)
 
 ## Edit the Custom Learning web part
 You can the edit Custom Learning Web part to show all the available Custom Learning content or a specific category, subcategory, playlist, or asset. 
 
 1.	Click **Edit web part**.
 
-![cg_webpartedit.png](media/cg_webpartedit.png)
+![cg-webpartedit.png](media/cg-webpartedit.png)
 
 2. In the Custom Learning Properties pane, filter the Web part for the following. 
 
@@ -31,15 +31,9 @@ You can the edit Custom Learning Web part to show all the available Custom Learn
 
 3. Your page should now look something like the following image: 
 
-![cg_webpartfilter.png](media/cg_webpartfilter.png)
+![cg-webpartfilter.png](media/cg-webpartfilter.png)
 
 ## Add a title and publish the page
 1. In the title area of the page, type "Create your own experience".
 2. Click the **Edit web part** icon in the Title area, select **Plain** under **Layout**, and then close the Properties pane.
 3. Click **Publish**.
-
-
-### Next Steps
-
-- [Customize and Share Playlists](customplaylist.md)
-- [Drive Adoption](driveadoption.md) 
