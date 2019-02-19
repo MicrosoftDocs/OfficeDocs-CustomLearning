@@ -15,7 +15,7 @@ The Custom Learning site is based on a SharePoint communication template, so it'
 
 ## Customize web pages
 
-You can fully customize the Custom Learning web site. If you are not familiar with creating pages within modern SharePoint Online sites we suggest you review [Customize your SharePoint site](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) article on support.office.com. 
+The Custom Learning site is fully customizable. If you are not familiar with creating pages within modern SharePoint Online sites, we suggest you review the [Customize your SharePoint site](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) article on support.office.com. 
 
 ### Customize Ask questions and get help
 
