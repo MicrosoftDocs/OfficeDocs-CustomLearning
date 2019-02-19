@@ -8,9 +8,9 @@ description: How to hide and show technology
 
 # Hide and show Technology
 
-In some cases, you’ll want to hide content for a technology that’s not supported in your organization. The Hide Technology feature is designed to prevent technology from appearing throughout the Web part. It offers a broader way to hide and show content than hiding it by subcategory or playlist. For example, you can hide a Yammer subcategory, but Yammer may still show up in certain scenario playlists such as Connect your organization with Yammer. To ensure a specific technology is not exposed to end users, you can also hide content by Technology. 
+In some cases, you’ll want to hide content for a technology that’s not supported in your organization. The Hide Technology feature is designed to prevent technology from appearing throughout the Web part. It offers a broader way to hide and show content than hiding it by subcategory or playlist. For example, you can hide a Yammer subcategory, but Yammer may still show up in certain scenario playlists such as "Connect your organization with Yammer". To ensure a specific technology is not exposed to end users, you can hide it by Technology. 
 
-### Hide a Technology
+## Hide a Technology
 
 1. From the Custom Learning **Home** page, click the **Office 365 training** tile.
 2. From the Custom Learning Web part, select the **System** menu, then select **Administer Playlist**. You should now have two tabs open. One with the **Custom Learning Administration** page, and one with the **Office 365 training** page. 
@@ -18,12 +18,12 @@ In some cases, you’ll want to hide content for a technology that’s not suppo
 
 ![cg-hidetech.png](media/cg-hidetech.png)
 
-**Verify the playlist is hidden**
+### Verify the playlist is hidden
 1. To verify **Yammer** technology is hidden, select the browser tab with the **Office 365 training** page loaded, and then refresh the page. You should now see the Yammer subcategory is hidden. 
 2. Click the **Recommended** subcategory. You'll notice that the Connect your organization with Yammer playlist is hidden. 
 
 ![cg-hidetechrefresh.png](media/cg-hidetechrefresh.png)
 
-**Unhide a Technology** 
+## Unhide a Technology
 
 - From the **Custom Learning Administration** page, under **Technology**, select a technology, then select the eyeball for the hidden technology to unhide it. For this example, unhide the **Yammer** technology. 
