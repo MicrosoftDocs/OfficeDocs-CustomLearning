@@ -6,7 +6,7 @@ ms.date: 02/18/2019
 description: How to hide, show, edit, and delete subcategories
 ---
 
-# Hide and show subcategories
+# Hide and show Subcategories
 
 With Custom Learning Administration, you can hide and show subcategories. For example, companies that don’t roll out Yammer can hide the Yammer subcategory, so Yammer content won't be available to users. This prevents unwanted support calls from users who might otherwise see information related to services that aren't available in your organization.
 

@@ -6,7 +6,7 @@ ms.date: 02/17/2019
 description: Add new and existing assets to a custom learning playlist
 ---
 
-# Add assets to a custom playlist
+# Add Assets to a Custom Playlist
 
 With Custom Learning, you can add the following assets to a playlist:
 

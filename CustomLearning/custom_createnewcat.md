@@ -6,7 +6,7 @@ ms.date: 02/17/2019
 description: Create a new subcategory with custom learning
 ---
 
-# Create a subcategory 
+# Create a Subcategory 
 In some cases, you’ll want to create a new Subcategory. For example, if the First Days subcategory doesn’t work for you organization, you can create a new subcategory and then add playlists to it to meet the needs of your organization. 
 
 1. From the Custom Learning **Home** page, click **Office 365 training**, click the **System** menu from the Web part, and then click **Administer Playlist**. 

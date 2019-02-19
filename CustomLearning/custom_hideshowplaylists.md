@@ -6,7 +6,7 @@ ms.date: 02/15/2019
 description: Hide and show playlists
 ---
 
-# Hide and show playlists
+# Hide and show Playlists
 
 To tailor Custom Learning for your environment, you may need to hide playlists provided by Microsoft and replace them with playlists that you create for your organization. For example, a common customer use case is to hide the Six Simple Steps playlist from Microsoft and replace it with a playlist that you create for your organization or user group. 
 

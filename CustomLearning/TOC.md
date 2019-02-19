@@ -16,7 +16,7 @@
 ## [Create SharePoint pages for custom playlists](custom_createnewpage.md)
 ## [Create a Custom Playlist](custom_createnewplaylist.md)
 ## [Add assets to a Custom Playlist](custom_addassets.md)
-## [Create a new Subcategory](custom_createnewcat.md)
+## [Create a Subcategory](custom_createnewcat.md)
 ## [Add and edit the Custom Learning web part](custom_addwebpart.md)
 ## [Link to Custom Learning content](custom_linking.md)
 ## [Search for Custom Learning content](custom_search.md)

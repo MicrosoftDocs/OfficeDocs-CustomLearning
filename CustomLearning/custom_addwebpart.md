@@ -6,7 +6,7 @@ ms.date: 02/17/2019
 description: Add the Custom Learning web part to a SharePoint page
 ---
 
-# Add and Edit the Custom Learning Web Part
+# Add and Edit the Custom Learning web part
 
 Custom Learning gives you the flexibility to add the Custom Learning Web part to a SharePoint page, and then filter the contents of the Web part to meet the learning objectives for the page. For example, you could create a "Make the Switch to OneDrive" page, then add the Web part and configure it to show custom OneDrive migration playlists created especially for your organization.
 
