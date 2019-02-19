@@ -64,7 +64,7 @@ Existing assets consist of Microsoft-provided Custom Learning assets or assets t
 
 - In the **Search** box, enter a Search phrase, and then select an asset from the Search results. In this example, enter “What is Excel?” to add an Excel intro topic to the playlist.
 
-![cg-existsplaylistsearch.png](media/cg-existsplaylistsearch.png)
+![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
 
 ## Edit, move, and delete assets
 You can edit custom assets that you create, but not assets from Microsoft. However, you can remove all assets from a playlist and change the order assets. 
