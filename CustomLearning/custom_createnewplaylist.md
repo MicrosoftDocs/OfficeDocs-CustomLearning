@@ -6,11 +6,11 @@ ms.date: 02/18/2019
 description: How to create new playlists
 ---
 
-# Create new playlists
+# Create a Custom Playlist
 
-When you create a new playlist, you first create the playlist with the playlist details, and then add assets to the playlist. You can add a playlist to any subcategory. For example, you can add a playlist to the **First Days** subcategory or a **Product** subcategory like Excel. In this section, we’ll cover how to create a playlist, and then cover adding assets to a playlist in the following section, [Add assets to a custom playlist](custom_addassets.md)
+When you create a playlist, you first create the playlist with the playlist details, and then add assets to the playlist. You can add a playlist to any subcategory. For example, you can add a playlist to the **First Days** subcategory or a **Product** subcategory like **Excel**. In this section, we’ll cover how to create a playlist, and then cover adding assets to a playlist in the following section, [Add assets to a custom playlist](custom_addassets.md).
 
-### Create a playlist 
+## Create a playlist 
 
 1. From the Custom Learning **Home** page, click **Office 365 training**, select the system menu from the Web part, and then select **Administer Playlist**. 
 2. Select a subcategory. In this example, select **First Days**.  
@@ -24,7 +24,7 @@ When you create a new playlist, you first create the playlist with the playlist 
 
 5.	When you are done, select **Save Detail**. 
 
-### Edit a playlist
+## Edit a playlist
 
 - From the **Custom Learning Administration** page, click the playlist, and then click **Edit Detail**.  
 
