@@ -18,6 +18,8 @@
 ## [Add assets to a Custom Playlist](custom_addassets.md)
 ## [Create a new Subcategory](custom_createnewcat.md)
 ## [Add and edit the Custom Learning web part](custom_addwebpart.md)
+## [Link to Custom Learning content](custom_linking.md)
+## [Search for Custom Learning content](custom_search.md)
 # [Drive Adoption](driveadoption.md)
 # [Feedback and Support](feedback.md)
 # [Frequently Asked Questions](faq.md)

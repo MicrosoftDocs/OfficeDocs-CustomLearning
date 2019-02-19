@@ -20,8 +20,8 @@ With Custom Learning, you can add the following assets to a playlist:
 
 There are two options for adding a new asset to a playlist.
 
-- [Create Asset Page](### Create-Asset-Page)
-- [Enter the URL](### Enter-the-URL)
+- **Create Asset Page** - with this option Custom Learning will generate a new,  blank SharePoint page for you and add it to the playlist. You can then add content to the page and save it.  
+- **Enter the URL** - with this option, you build the page in advance or you already have the page available and you specify the URL to add the page to the playlist.
 
 ### Create Asset Page 
 With the **Create Asset Page** option, you provide a title for the Asset, then click Create Asset page to create and open a new SharePoint page for editing. 
