@@ -35,5 +35,5 @@ You can the edit Custom Learning Web part to show all the available Custom Learn
 
 ## Add a title and publish the page
 1. In the title area of the page, type "Create your own experience".
-2. Click the **Edit web part** icon in the Title area, select **Plain** under **Layout**, and then close the Properties pane.
+2. Click the **Edit web part** icon in the Title area, select **Plain** under **Layout**, and then close the **Properties** pane.
 3. Click **Publish**.
