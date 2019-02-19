@@ -6,7 +6,7 @@ ms.date: 02/18/2019
 description: Overview of Custom Learning for Office 365 for Administrators
 ---
 
-# Overview of Custom Learning
+# Customize the Learning Experience
 
 Introducing Custom Learning for Office 365, a new solution from Microsoft designed to speed the usage and adoption of Office 365 within an organization. With Custom Learning, you can:
 - Tailor Office 365 learning and adoption content for your environment 
