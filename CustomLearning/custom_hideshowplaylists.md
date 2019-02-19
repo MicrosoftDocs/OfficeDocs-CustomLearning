@@ -8,12 +8,12 @@ description: Hide and show playlists
 
 # Hide and show playlists
 
-To tailor Custom Learning for your environment, you may need to hide playlists provided by Microsoft and replace them with playlists that you create for your organization. For example, a common customer use case is to hide the Six Simple Steps playlist from Microsof, and replace it with a playlist that you create for your organization or user group. 
+To tailor Custom Learning for your environment, you may need to hide playlists provided by Microsoft and replace them with playlists that you create for your organization. For example, a common customer use case is to hide the Six Simple Steps playlist from Microsoft and replace it with a playlist that you create for your organization or user group. 
 
-### Hide a playlist
+## Hide a playlist
 
 1. From the Custom Learning **Home** page, click the **Office 365 training** tile.
-2. From the Custom Learning Web part, select the **System** menu, then select **Administer Playlist**. You should now have two tabs open. One with the **Custom Learning Administration** page, and one with the **Office 365 training** page. 
+2. From the Custom Learning web part, select the **System** menu, then select **Administer Playlist**. You should now have two tabs open: One with the **Custom Learning Administration** page; and one with the **Office 365 training** page. 
 3. From the **Custom Learning Administration** page, under **Category**, select a subcategory, and then select the eyeball for a playlist to hide it. For this example, click the **First Days** subcategory, and then hide the **Six Simple Steps** playlist.  
 
 ![cg-hideplaylist.png](media/cg-hideplaylist.png)
@@ -23,7 +23,7 @@ To tailor Custom Learning for your environment, you may need to hide playlists p
 
 ![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
 
-### Unhide a playlist
+## Unhide a playlist
 
 - From the **Custom Learning Administration** page, under **Category**, select a subcategory, select a playlist, and then select the eyeball for the hidden playlist to unhide it. For this example, unhide the **Six Simple Steps** playlist under the **First Days** subcategory.  
 
