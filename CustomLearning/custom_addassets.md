@@ -20,8 +20,8 @@ With Custom Learning, you can add the following assets to a playlist:
 
 There are two options for adding a new asset to a playlist.
 
-- [Create Asset Page](#Create Asset Page)
-- [Enter the URL](#Enter the URL)
+- [Create Asset Page](#Create-Asset-Page)
+- [Enter the URL](#Enter-the-URL)
 
 ### Create Asset Page 
 With the **Create Asset Page** option, you provide a title for the Asset, then click Create Asset page to create and open a new SharePoint page for editing. 
@@ -30,14 +30,14 @@ With the **Create Asset Page** option, you provide a title for the Asset, then c
 2. To add a new asset to a playlist, click **New Asset**. 
 3. Enter a title. In this example enter “Add Assets to a Playlist”, and then click **Create Asset Page**.
 
-![cg-addnewassetcreatenewpage.png](media/cg-addnewassetcreatenewpage.png)
+![cg-addassetcreatenewpage.png](media/cg-addassetcreatenewpage.png)
 
 4. Click **Open Page**.
 5. Click the **Edit** icon, and then click **Edit Web part** in the Title area.
 6. Under **Layout**, click **Plain**. 
 7. Add a new one-column section, and then add some sample text to the page so it looks like the following example. 
 
-![cg-addnewassetcreatenewpageedit.png](media/cg-addnewassetcreatenewpageedit.png)
+![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
 
 7. Click **Publish**.
 8. Return to the **Custom Learning Administration** page. 
@@ -64,12 +64,12 @@ Existing assets consist of Microsoft-provided Custom Learning assets or assets t
 
 - In the **Search** box, enter a Search phrase, and then select an asset from the Search results. In this example, enter “What is Excel?” to add an Excel intro topic to the playlist.
 
-![cg_existsplaylistsearch.png](media/cg_existsplaylistsearch.png)
+![cg-existsplaylistsearch.png](media/cg-existsplaylistsearch.png)
 
 ## Edit, move, and delete assets
 You can edit custom assets that you create, but not assets from Microsoft. However, you can remove all assets from a playlist and change the order assets. 
 
-![cg_playlistassetedit.png](media/cg_playlistassetedit.png)
+![cg-playlistassetedit.png](media/cg-playlistassetedit.png)
 
 ### Edit an asset
 - Click the Edit button for an asset, modify the asset, and then click Save Asset. 
