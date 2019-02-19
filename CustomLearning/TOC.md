@@ -13,7 +13,7 @@
 ## [Hide and show Subcategories](custom_hideshowsub.md)
 ## [Hide and show Playlists](custom_hideshowplaylists.md)
 ## [Hide and show Technology](custom_hideshowtech.md)
-## [Create a new page](custom_createnewpage.md)
+## [Create SharePoint pages for custom playlists](custom_createnewpage.md)
 ## [Create a new playlist](custom_createnewplaylist.md)
 ## [Add assets to a playlist](custom_addassets.md)
 ## [Create a new subcategory](custom_createnewcat.md)
