@@ -17,7 +17,7 @@
 ## [Create a new page](custom_createnewpage.md)
 ## [Create a new playlist](custom_createnewplaylist.md)
 ## [Add assets to a playlist](custom_addassets.md)
-## [Create a new subcategory](custom_createnewplaycat.md)
+## [Create a new subcategory](custom_createnewcat.md)
 ## [Add and edit the Custom Learning web part](custom_addwebpart.md)
 # [Drive Adoption](driveadoption.md)
 # [Feedback and Support](feedback.md)
