@@ -23,6 +23,6 @@ With Custom Learning Administration, you can hide and show subcategories. For ex
 
 ![cg-hidesubcatrefresh.png](media/cg-hidesubcatrefresh.png)
 
-## Unhide a subcategory** 
+## Unhide a subcategory 
 
 - From the **Custom Learning Administration** page, under **Category**, select a subcategory, and then select the eyeball for the hidden subcategory to unhide it. For this example, unhide the Yammer subcategory.
