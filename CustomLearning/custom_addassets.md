@@ -14,14 +14,14 @@ With Custom Learning, you can add the following assets to a playlist:
 - **New assets** - these are assets that you add to Custom Learning that are built from SharePoint pages that you create or SharePoint assets that are already available on a SharePoint site in your organization. 
 
 > [!TIP]
-> You can't modify the Custom Learning playlists supplied by Microsoft, but you can add Custom Learning-supplied assets to a custom playlist. If a Microsoft playlist asset doesn't meet your needs, create a new playlist and then add the Microsoft assets and any newly created assets to the playlist to build the experience you want. 
+> You can't modify Custom Learning playlists supplied by Microsoft, but you can add Custom Learning-supplied assets to a custom playlist. If a Microsoft playlist asset doesn't meet your needs, create a new playlist and then add the Microsoft assets and any newly created assets to the playlist to build the experience you want. 
 
 ## Create a new asset for a playlist
 
 There are two options for adding a new asset to a playlist.
 
-- [Create Asset Page](###Create-Asset-Page)
-- [Enter the URL](###Enter-the-URL)
+- [Create Asset Page](### Create-Asset-Page)
+- [Enter the URL](### Enter-the-URL)
 
 ### Create Asset Page 
 With the **Create Asset Page** option, you provide a title for the Asset, then click Create Asset page to create and open a new SharePoint page for editing. 
