@@ -9,7 +9,7 @@
 ## [Customize the site](custom_edithelp.md)
 ## [Where's the Custom Learning web part?](custom_whereiswebpart.md)
 ## [Get to know the SharePoint Application pages](custom_apppages.md)
-## [Access Custom Learning Administration](custom_accessadmin.md)
+## [Access the Custom Learning Administration page](custom_accessadmin.md)
 ## [Hide and show Subcategories](custom_hideshowsub.md)
 ## [Hide and show Playlists](custom_hideshowplaylists.md)
 ## [Hide and show Technology](custom_hideshowtech.md)
