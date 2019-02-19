@@ -86,6 +86,6 @@ Now that you've added assets to a playlist, let's close the playlist and see it 
 1. Click **Close Playlist**.
 2. Click the tab with the **Office 365 training** page.
 3. Refresh the page, and then click **First Days** under **Get Started**.
-4. Click **Custom Learning Starter** Kit to view your first playlist in action. 
+4. Click **Custom Learning Starter Kit** to view your first playlist in action. 
 
 ![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)
