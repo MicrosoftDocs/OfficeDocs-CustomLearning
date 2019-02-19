@@ -10,7 +10,7 @@ description: Add new and existing assets to a custom learning playlist
 
 With Custom Learning, you can add the following assets to a playlist:
 
-- **Existing Custom Learning-supplied assets** - these are assets that are part of the Microsoft online catalog. 
+- **Existing Custom Learning assets** - these are assets that are part of the Microsoft online catalog or assets that your organization has already added to Custom Learning.
 - **New assets** - these are assets that you add to Custom Learning that are built from SharePoint pages that you create or SharePoint assets that are already available on a SharePoint site in your organization. 
 
 > [!TIP]
@@ -18,15 +18,17 @@ With Custom Learning, you can add the following assets to a playlist:
 
 ## Create a new asset for a playlist
 
-There are two ways to add a new asset to a playlist.
+There are two options for adding a new asset to a playlist.
 
-- [Create Asset Page](###customizing-web-pages)
-- [Enter the URL](#customize-available-services)
+- [Create Asset Page](#Create Asset Page)
+- [Enter the URL](#Enter the URL)
 
 ### Create Asset Page 
-1.	If the playlist isn't open for editing, from the **Custom Learning Administration** page, click the playlist you wish to edit. 
+With the **Create Asset Page** option, you provide a title for the Asset, then click Create Asset page to create and open a new SharePoint page for editing. 
+
+1.	If the playlist isn't already open for editing, from the **Custom Learning Administration** page, click the playlist you wish to edit. 
 2. To add a new asset to a playlist, click **New Asset**. 
-3. Enter a title, in this example “Add Assets to a Playlist”, and then click **Create Asset Page**.
+3. Enter a title. In this example enter “Add Assets to a Playlist”, and then click **Create Asset Page**.
 
 ![cg-addnewassetcreatenewpage.png](media/cg-addnewassetcreatenewpage.png)
 
@@ -38,13 +40,15 @@ There are two ways to add a new asset to a playlist.
 ![cg-addnewassetcreatenewpageedit.png](media/cg-addnewassetcreatenewpageedit.png)
 
 7. Click **Publish**.
-8. Return to the Custom Learning Administration page. 
+8. Return to the **Custom Learning Administration** page. 
 9. Fill out the remainder of the properties for the asset, and then click **Save Asset.**
 
-### Enter the URL 
+### Enter the URL
+With the **Enter the URL** option, you provide a title for the Asset, then click **Enter the URL** to specify the SharePoint page you want to add to the playlist. 
+
 1.	If the playlist isn't open for editing, from the **Custom Learning Administration** page, click the playlist you wish to edit. 
 2. To add a new asset to a playlist, click **New Asset**. 
-3. Enter a title, in this example “Custom Playlist Introduction”, and then click **Enter URL**.
+3. Enter a title. In this example, enter “Custom Playlist Introduction”, and then click **Enter URL**. 
 
 ![cg-newplaylistasseturl.png](media/cg-newplaylistasseturl.png)
 
@@ -67,21 +71,21 @@ You can edit custom assets that you create, but not assets from Microsoft. Howev
 
 ![cg_playlistassetedit.png](media/cg_playlistassetedit.png)
 
-**Edit an asset**
+### Edit an asset
 - Click the Edit button for an asset, modify the asset, and then click Save Asset. 
 
-**Move an asset in a playlist**
+### Move an asset in a playlist
 - Click the up or down arrow to the right of the asset to move the asset order in the playlist
 
-**Remove an asset from a playlist**
+### Remove an asset from a playlist
 - Click the Remove from Playlist X icon for the asset. 
 
 ## View the playlist in Action
 Now that you've added assets to a playlist, let's close the playlist and see it in action. 
 
 1. Click **Close Playlist**.
-2. Click the tab with the Office 365 training page.
-3. Refresh the page, and then click First Days under Get Started.
-4. Click Custom Learning Starter Kit to view your first playlist in action. 
+2. Click the tab with the **Office 365 training** page.
+3. Refresh the page, and then click **First Days** under **Get Started**.
+4. Click **Custom Learning Starter** Kit to view your first playlist in action. 
 
 ![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)
