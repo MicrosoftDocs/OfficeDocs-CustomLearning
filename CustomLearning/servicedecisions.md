@@ -8,7 +8,7 @@ description: Decisions and pre-requisite information for Custom Learning install
  
 ## Service Decisions
 
-Once your pre-requisites are met and prior to installation you should make the following decisions about your implemenation of CLO365:
+After you've ensured that the prerequisites for Custom Learning have been met, you'll need to make the following decisions about your implemenation of Custom Learning:
 
 1. **Do you already have a training portal in your company with a modern interface?**
 
