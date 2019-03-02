@@ -13,7 +13,7 @@ description: Learn how Custom Learning for Office 365 can accelerate usage and a
 
 ## Self service, customizable training from Microsoft
 
-Custom Learning for Office 365 (Custom Learning) is a customizable, on-demand training solution designed to increase usage and adoption of Office 365 within an organization. 
+Custom Learning for Office 365 (Custom Learning) is a customizable, on-demand training solution designed to increase usage and adoption of Office 365 in an organization. 
 
 ![cg-introducing.png](media/cg-introducing.png)
 

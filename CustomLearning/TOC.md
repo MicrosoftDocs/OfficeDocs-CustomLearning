@@ -1,13 +1,10 @@
 # [Overview](index.md)
 # [Getting Started](prereqs.md)
-## [Service Decisions](servicedecisions.md)
 ## [Provision the Custom Learning site](installsitepackage.md)
-<<<<<<< HEAD
 ## [Explore the site content](sitecontent.md)
 ## [Install the Custom Learning web part](installwebpart.md)
 # [Customize the training experience](customization.md)
 ## [Customize and share playlists](customplaylist.md)
-=======
 ## [Install the Webpart](installwebpart.md)
 ## [Explore the Site Content](sitecontent.md)
 # [Customize the Learning Experience](custom_overview.md)
@@ -26,7 +23,6 @@
 ## [Add and edit the Custom Learning web part](custom_addwebpart.md)
 ## [Link to Custom Learning content](custom_linking.md)
 ## [Search for Custom Learning content](custom_search.md)
->>>>>>> master
 # [Drive Adoption](driveadoption.md)
 # [Feedback and Support](feedback.md)
 # [Frequently Asked Questions](faq.md)
