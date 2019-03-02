@@ -43,5 +43,4 @@ Let's [get started](prereqs.md) creating a simple training solutions with up to 
 3. Share Custom Learning with your users using our [adoption tools](driveadoption.md)
 
 ## Additional Resources
-You can use the Custom Learning site experience to provide links to any new or existing user community forums. Consider starting an internal user group, if you don't have one already, to enable people to share their success and learn from each other.  If you don't have time to nurture an internal user group, you and your employees can join the [Microosft Office 365 Champion community](https://aka.ms/O365Champions) for monthly training, membership in the online community, and early access to tools and resources for Office 365.
-
+You can use the Custom Learning site experience to provide links to any new or existing user community forums. Consider starting an internal user group, if you don't have one already, to enable people to share their success and learn from each other.  If you don't have time to nurture an internal user group, you and your employees can join the [Microsft Office 365 Champion community](https://aka.ms/O365Champions) for monthly training, membership in the online community, and early access to tools and resources for Office 365.
