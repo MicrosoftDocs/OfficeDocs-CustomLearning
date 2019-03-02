@@ -9,8 +9,8 @@ description: Decisions and pre-requisite information for Custom Learning install
 # Getting Started
 Custom Learning for Office 365 provides the flexibility to set up the solution in a couple different ways. The following sections outline the options available.
 
-## Provision with the PnP Provisioning Service - Recommended
-The PnP Provisioning Service provides the fastest, easiest, and recommended method for setting up Custom Learning. With the PnP Provisioning Service, an Office 365 tenant admin signs into the site, makes a few choices, and clicks **Add to Tenant** to provision the SharePoint Online Custom Learning Site, and the Custom Learning Web part. When provisioning is done, the Tenant Admin receives an email that the site is ready to go. 
+## Setup using the SharePoint Online Provisioning Service - Recommended
+The SharePoint Online Provisioning Service provides the fastest, easiest, and recommended method for setting up Custom Learning. With the SharePoint Online Provisioning Service, an Office 365 tenant admin signs into the service, makes a few choices, and clicks **Add to Tenant** to provision the Custom Learning Site and the Custom Learning Web part. When provisioning is done, the Tenant Admin receives an email that the site is ready to go. 
 
 - To get started with the SharePoint Provisioning Service, go to [Provision with the PnP Provisioning Service](installsitepackage.md)   
 
