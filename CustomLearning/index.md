@@ -27,9 +27,9 @@ Custom Learning for Office 365 consists of three parts:
 
 ![cg-howitworks.png](media/cg-howitworks.png)
 
-- An online catalog of Microsoft content - Custom Learning is connected to an online catalog of Microsoft training content
-- A SharePoint Online communication site - Custom Learning provides an easy-to-provision training portal that can be customized to the needs of your organization.
-- a SharePoint web part - Custom Learning provides a SharePoint web part that can be filtered to present targeted training content. Organizations can also use the Web part to create their own custom playlists.
+- **An online catalog of Microsoft content** - Custom Learning is connected to an online catalog of Microsoft training content
+- **A SharePoint Online communication site** - Custom Learning provides an easy-to-provision training portal that can be customized to the needs of your organization.
+- **a SharePoint web part** - Custom Learning provides a SharePoint web part that can be filtered to present targeted training content. Organizations can also use the Web part to create their own custom playlists.
 
 ## Streamlined provisioning 
 Custom Learning can be provisioned from the SharePoint Patterns and Practices Provisioning Service. When Custom Learning is provisioned, organizations get a SharePoint Online communication site designed to be an out-of-the box training portal, along with a Custom Learning Web part connected to an online catalog of training content. 
