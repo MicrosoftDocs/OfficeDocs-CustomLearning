@@ -8,21 +8,29 @@ description: Learn how Custom Learning for Office 365 can accelerate usage and a
 
 # Custom Learning for Office 365
 
-## Self service, customizable training solutions from Microsoft
+> [!Coming Soon]
+> Custom Learning is currently in internal testing and not yet publicly available. 
 
-Custom Learning for Office 365 is a set of training and adoption open source tools designed to increase usage of Office 365 in your organization. Created in partnership with Microsoft Teams and SharePoint Product Engineering groups and the Modern Assistance and Experience team, these simple-to-use solutions can be installed and customized in your SharePoint Online tenant. 
+## Self service, customizable training from Microsoft
 
-These solutions bring to your end-users all the training content that Microsoft has to offer and keeps that content up to date on demand.  The site can easily be integrated with your installation of Microsoft Teams or other existing SharePoint Online sites in your company.
+Custom Learning for Office 365 is a new solution from Microsoft designed to speed training and adoption of Office 365 within your organization. Custom Learning provides a customizable SharePoint communication site, a Custom Learning SharePoint web part, and a connection to an up-to-date online catalog of Microsoft learning content.
 
-Our custom learning content is currently scoped to beginning content for Office 365 and Windows 10 products.  If you'd like to see more content included, give us [suggestions and feedback](feedback.md) in our online forum.  
+With Custom Learning for Office 365, organizations can:
 
-## Custom Learning Open Source Components
+- Tailor learning and adoption content for their environment
+- Hide or show content to reflect the services supported in their organization
+- Keep learning content up-to-date with a live feed of content from Microsoft
+- Build custom playlists crafted specifically for your user's needs
 
-Custom Learning for Office 365 provides two options: 
+Custom Learning currently features training for Office 365, with an emphasis on the end-user audience.  If you'd like to see more content included, give us [suggestions and feedback](feedback.md) in our online forum.  
+
+## Streamlined provisioning of Custom Learning
 
 **Option 1**: [The Custom Learning SharePoint Online Site Package](installsitepackage.md)
 
-Select, install, and configure this SharePoint Online communication site package to create a training portal for your company. Formerly known as Toolkit for Teamwork, this training portal can be customized to add your organization's help, support, and community content. You can also remove any content related to services not supported within your organization. The custom learning site package also includes the Custom Learning web part that provides an up-to-date feed of Office 365 training content to your organization. 
+Custom Learning can be easily provisioned from the SharePoint Patterns and Practices Provisioning Service. When provisioned, you get a SharePoint Online communication site designed to be an out-of-the box training portal for your company. Formerly known as Toolkit for Teamwork, this training portal can be customized to add your organization's help, support, and community content. You can also remove any content related to services not supported within your organization. 
+
+Along with the SharePoint site, the provisioning service also installs a Custom Learning Web part. Connected to an online catalog of Microsoft content, the Custom Learning Web part can be dropped on any SharePoint page and configured to support  
 
 ![Custom Learning for Office 365 site experience](media/clo365homepage.png)
 
