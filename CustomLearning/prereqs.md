@@ -25,4 +25,4 @@ Organizations that may have participated in a Custom Learning Pilot Program, or 
 - For Manual web part installation instructions, see see [Manually install the web part](installwebpart.md). 
 
 
-### Next Steps - [Service Decisions](servicedecisions.md)
+### Next Steps - [Provision Custom Learning](installsitepackage.md)
