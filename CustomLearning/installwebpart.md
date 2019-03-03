@@ -1,38 +1,66 @@
 ---
-author: karuanag
-ms.author: karuanag
-title:  Installing the Custom Learning Solution Webpart
+author: pkrebs
+ms.author: pkrebs
+title:  Stand alone web part setup
 ms.date: 02/10/2019
-description: Installation instructions for the Custom Learning Solution Webpart
+description: Custom Learning for Office 365 stand alone web part setup
 ---
-# Installing the Custom Learning Solution Webpart
+# Stand alone web part setup
 
-**Option 1**: [The Custom Learning SharePoint Online Site Package](installsitepackage.md)
+Custom Learning offers a stand alone web part setup for those organizations that already have an established SharePoint Online modern communication site dedicated to training, or that just want to set up the Custom Learning web part in their own communication site. Note that the stand alone setup requires experience working with Windows PowerShell and the SharePoint Online Management Shell. 
 
-Custom Learning can be easily provisioned from the SharePoint Patterns and Practices Provisioning Service. When provisioned, you get a SharePoint Online communication site designed to be an out-of-the box training portal for your company. Formerly known as Toolkit for Teamwork, this training portal can be customized to add your organization's help, support, and community content. You can also remove any content related to services not supported within your organization. 
+> [!NOTE]
+> If you are looking for a fast, easy way to set up Custom Learning, see [Provision Custom Learning](installsitepackage.md).
 
-## Prerequisites for a tenant-wide installation
+## Prerequisites
+To ensure a successful stand alone setup of the Custom Learning web part, the follow prerequisites must be met. 
 
-- To install the Custom Learning webpart for your entire tenant you will need to have Office 365 Administrative permissions.  If you do not have these permissions you can either work with your Office 365 Administrator or install the webpart for an individual site collection.
-- You or your Office 365 Administrator must have setup and configured a tenant-wide [App Catalog](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant) or a [Site Collection App Catalog](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/site-collection-app-catalog)to receive the webpart.]
-- We support SharePoint Online only. The web part is not support for installation on any version of SharePoint on premises.
+- The person setting up the Custom Learning web part must be a Tenant Administrator, also known as a Office 365 Global Administrator, of the tenant where Custom Learning will be provisioned.  
+- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization does not have an SharePoint tenant App catalog, refer to the [SharePoint Online documentation](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) to create one.  
+- The person provisioning Custom Learning must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning Custom Learning is not a Site Collection Owner of the App Catalog [complete these instructions](addappadmin.md) and continue. 
+-  The person handling the web part set up needs to have experience working with Windows PowerShell and the SharePoint Online Management Shell. 
 
-## Add the Custom Learning webpart to your tenant 
+## Step 1 - Get the web part package and setup script from GitHub
+As part of the setup process, you'll need the Custom Learning Web part package and the PowerShell Setup Script.
 
-1. Download the Custom Learning webpart and save it to your local drive.  This file is named "ms-custom-learning.sppkg".  Do not change the name or suffix of the file. 
+- Go the the [Custom Learning GitHub Repository](https://github.com/pnp/custom-learning-office-365).
+- Click **Download** to save the web part package and script to a local drive. You'll be using the script and the web part package in later steps of this process.
+
+## Step 2 - Verify if you have an App Catalog for your site
+Before you go through the process of creating an App Catalog for your site, verify that one doesn't already exist. 
+1. From the site where you'll add the web part, click the Settings menu, and then click **Site Contents**.
+2. Under **Content**, look for **Apps for SharePoint**. This is your App Catalog. 
+3. If you have verified that an App Catalog exists, skip to Step 4. If one doesn't exist, go to the following Step 3 - Create an App Catalog.
+
+## Step 3 - Create an App Catalog
+In this step, you create a Site Collection App Catalog. For reference, instructions for creating the App Catalog are here: [Site Collection App Catalog](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/site-collection-app-catalog). But we’ve provided explicit instructions to guide you through the process. 
+
+1.	Before you can manage site collection app catalogs in your tenant, ensure that you have installed the [SharePoint Online Management Shell](https://www.microsoft.com/en-us/download/details.aspx?id=35588) from November 2017 or newer.
+2.	From the Windows Start menu, type **SharePoint Online Management Shell**.
+3.	Connect to your SharePoint Online tenant using the Connect-SPOService cmdlet when using the SharePoint Online PowerShell. You’ll need to specify Admin in the URL as shown in the following syntax and replace contoso with your tenant name.
+
+```Connect-SPOService -Url https://contoso-admin.sharepoint.com```
+
+4.	Now you create the site collection app catalog. Use the Add-SPOSiteCollectionAppCatalog cmdlet passing the site collection where the app catalog should be created as the -Site parameter.
+
+```$site = Get-SPOSite https://contoso.sharepoint.com/sites/CustomLearningforOffice365```
+
+```Add-SPOSiteCollectionAppCatalog -Site $site```
+
+## Step 5 - Add the Custom Learning webpart to your tenant 
+
+1. Go to your local drive where you downloaded the web part package and script in [Step 1 - Get the web part package and setup script from GitHub](##Step 1 - Get the web part package and setup script from GitHub).  
 2. Navigate to the [Office 365 Admin portal](https://admin.microsoft.com/AdminPortal/Home#/homepage) for your tenant
 3. From the left navigation select Admin Centers, SharePoint. This will open in a new tab. 
 , In the SharePoint Admin Center select Apps, App Catalog, Apps for SharePoint 
 4. Select upload the webpart and choose the "ms-custom-learning.sppkg" file you downloaded
 5. For this tenant-wide installation check the box next to "Make this solution available to all sits in the organization."  
+
+## Step 5 - Run the Powershell script
+- With Windows Powershell, run the you downloaded in Step 1.CustomLearningConfig.ps1 script.
  
-> [!NOTE]
-> Once the webpart is installed you will find it in your webpart gallery in SharePoint Online.  **In the gallery the webpart is named "Microsoft Learning"**
-
-![Deploy Solution](media/trustapp_sm.png)
 
 
-## Add the Microsoft Learning webpart to a SharePoint Online Page
 
 After Custom Learning is installed in your tenant you can add the Web part to a SharePoint page. When you do Office 365 and Windows 10 training is available to your site.
 
