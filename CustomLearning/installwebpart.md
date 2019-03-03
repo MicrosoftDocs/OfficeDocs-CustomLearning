@@ -3,22 +3,28 @@ author: pkrebs
 ms.author: pkrebs
 title:  Stand alone web part setup
 ms.date: 02/10/2019
-description: Custom Learning for Office 365 stand alone web part setup
+description: Custom Learning for Office 365 manual web part setup
 ---
-# Stand alone web part setup
+# Manual web part setup
 
-Custom Learning offers a stand alone web part setup for those organizations that already have an established SharePoint Online modern communication site dedicated to training, or that just want to set up the Custom Learning web part in their own communication site. Note that the stand alone setup requires experience working with Windows PowerShell and the SharePoint Online Management Shell. 
+Custom Learning offers a stand alone web part setup for those organizations that already have an established SharePoint Online modern communication site dedicated to training, or that just want to set up the Custom Learning web part in their own communication site. Note that the manual setup requires experience working with Windows PowerShell and the SharePoint Online Management Shell. The steps for a manual set up of the Custom Learning Web part as as follows:
+
+- Validate that you have met all the prerequisites.
+- Install the customlearning.sppkg file in your Office 365 Tenant App Catalog.
+- Provision/Identify a modern communication site to act as your Custom Learning for Office 365 home site.
+- Execute a PowerShell script that will configure your tenant with the appropriate artifacts that Custom Learning depends on.
+- Navigate to the CustomLearningAdmin.aspx site page to load the admin web part to initialize the custom content configuration.
 
 > [!NOTE]
 > If you are looking for a fast, easy way to set up Custom Learning, see [Provision Custom Learning](installsitepackage.md).
 
 ## Prerequisites
-To ensure a successful stand alone setup of the Custom Learning web part, the follow prerequisites must be met. 
+To ensure a successful manual setup of the Custom Learning web part, the follow prerequisites must be met. 
 
-- The person setting up the Custom Learning web part must be a Tenant Administrator, also known as a Office 365 Global Administrator, of the tenant where Custom Learning will be provisioned.  
-- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization does not have an SharePoint tenant App catalog, refer to the [SharePoint Online documentation](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) to create one.  
-- The person provisioning Custom Learning must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning Custom Learning is not a Site Collection Owner of the App Catalog [complete these instructions](addappadmin.md) and continue. 
--  The person handling the web part set up needs to have experience working with Windows PowerShell and the SharePoint Online Management Shell. 
+- You must have set up and configured the tenant-wide App Catalog. Please see [Set up your Office 365 tenant](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) and follow the Create app catalog site section. 
+- If your tenant-wide App Catalog has already been provisioned you will need access to an account that has rights to upload a package to it to complete this setup process. Generally this is an account with the SharePoint administrator role. 
+- If an account with that role does not work, go to the SharePoint admin center and find the Site Collection Administrators for the app catalog site collection and either log in as one of the Site Collection Administrators, or add the SharePoint administrator account that failed to the Site Collection Administrators. 
+- You will also need access to an account that is a SharePoint Tenant Admin.
 
 ## Step 1 - Get the web part package and setup script from GitHub
 As part of the setup process, you'll need the Custom Learning Web part package and the PowerShell Setup Script.
@@ -26,69 +32,31 @@ As part of the setup process, you'll need the Custom Learning Web part package a
 - Go the the [Custom Learning GitHub Repository](https://github.com/pnp/custom-learning-office-365).
 - Click **Download** to save the web part package and script to a local drive. You'll be using the script and the web part package in later steps of this process.
 
-## Step 2 - Verify if you have an App Catalog for your site
-Before you go through the process of creating an App Catalog for your site, verify that one doesn't already exist. 
-1. From the site where you'll add the web part, click the Settings menu, and then click **Site Contents**.
-2. Under **Content**, look for **Apps for SharePoint**. This is your App Catalog. 
-3. If you have verified that an App Catalog exists, skip to Step 4. If one doesn't exist, go to the following Step 3 - Create an App Catalog.
+## Step 2 - Upload the web part to the Tenant App Catalog
+To set up Custom Learning for Office 365, you upload the customlearning.sppkg file to the tenant-wide App Catalog and deploy it. Please see [Use the App Catalog to make custom business apps available for your SharePoint Online environment](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) for detailed instructions on how to add an app to the app catalog.
 
-## Step 3 - Create an App Catalog
-In this step, you create a Site Collection App Catalog. For reference, instructions for creating the App Catalog are here: [Site Collection App Catalog](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/site-collection-app-catalog). But we’ve provided explicit instructions to guide you through the process. 
+## Step 3 - Provision/identify a modern communication site
+Either identify an existing SharePoint communication site or provision a new one in your SharePoint Online tenant. For more information about how to provision a communication site see [Create a communication site in SharePoint Online](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) and follow the steps to create a communication site.
 
-1.	Before you can manage site collection app catalogs in your tenant, ensure that you have installed the [SharePoint Online Management Shell](https://www.microsoft.com/en-us/download/details.aspx?id=35588) from November 2017 or newer.
-2.	From the Windows Start menu, type **SharePoint Online Management Shell**.
-3.	Connect to your SharePoint Online tenant using the Connect-SPOService cmdlet when using the SharePoint Online PowerShell. You’ll need to specify Admin in the URL as shown in the following syntax and replace contoso with your tenant name.
+## Step 4 - Set permissions for the site
+Ensure the following permissions are set for the site:
+- **Site Collection Administrator or part of the Owners group** - Permissions required to  initialize the CustomConfig list item that sets up custom learning for its first use. 
+- **Members group** - permissons required to Administer Custom Learning, including hiding and showing content and administering custom playlists
+- **Visitors group** - permissions required to view site content. 
 
-```Connect-SPOService -Url https://contoso-admin.sharepoint.com```
+## Step 5- Execute PowerShell Configuration Script
+A PowerShell script `CustomLearningConfiguration.ps1` is included that you will need to execute to create three [tenant properties](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) that the solution uses. In addition the script creates two [single part app pages](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) in the site pages library to host the admin and user web parts at a known location.
 
-4.	Now you create the site collection app catalog. Use the Add-SPOSiteCollectionAppCatalog cmdlet passing the site collection where the app catalog should be created as the -Site parameter.
+### Disabling Telemetry Collection
+Part of this solution includes anonymized telemetry tracking opt in, which by default is set to on. If you are performing a manual install and you would like to turn telemetry tracking off, please change the `CustomlearningConfiguration.ps1` script to set the $optInTelemetry variable to $false.
 
-```$site = Get-SPOSite https://contoso.sharepoint.com/sites/CustomLearningforOffice365```
+If you are not performing a manual install and would like to turn telemetry tracking off, a seperate script `TelemetryOptOut.ps1` has been included that when run will disable telemetry tracking.
 
-```Add-SPOSiteCollectionAppCatalog -Site $site```
+## Step 6 - Initialize web part custom configuration
+After the PowerShell script is successfully run, navigate to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. This initializes the CustomConfig list item that sets up Custom Learning for its first use.
 
-## Step 5 - Add the Custom Learning webpart to your tenant 
-
-1. Go to your local drive where you downloaded the web part package and script in [Step 1 - Get the web part package and setup script from GitHub](##Step 1 - Get the web part package and setup script from GitHub).  
-2. Navigate to the [Office 365 Admin portal](https://admin.microsoft.com/AdminPortal/Home#/homepage) for your tenant
-3. From the left navigation select Admin Centers, SharePoint. This will open in a new tab. 
-, In the SharePoint Admin Center select Apps, App Catalog, Apps for SharePoint 
-4. Select upload the webpart and choose the "ms-custom-learning.sppkg" file you downloaded
-5. For this tenant-wide installation check the box next to "Make this solution available to all sits in the organization."  
-
-## Step 5 - Run the Powershell script
-- With Windows Powershell, run the you downloaded in Step 1.CustomLearningConfig.ps1 script.
- 
-
-
-
-After Custom Learning is installed in your tenant you can add the Web part to a SharePoint page. When you do Office 365 and Windows 10 training is available to your site.
-
-1. Add the Custom Learning webpart in a full width column layout:
-
-![SharePoint Page Layout](media/clo365fullcolumnwidth.png)
-
-2. In the SharePoint page, select Add section and then select full width column.  You'll see the following prompt:
-
-![AddWebpart](media/clo365addfullwidthwebpart.png)
-
-3. Select Microsoft Learning.  You should now see the following: 
-
-![Custom Learning webpart](media/clo365addwebpart.png)
-
- You can now click on the tiles to explore the default content included in the solution.  
-
- Along with the SharePoint site, the provisioning service also installs a Custom Learning Web part. Connected to an online catalog of Microsoft content, the Custom Learning Web part can be dropped on any SharePoint page and configured to support  
-
-![Custom Learning for Office 365 site experience](media/clo365homepage.png)
-
-**Option 2**: [The Custom Learning for Office 365 web part ](installwebpart.md)
-The Custom Learning web part option is designed for organizations that want to integrate Office 365 training into an existing SharePoint Online communication site. The Custom Learning web part can be installed on any SharePoint Online page and provides an up-to-date feed of the full suite of Office 365 training content from Microsoft's Support.Office.com site. Training content delivered through the web part is organized in easy-to-consume playlists. Administrators can also use the web part to build custom training playlists, combining content from YouTube, locally hosted content like .PDFs, and Office 365 training content, to provide training experiences tailored to the unique needs of the organization.
-
-![Custom Learning for Office 365 webpart](media/clo365customplaylist.png)
+The configuration is now complete. To learn more about how to tailor the Custom Learning site and web part for your environment, see [Customize the training experience](custom_overview.md).
 
 ### Next Steps
-- Explore the [default content](webpartcontent.md) included in the webpart.
-- [Customize](customization.md) the training experience for your organization.
-- [Drive adoption](driveadoption.md) of your training solution.
+- [Customize](custom_overview.md) the training experience for your organization.
 
