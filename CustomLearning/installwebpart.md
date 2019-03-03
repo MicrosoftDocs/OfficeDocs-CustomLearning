@@ -53,7 +53,7 @@ Part of this solution includes anonymized telemetry tracking opt in, which by de
 If you are not performing a manual install and would like to turn telemetry tracking off, a seperate script `TelemetryOptOut.ps1` has been included that when run will disable telemetry tracking.
 
 ## Step 6 - Initialize web part custom configuration
-After the PowerShell script is successfully run, navigate to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. This initializes the CustomConfig list item that sets up Custom Learning for its first use.
+After the PowerShell script is successfully run, navigate to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. This initializes the **CustomConfig** list item that sets up Custom Learning for its first use.
 
 The configuration is now complete. To learn more about how to tailor the Custom Learning site and web part for your environment, see [Customize the training experience](custom_overview.md).
 
