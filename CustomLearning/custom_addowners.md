@@ -28,7 +28,7 @@ The Office 365 training page hosts the Custom Learning Web part configured to sh
 ![cg-gotoall.png](media/cg-gotoall.png)
 
 ## Add Owners to Site
-As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign a few owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content delivered through the Custom Learning Web part. They have the ability to build custom playlist and assign them to custom subcategories.  
+As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign a few owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content delivered through the Custom Learning Web part. They'll also have the ability to build custom playlist and assign them to custom subcategories.  
 
 1. From the SharePoint **Settings** menu, click **Site Permissions**.
 2. Click **Advanced Permission Settings**.
