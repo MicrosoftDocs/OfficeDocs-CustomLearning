@@ -1,6 +1,6 @@
 # [Overview](index.md)
 # [Getting Started](prereqs.md)
-## [Provision the Custom Learning site](installsitepackage.md)
+## [Provision the Custom Learning](installsitepackage.md)
 ## [Add Owners to the site](custom_addowners.md)
 ## [Explore the site content](sitecontent.md)
 ## [Install the Custom Learning web part](installwebpart.md)
