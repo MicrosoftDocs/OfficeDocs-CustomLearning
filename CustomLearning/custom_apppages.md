@@ -11,7 +11,7 @@ description: Learn about the functionality of SharePoint Application Pages in Cu
 Custom Learning provides two SharePoint Application pages that you should know about as an administrator of Custom Learning. These two pages are non-editable. 
 
 - CustomLearningAdmin.aspx
-- CustomLearningAdmin.aspx
+- CustomLearningViewer.aspx
 
 ## CustomLearningAdmin.aspx
 
