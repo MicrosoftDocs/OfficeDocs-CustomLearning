@@ -1,8 +1,7 @@
-# [Overview](index.md)
+# [Get Started](index.md)
 ## [Provision Custom Learning](installsitepackage.md)
 ## [Explore the Custom Learning site](sitecontent.md)
 ## [Stand alone web part setup](custom_manualsetup.md)
-## [Manual upgrade for Custom Learning](custom_upgrade.md)
 # [Customize the Learning Experience](custom_overview.md)
 ## [Go to the Custom Learning site](custom_goto.md)
 ## [Customize the site](custom_edithelp.md)
@@ -22,4 +21,5 @@
 # [Drive Adoption](driveadoption.md)
 # [Feedback and Support](feedback.md)
 # [Frequently Asked Questions](faq.md)
+# [Manual upgrade for Custom Learning](custom_upgrade.md)
 
