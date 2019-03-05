@@ -5,7 +5,7 @@ title:  Stand alone web part setup
 ms.date: 02/10/2019
 description: Custom Learning for Office 365 manual web part setup
 ---
-# Stand alone setup of the Custom Learning web part
+# Stand alone web part setup
 
 Custom Learning offers a manual, stand alone web part setup for those organizations that already have an established SharePoint Online modern communication site dedicated to training, or that just want to set up the Custom Learning web part in their own communication site. Note that the manual setup requires experience working with Windows PowerShell and the SharePoint Online Management Shell. The steps for a manual set up of the Custom Learning Web part as as follows:
 
