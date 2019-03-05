@@ -14,9 +14,9 @@ With the SharePoint Online Provisioning Service, an Office 365 Tenant Administra
  
 To successfully set up Custom Learning with the Provisioning Service [SharePoint Online Provisioning Service](https://provisioning.sharepointpnp.com), the person doing the provisioning must meet the following pre-requisites: 
  
-- The person provisioning Custom Learning must be a Tenant Administrator, also known as the Office 365 Global Administrator, of the tenant where Custom Learning will be provisioned.  
+- The person provisioning Custom Learning must be a Tenant Administratorof the tenant where Custom Learning will be provisioned.  
 - A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization does not have an SharePoint tenant App catalog, refer to the [SharePoint Online documentation](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) to create one.  
-- The persono provisioning Custom Learning must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning Custom Learning is not a Site Collection Owner of the App Catalog [complete these instructions](addappadmin.md) and continue. 
+- The person provisioning Custom Learning must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning Custom Learning is not a Site Collection Owner of the App Catalog [complete these instructions](addappadmin.md) and continue. 
 
 ### To provision Custom Learning
 
@@ -45,9 +45,11 @@ To successfully set up Custom Learning with the Provisioning Service [SharePoint
 6. Select **Provision** when ready to install Custom Learning into your tenant environment.  The provisioning process will take up to 15 minutes. You will be notified via email (to the notification email address you entered on the Provisioning page) when the site is ready for access.
 
 > [!IMPORTANT]
-> The Tenant Admin who provisions the Custom Learning Site must go to the site and assign owners to the site. 
+> The Tenant Admin who provisions the Custom Learning site must go to the site, and then open CustomLearningAdmin.aspx to initialize Custom Learning Admin properties. At this time, the Tenant Admin should also assign Owners to the site. 
 
-7. When provisioning is complete, the Tenant Admin receives an email from the PnP Provisioning Service. Copy the link to the site provided in the email, and then follow the instructions to go to the site. As a Tenant Admin, your job isn't over.
+## Validate Provisioning Success
+
+When provisioning is complete, the Tenant Admin receives an email from the PnP Provisioning Service. The admin can copy the link to the site provided in the email, and then follow the instructions to go to the site. Alternately, the tenant admin can navigate to <YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx. This initializes the CustomConfig list item that sets up Custom Learning for its first use. The person who first opens this page must be a Tenant Admin,Site Collection Admin, or Owner of the site. You should see a page that looks like this: 
 
 
 

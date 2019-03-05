@@ -1,50 +1,53 @@
 ---
-author: karuanag
-ms.author: karuanag
+author: pkrebs
+ms.author: pkrebs
 title:  Explore the site and default content
 ms.date: 02/10/2019
 description: Explore the Custom Learning site and default content
 ---
 
-# Explore the site and default content
+# Go to the Custom Learning site
 
-![Six Simple Steps](media/clo365homepage.png)
+> Note: To explore the Custom Learning site and it's administrative features, you'll need Site Collection Admin, Owner, or Member permissions to the site. If you don't have the neccesary permissions, contact the Site Administrator for the site. The Custom Learning for Office 365 site is hosted in your Office 365 tenant, so you'll need to sign in to Office 365 to get to the site. If you haven’t already signed into Office 365, sign in now. 
 
-### Tour the site 
+## Sign in to Office 365 
 
-Navigate to the Home page and select Office 365 Training. EAch page in the SharePoint Online site is configured to host the Microsoft Learning webpart. This enables the page to  display all the content available within the webpart.
+1.	Open your Web browser and navigate to office.com or your organization’s sign-in location. 
+2.	Sign in with your user name and password.
+3. 	Navigate to the location of the site using the URL supplied by your tenant administrator or 
+select SharePoint from the Office 365 Home page. 
 
-![webpart](media/webpart.PNG)
+![cg-introducing.png](media/cg-introducing.png)
 
-From the menu bar, select the navigation item **Office 365 Training** and then select **Get Started with OneDrive**. In this case, the Web part filters the content to show only OneDrive content.
+## Explore the Custom Learning site
 
-Repeat these steps for the other two menu options, **Get Started with Teams** and **Get Started with SharePoint Online** to review their content and test the navigation.
+The Custom Learning site is based on a SharePoint communication template, so it's easy to modify the site to meet the needs of your organization. You can change the site name, logo, menu items, and the content on the pages. One of the pages you'll want to modify for your organization is the Ask questions and get help page. Let's take a look.
 
-Navigate back to the Home page and select **Start with Six Simple Steps**. This takes you to the Six Simple Steps playlist.
+### View the Ask questions and get help page
 
-> [!TIP]
-> The Six Simple Steps are derived from a Microsoft research team. These are the steps that Microsoft researchers have found to be the most sticky, meaning if users go through these steps, their use of Office 365 will increase and they will become more productive workers. And that’s good for everybody.
+The Custom Learning site provides default content to help you get starting building your training and support portal. As an admininstrator or owner of the site, one of the things you’ll want to do is change the links on the **Ask question and get help page** point to resources in your organization. 
 
-### Go to Start with Six Simple Steps
-- From the Home page, click Start with six simple steps. 
-- You see the Office Training page with the Custom Learning web part routed to the Start with six simple steps playlist.  
+1.	From the Custom Learning Home page, click the **Ask questions and get help** menu item.
+2.	Click the **Edit** button.
+3.	Hover over a Help option image, then click **Edit web part**.
 
-![Six Steps Playlist](media/clo365sixsteps.png)
+![cg-edithelp.png](media/cg-edithelp.png)
 
-### View a list of playlists for a category
+For instructions on customizing site pages, see [Customize the site](custom_edithelp).
 
-From the Office 365 training page select Excel Training to go to a list of Excel Training playlists.
+### View the Custom Learning content in the web part
+The Office 365 training page hosts the Custom Learning Web part configured to show all the training available for Custom Learning. 
 
-![content_excel.png](media/content_excel.png)
+1. Scroll down the page to view all the categories and subcategories.
+2. Kick the tires a bit. Click a few subcategories, and then click a few playlists to get a feel for how Custom Learning content is organized. 
 
-### View a Playlist
+![cg-gotoall.png](media/cg-gotoall.png)
 
-Click **Welcome to Excel** to view the playlist
+For instructions on customizing the Custom Learning web part, see [Customize the Learning Experience](custom_overview).
 
-![content_exwel.png](media/content_exwel.png)
-
-Your site is now set up with the correct content being displayed on each page. 
+### Get a complete site tour and customization guidance
+For a detailed look at Custom Learning, incuding the site, the web part, administrative features, and guidance on how to build unique learning experiences for your environment, see [Customize the Learning Experience](custom_overview.md)
 
 ## Next Steps
-- [Customize site content](customization.md)
+- [Customize the Learning Experience](custom_overview.md)
 - [Drive adoption](driveadoption.md) 
