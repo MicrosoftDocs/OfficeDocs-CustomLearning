@@ -1,7 +1,7 @@
 # [Overview](index.md)
 ## [Provision Custom Learning](installsitepackage.md)
 ## [Explore the site content](sitecontent.md)
-## [Stand alone setup of the web part](custom_manualsetup.md)
+## [Stand alone web part setup](custom_manualsetup.md)
 ## [Manual upgrade of the web part](custom_manualsetup.md)
 # [Customize the training experience](customization.md)
 ## [Customize and share playlists](customplaylist.md)
