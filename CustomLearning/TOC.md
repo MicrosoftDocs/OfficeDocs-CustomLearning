@@ -2,7 +2,7 @@
 ## [Provision Custom Learning](installsitepackage.md)
 ## [Explore the site content](sitecontent.md)
 ## [Stand alone web part setup](custom_manualsetup.md)
-## [Manual upgrade of the web part](custom_upgrade.md)
+## [Manual upgrade for Custom Learning](custom_upgrade.md)
 # [Customize the Learning Experience](custom_overview.md)
 ## [Go to the Custom Learning site](custom_goto.md)
 ## [Customize the site](custom_edithelp.md)
