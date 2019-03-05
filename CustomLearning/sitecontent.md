@@ -6,7 +6,7 @@ ms.date: 02/10/2019
 description: Explore the Custom Learning site and default content
 ---
 
-# Go to the Custom Learning site
+# Explore the Custom Learning site
 
 > Note: To explore the Custom Learning site and it's administrative features, you'll need Site Collection Admin, Owner, or Member permissions to the site. If you don't have the neccesary permissions, contact the Site Administrator for the site. The Custom Learning for Office 365 site is hosted in your Office 365 tenant, so you'll need to sign in to Office 365 to get to the site. If you haven’t already signed into Office 365, sign in now. 
 
