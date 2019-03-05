@@ -5,7 +5,7 @@ title:  Custom Learning Upgrade
 ms.date: 02/10/2019
 description: Custom Learning for Office 365 manual web part setup
 ---
-# Manual web part setup
+# Manual Upgrade for Custom Learning
 
 Custom Learning for Office 365 provides a manual upgrade process for organizations that have participated in earlier pilots. With the upgrade process, organizations can continue to use their current Custom Learning site and upgrade by adding the new, enhanced, Custom Learning web part to their SharePoint App Catalog, and then running a PowerShell script. The following provides an overview of the upgrade process: 
 
