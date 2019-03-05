@@ -1,6 +1,6 @@
 # [Overview](index.md)
 ## [Provision Custom Learning](installsitepackage.md)
-## [Explore the Custom Learning](sitecontent.md)
+## [Explore the Custom Learning site](sitecontent.md)
 ## [Stand alone web part setup](custom_manualsetup.md)
 ## [Manual upgrade for Custom Learning](custom_upgrade.md)
 # [Customize the Learning Experience](custom_overview.md)

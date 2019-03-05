@@ -33,7 +33,7 @@ The Custom Learning site provides default content to help you get starting build
 
 ![cg-edithelp.png](media/cg-edithelp.png)
 
-For instructions on customizing site pages, see [Customize the site](custom_edithelp).
+For instructions on customizing site pages, see [Customize the site](custom_edithelp.md).
 
 ### View the Custom Learning content in the web part
 The Office 365 training page hosts the Custom Learning Web part configured to show all the training available for Custom Learning. 
@@ -43,7 +43,7 @@ The Office 365 training page hosts the Custom Learning Web part configured to sh
 
 ![cg-gotoall.png](media/cg-gotoall.png)
 
-For instructions on customizing the Custom Learning web part, see [Customize the Learning Experience](custom_overview).
+For instructions on customizing the Custom Learning web part, see [Customize the Learning Experience](custom_overview.md).
 
 ### Get a complete site tour and customization guidance
 For a detailed look at Custom Learning, incuding the site, the web part, administrative features, and guidance on how to build unique learning experiences for your environment, see [Customize the Learning Experience](custom_overview.md)
