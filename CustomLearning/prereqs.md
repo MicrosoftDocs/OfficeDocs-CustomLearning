@@ -1,23 +1,28 @@
 ---
-author: karuanag
-ms.author: karuanag
+author: pkrebs
+ms.author: pkrebs
 title:  Prerequisites for Installation
 ms.date: 02/11/2019
 description: Decisions and pre-requisite information for Custom Learning installation and setup 
 ---
 
 # Getting Started
+Custom Learning for Office 365 provides the flexibility to set up the solution in a couple different ways. The following sections outline the options available.
 
-Custom Learning for Office 365 will allow you to provide on-demand training solutions for your organization.  Here we will discuss the pre-requisites and decisions you will need to make for a successful deployment.
+## Setup using the SharePoint Online Provisioning Service - Recommended
+The SharePoint Online Provisioning Service provides the fastest, easiest, and recommended method for setting up Custom Learning. With the SharePoint Online Provisioning Service, an Office 365 tenant admin signs into the service, makes a few choices, and clicks **Add to Tenant** to provision the Custom Learning Site and the Custom Learning Web part. When provisioning is done, the Tenant Admin receives an email that the site is ready to go. 
 
-The following instructions outline how to provision Custom Learning for Office 365 (CLO365), including the installation of the CLO365 communication site template and the Custom Learning web part, into your tenant environment. These instructions cover the installation of CLO365 via the SharePoint Online Provisioning Service at https://provisioning.sharepointpnp.com    If you are interested in installing just the Custom Learning web part for use on an existing SharePoint Online communication site, please refer to the instructions for [installing the custom webpart](installwebpart.md). 
+- To get started with the SharePoint Provisioning Service, go to [Provision with the PnP Provisioning Service](installsitepackage.md)   
 
-## Prerequisites
- 
-To successfully install CLO365 via the [SharePoint Online Provisioning Service](https://provisioning.sharepointpnp.com) you must meet the following pre-requisites: 
- 
-- The individual that will be provisioning CLO365 must be the tenant administrator of the target tenant for install.  
-- A tenant 'App Catalog' must be available within the 'Apps' option of the SharePoint Admin Center. If you do not have an app catalog currently refer to the [SharePoint Online documentation](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) to provision this feature.  
-- The individual that will be provisioning CLO365 must be a site collection owner of the app catalog in the target tenant for install. If the CLO365 installer is not a site collection owner of the app catalog [complete these instructions](addappadmin.md) and continue.  
+## Manual installation of the Custom Learning web part
+For organizations that already have an established SharePoint Online modern communication training portal, Custom Learning provides the option to manually install the Custom Learning Web part into an existing SharePoint Online site. Note that the site must be a modern SharePoint Online site. This method requires Tenant Admin permissions and experience with Windows PowerShell or the SharePoint Online Management Shell. 
 
-### Next Steps - [Service Decisions](servicedecisions.md)
+- For Manual web part installation instructions, see see [Manually install the web part](installwebpart.md). 
+
+## Upgrade Custom Learning
+Organizations that may have participated in a Custom Learning Pilot Program, or already have Custom Learning provisioned, can follow the instruction provided the [Provision with the PnP Provisioning Service](installsitepackage)    
+
+- For Manual web part installation instructions, see see [Manually install the web part](installwebpart.md). 
+
+
+### Next Steps - [Provision Custom Learning](installsitepackage.md)
