@@ -42,7 +42,7 @@ To successfully set up Custom Learning with the Provisioning Service [SharePoint
 
 ![inst_options.png](media/inst_options.png)
 
-6. Select **Provision** when ready to install Custom Learning into your tenant environment.  The provisioning process will take up to 15 minutes. You will be notified via email (to the notification email address you entered on the Provisioning page) when the site is ready for access.
+6. Select **Provision** when ready to install Custom Learning into your tenant environment.  The provisioning process will take up to 15 minutes. You will be notified via email (to the notification email address you entered on the Provisioning page) when the site is ready for access. 
 
 > [!IMPORTANT]
 > The Tenant Admin who provisions the Custom Learning site must go to the site, and then open CustomLearningAdmin.aspx to initialize Custom Learning Admin properties. At this time, the Tenant Admin should also assign Owners to the site. 
