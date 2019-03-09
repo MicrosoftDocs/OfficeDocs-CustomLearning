@@ -37,10 +37,10 @@ Custom Learning can be provisioned from the SharePoint Online Provisioning Servi
 ![cg-provision.png](media/cg-provision.png)
 
 ## 3 Easy Steps
-Let's [get started](prereqs.md) creating a simple training solutions with up to date Microsoft content.
-1. Provision Custom Learning  
-2. Tailor Custom Learning for your environment
-3. Share Custom Learning with your users using our [adoption tools](driveadoption.md)
+Let's get started creating your Custom Learning for Office 365 training solution.
+1. Choose a [setup option](custom_setupoptions.md) and provision Custom Learning.  
+2. Tailor Custom Learning for your environment.
+3. Share Custom Learning with your users using our [adoption tools](driveadoption.md).
 
 ## Additional Resources
 You can use the Custom Learning site experience to provide links to any new or existing user community forums. Consider starting an internal user group, if you don't have one already, to enable people to share their success and learn from each other.  If you don't have time to nurture an internal user group, you and your employees can join the [Microsft Office 365 Champion community](https://aka.ms/O365Champions) for monthly training, membership in the online community, and early access to tools and resources for Office 365.
