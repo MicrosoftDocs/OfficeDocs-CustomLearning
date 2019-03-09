@@ -3,7 +3,7 @@ author: pkrebs
 ms.author: pkrebs
 title:  Overview of Custom Learning for Office 365 Open Source solution
 ms.date: 02/10/2019
-description: Learn how Custom Learning for Office 365 can accelerate usage and adoption of Office 365 in your organization. Our solutions include a custom SharePoint Online web part and a modern SharePoint Online communications training site that is easily provisioned to your Office 365 tenant. 
+description: Learn how Custom Learning for Office 365 can accelerate usage and adoption of Office 365 in your organization. Our solutions include a custom SharePoint Online web part and a modern SharePoint Online communications training site that is easily provisioned in your Office 365 tenant. 
 ---
 
 # Custom Learning for Office 365
@@ -41,6 +41,9 @@ Let's get started creating your Custom Learning for Office 365 training solution
 1. Choose a [setup option](custom_setupoptions.md) and provision Custom Learning.  
 2. Tailor Custom Learning for your environment.
 3. Share Custom Learning with your users using our [adoption tools](driveadoption.md).
+
+## Custom Learning Feedback and Support
+Custom Learning for Office 365 is an Open Source project that is supported through an online Issues list on GitHub. The Custom Learning solution is not covered by any existing Microsoft support contract. For more information, go to [Feedback and Support](feedback.md).  
 
 ## Additional Resources
 You can use the Custom Learning site experience to provide links to any new or existing user community forums. Consider starting an internal user group, if you don't have one already, to enable people to share their success and learn from each other.  If you don't have time to nurture an internal user group, you and your employees can join the [Microsft Office 365 Champion community](https://aka.ms/O365Champions) for monthly training, membership in the online community, and early access to tools and resources for Office 365.
