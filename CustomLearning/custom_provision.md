@@ -6,7 +6,7 @@ ms.date: 02/10/2019
 description: Provision the Custom Learning for Office 365 site via the SharePoint Provisioning Engine
 ---
 
-# Provision Custom Learning
+# Provision Custom Learning 
 
 With the SharePoint Online Provisioning Service, an Office 365 Tenant Administrator can start the provisioning process with a few simple clicks. The Provisioning Service is the recommended way to provision Custom Learning. It's fast, easy, and takes only a few minutes to start the process. Before getting started with the Provisioning Service, however, make sure you've met the prerequisites for provisioning.
 
