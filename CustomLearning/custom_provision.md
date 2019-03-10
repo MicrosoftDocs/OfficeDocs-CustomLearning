@@ -61,11 +61,7 @@ As the Tenant Admin, it's unlikely you'll be the person customizing the site, so
 1. From the SharePoint **Settings** menu, click **Site Permissions**.
 2. Click **Advanced Permission Settings**.
 3. Click **Custom learning for Office 365 Owners**.
-4. Click **New** > **Add Users to this group**, add the people you want to be Owners, and then click **Share**.The admin can copy the link to the site provided in the email, and then follow the instructions to go to the site. 
-
-![cg-adminapppage.png](media/cg-adminapppage.png)
-
-8. Click the **Following** option in the upper right hand corner of the page to follow the site.  
+4. Click **New** > **Add Users to this group**, add the people you want to be Owners, and then click **Share**.
 
 ### Next Steps
 - Explore the [default content](sitecontent.md) included in the webpart.
