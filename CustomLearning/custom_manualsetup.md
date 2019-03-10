@@ -52,10 +52,22 @@ Part of this solution includes anonymized telemetry tracking opt in, which by de
 
 If you are not performing a manual install and would like to turn telemetry tracking off, a seperate script `TelemetryOptOut.ps1` has been included that when run will disable telemetry tracking.
 
-## Step 6 - Initialize web part custom configuration
-After the PowerShell script is successfully run, navigate to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. This initializes the **CustomConfig** list item that sets up Custom Learning for its first use.
+## Validate Provisioning Success and Initialize the CustomConfig List
 
-The configuration is now complete. To learn more about how to tailor the Custom Learning site and web part for your environment, see [Customize the training experience](custom_overview.md).
+After the PowerShell script is successfully run, you navigate to the site, initialize the **CustomConfig** list item that sets up Custom Learning for its first use, and validate the site is working.
+
+1. Go to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Opening **CustomLearningAdmin.aspx** initializes the **CustomConfig** list item that sets up Custom Learning for first use. You should see a page that looks like this:
+
+![cg-adminapppage.png](media/cg-adminapppage.png)
+
+## Add Owners to Site
+As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign a few owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content delivered through the Custom Learning Web part. In addition, they'll have the ability to build custom playlist and assign them to custom subcategories.  
+
+1. From the SharePoint **Settings** menu, click **Site Permissions**.
+2. Click **Advanced Permission Settings**.
+3. Click **Custom learning for Office 365 Owners**.
+4. Click **New** > **Add Users to this group**, and then add the people you want to be Owners. 
+5. Add a link to [Explore the Site](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) in the Share message, and then click **Share**.
 
 ### Next Steps
 - [Customize](custom_overview.md) the training experience for your organization.
