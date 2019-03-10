@@ -27,20 +27,20 @@ Custom Learning for Office 365 (Custom Learning for short) consists of three par
 
 ## Requirements and Permissions
 
-Before getting started with this guide, ensure that Custom Learning has been set up by your  SharePoint tenant administrator. If you’re not sure if it's been set up, contact your SharePoint tenant administrator to verify that Custom Learning has been installed. Also be sure to get the URL of the Custom Learning SharePoint site. If you are the Tenant Administrator and Custom Learning has not been installed, see the Custom Learning for Office 365 Installation Guide. 
+Before getting started with this guide, ensure that Custom Learning has been set up by your SharePoint Tenant Administrator. If you’re not sure if it's been set up, contact your SharePoint tenant administrator to verify that Custom Learning has been provisioned. Also be sure to get the URL of the Custom Learning SharePoint site. If you are the Tenant Administrator and Custom Learning has not been provisioned, see [Provision Custom Learning](custom_provision.md). 
 
-### Permissions to install Custom Learning
+### Permissions to provision Custom Learning
 
-- Office 365 Global Administrator
-- SharePoint Administrator
+- Tenant Administrator, also known as Office 365 Global Administrator
+- SharePoint Site Collection Administrator with Owner permissions on the site
 
 ### Permissions to use Custom Learning Administration features
 
-- Office 365 SharePoint Administrator/SharePoint Site Owner Permissions
-- SharePoint Site Collection Administrator/SharePoint Site Owner Permissions
+- Site Collection Administrator
+- SharePoint Owner or Member permissions
 
 ### Permissions to use the Custom Learning site as a user
 
-- Office 365 user permissions/SharePoint Site Visitor Permissions or higher
+- Office 365 user permissions/SharePoint Site Visitor permissions or higher
 
 
