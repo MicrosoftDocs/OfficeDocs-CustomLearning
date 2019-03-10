@@ -47,4 +47,4 @@ Before getting started with this guide, ensure that Custom Learning has been set
 Once you've ensured you have the necessary permissions to customize the site and web part, 
 it's time to get started with the customization process. 
 
-- To get started, you'll need to go to the site. See [Go to the Custom Learning Site](custom_goto.md).
+- To get started, see [Go to the Custom Learning Site](custom_goto.md).
