@@ -37,7 +37,7 @@ Custom Learning can be provisioned from the SharePoint Online Provisioning Servi
 ![cg-provision.png](media/cg-provision.png)
 
 ## 3 Easy Steps
-Let's creating a simple training solutions with up to date Microsoft content.
+Let's get started creating a simple training solutions with up to date Microsoft content.
 1. Choose a [setup option](custom_setupoptions.md) and provision Custom Learning.  
 2. Tailor Custom Learning for your environment.
 3. Share Custom Learning with your users using our [adoption tools](driveadoption.md).
