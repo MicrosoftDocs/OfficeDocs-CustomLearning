@@ -11,7 +11,7 @@ description: Learn about the variety of customizations available with Custom Lea
 The Custom Learning site is based on a SharePoint communication template, so it's easy to modify the site to meet the needs of your organization. You can change the site name, logo, menu items, and the content on the pages. 
 
 > [!TIP]
-> Gather feedback from your employees and periodically update the site. For example, when launching new services you can unhide content and build targeted training playlists designed for the launch of the new services. 
+> Gather feedback from your employees and periodically update the site. For example, you can update the Training events calendar as new events become available. When launching new services, you can unhide content and build targeted training playlists designed for the launch of the new services. 
 
 ## Customize web pages
 
