@@ -96,13 +96,11 @@ With the enhancements to the new web part, they way that you link to a playlist 
 To ensure that playlists work properly, any playlists that have been created with the earlier version of the web part will need to be recreated. Before deleting the playlists, make a list of the custom playlists and associated assets so you can recreate them easily with the new Custom Learning Web part. Make a copy of a playlist and then delete it. You can use the JSONData field to make a copy of the content of a playlist before you delete. This will make it easier to create later.
 
 
-•	From the Custom Learning site, click Settings > Site Content. 
-•	Select a playlist, select the ellipses, select Edit, and then copy the contents of the JSONData field and save in NotePad or a separate document for later reference. Select Cancel.
-•	Select the playlist, select the ellipses, and then select Delete.
-•	You are now ready to recreate the playlist with the new Web part.
-For instructions on using the new Custom Learning for Office 365 Web part, see https://docs.microsoft.com/en-us/office365/customlearning/custom_overview.
-
-## Step 8 - Chan
+1. From the Custom Learning site, click **Settings** > **Site Content**. 
+2. Select a playlist, select the ellipses, select **Edit**, and then copy the contents of the **JSONData** field and save in NotePad or a separate document for later reference. Select **Cancel**.
+3. Select the playlist, select the ellipses, and then select **Delete**.
+4. You are now ready to recreate the playlist with the new Web part.
+For instructions on using the Custom Learning for Office 365 Web part, see [Customize the Learning Experience(custom_overview.md).
 
 ### Next Steps
 - [Customize](custom_overview.md) the training experience for your organization.
