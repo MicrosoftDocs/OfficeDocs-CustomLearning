@@ -44,7 +44,7 @@ Let's creating a simple training solutions with up to date Microsoft content.
 
 ## Feedback and Support
 
-The Custom Learning for Office 365 open source project is supported through our [online issues list](https://aka.ms/CustomLearningHelp) on GitHub. The Custom Learning for Office 365 solution and it's components are not covered by any existing Microsoft support contract.  
+The Custom Learning for Office 365 is an open source project supported through our [online issues list](https://aka.ms/CustomLearningHelp) on GitHub. The Custom Learning for Office 365 solution and it's components are not covered by any existing Microsoft support contract.  
 
 ## Additional Resources
 You can use the Custom Learning site experience to provide links to any new or existing user community forums. Consider starting an internal user group, if you don't have one already, to enable people to share their success and learn from each other.  If you don't have time to nurture an internal user group, you and your employees can join the [Microsft Office 365 Champion community](https://aka.ms/O365Champions) for monthly training, membership in the online community, and early access to tools and resources for Office 365.
