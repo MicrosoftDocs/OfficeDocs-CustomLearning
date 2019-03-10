@@ -14,8 +14,7 @@ description: Explore the Custom Learning site and default content
 
 1.	Open your Web browser and navigate to office.com or your organization’s sign-in location. 
 2.	Sign in with your user name and password.
-3. 	Navigate to the location of the site using the URL supplied by your tenant administrator or 
-select SharePoint from the Office 365 Home page. 
+3. 	Navigate to the location of the site using the URL supplied by your tenant administrator or select SharePoint from the Office 365 Home page, and then select the site. 
 
 ![cg-introducing.png](media/cg-introducing.png)
 
