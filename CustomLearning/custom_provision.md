@@ -61,7 +61,8 @@ As the Tenant Admin, it's unlikely you'll be the person customizing the site, so
 1. From the SharePoint **Settings** menu, click **Site Permissions**.
 2. Click **Advanced Permission Settings**.
 3. Click **Custom learning for Office 365 Owners**.
-4. Click **New** > **Add Users to this group**, add the people you want to be Owners, and then click **Share**.
+4. Click **New** > **Add Users to this group**, and then add the people you want to be Owners. 
+5. Add a link to [Explore the Site](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) in the Share message, and then click **Share**.
 
 ### Next Steps
 - Explore the [default content](custom_exploresite.md) provided in the site and web part.
