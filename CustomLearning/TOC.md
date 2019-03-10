@@ -1,6 +1,6 @@
 # [Get Started](index.md)
 ## [Custom Learning Setup Options](custom_setupoptions.md)
-## [Provision Custom Learning](installsitepackage.md)
+## [Provision Custom Learning](custom_provision.md)
 ## [Explore the Custom Learning site](sitecontent.md)
 ## [Stand alone web part setup](custom_manualsetup.md)
 # [Customize the Learning Experience](custom_overview.md)
