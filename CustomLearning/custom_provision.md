@@ -47,7 +47,7 @@ To successfully set up Custom Learning with the Provisioning Service [SharePoint
 > [!IMPORTANT]
 > The Tenant Admin who provisions the Custom Learning site must go to the site, and then open CustomLearningAdmin.aspx to initialize Custom Learning Admin properties. At this time, the Tenant Admin should also assign Owners to the site. 
 
-## Validate Provisioning Success and Initializes the CustomConfig List
+## Validate Provisioning Success and Initialize the CustomConfig List
 
 When provisioning is complete, the Tenant Admin who provisioned the site, receives an email from the PnP Provisioning Service. The email contains a link to the site. At this point, the Tenant Admin should go to the site using the link provided in the email and set up the site for first use:
 
@@ -64,4 +64,4 @@ As the Tenant Admin, it's unlikely you'll be the person customizing the site, so
 4. Click **New** > **Add Users to this group**, add the people you want to be Owners, and then click **Share**.
 
 ### Next Steps
-- Explore the [default content](sitecontent.md) included in the webpart.
+- Explore the [default content](custom_exploresite.md) provided in the site and web part.
