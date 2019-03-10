@@ -6,7 +6,7 @@ ms.date: 02/10/2019
 description: Provision the Custom Learning for Office 365 site via the SharePoint Provisioning Engine
 ---
 
-# Provision Custom Learning for Office 365
+# Provision Custom Learning 
 
 With the SharePoint Online Provisioning Service, an Office 365 Tenant Administrator can start the provisioning process with a few simple clicks. The Provisioning Service is the recommended way to provision Custom Learning. It's fast, easy, and takes only a few minutes to start the process. Before getting started with the Provisioning Service, however, make sure you've met the prerequisites for provisioning.
 
@@ -47,17 +47,23 @@ To successfully set up Custom Learning with the Provisioning Service [SharePoint
 > [!IMPORTANT]
 > The Tenant Admin who provisions the Custom Learning site must go to the site, and then open CustomLearningAdmin.aspx to initialize Custom Learning Admin properties. At this time, the Tenant Admin should also assign Owners to the site. 
 
-## Validate Provisioning Success
+## Validate Provisioning Success and Initializes the CustomConfig List
 
-When provisioning is complete, the Tenant Admin receives an email from the PnP Provisioning Service. The admin can copy the link to the site provided in the email, and then follow the instructions to go to the site. Alternately, the tenant admin can navigate to <YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx. This initializes the CustomConfig list item that sets up Custom Learning for its first use. The person who first opens this page must be a Tenant Admin,Site Collection Admin, or Owner of the site. You should see a page that looks like this: 
+When provisioning is complete, the Tenant Admin who provisioned the site, receives an email from the PnP Provisioning Service. The email contains a link to the site. At this point, the Tenant Admin should go to the site using the link provided in the email and set up the site for first use:
+
+1. Go to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Opening **CustomLearningAdmin.aspx** initializes the **CustomConfig** list item that sets up Custom Learning for first use. You should see a page that looks like this:
+
+![cg-adminapppage.png](media/cg-adminapppage.png)
 
 ## Add Owners to Site
-As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign Owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content delivered through the Custom Learning Web part. They'll also have the ability to build custom playlist and assign them to custom subcategories.  
+As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign a few owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content delivered through the Custom Learning Web part. They'll also have the ability to build custom playlist and assign them to custom subcategories.  
 
 1. From the SharePoint **Settings** menu, click **Site Permissions**.
 2. Click **Advanced Permission Settings**.
 3. Click **Custom learning for Office 365 Owners**.
-4. Click **New** > **Add Users to this group**, add the people you want to be Owners, and then click **Share**.
+4. Click **New** > **Add Users to this group**, add the people you want to be Owners, and then click **Share**.The admin can copy the link to the site provided in the email, and then follow the instructions to go to the site. 
+
+![cg-adminapppage.png](media/cg-adminapppage.png)
 
 8. Click the **Following** option in the upper right hand corner of the page to follow the site.  
 
