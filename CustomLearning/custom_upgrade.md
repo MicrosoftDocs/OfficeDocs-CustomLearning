@@ -5,7 +5,7 @@ title:  Custom Learning Upgrade
 ms.date: 02/10/2019
 description: Custom Learning for Office 365 manual web part setup
 ---
-# Manual Upgrade for Custom Learning
+# Manual upgrade for Custom Learning
 
 Custom Learning for Office 365 provides a manual upgrade process for organizations that have participated in earlier pilots. With the upgrade process, organizations can continue to use their current Custom Learning site and upgrade by adding the new, enhanced Custom Learning web part to their SharePoint App Catalog, and then running a PowerShell script. The following provides an overview of the upgrade process: 
 
@@ -44,7 +44,7 @@ To set up Custom Learning for Office 365, you upload the customlearning.sppkg fi
 1. From the SharePoint site, click the System menu, then click **Add an App**. 
 2. Under **Your Apps**, click **From Your Organization**, and then click **Custom Learning for Office 365**. 
 
-## Step 4- Execute PowerShell Configuration Script
+## Step 4 - Execute PowerShell Configuration Script
 A PowerShell script `CustomLearningConfiguration.ps1` is included in the ZIP download from GitHub. You need to execute the script to create three [tenant properties](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) that the solution uses. In addition, the script creates two [single part app pages](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) in the site pages library to host the admin and user web parts at a known location. These app pages are:
 
 - CustomAdministration.aspx
