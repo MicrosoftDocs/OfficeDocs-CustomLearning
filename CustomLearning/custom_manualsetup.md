@@ -16,7 +16,7 @@ Custom Learning offers a manual, stand alone web part setup for those organizati
 - Navigate to the CustomLearningAdmin.aspx site page to load the admin web part to initialize the custom content configuration.
 
 > [!NOTE]
-> If you are looking for a fast, easy way to set up Custom Learning, see [Provision Custom Learning](installsitepackage.md).
+> If you are looking for a fast, easy way to set up Custom Learning, see [Provision Custom Learning](custom_provision.md).
 
 ## Prerequisites
 To ensure a successful manual setup of the Custom Learning web part, the follow prerequisites must be met. 
