@@ -38,13 +38,18 @@ To set up Custom Learning for Office 365, you upload the customlearning.sppkg fi
 ## Step 3 - Provision/identify a modern communication site
 Either identify an existing SharePoint communication site or provision a new one in your SharePoint Online tenant. For more information about how to provision a communication site see [Create a communication site in SharePoint Online](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) and follow the steps to create a communication site.
 
-## Step 4 - Set permissions for the site
+## Step 4 - Add the Custom Learning for Office 365 app to the site
+
+1. From the SharePoint site, click the System menu, then click **Add an App**. 
+2. Under **Your Apps**, click **From Your Organization**, and then click **Custom Learning for Office 365**. 
+
+## Step 5 - Set permissions for the site
 Ensure the following permissions are set for the site:
 - **Site Collection Administrator or part of the Owners group** - Permissions required to  initialize the CustomConfig list item that sets up custom learning for its first use. 
 - **Members group** - permissons required to Administer Custom Learning, including hiding and showing content and administering custom playlists
 - **Visitors group** - permissions required to view site content. 
 
-## Step 5- Execute PowerShell Configuration Script
+## Step 6- Execute PowerShell Configuration Script
 A PowerShell script `CustomLearningConfiguration.ps1` is included that you will need to execute to create three [tenant properties](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) that the solution uses. In addition the script creates two [single part app pages](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) in the site pages library to host the admin and user web parts at a known location.
 
 ### Disabling Telemetry Collection
@@ -56,7 +61,7 @@ If you are not performing a manual install and would like to turn telemetry trac
 
 After the PowerShell script is successfully run, you navigate to the site, initialize the **CustomConfig** list item that sets up Custom Learning for its first use, and validate the site is working.
 
-1. Go to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Opening **CustomLearningAdmin.aspx** initializes the **CustomConfig** list item that sets up Custom Learning for first use. You should see a page that looks like this:
+- Go to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Opening **CustomLearningAdmin.aspx** initializes the **CustomConfig** list item that sets up Custom Learning for first use. You should see a page that looks like this:
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 

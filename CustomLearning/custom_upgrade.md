@@ -39,7 +39,12 @@ To set up Custom Learning for Office 365, you upload the customlearning.sppkg fi
 5. In the folder where you saved the ZIP file, select the **webpart** folder, and then select **customlearning.sppkg.**
 6. Click **Deploy**.
 
-## Step 5- Execute PowerShell Configuration Script
+## Step 3 - Add the Custom Learning for Office 365 app to the site
+
+1. From the SharePoint site, click the System menu, then click **Add an App**. 
+2. Under **Your Apps**, click **From Your Organization**, and then click **Custom Learning for Office 365**. 
+
+## Step 4- Execute PowerShell Configuration Script
 A PowerShell script `CustomLearningConfiguration.ps1` is included in the ZIP download from GitHub. You need to execute the script to create three [tenant properties](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) that the solution uses. In addition, the script creates two [single part app pages](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) in the site pages library to host the admin and user web parts at a known location. These app pages are:
 
 - CustomAdministration.aspx
@@ -51,18 +56,10 @@ A PowerShell script `CustomLearningConfiguration.ps1` is included in the ZIP dow
 ### Disabling Telemetry Collection
 Custom Learning includes anonymized telemetry tracking opt in, which by default is set to on. If you  would like to turn telemetry tracking off, please change the `CustomlearningConfiguration.ps1` script to set the `$optInTelemetry` variable to `$false`.
 
-## Step 6 - Initialize web part custom configuration
+## Step 5 - Initialize web part custom configuration
 After the PowerShell script is successfully run, navigate to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Opening **CustomLearningAdmin.aspx** initializes the **CustomConfig** list item that sets up Custom Learning for first use. You should see a page that looks like this:
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
-
-## Add Owners to Site
-As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign a few owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content delivered through the Custom Learning Web part. They'll also have the ability to build custom playlist and assign them to custom subcategories.  
-
-1. From the SharePoint **Settings** menu, click **Site Permissions**.
-2. Click **Advanced Permission Settings**.
-3. Click **Custom learning for Office 365 Owners**.
-4. Click **New** > **Add Users to this group**, add the people you want to be Owners, and then click **Share**.
 
 The upgrade is now complete. To learn more about how to tailor the Custom Learning site and web part for your environment, see [Customize the training experience](custom_overview.md).
 
