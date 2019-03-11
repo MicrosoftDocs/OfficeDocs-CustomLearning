@@ -32,7 +32,7 @@ No. The site is based on a communication site template, which is always meant to
 
 ### 5. I need to reinstall the site; what should I do?
 
-Follow the installation instructions published [here](installsitepackage.md).
+Follow the installation instructions published [here](custom_provision.md).
 
 > [!NOTE]
 > If you had disabled telemetry in your prior installation and would like to continue with telemetry disabled, you will need to follow the instructions for disabling the telemetry here.
