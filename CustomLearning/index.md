@@ -7,20 +7,18 @@ description: Learn how Custom Learning for Office 365 can accelerate usage and a
 ---
 
 # Custom Learning for Office 365
-
-> [!NOTE]
-> Custom Learning is currently in internal testing and not yet publicly available. 
-
-## On-demand, custom training from Microsoft
 Custom Learning for Office 365 (Custom Learning) is a customizable, on-demand training solution designed to increase usage and adoption of Office 365 in an organization. 
 
-![cg-introducing.png](media/cg-introducing.png)
+## On-demand, custom training from Microsoft
 
 Custom Learning for Office 365 offers:
+
 - **A fully customizable SharePoint Online communication site** - Formally known as the Toolkit for Teamwork, the Custom Learning training portal can be customized to add your organization's help, support, and community content
 - **Easy provisioning** - Provision Custom Learning from the SharePoint Online Provisioning Service with just a few easy steps
 - **The ability to create your own training playlists** - with Custom Learning, you can create targeted training playlists to meet the unique needs of your environment
 - **Up-to-date content** - Custom Learning provides content through a Microsoft online content catalog, so the content at your site is regularly updated
+
+![cg-introducing.png](media/cg-introducing.png)
 
 ## Custom Learning Components
 Custom Learning for Office 365 consists of three parts: 
