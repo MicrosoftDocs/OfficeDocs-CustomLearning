@@ -13,11 +13,6 @@ Drive adoption of your Custom Learning experiences with these simple steps and t
 
 We understand that training solutions are only as good as the usage they receive in your organization.  That's why we've created these simple steps and templates to help you drive awareness and adoption of our tools. Start with these steps after you have configured the site template in your SharePoint Online environment.
 
-Download our launch kit to print and post our flyers and posters.  Edit and send our launch email to your employees to give them 3 simple steps to getting started with the portal.  
-
-> [!NOTE]
-> You will need to edit the launch email to include the proper web address (URL) for your particular installation of the custom learning portal.
-
 The following best practices can help you increase usage of the site in your organization.  
 
 ## Connect learning to other business outcomes
