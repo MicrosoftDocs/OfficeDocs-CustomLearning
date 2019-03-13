@@ -54,7 +54,7 @@ A PowerShell script `CustomLearningConfiguration.ps1` is included that you will 
 
 1. If you haven't already downloaded the SharePoint Online Management Shell, download it now. See [SharePoint Online Management Shell Download](https://go.microsoft.com/fwlink/p/?LinkId=255251).
 2. You may need to set a PowerShell execution policy to run the script. For more information, see [About Execution Policies](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
-3. In addition to your Tenant Admin credentials, the script will prompt you for your tenant name and site name. Considering the following example for your site URL, `https://contoso.sharepoint.com/sites/O365CL`, `contoso` is the tenant name and `O365CL` is the site name. 
+3. Execute the `CustomLearningConfiguration.ps1` script. In addition to your Tenant Admin credentials, the script will prompt you for your tenant name and site name. Considering the following example for your site URL, `https://contoso.sharepoint.com/sites/O365CL`, `contoso` is the tenant name and `O365CL` is the site name. 
 
 ### Disabling Telemetry Collection
 Part of this solution includes anonymized telemetry tracking opt in, which by default is set to on. If you are performing a manual install and you would like to turn telemetry tracking off, please change the `CustomlearningConfiguration.ps1` script to set the $optInTelemetry variable to $false and run the script.
