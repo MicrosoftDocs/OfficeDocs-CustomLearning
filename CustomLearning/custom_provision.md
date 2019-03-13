@@ -49,9 +49,9 @@ To successfully set up Custom Learning with the Provisioning Service, the person
 
 ## Validate Provisioning Success and Initialize the CustomConfig List
 
-When provisioning is complete, the Tenant Admin who provisioned the site,receives an email from the PnP Provisioning Service. The email contains a link to the site. At this point, the Tenant Admin should go to the site using the link provided in the email and set up the site for first use:
+When provisioning is complete, the Tenant Admin who provisioned the site, receives an email from the PnP Provisioning Service. The email contains a link to the site. At this point, the Tenant Admin should go to the site using the link provided in the email and set up the site for first use:
 
-1. Go to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Opening **CustomLearningAdmin.aspx** initializes the **CustomConfig** list item that sets up Custom Learning for first use. You should see a page that looks like this:
+- Go to `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Opening **CustomLearningAdmin.aspx** initializes the **CustomConfig** list item that sets up Custom Learning for first use. You should see a page that looks like this:
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 
@@ -62,7 +62,7 @@ As the Tenant Admin, it's unlikely you'll be the person customizing the site, so
 2. Click **Advanced Permission Settings**.
 3. Click **Custom learning for Office 365 Owners**.
 4. Click **New** > **Add Users to this group**, and then add the people you want to be Owners. 
-5. Add a link to [Explore the Site](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) in the Share message, and then click **Share**.
+5. Add a link to [Explore the Site](custom_exploresite.md) in the Share message, and then click **Share**.
 
 ### Next Steps
 - Explore the [default content](custom_exploresite.md) provided in the site and web part.
