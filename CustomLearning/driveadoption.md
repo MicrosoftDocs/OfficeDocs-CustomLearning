@@ -11,7 +11,7 @@ ms.topic: getting-started  # how-to
 
 Drive adoption of your Custom Learning experiences with these simple steps and tools. 
 
-We understand that training solutions are only as good as the usage they receive in your organization.  That's why we've created these simple steps and templates to help you drive awareness and adoption of our tools. Start with these steps after you have configured the site template in your SharePoint Online environment.
+We understand that training solutions are only as good as the usage they receive in your organization. That's why we've created these simple steps and templates to help you drive awareness and adoption of our tools. Start with these steps after you have configured the site template in your SharePoint Online environment.
 
 ## Connect learning to other business outcomes
 
