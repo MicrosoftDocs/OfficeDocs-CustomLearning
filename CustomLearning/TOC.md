@@ -24,3 +24,4 @@
 # [Frequently Asked Questions](faq.md)
 # [Partner Frequently Asked Questions](custom_partner.md)
 # [Manual upgrade for Custom Learning](custom_upgrade.md)
+# [Troubleshooting Custom Learning](custom_troubleshooting.md)
