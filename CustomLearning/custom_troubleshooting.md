@@ -1,49 +1,61 @@
 ---
-author: karuanag
-ms.author: karuanag
-title:  Customize the Training Experience
+author: pkrebs
+ms.author: pkrebs
+title:  Troubleshooting Custom Learning
 ms.date: 02/10/2019
-description: Learn about the variety of customizations available with Custom Learning for Office 365
+description: Learn how to troubleshoot Custom Learning
 ---
 
-# Customize the Training Experience
+# Troubleshoot Custom Learning
 
-This is a test four. By default both the site experience and the webpart include content for all Office 365 and Windows 10 services.  If only all or some of these services are available in your company you can adjust what content is available to your users.  
+Here are troubleshooting tips for problems that may occur with Custom Learning for Office 365 or the SharePoint Online Provisioning Service.
 
-There are several kinds of customizations that are available to the owners of this site. 
+## How to know if you have Tenant Admin permissions
 
-- [Customize web pages](#customizing-web-pages)
-- [Customize available services](#customize-available-services)
-- [Customize and share playlists](customplaylist.md)
+Sign in to the SharePoint Online Provisioning Service and provisioning Custom Learning requires Tenant Admin permissions. If you are experiencing sign in issues with the SharePoint Online Provisioning Service, make sure that you have been assigned the Global administrator role. The Custom Learning solution requires Tenant Admin permissions, otherwise known as Office 365 Global Administrator role. Here’s how to determine if you have been assigned the Global Administrator role.
 
-Some or all of these customizations can be completed before you launch the site to your user community.  
+1.	Sign in to Office.com.
+2.	Click **Admin**
+3.	Under **Users**, select **Active Users**
+4.	Search for your name
+5.	Click your name in Search results. You should see Global administrator for your role.
 
-> [!TIP]
-> Gather feedback from your employees and periodically complete additional customizations.  Add playlists, target webpages to specific roles or turn on new training content when launching new services. 
+![cg-globaladminrole.png](media/cg-globaladminrole.png)
 
-## Customizing web pages
+### If you don’t have the Global administrator role
+- Find a Global Administrator in your organization and have that person sign into the service or have them assign the Global administrator role to you.
 
-You can fully customize the Custom Learning web site. If you are not familiar with creating pages within modern SharePoint Online sites we suggest you review [Customize your SharePoint site](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) article on support.office.com. 
+## Tenant App Catalog Troubleshooting
+Custom Learning requires an App Catalog to be provisioned in the target tenant. Creating an app catalog requires Global Administrator permissions. Here’s are troubleshooting steps for common App Catalog issues:
 
-### Customize the **Ask Questions and Get Help** page
+### How to know if you have a Tenant app catalog 
+For starters, ensure that you have Global administrator permissions. See the steps for Tenant Admin permissions above.
 
-As a starting point for customizing the site, select Ask questions and get help from the menu bar, then click the SharePoint Edit button and change the images and the links. 
+1. From Office 365, click **Admin**, click the expand arrow >, click **Show all** > **Admin centers** > **SharePoint**.
+2. Click **Classic Admin SharePoint Center** > **apps** > **App Catalog**.
+3. Under **Apps**, you should see a tile titled **Distribute apps for SharePoint**. 
+If you see the tile, you have a Tenant App Catalog. See the **How to ensure your are a Site Colllection...** section below. If you don’t see the tile you will need to create a tenant app catalog for your tenant. See the **How to create a Tenant App Catalog** section below .
 
-![custom_ask.png](media/custom_ask.png)
+### How to ensure you are a Site Collection Owner on the Tenant App Catalog 
+To provision Custom Learning for Office 365, you will need to be a Site Collection Owner on the Tenant App Catalog. Here’s how to determin if you are an Owner.
 
-## Customize available services
+1. From Office 365, click **Admin**, click the expand arrow >, click **Show all** > **Admin centers** > **SharePoint**.
+2. Click **Classic Admin SharePoint Center**, and then select the **app catalog**.
+3. Select **Owner**, and then ensure you are a Site Collection Owner. It should look something like this.
+ 
+![cg-sitecollectionowner.png](media/cg-sitecollectionowner.png)
 
-1.	Navigate to the Custom Learning Administration page within the website
-![custom_admin.png](media/custom_admin.png)
-1. Select **Technology** to see the full list of services that are included in the solution
-1. Select a technology and **click the eye symbol** to hide this content.  Click the eye symbol again to show the content within the experience. 
-![custom](media/custom_techlist.png)
+### How to create a Tenant App Catalog if one doesn’t exists 
+1. Sign in to Office 365 with your SharePoint Online admin account.
+2. Click **Admin**.
+3. Under **Admin centers**, click **SharePoint**. 
+4. Click **Apps** > **App Catalog**.
+5. Click **Create a new app catalog site**, and then click **OK**. 
+6.	Enter the information for the App Catalog. You may want to include more than one Administrator. The following shows an example.  
 
-The same process can be repeated for categories of playlists within the experience.  Simply select the Category option to show/hide playlists. 
+![cg-appcatalogfinish.png](media/cg-appcatalogfinish.png)
 
-![custom_cat.png](media/custom_cat.png)
+7.	That’s it. You’re done. But before you move to provisioning Custom Learning, you need to wait at least 30 minutes to make sure the App Catalog creation is complete. 
 
-### Next Steps
-
-- [Customize and Share Playlists](customplaylist.md)
-- [Drive Adoption](driveadoption.md) 
+> [!IMPORTANT]
+> Wait at least 30 minutes after creating the Tenant App Catalog before provisioning Custom Learning. This ensures that the App Catalog provisioning process is complete within SharePoint. 
