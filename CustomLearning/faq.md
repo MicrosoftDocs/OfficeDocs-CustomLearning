@@ -40,3 +40,7 @@ Follow the installation instructions published [here](custom_provision.md).
 ### 6. We made updates to our implementation of Custom Learning for Office 365. Will we lose these updates (made to site template, playlists) if we reinstall the site?
 
 Customizations to individual pages and custom playlists will be lost if you reinstall the site over your current installation.  
+
+### 7. Why is the CustomLearningAdmin.aspx empty after provisioning?
+
+Browser extensions that block HTTP traffic may cause CustomLearningAdmin.aspx to appear empty or generate a 404 error. Try disabling browser extensions, such as AdBlock, and reloading the page.
