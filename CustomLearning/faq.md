@@ -23,7 +23,7 @@ Custom Learning for Office 365 is currently available only in English. Automatic
 
 Based on our testing of the installation, it should take less than 15 minutes. This does not include time required to customize the site to your requirements.
 
-### 4. Can we make the Custom learning for Office 365 a subsite of our primary SharePoint site collection?
+### 4. Can we make the Custom Learning for Office 365 a subsite of our primary SharePoint site collection?
 
 No. The site is based on a communication site template, which is always meant to be a root site collection.
 
