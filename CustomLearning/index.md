@@ -7,7 +7,7 @@ description: Learn how Custom Learning for Office 365 can accelerate usage and a
 ---
 
 # Custom Learning for Office 365 Beta Preview
-Custom Learning for Office 365 Beat Preview is a customizable, on-demand training solution designed to increase usage and adoption of Office 365 in an organization. 
+Custom Learning for Office 365 Beta Preview is a customizable, on-demand training solution designed to increase usage and adoption of Office 365 in an organization. 
 
 ## On-demand, custom training from Microsoft
 
