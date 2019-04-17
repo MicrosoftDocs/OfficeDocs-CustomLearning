@@ -74,7 +74,7 @@ Custom Learning for office 365 has introduced a variety of enhancements to the w
 1.	From the Custom Learning site, click **Settings**, and then click ***Add a Page**.
 2.	Click the **+** icon on the page to add a web part, and then select the **Custom Learning for Office 365** web part. The page should now look similar to the following graphic:
 
-[cg-adminapppage.png](media/cg-adminapppage.png)
+![cg-adminapppage.png](media/cg-adminapppage.png)
  
 ### Replace the old web part with the new web part
 Before replacing the Custom Learning web part or making changes to the site, we recommend you read the [Customize the Learning Experience](custom_overview.md) documentation as it explains how to use the new web part. 
