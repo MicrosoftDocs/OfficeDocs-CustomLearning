@@ -12,8 +12,8 @@ In some cases, you’ll want to hide content for a technology that’s not suppo
 
 ## Hide a Technology
 
-1. From the Custom Learning **Home** page, click the **Office 365 training** tile.
-2. From the Custom Learning Web part, select the **System** menu, then select **Administer Playlist**. You should now have two tabs open. One with the **Custom Learning Administration** page, and one with the **Office 365 training** page. 
+1. From the Microsoft 365 learning pathways **Home** page, click the **Microsoft 365 training** tile.
+2. From the Custom Learning Web part, select the **System** menu, then select **Administer Playlist**. You should now have two tabs open. One with the **Custom Learning Administration** page, and one with the **Microsoft 365 training** page. 
 3. From the **Custom Learning Administration** page, click a **Technology**, and then select the eyeball for the Technology to hide it. For this example, click the **Yammer** technology, and then hide it.  
 
 ![cg-hidetech.png](media/cg-hidetech.png)
