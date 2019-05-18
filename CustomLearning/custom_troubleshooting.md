@@ -1,14 +1,14 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Troubleshooting Custom Learning
+title:  Troubleshooting Microsoft 365 learning pathways
 ms.date: 02/10/2019
-description: Learn how to troubleshoot Custom Learning
+description: Learn how to troubleshoot Microsoft 365 learning pathways
 ---
 
-# Troubleshoot Custom Learning
+# Troubleshoot Microsoft 365 learning pathways
 
-Here are troubleshooting tips for problems that may occur with Custom Learning for Office 365 or the SharePoint Online Provisioning Service.
+Here are troubleshooting tips for problems that may occur with Microsoft 365 learning pathways or the SharePoint Online Provisioning Service.
 
 ## How to know if you have Tenant Admin permissions
 
@@ -37,7 +37,7 @@ For starters, ensure that you have Global administrator permissions. See the ste
 If you see the tile, you have a Tenant App Catalog. See the **How to ensure your are a Site Colllection...** section below. If you don’t see the tile you will need to create a tenant app catalog for your tenant. See the **How to create a Tenant App Catalog** section below .
 
 ### How to ensure you are a Site Collection Owner on the Tenant App Catalog 
-To provision Custom Learning for Office 365, you will need to be a Site Collection Owner on the Tenant App Catalog. Here’s how to determin if you are an Owner.
+To provision Microsoft 365 learning pathways, you will need to be a Site Collection Owner on the Tenant App Catalog. Here’s how to determine if you are an Owner.
 
 1. From Office 365, click **Admin**, click the expand arrow >, click **Show all** > **Admin centers** > **SharePoint**.
 2. Click **Classic Admin SharePoint Center**, and then select the **app catalog**.
