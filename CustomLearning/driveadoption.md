@@ -1,30 +1,36 @@
 ---
-title:                     # Driving Adoption of the Custom Learning Portal
-description:               # Steps for driving adoption of the Custom Learning portal
+title:                     # Driving Adoption of learning pathways
+description:               # Steps for driving adoption of learning pathways
 author: karuanag
 ms.author: karuanag
-ms.date: 3/13/19
+ms.date: 5/16/19
 ms.topic: getting-started  # how-to
 ---
 
-# Drive Adoption of Your Learning Portal
+# Drive adoption of your learning pathways portal
 
-Drive adoption of your Custom Learning experiences with these simple steps and tools. 
+To help accelerate adoption of Microsoft 365 learning pathways, we've created a [downloadable adoption kit](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip). The kit includes an overview of best practices for driving adoption, sample email templates based on common scenarios, and a handy calendar for planning your communications campaign for your new learning pathways site.  Use our templates or simply review them for inspiration to create your own communications campaign.  
 
-We understand that training solutions are only as good as the usage they receive in your organization. That's why we've created these simple steps and templates to help you drive awareness and adoption of our tools. Start with these steps after you have configured the site template in your SharePoint Online environment.
+At a minimum, to ensure success, we recommend you:
+
+1. Communicate about the launch of the learning pathways site to your employees.  
+2. Connect learning pathways to common tasks that your employees can learn or improve upon.
+3. Sustain the communications campaign over a period of time so employees have an opportunity to understand the messsage.
+4. Encourage feedback through a Yammer community or Microsoft Team. 
+5. Reach out to key business leaders in your organization and encourage them to build playlists for common tasks and processes that they would like their team members to learn.  
 
 ## Connect learning to other business outcomes
-You will have the best results when the launch of the Custom Learning experience is incorporated in any other service deployment or upgrade projects.  This will give your employees a clear reason to visit the site.  Examples might be an upgrade of SharePoint Online or deployment of Microsoft Teams.  You can include phrases like:
+You will have the best results when the launch of the learning pathways experience is incorporated in any other service deployment or upgrade projects.  This will give your employees a clear reason to visit the site.  Examples might be an upgrade of SharePoint Online or deployment of Microsoft Teams.  You can include phrases like:
 
-"To learn more quick tips about <Insert service name here> visit our Custom Learning portal for Office 365." 
+"To learn more quick tips about <Insert service name here> visit the Microsoft 365 learning pathways site." 
 
 ## Align the training site to investments in your employee learning 
 
-Work with your human resources team to align the launch of your training portal with any other employee training initiatives that are being implemented in your company. 
+Work with your human resources team to align the launch of your training site with any other employee training initiatives that are being implemented in your company. 
 
 ## Join the Driving Adoption community
 
-Share your experience with the learning portal in our Driving Adoption community online.  Find us at https://aka.ms/DriveAdoption.
+Share your experience with Microsoft 365 learning pathways in our Driving Adoption community online.  Find us at https://aka.ms/DriveAdoption.
 
 ## Give us Feedback
 
