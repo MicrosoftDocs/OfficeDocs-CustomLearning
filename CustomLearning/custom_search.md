@@ -3,15 +3,15 @@ author: pkrebs
 ms.author: pkrebs
 title:  Search
 ms.date: 02/10/2019
-description: Search in Custom Learning
+description: Search in Microsoft 365 learning pathways
 ---
 
-# Search for Custom Learning content
+# Search for Microsoft 365 learning pathways content
 
-Custom Learning provides the ability to search for content by subcategory, playlist, or asset. 
+Microsoft 365 learning pathways provides the ability to search for content by subcategory, playlist, or asset. 
 
 > [!TIP]
-> Custom Learning Search is scoped to Custom Learning content, including the content provided by Microsoft  and any content added to custom playlists or subcategories. Custom Learning Search does not include the SharePoint pages in its Search results.     
+> Microsoft 365 learning pathways Search is scoped to learning pathways content, including the content provided by Microsoft and any content added to custom playlists or subcategories. SharePoint pages that are not in a learning pathways playlist are not included in Search results.     
 
 - Click the **Search** icon and type a Search phrase. 
 
