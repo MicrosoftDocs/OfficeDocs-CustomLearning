@@ -20,6 +20,6 @@ For organizations that already have an established SharePoint Online modern comm
 - For Manual web part installation instructions, see see [Manually install the web part](custom_manualsetup.md). 
 
 ## Update learning pathways
-Organizations that may have participated in a Custom Learning Pilot Program, or already have Custom Learning provisioned, can follow the [Update learning pathways](custom_upgrade.md) instructions.   
+Organizations that have used the SharePoint Online Provisioning Service to install earlier versions of Microsoft 365 learning pathways, previously called Custom Learning for Office 365,can update the solution to the latest version. For instructions on how to check the version deployed against the most recent version of the solution, along with instructions on how to update the solution, see the "Updating the solution" section of the [ReadMe file](https://github.com/pnp/custom-learning-office-365/blob/master/README.md).
 
 ### Next Steps - [Provision Microsoft 365 learning pathways](custom_provision.md)
