@@ -16,7 +16,7 @@ The Custom Learning Administration page is the central controlling point for adm
 ## Access from the Custom Learning Web part - preferred method
 As we'll show you in this example, opening the Custom Learning Administration page from the web part is the preferred method since it opens the Admin page in a new browser window. With this method, it's easy to flip back and forth between the tabbed pages to check or modify your work.  
 
-1. From the Microsoft 365 Learning Pathways Home page, click the **Office 365 training** tile.
+1. From the Microsoft 365 learning pathways Home page, click the **Office 365 training** tile.
 2. Click the **System** menu, then click **Administer Playlist**. 
 
 ![cg-adminaccbtn.png](media/cg-adminaccbtn.png)

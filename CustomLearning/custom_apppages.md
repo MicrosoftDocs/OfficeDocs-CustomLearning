@@ -1,4 +1,4 @@
-Mi---
+---
 author: pkrebs
 ms.author: pkrebs
 title:  Get to know the SharePoint Application pages
@@ -29,7 +29,7 @@ The CustomLearningViewer.aspx page provides a viewer for displaying learning pat
 
 ### View CustomLearningViewer.aspx
 
-1. Click the SharePoint **Settings** icon, and then click **Site Contents**. 
+1. Click the SharePoint **Settings** icon, and then click **Site Contents** > **Site Pages**. 
 2. Click **CustomLearningViewer.aspx**. 
 
 ![cg-viewerapppage.png](media/cg-viewerapppage.png)
