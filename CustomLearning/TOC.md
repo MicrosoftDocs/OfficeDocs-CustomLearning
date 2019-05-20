@@ -1,5 +1,5 @@
 # [Get Started](index.md)
-## [Microsoft 365 Learning pathways Setup Options](custom_setupoptions.md)
+## [Microsoft 365 Learning pathways setup options](custom_setupoptions.md)
 ## [Provision Microsoft 365 learning pathways](custom_provision.md)
 ## [Explore the Microsoft 365 learning pathways site](custom_exploresite.md)
 ## [Stand alone web part setup](custom_manualsetup.md)
