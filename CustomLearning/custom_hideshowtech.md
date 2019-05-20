@@ -14,7 +14,7 @@ In some cases, you’ll want to hide content for a technology that’s not suppo
 
 1. From the Microsoft 365 learning pathways **Home** page, click the **Recommended playlists** tile.
 2. From the Custom Learning Web part, select the **System** menu, then select **Administer Playlist**. You should now have two tabs open. One with the **Recommended playlists** page, and one with the **Custom Learning Administration** page. 
-3. From the **Custom Learning Administration** page, click a **Technology**, and then select the eyeball for the Technology to hide it. For this example, click the **Yammer** technology, and then hide it.  
+3. From the **Custom Learning Administration** page, click a **Technology**, and then select the eyeball for the technology to hide it. For this example, click the **Yammer** technology, and then hide it.  
 
 ![cg-hidetech.png](media/cg-hidetech.png)
 
