@@ -47,4 +47,4 @@ Before getting started with this guide, ensure that learning pathways has been s
 Once you've ensured you have the necessary permissions to customize the site and web part, 
 it's time to get started with the customization process. 
 
-- To get started, see [Go to the learning pathways Site](custom_goto.md).
+- To get started, see [Go to the learning pathways site](custom_goto.md).
