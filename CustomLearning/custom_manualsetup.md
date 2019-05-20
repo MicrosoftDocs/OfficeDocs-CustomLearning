@@ -7,11 +7,11 @@ description: Microsoft 365 learning pathways manual web part setup
 ---
 # Stand alone web part setup
 
-Microsoft 365 learning pathways offers a manual, stand alone web part setup for those organizations that already have an established SharePoint Online modern communication site dedicated to training, or that just want to set up the learning pathways web part in their own communication site. Note that the manual setup requires experience working with Windows PowerShell and the SharePoint Online Management Shell. The steps for a manual set up of the learning pathways Web part as as follows:
+Microsoft 365 learning pathways offers a manual, stand-alone web part setup for those organizations that already have an established SharePoint Online modern communication site dedicated to training, or that just want to set up the learning pathways web part in their own communication site. Note that the manual setup requires experience working with Windows PowerShell and the SharePoint Online Management Shell. The steps for a manual set up of the learning pathways Web part as as follows:
 
 - Validate that you have met all the prerequisites.
-- Install the customlearning.sppkg file in your Office 365 Tenant App Catalog.
-- Provision/Identify a modern communication site to act as your learning pathways for Office 365 home site.
+- Install the customlearning.sppkg file in your SharePoint Tenant App Catalog.
+- Provision/Identify a modern communication site to act as your Microsoft 365 learning pathways home site.
 - Execute a PowerShell script that will configure your tenant with the appropriate artifacts that learning pathways depends on.
 - Navigate to the CustomLearningAdmin.aspx site page to load the admin web part to initialize the custom content configuration.
 
@@ -33,12 +33,12 @@ As part of the setup process, you'll need the Microsoft 365 learning pathways We
 - Click **Download** to save the web part package and script to a local drive. You'll be using the script and the web part package in later steps of this process.
 
 ## Step 2 - Upload the web part to the Tenant App Catalog
-To set up learning pathways for Office 365, you upload the customlearning.sppkg file to the tenant-wide App Catalog and deploy it. Please see [Use the App Catalog to make custom business apps available for your SharePoint Online environment](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) for detailed instructions on how to add an app to the app catalog.
+To set up Microsoft 365 learning pathways, you upload the customlearning.sppkg file to the tenant-wide App Catalog and deploy it. Please see [Use the App Catalog to make custom business apps available for your SharePoint Online environment](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) for detailed instructions on how to add an app to the app catalog.
 
 ## Step 3 - Provision/identify a modern communication site
 Either identify an existing SharePoint communication site or provision a new one in your SharePoint Online tenant. For more information about how to provision a communication site see [Create a communication site in SharePoint Online](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) and follow the steps to create a communication site.
 
-## Step 4 - Add the learning pathways for Office 365 app to the site
+## Step 4 - Add the Microsoft 365 learning pathways app to the site
 
 1. From the SharePoint site, click the System menu, then click **Add an App**. 
 2. Under **Your Apps**, click **From Your Organization**, and then click **learning pathways for Office 365**. 
