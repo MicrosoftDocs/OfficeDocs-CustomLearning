@@ -39,11 +39,11 @@ The web part on the **Start-with-Six-Simple-Steps.aspx** page is configured to s
 
 ![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
 
-## View all Office 365 training
+## View all Microsoft 365 training
 
-The Web part on the **Office 365 training** page is configured to show all the categories and subcategories available from the learning pathways catalog. This includes subcategories from Microsoft along with any subcategories that you create for your organization.
+The Web part on the **Microsoft 365 training** page is configured to show all the categories and subcategories available from the learning pathways catalog. This includes subcategories from Microsoft along with any subcategories that you create for your organization.
 
-- From the learning pathways Home page, click **Office 365 training**. The page appears appears with the Web part configured to show all the categories and subcategories available from the Custom Learning catalog.
+- From the learning pathways Home page, click **Microsoft 365 training**. The page appears appears with the Web part configured to show all the categories and subcategories available from the Custom Learning catalog.
 
 ![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
 
