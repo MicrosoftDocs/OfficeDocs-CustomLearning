@@ -2,7 +2,7 @@
 author: pkrebs
 ms.author: pkrebs
 title:  Hide and show technology
-ms.date: 02/15/2019
+ms.date: 05/20/2019
 description: How to hide and show technology
 ---
 
@@ -12,15 +12,14 @@ In some cases, you’ll want to hide content for a technology that’s not suppo
 
 ## Hide a Technology
 
-1. From the Microsoft 365 learning pathways **Home** page, click the **Microsoft 365 training** tile.
-2. From the Custom Learning Web part, select the **System** menu, then select **Administer Playlist**. You should now have two tabs open. One with the **Custom Learning Administration** page, and one with the **Microsoft 365 training** page. 
-3. From the **Custom Learning Administration** page, click a **Technology**, and then select the eyeball for the Technology to hide it. For this example, click the **Yammer** technology, and then hide it.  
+1. From the Microsoft 365 learning pathways **Home** page, click the **Recommended playlists** tile.
+2. From the Custom Learning Web part, select the **System** menu, then select **Administer Playlist**. You should now have two tabs open. One with the **Recommended playlists** page, and one with the **Custom Learning Administration** page. 
+3. From the **Custom Learning Administration** page, click a **Technology**, and then select the eyeball for the technology to hide it. For this example, click the **Yammer** technology, and then hide it.  
 
 ![cg-hidetech.png](media/cg-hidetech.png)
 
 ### Verify the playlist is hidden
-1. To verify **Yammer** technology is hidden, select the browser tab with the **Office 365 training** page loaded, and then refresh the page. You should now see the Yammer subcategory is hidden. 
-2. Click the **Recommended** subcategory. You'll notice that the Connect your organization with Yammer playlist is hidden. 
+- To verify **Yammer** technology is hidden, select the browser tab with the **Recommended playlists** page loaded, and then refresh the page. You'll notice that the Connect your organization with Yammer playlist is hidden. 
 
 ![cg-hidetechrefresh.png](media/cg-hidetechrefresh.png)
 

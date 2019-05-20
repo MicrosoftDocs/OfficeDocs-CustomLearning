@@ -12,8 +12,8 @@ With Microsoft Learning Administration, you can hide and show subcategories. For
 
 ## Hide a subcategory 
 
-1. From the Microsoft 365 lLearning pathways Home page, click the **Microsoft 365 training** tile.
-2. From the Microsoft 365 learning pathwasy Web part, select the System menu, then select **Administer Playlist**. You should now have two tabs open: One with the **Custom Learning Administration** page, and one with the **Microsoft 365 training** page. 
+1. From the Microsoft 365 learning pathways Home page, click the **Recommended** tile.
+2. From the Microsoft 365 learning pathways Web part, select the System menu, then select **Administer Playlist**. You should now have two tabs open: One with the **Custom Learning Administration** page, and one with the **Microsoft 365 training** page. 
 3. From the **Custom Learning Administration** page, under **Category**, select a subcategory, and then select the eyeball for the subcategory to hide it. For this example, hide the **Yammer** subcategory.  
 
 ![cg-hidesubcat.png](media/cg-hidesubcat.png)
