@@ -10,12 +10,12 @@ description: How to link to Microsoft 365 learning pathways assets
 
 With learning pathways, there are two ways to link to content:
 
-- Link to the page that host the Web part filtered for the content you want to display. 
+- Link to the page that host the Web part filtered for the content you want to display 
 - Link directly to an instance of the Web part
 
 ## Link to a page
 
-If you've created new pages and learning experiences with the Microsoft 365 learning pathways Web part, you can link to the page with the Web part configured to show the content you want to display. In the previous section, we covered how to display Excel playlists on a page. You could now edit the Home page to link to the page. 
+If you've created new pages and learning experiences with the Microsoft 365 learning pathways web part, you can link to the page with the Web part configured to show the content you want to display. In the previous section, we covered how to display Excel playlists on a page. You could now edit the Home page to link to the page. 
 
 1. From the Home page, click **Edit**.
 2. Click **Edit details** in one of the Home page tiles. In this example, we edit the **Recommended playlists** tiles.
