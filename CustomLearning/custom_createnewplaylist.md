@@ -12,7 +12,7 @@ When you create a playlist, you first create the playlist with the playlist deta
 
 ## Create a playlist 
 
-1. From the Custom Learning **Home** page, click **Office 365 training**, select the system menu from the Web part, and then select **Administer Playlist**. 
+1. From the Microsoft 365 learning pathways **Home** page, click **Office 365 training**, select the system menu from the Web part, and then select **Administer Playlist**. 
 2. Select a subcategory. In this example, select **First Days**.  
 3. Click the + icon.  
 

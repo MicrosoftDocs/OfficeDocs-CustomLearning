@@ -3,24 +3,24 @@ author: pkrebs
 ms.author: pkrebs
 title:  Add assets to a playlist
 ms.date: 02/17/2019
-description: Add new and existing assets to a custom learning playlist
+description: Add new and existing assets to a learning pathways playlist
 ---
 
 # Add Assets to a Custom Playlist
 
-With Custom Learning, you can add the following assets to a playlist:
+With learning pathways, you can add the following assets to a playlist:
 
-- **Existing Custom Learning assets** - these are assets that are part of the Microsoft online catalog or assets that your organization has already added to Custom Learning.
-- **New assets** - these are assets that you add to Custom Learning that are built from SharePoint pages that you create or SharePoint assets that are already available on a SharePoint site in your organization. 
+- **Existing Microsoft 365 learning pathways assets** - these are assets that are part of the Microsoft online catalog or assets that your organization has already added to learning pathways.
+- **New assets** - these are assets that you add to learning pathways that are built from SharePoint pages that you create or SharePoint assets that are already available on a SharePoint site in your organization. 
 
 > [!TIP]
-> If a Microsoft playlist asset doesn't meet your needs, create a new playlist and then add the Microsoft assets and any newly created assets to the playlist to build the experience you want. You can't modify Custom Learning playlists supplied by Microsoft, but you can add Custom Learning-supplied assets to a custom playlist.   
+> If a Microsoft playlist asset doesn't meet your needs, create a new playlist and then add the Microsoft assets and any newly created assets to the playlist to build the experience you want. You can't modify learning pathways playlists supplied by Microsoft, but you can add learning pathways-supplied assets to a custom playlist.   
 
 ## Create a new asset for a playlist
 
 There are two options for adding a new asset to a playlist.
 
-- **Create Asset Page** - with this option, Custom Learning will generate a new,  blank SharePoint page for you and add it to the playlist. You can then add content to the page and save it.  
+- **Create Asset Page** - with this option, learning pathways will generate a new,  blank SharePoint page for you and add it to the playlist. You can then add content to the page and save it.  
 - **Enter the URL** - with this option, you build the page in advance or you already have the page available and you specify the URL to add the page to the playlist.
 
 ### Create Asset Page 
@@ -60,7 +60,7 @@ With the **Enter the URL** option, you provide a title for the Asset, then click
 
 ## Add an existing asset to a playlist
 
-Existing assets consist of Microsoft-provided Custom Learning assets or assets that have already been added to Custom Learning by your organization. 
+Existing assets consist of Microsoft-provided learning pathways assets or assets that have already been added to learning pathways by your organization. 
 
 - In the **Search** box, enter a Search phrase, and then select an asset from the Search results. In this example, enter “What is Excel?” to add an Excel intro topic to the playlist.
 
@@ -86,6 +86,6 @@ Now that you've added assets to a playlist, let's close the playlist and see it 
 1. Click **Close Playlist**.
 2. Click the tab with the **Office 365 training** page.
 3. Refresh the page, and then click **First Days** under **Get Started**.
-4. Click **Custom Learning Starter Kit** to view your first playlist in action. 
+4. Click **Learning Pathways Starter Kit** to view your first playlist in action. 
 
 ![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)
