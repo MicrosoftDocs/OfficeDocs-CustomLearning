@@ -9,6 +9,9 @@ description: Learn how Microsoft 365 learning pathways can accelerate usage and 
 # Microsoft 365 learning pathways Beta Preview
 Microsoft 365 learning pathways, formerly known as Custom Learning for Office 365, is a customizable, on-demand training solution designed to increase usage and adoption of Microsoft 365 services in your organization.  
 
+> [!NOTE]
+> As of 5/21/2019, Custom Learning for Office 365 is being renamed Microsoft 365 learning pathways. The name is being changed to align with Microsoft 365 brand efforts and to better represent future direction of the solution.   
+
 ## On-demand, custom training from Microsoft
 
 Microsoft 365 learning pathways offers:
