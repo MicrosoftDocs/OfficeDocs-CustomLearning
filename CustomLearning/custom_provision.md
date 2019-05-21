@@ -28,6 +28,8 @@ To successfully set up Microsoft 365 learning pathways with the Provisioning Ser
 
 ![in](media/inst_perms.png)
 
+The provisioning service requires these permissions to create the tenant app catalog, install the application into the tenant app catalog and provision the site template. There is no overall impact on your tenant and these permissions are explicitly used for the purpose of the solution installation. You must accept these permissions to proceed with the installation.
+
 3. Scroll down the page, select the **Solutions** tab, and then select **learning pathways for Office 365**. 
 
 ![in](media/inst_select.png)
