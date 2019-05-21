@@ -40,7 +40,7 @@ The provisioning service requires these permissions to create the tenant app cat
 
 5. Complete the fields on the provisioning information page as appropriate for your installation. At a minimum enter the email address where you wish to get notifications about the provisioning process and the destination URL for your site to be provisioned to.  
 > [!NOTE]
-> Make the destination URL for your site something friendly to your employees such as "/sites/MyTraining" or "/teams/LearnOffice365".
+> Make the destination URL for your site something friendly to your employees such as "/sites/MyTraining" or "/teams/LearnMicrosoft365".
 
 ![inst_options.png](media/inst_options.png)
 
