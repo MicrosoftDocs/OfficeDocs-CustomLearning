@@ -9,6 +9,10 @@ description: Setup Option for Custom Learning setup
 # Learning pathways setup options
 Learning pathways provides the flexibility to set up the solution in a couple different ways. The following sections outline the options available.
 
+> [!IMPORTANT]
+> As of 5/21/2019, Microsoft 365 learning pathways is the new name for the solution formerly known as Custom Learning for Office 365. If you have already provisioned Custom Learning for Office 365 in your organization and want to update the solution, follow the “Updating the solution” instructions in the [Microsoft 365 learning pathways ReadMe](https://github.com/pnp/custom-learning-office-365). If you are provisioning Microsoft 365 learning pathways for the first time, see [Provision Microsoft 365 learning pathways instructions]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) in the Microsoft 365 learning pathways documentation.  
+
+
 ## Recommended - SharePoint Online Provisioning Service Setup 
 The SharePoint Online Provisioning Service provides the fastest, easiest, and recommended method for setting up Custom Learning. With the SharePoint Online Provisioning Service, an Office 365 tenant admin signs into the service, makes a few choices, and clicks **Add to Tenant** to provision the Custom Learning Site and the Custom Learning Web part. When provisioning is done, the Tenant Admin receives an email that the site is ready to go. 
 
