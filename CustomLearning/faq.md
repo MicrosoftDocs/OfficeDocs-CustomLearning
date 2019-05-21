@@ -8,6 +8,10 @@ description: Frequently asked questions information for Microsoft 365 learning p
 
 # Frequently Asked Questions
 
+### I recently saw a blog post that Custom Learning for Office 365 is being renamed to Microsoft 365 learning pathways. Are there other changes being added to the solution as part of the renaming effort? Should I update the solution in my organization?
+
+The Microsoft 365 learning pathways release is a rebranding effort dedicated to changing the name of the solution to align with Microsoft 365 branding. If you have Custom Learning for Office 365 currently running successfully in your organization, it’s not necessary to update the solution at this time.  
+
 ### What are the requirements for installing Microsoft 365 learning pathways into my tenant environment?
 
 - SharePoint Online and Communication Sites enabled.
