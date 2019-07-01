@@ -19,7 +19,7 @@ The CustomLearningAdmin.aspx page provides Administrative features for learning 
 
 ### View CustomLearningAdmin.aspx
 
-1. Click the SharePoint **Settings** icon, and then click **Site Contents**. 
+1. Click the SharePoint **Settings** icon, and then click **Site Contents** > **Site Pages**. 
 2. Click **CustomLearningAdmin.aspx**. 
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
