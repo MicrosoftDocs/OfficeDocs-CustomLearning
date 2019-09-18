@@ -15,7 +15,7 @@ At a minimum, to ensure success, we recommend you:
 
 1. Communicate about the launch of the learning pathways site to your employees.  
 2. Connect learning pathways to common tasks that your employees can learn or improve upon.
-3. Sustain the communications campaign over a period of time so employees have an opportunity to understand the messsage.
+3. Sustain the communications campaign over a period of time so employees have an opportunity to understand the message.
 4. Encourage feedback through a Yammer community or Microsoft Team. 
 5. Reach out to key business leaders in your organization and encourage them to build playlists for common tasks and processes that they would like their team members to learn.  
 
