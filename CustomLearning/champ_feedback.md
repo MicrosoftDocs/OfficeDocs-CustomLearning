@@ -24,4 +24,4 @@ Use [Microsoft Forms](https://support.office.com/en-us/forms) to conduct short s
 ## Highlight the Wins: Share Showcases
 As you continue along this journey, you will find showcases of employees whose creativity with Office 365 will surprise and delight you. We recommend that you share these showcases broadly. This will encourage others to be innovative, educate users who may be earlier in the adoption curve, and reward those who’ve taken the time to think through how to best use Office 365 in their environment. Setting a measurable goal of identifying a set number of showcases each quarter is helpful in maintaining your adoption momentum.
 
-Share these showcases in your pubic communities to inspire other employees and help them learn the benefits of Office 365.  
+Share these showcases in your public communities to inspire other employees and help them learn the benefits of Office 365.  
