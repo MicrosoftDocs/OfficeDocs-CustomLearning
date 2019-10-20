@@ -33,4 +33,4 @@ Search capabilities in Playlists builder has been improved. Duplicate content ha
 ![cg-hidesubcat.png](media/cg-hidesubcat.png)
 
 ## Microsoft 365 Product Road Map
-If you'd like to get the latest updates on Microsoft 365 all-up, see the . [Microsoft 365 Product Road Map](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=)
+If you'd like to get the latest updates on Microsoft 365 all-up, see the . [Microsoft 365 Product Road Map](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=).
