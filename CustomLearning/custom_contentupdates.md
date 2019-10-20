@@ -85,6 +85,3 @@ The Visio subcategory of content has been added with the following playlists.
 - Create forms (1 asset)
 - Create reports (2 assets)
 - Protect databases (1 asset)
-
-
-
