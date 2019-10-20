@@ -7,7 +7,7 @@ description: Microsoft 365 learning pathways content update
 ---
 
 # November 2019 Content Updates
-Welcome to the Microsoft 365 learning pathways content update. We offer an update of the inventory of the learning pathways catalog on a quarterly basis. The following new content categories and playlists have been added to the catalog. To learn more about how content updates are applied see <link>. Test thing
+Welcome to the Microsoft 365 learning pathways content update. We offer an update of the inventory of the learning pathways catalog on a quarterly basis. The following new content categories and playlists have been added to the catalog. To learn more about how content updates are applied see <link>. Test thing again
 
 ## Teams
 Several new playlist have been added to the Teams subcategory.
