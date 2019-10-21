@@ -44,3 +44,17 @@ If the Admin inventory isn’t quite enough detail, take a look at Microsoft 365
 ## Review the learning resources in your organization
 Take stock of the learning content already available to you in your organization.
 Many organizations already have learning assets that they can leverage. For example, many organizations have custom Quick Start Guides, Cheat Sheets, or SharePoint pages already dedicated to Microsoft 365 readiness, HelpDesk, onboarding or training. Existing SharePoint assets can be incorporated into the Microsoft 365 Portal playlists and or mixed with Microsoft content in a playlist to build a targeted playlist for your organization. In general, orgs tend to follow the 20/80 rule. Use 20% of your own content to target specific policies and instructions, use the remaining content from Microsoft to cover more generalized learning, instructions, and onboarding. To understand how you can mix your organizations content with Microsoft-provided content, see <Customizing Learning Pathways>
+
+## Build a Learning Plan and Customize 
+
+Many companies who’ve successfully rolled out Learning Pathways have adopted Learning campaigns focusing on specific scenarios or technologies. Getting people up to speed using OneDrive. Some even have slogans attached to their campaigns to help users understand what’s in it for them. Think “Be more mobile with Outlook mobile.” We like to think of it in terms of being more: For example, if you’re switching from working off of hard drives to oneline through OneDrive and SharePoint. 
+
+- Joining and using teams to collaborate. 
+- Creating, sharing, and collaborating on documents, be it PowerPoint, Excel, or Word
+- Be more mobile with Outlook mobile. 
+
+Here’s an example of a Learning Campaign centered around Teams – using a landing page focused specifically on Teams, with a mixture of Microsoft Playlists and Playlists created by an organization, along with links to organizational resources – such as training sessions, webinars, frequently asked questions, contact helpdesk, or find a champion. “Achieve more together with Microsoft Teams.”
+ 
+## Leverage the Adoption Resources
+Note that you can get started using Learnnig Pathways within days, but it’s best to do some up front planning before executing a learning campaign strategy to onboard a new technology or set of services. When developing a content plan and using learning pathways is really part of a more extensive effort in planning an overall Change Management Strategy, we provide a host of materials that you can leverage for planning a Change Management Strategy. This area will focus on how to plan and craft the Learning Pathways content to meet your goals, be it to get your users up-to-speed using Teams, sharing and collaborating on documents, finding information across silos, or getting more proficient with a particular technology. Keep in mind that there are phases, including prepare, manage, and reinforce change.   We’re giving you the tools to execute on the last mile. But be sure to take a look at the Adoption Resources available to you.
+
