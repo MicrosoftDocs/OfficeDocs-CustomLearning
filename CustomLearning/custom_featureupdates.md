@@ -23,14 +23,13 @@ Based on customer feedback, we've made navigation more obvious with Next and Pre
 ![cg-hidesubcat.png](media/cg-hidesubcat.png)
 
 ## Copy a Playlist
-Many customers have expressed the need to modify just a few simple things in a playlist. For example, just remove one assets and replace it with another. A common request was to remove a step from 6 simple steps. Now you can copy a playlist from an existing playlist. For example, you can now copy six simple steps, delete 3 steps, and turn the playlist into 3 simple steps.
+Many customers have expressed the need to modify just a few simple things in a playlist. For example, just remove one assets and replace it with another. A common request was to remove a step from 6 simple steps. Now you can copy a playlist from an existing playlist. For example, you can now copy six simple steps, delete 3 steps, and turn the playlist into 3 simple steps. For more 
 
 ![cg-hidesubcat.png](media/cg-hidesubcat.png)
 
 ## Improved Search capabilities 
-Search capabilities in Playlists builder has been improved. Duplicate content has been removed. 
+Search capabilities when building a playlist from the Administration page have been improved. Search results provide additional details to distinguish duplicate names in Search returns.
 
 ![cg-hidesubcat.png](media/cg-hidesubcat.png)
 
-## Microsoft 365 Product Road Map
-If you'd like to get the latest updates on Microsoft 365 all-up, see the . [Microsoft 365 Product Road Map](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=).
+
