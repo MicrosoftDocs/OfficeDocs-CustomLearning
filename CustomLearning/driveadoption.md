@@ -62,7 +62,7 @@ You will have the best results when the launch of the Microsoft 365 learning pat
 ## Align the training site to investments in your employee learning
 Work with your human resources team to align the launch of your training site with any other employee training initiatives that are being implemented in your company.
 
-## Next steps
+## Next steps test
 1.	Create an adoption plan for the rollout of Microsoft 365 learning pathways in your organization.
 2.	Pilot your customized version of Microsoft 365 learning pathways with a representative group of end users and do a dry run of your adoption plan. Based on feedback from the pilot iterate a final adoption plan.
 3.	Run your adoption campaign over a sustained period of time. 
