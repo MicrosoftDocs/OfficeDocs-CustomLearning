@@ -1,87 +1,46 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  November 2019 Content Updates
+title:  Create your content plan
 ms.date: 10/20/2019
 description: Microsoft 365 learning pathways content update
 ---
 
-# November 2019 Content Updates
-Welcome to the Microsoft 365 learning pathways content update. We offer an update of the inventory of the learning pathways catalog on a quarterly basis. The following new content categories and playlists have been added to the catalog. To learn more about how content updates are applied see <link>. Test thing again
+# Create a content plan
+Before you dive into rolling out Microsoft 365 learning pathways, it’s a good idea to take some time to understand the learning content, tools and capabilities available to you. First off, keep in mind that we’ve developed Learning Pathways to help you onboard users to Microsoft 365 and it’s technologies, to change the way users work, to make them more productive, and thus, make your organization more productive. But what does that mean? Our goal is to get your users up to speed, and productive as quickly as possible. To change their behaviors, make them more productive, and thus, make your organization more productive. We like to think in terms of learning campaigns. It’s a 3 step process:
 
-## Teams
-Several new playlist have been added to the Teams subcategory.
-- Work with posts and messages (3 assets)
-- Upload and find files (2 assets)
-- Set up and attend live events (4 assets)
-- Manage your activity feed (2 assets)
-- Teams on the go (2 assets)
+1. Review the resources available – both the resources provided through learning pathways and the resources available in your organization. The best learning plans combine both.
+2. Get to know the capabilities of the Learning Pathways tool - we'll give you a quick tour. 
+3. Create a content plan – review the available Adoption Guides will help with building an overall plan.
 
-## Microsoft 365 Success Center
-We've added a Microsoft 365 learning pathways Success Center subcategory to the learning pathways experience. The Success Center provides the following playlists.
-- What’s New, What Changed (1 asset)
-- Plan your training content (3 assets)
-- Customize learning pathways (8 assets?)
-- Drive Adoption of learning pathways (1 asset)
-- Measure impact of learning pathways (1 asset)
+# Review the available resources
+Before you create a content plan for Microsoft 365 learning pathways, take some time to discover all the resources that are available to you. 
 
-## Outlook
-The following playlists has been added to the Outlook subcategory. 
-- Outlook mobile: Manage your inbox
-- Outlook mobile: Manage your time
-- Outlook mobile: People and connections
-- Outlook mobile: Search and share
+## Review the Web site
+Microsoft 365 learning pathways provides a SharePoint communication site with a web part that's connected to an online catalog. The SharePoint site is fully customizable, including the pages, menu items, themes, and tiles. For more information, see <customizing the site section>.
 
-## Planner
-The following playlist has been added to Planner. 
-- Ideas for your board (4 assets)
+## Review the content from the Online catalog with the Web part
+The Web part, by default, is added to a series of pages in the SharePoint Communication site. There are three basic ways to review the content that is available to you. 
+1. From the Learning Pathways site, click the Microsoft 365 training menu. 
+2. Click through the content to get a feel for what’s available. 
 
-## Stream
-The Stream subcategory of content has been added with the following playlists. 
-- Overview of Microsoft Stream (6 assets)
-- Create content with Microsoft Stream (10 assets)
-- Share content with Microsoft Stream (3 assets)
-- Manage Microsoft Stream content (10 assets)
-- Microsoft Stream in other apps (7 assets)
-- Live Events in Microsoft Stream (5 assets)
+Content delivered through the catalog to the Web part is structured as follows:
 
-## Accessibility
-The Accessibility subcategory of content has been added with the following playlists. 
-- Microsoft 365 Accessibility Overview and Resources (3 assets)
-- Create more accessible email messages in Outlook (3 assets)
-- Create more accessible Word documents (8 assets)
-- Create more accessible Excel workbooks (3 assets)
-- Create more accessible slides in PowerPoint (5 assets)
+- Content set – Microsoft 365 learning pathways is the default content set provided by Microsoft that feeeds the Web part. At this time only the Microsoft 365 learning pathways content set is provided.  
+- Categories – are containers for subcategories. Categories can’t be modified.
+- Subcategories – are containers for playlists. Microsoft provides subcategories. You can also create your own subcategories. 
+- Playlists – Playlists are containers for assets. Microsoft provides a set of default playlists. You can also create your own playlists.
+- Assets – Microsoft provides assets through it’s online catalog that are made available through the Web part. You can create your own assets and add them to a custom playlist
 
-## OneDrive
-NOTE: Changes need to be added here...
+## View the Administration Page
+The Administration page provides a listing of the content available to you. This is where you can hide content, create new playlists, and add, edit, and remove playlist. Click through the various categories and playlists to see the full breath of the content available. 
 
-## Sway
-The Sway subcategory of content has been added with the following playlists. 
-- Sway Quick Start (4 assets)
-- Share and access Sway (5 assets)
-- Add content to Sway (11 assets)
-- Customize Sway (5 assets)
+1. From the Microsoft 365 Training Page, click the Gear icon. 
+2. Then click through the various categories, subcategories, and playlists to get a feel for the breath of content available to you. 
 
-## Visio
-The Visio subcategory of content has been added with the following playlists. 
-- Visio Quick Start (3 assets)
-- Intro to Visio (5 assets)
-- Create diagrams (5 assets)
-- Add shapes and connectors (6 assets)
-- Add text, pictures, and tables (5 assets)
-- Design a diagram (8 assets)
-- Share and protect (4 assets)
-- Customize shapes and stencils (3 assets)
+## Review the full inventory
+If the Admin inventory isn’t quite enough detail, take a look at Microsoft 365 learning pathways Inventory Spreadsheet. It includes a full list of metadata, categories, subcategories,playlists, and assets. It’s a good way to see what’s available. The Inventory Spreadsheet is here. <Insert link – have Mona clean it up>
 
-## Access
-- Access Quick Start (4 assets)
-- Intro to Access (3 assets)
-- Create an Access database (2 assets)
-- Add tables (2 assets)
-- Use relationships (5 assets)
-- Add and edit data (2 assets)
-- Manage data with queries (5 assets)
-- Create forms (1 asset)
-- Create reports (2 assets)
-- Protect databases (1 asset)
+## Review the learning resources in your organization
+Take stock of the learning content already available to you in your organization.
+Many organizations already have learning assets that they can leverage. For example, many organizations have custom Quick Start Guides, Cheat Sheets, or SharePoint pages already dedicated to Microsoft 365 readiness, HelpDesk, onboarding or training. Existing SharePoint assets can be incorporated into the Microsoft 365 Portal playlists and or mixed with Microsoft content in a playlist to build a targeted playlist for your organization. In general, orgs tend to follow the 20/80 rule. Use 20% of your own content to target specific policies and instructions, use the remaining content from Microsoft to cover more generalized learning, instructions, and onboarding. To understand how you can mix your organizations content with Microsoft-provided content, see <Customizing Learning Pathways>
