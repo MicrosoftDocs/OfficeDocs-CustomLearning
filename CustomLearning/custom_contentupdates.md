@@ -88,4 +88,3 @@ The Visio subcategory of content has been added with the following playlists.
 
 ## How content updates are applied
 The Microsoft 365 Learning Pathways catalog is automatically updated on a quarterly basis. The catalog content, which is a set of JSON metadata, is stored in a global cache within an organization's tenant. The global cache is automatically updated when a learning pathways Site Collection Administrator or Owner opens the Learning Pathways Administration page. For more information, see Managing Content Updates. 
-
