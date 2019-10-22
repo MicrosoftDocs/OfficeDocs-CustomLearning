@@ -7,11 +7,11 @@ description: Microsoft 365 learning pathways content update
 ---
 
 # Create a content plan
-Before you dive into rolling out Microsoft 365 learning pathways, it’s a good idea to take some time to understand the learning content, tools and capabilities available to you. First off, keep in mind that we’ve developed Learning Pathways to help you onboard users to Microsoft 365 and it’s technologies, to change the way users work, to make them more productive, and thus, make your organization more productive. But what does that mean? Our goal is to get your users up to speed, and productive as quickly as possible. To change their behaviors, make them more productive, and thus, make your organization more productive. We like to think in terms of learning campaigns. It’s a 3 step process:
+Before you dive into rolling out Microsoft 365 learning pathways, it’s a good idea to take some time to survey the learning content, tools, and capabilities available to you. Our goal is to help you get your organization's users up to speed, and productive, as quickly and efficiently as possible. When it comes to learning pathways, we like to think in terms of targeted learning campaigns. When it comes to learning pathways, we like to think of creating a content plan as a three-step process:
 
 1. Review the resources available – both the resources provided through learning pathways and the resources available in your organization. The best learning plans combine both.
 2. Get to know the capabilities of the Learning Pathways tool - we'll give you a quick tour. 
-3. Create a content plan – review the available Adoption Guides will help with building an overall plan.
+3. Create a content plan – review the available Adoption Guides to help you with building an overall plan.
 
 # Review the available resources
 Before you create a content plan for Microsoft 365 learning pathways, take some time to discover all the resources that are available to you. 
