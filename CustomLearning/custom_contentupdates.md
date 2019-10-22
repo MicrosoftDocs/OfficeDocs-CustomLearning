@@ -7,7 +7,7 @@ description: Microsoft 365 learning pathways content update
 ---
 
 # November 2019 Content Updates
-Welcome to the Microsoft 365 learning pathways content update. We offer an update of the inventory of the learning pathways catalog on a quarterly basis. The following new content categories and playlists have been added to the catalog. To learn more about how content updates are applied see <link>. Test thing again
+Welcome to the Microsoft 365 learning pathways content update. Starting with our November 2019 update, we'll provide an updated inventory of the learning pathways catalog on a quarterly basis. For the November 2019 update, the following new content subcategories and playlists have been added to the learning pathways catalog. To learn more about how content updates are applied see <link>. 
 
 ## Teams
 Several new playlist have been added to the Teams subcategory.
@@ -85,3 +85,7 @@ The Visio subcategory of content has been added with the following playlists.
 - Create forms (1 asset)
 - Create reports (2 assets)
 - Protect databases (1 asset)
+
+## How content updates are applied
+The Microsoft 365 Learning Pathways catalog is automatically updated on a quarterly basis. The catalog content, which is a set of JSON metadata, is stored in a global cache within an organization's tenant. The global cache is automatically updated when a learning pathways Site Collection Administrator or Owner opens the Learning Pathways Administration page. For more information, see Managing Content Updates. 
+
