@@ -1,13 +1,15 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  November 2019 Content Updates
+title:  Manage learning pathways content updates
 ms.date: 10/20/2019
-description: Microsoft 365 learning pathways content update
+description: Manage learning pathways content updates
 ---
 
-# November 2019 Content Updates
-Welcome to the Microsoft 365 learning pathways content update. Starting with our November 2019 update, we'll provide an updated inventory of the learning pathways catalog on a quarterly basis. For the November 2019 update, the following new content subcategories and playlists have been added to the learning pathways catalog. To learn more about how content updates are applied see see [Manage Content Updates](custom_contentupdatesmanage.md).  
+# How learning content updates are applied
+The Microsoft 365 Learning Pathways catalog is automatically updated on a quarterly basis. The catalog content, which is a set of JSON metadata, is stored in a global cache within an organization's tenant. The global cache is automatically updated when a learning pathways Site Collection Administrator or Owner opens the Learning Pathways Administration page. For more information, see Managing Content Updates. 
+
+
 
 ## Teams
 Several new playlist have been added to the Teams subcategory.
@@ -87,4 +89,4 @@ The Visio subcategory of content has been added with the following playlists.
 - Protect databases (1 asset)
 
 ## How content updates are applied
-The Microsoft 365 Learning Pathways catalog is automatically updated on a quarterly basis. The catalog content, which is a set of JSON metadata, is stored in a global cache within an organization's tenant. The global cache is automatically updated when a learning pathways Site Collection Administrator or Owner opens the Learning Pathways Administration page. For more information, see [Manage Content Updates](custom_contentupdatesmanage.md)Managing Content Updates. 
+The Microsoft 365 Learning Pathways catalog is automatically updated on a quarterly basis. The catalog content, which is a set of JSON metadata, is stored in a global cache within an organization's tenant. The global cache is automatically updated when a learning pathways Site Collection Administrator or Owner opens the Learning Pathways Administration page. For more information, see Managing Content Updates. 

@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Access the Custom Learning Administration page
+title:  Access the Administration page
 ms.date: 02/15/2019
 description: How to access the Custom Learning Admin page from the Web part or the menu
 ---

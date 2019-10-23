@@ -8,18 +8,17 @@ ms.topic: getting-started  # how-to
 ---
 
 # Drive adoption of your learning pathways portal
+Once you've customized Microsoft 365 learning pathways and put together your initial learning campaigns, it’s time to think about how you will get users return to Microsoft 365 learning pathways for ongoing learning and transformation. You can use the guidance, adoption kit, and best practices Microsoft has made available To help you run successful Microsoft 365 learning pathways adoption campaigns, we offer guidance, best practices and an Adoption Kit. 
 
-Now that you have implemented and customized Microsoft 365 learning pathways, it’s time to plan how you will get end users to visit and return to Microsoft 365 learning pathways when they require training. You can use the guidance, adoption kit, and best practices Microsoft has made available to run a successful Microsoft 365 learning pathways adoption campaign.  
-
-## Run awareness campaign with Microsoft 365 learning pathway adoption kit
+## Run awareness campaigns with Microsoft 365 learning pathway adoption kit
 To help drive sustained adoption of Microsoft 365 learning pathways in your organization, we recommend you implement a six to eight-week communication campaign. Your communication campaign should: 
 
 - Generate awareness of the new Microsoft 365 learning pathways site to end users
 - Help end users be more productive by exposing them to new and compelling Microsoft 365 scenarios 
 - Reinforce end user learning by encouraging ongoing consumption of Microsoft 365 training
 
-## Center your learning campaigns around scenarios or business goals
-Using these scenarios in your communication campaign will help engage end users by highlighting what they can accomplish with Microsoft 365 and then driving them to your Microsoft 365 learning pathways site to learn the “how”. We recommend centering your communication campaign around five basic Microsoft 365 scenarios:
+### Center your learning campaigns around scenarios or business goals
+Using the following scenarios in your communication campaign will help engage users by highlighting what they can accomplish with Microsoft 365, then directing them to the icrosoft 365 learning pathways site to learn the “how”. We recommend centering your communication campaign around five basic Microsoft 365 scenarios:
 
 - Create impactful content together
 - Provide a chat-based workspace with Teams
