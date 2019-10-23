@@ -7,10 +7,7 @@ description: Learn how Microsoft 365 learning pathways can accelerate usage and 
 ---
 
 # Microsoft 365 learning pathways Beta Preview
-Microsoft 365 learning pathways, formerly known as Custom Learning for Office 365, is a customizable, on-demand training solution designed to increase usage and adoption of Microsoft 365 services in your organization.  
-
-> [!NOTE]
-> As of 5/21/2019, Custom Learning for Office 365 is being renamed Microsoft 365 learning pathways. The name is being changed to align with Microsoft 365 brand efforts and to better represent future direction of the solution.   
+Microsoft 365 learning pathways is a customizable, on-demand learning solution designed to increase usage and adoption of Microsoft 365 services in your organization.  
 
 ## On-demand, custom training from Microsoft
 
@@ -23,17 +20,8 @@ Microsoft 365 learning pathways offers:
 
 ![cg-introducing.png](media/cg-introducing.png)
 
-## Learning pathways components
-Microsoft 365 learning pathways consists of three parts: 
-
-![cg-howitworks.png](media/cg-howitworks.png)
-
-- **An online catalog of Microsoft content** - Learning pathways is connected to an online catalog of Microsoft training content
-- **A SharePoint Online communication site** - Learning pathways provides an easy-to-provision training portal that can be customized to the needs of your organization.
-- **a SharePoint web part** - Learning pathways provides a SharePoint web part that can be filtered to present targeted training content. Organizations can also use the Web part to create their own custom playlists.
-
 ## SharePoint Online Provisioning Service 
-Learning pathways can be provisioned from the SharePoint Online Provisioning Service. When Custom Learning is provisioned, organizations get a SharePoint Online communication site designed to be an out-of-the box training portal, along with a learning pathways Web part connected to an online catalog of training content. 
+Learning pathways can be provisioned from the SharePoint Online Provisioning Service. When Microsoft 365 learning pathways is provisioned, organizations get a SharePoint Online communication site designed to be an out-of-the box training portal, along with a learning pathways Web part connected to an online catalog of training content. 
 
 ![cg-provision.png](media/cg-provision.png)
 
