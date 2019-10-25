@@ -19,6 +19,6 @@ The learning pathways Administration page is the central controlling point for a
 ## What if there's content in the updates you want to hide?
 Check the list of content updates [Manage Content Updates](custom_contentupdatesmanage.md). If there's content you want to hide from users, you can hide it by Subcategory or Playlist. You can also hide content by Technology. For instructions on how to hide content, see one of the following: 
 
-- [Manage Content Updates](custom_contentupdatesmanage.md)
-- [Manage Content Updates](custom_contentupdatesmanage.md)
-- [Manage Content Updates](custom_contentupdatesmanage.md)
+- [Manage Content Updates](custom_hideshowsub.md)
+- [Manage Content Updates](custom_hideshowplaylists.md)
+- [Manage Content Updates](custom_hideshowtech.md)
