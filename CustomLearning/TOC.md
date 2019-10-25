@@ -5,6 +5,7 @@
 ## [Stand alone web part setup](custom_manualsetup.md)
 # [Customize the Learning Experience](custom_overview.md)
 ## [Go to the M365 learning pathways site](custom_goto.md)
+# Admin Success Center (custom_adminsuccesscenter)
 ## [Customize the site](custom_edithelp.md)
 ## [Where's the Microsoft 365 learning pathways web part?](custom_whereiswebpart.md)
 ## [Get to know the SharePoint Application pages](custom_apppages.md)
