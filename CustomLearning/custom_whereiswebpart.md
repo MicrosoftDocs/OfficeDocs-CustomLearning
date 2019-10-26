@@ -16,8 +16,9 @@ When learning pathways is provisioned in your organization, the learning pathway
 - Get-started-with-Microsoft-Teams.aspx
 - Get-started-with-OneDrive.aspx
 - Get-started-with-SPO.aspx
+- Learning-pathways-Admin-Success-Center.aspx
 
-For each page, the Web part is configured differently to show the categories, subcategories, playlists or asset designed to support the intent of the page. The learning pathways web part, as we’ll show you in later sections, can be added to just about any SharePoint page and filtered to show specific all categories, or subcategories, playlists, or just assets. Let's take a look. 
+For each page, the Web part is configured differently to show the categories, subcategories, playlists or asset designed to support the intent of the page. The learning pathways web part, as we’ll show you in later sections, can be added to just about any SharePoint page and filtered to show specific categories, subcategories, playlists, or just assets. Let's take a look. 
 
 ## View Microsoft Teams playlists
 
@@ -46,6 +47,26 @@ The Web part on the **Microsoft 365 training** page is configured to show all th
 - From the learning pathways Home page, click **Microsoft 365 training**. The page appears appears with the Web part configured to show all the categories and subcategories available from the Custom Learning catalog.
 
 ![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
+
+- Click the **Home** menu on the learning pathways site menu to return to the site Home page.
+
+## View all Microsoft 365 training
+
+The Web part on the **Microsoft 365 training** page is configured to show all the categories and subcategories available from the learning pathways catalog. This includes subcategories from Microsoft along with any subcategories that you create for your organization.
+
+- From the learning pathways Home page, click **Microsoft 365 training**. The page appears appears with the Web part configured to show all the categories and subcategories available from the Custom Learning catalog.
+
+![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
+
+- Click the **Home** menu on the learning pathways site menu to return to the site Home page.
+
+## View the Web part on the Admin Success Center page
+
+The Web part on the **Admin Success Center** page is configured to filter all the playlists available for the Admin Success Center. As shown in the following example, the Web part is added to a page that also contains Quick Links to Admin resources. 
+
+- From the learning pathways Home page, click **Get started with the Admin Success Center**. button. 
+
+![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
 
 - Click the **Home** menu on the learning pathways site menu to return to the site Home page.
 
