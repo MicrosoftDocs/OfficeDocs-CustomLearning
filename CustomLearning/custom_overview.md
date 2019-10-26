@@ -1,33 +1,24 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Overview
+title:  Customize learning pathways
 ms.date: 02/18/2019
-description: Overview of Microsoft 365 learning pathways
+description: Customize learning pathways
 ---
 
-# Customize the learning experience
+# Customize learning pathways
 
-Introducing Microsoft 365 learning pathways, a new solution from Microsoft designed to speed the usage and adoption of Office 365 within an organization. With learning pathwyas, you can:
-- Tailor Microsoft 365 learning and adoption content for your environment 
+Microsoft 365 learning pathways provides a variety of ways that you can customize content for your organization. For example, you can:  
+- Modify the learning pathways SharePoint site - Change the site name, logo, and them. Modify the Ask Questions and Get Help page to create your own Help Center. 
 - Hide or show content to reflect the services or features supported in your organization 
-- Keep your content and users current with an up-to-date feed of learning content from Microsoft 
-- Build custom playlists and categories crafted specifically for your user's needs
+- Build custom playlists and subcategories crafted specifically for your user's needs
+- Build landing pages with content filtered to support business outcomes, such as driving the adoption of Microsoft Teams, Outlook mobile, or working more collaboratively with Microsoft 365.
 
 ![cg-introducing.png](media/cg-introducing.png)
 
-## How does learning pathways work?
-
-learning pathways for Office 365 (learning pathways for short) consists of three parts: 
-1. a live feed of content from a Microsoft online catalog
-2. a SharePoint communication site
-3. a SharePoint web part 
-
-![cg-howitworks.png](media/cg-howitworks.png)
-
 ## Requirements and Permissions
 
-Before getting started with this guide, ensure that learning pathways has been set up by your SharePoint Tenant Administrator. If you’re not sure if it's been set up, contact your SharePoint tenant administrator to verify that learning pathways has been provisioned. Also be sure to get the URL of the learning pathways SharePoint site. If you are the Tenant Administrator and learning pathways has not been provisioned, see [Provision learning pathways](custom_provision.md). 
+Before getting started with the Customize learning pathways guidance, ensure that learning pathways has been set up by your SharePoint Tenant Administrator. If you’re not sure if it's been set up, contact your SharePoint tenant administrator to verify that learning pathways has been provisioned. Also be sure to get the URL of the learning pathways SharePoint site. If you are the Tenant Administrator and learning pathways has not been provisioned, see [Provision learning pathways](custom_provision.md). 
 
 ### Permissions to provision learning pathways
 
