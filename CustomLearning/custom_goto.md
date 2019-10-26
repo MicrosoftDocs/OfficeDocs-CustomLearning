@@ -26,5 +26,20 @@ The Microsoft 365 training page hosts the learning pathways Web part configured 
 1. Scroll down the page to view all the categories and subcategories.
 2. Kick the tires a bit. Click a few subcategories, and then click a few playlists to get a feel for how learning pathways content is organized. 
 
-![cg-gotoall.png](media/cg-gotoall.png)
+![cg-adminsuccesscenterplan_01.png](media/cg-adminsuccesscenterplan_01.png)
+
+## Navigate through learning pathways playlists
+Navigation through learning pathways playlist has been improved based on user feedback. 
+
+1. Click the **Microsoft Teams** subcategory, then click the **Setup and Customize your Team** playlist. You see the playlist as shown in the following example.
+
+[cg-adminsuccesscentercustom_nav01.png](media/ccg-adminsuccesscentercustom_nav01.png)
+
+- Click the Next and Previous buttons to navigate through the playlist
+- Click the dropdown arrow in the navigation bar to view the contents of the playlist and navigate to a specific topic
+- Click the Toggle full-screen mode button to view the asset in full-screen. Click Toggle full-screen mode again to return to the default navigation mode.
+
+[cg-adminsuccesscentercustom_nav02.png](media/ccg-adminsuccesscentercustom_nav01.png)
+
+- Use the breadcrumbs to navigate back to a subcategory or the Home page of the Web part.  
 
