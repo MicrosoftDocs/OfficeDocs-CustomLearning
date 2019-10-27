@@ -8,16 +8,16 @@ description: How to access the Custom Learning Admin page from the Web part or t
 
 # Access the Learning Pathways Administration page
 
-Learning pathways administration is managed with the CustomLearningAdmin.aspx page. The learning pathways Administration page is only available to SharePoint Administrators. Users with member privileges visiting the site will not see the **Administration** gear icon on the Web part. In addition, only Administrators will have the ability to open the Administration page from the Learning pathways administration menu item under the SharePoint **Home** menu. 
+Learning pathways administration is managed from the CustomLearningAdmin.aspx page. This administration page is only available to SharePoint Administrators. Users with member privileges visiting the site will not see the **Administration** gear icon on the Web part. In addition, only Administrators will have the ability to open the administration page from the **Learning pathways administration** menu item under the SharePoint **Home** menu. 
 
 > [!IMPORTANT]
-> Changes made on the Custom Learning Administration page, such as hiding a product subcategory or playlist, will be reflected in all instances of the Web part. In addition, it’s recommended that only one administrator at time make changes on the Custom Learning Administrator page, since Custom Learning does not provide collision detection if multiple people are using the Administration page at the same time.  
+> Changes made on the Custom Learning Administration page, such as hiding a product subcategory or playlist, will be reflected in all instances of the Web part. In addition, it’s recommended that only one administrator at time make changes from the administration page, since Custom Learning does not provide collision detection if multiple people are using the page at the same time.  
 
-## Access from the Custom Learning Web part - preferred method
-As we'll show you in this example, opening the Administration page from the web part is the preferred method since it opens the page in a new browser tab. With this method, it's easy to flip back and forth between the tabbed pages to check or modify your work.  
+## Access from the Learning pathways web part - preferred method
+Opening the Administration page from the web part is the preferred method since it opens the page in a new browser tab. With this method, it's easy to flip back and forth between the tabbed pages to check or modify your work.  
 
-1. From the Microsoft 365 learning pathways Home page, click the **Office 365 training** tile.
-2. Click the **System** menu, then click the Administer playlists gear icon in the Web part.  
+1. From the Microsoft 365 learning pathways **Home** page, click the **Office 365 training** tile.
+2. Click the **Administration** icon in the Web part as shown in the following example  
 
 ![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
 
