@@ -8,7 +8,7 @@ description: Learn about the functionality of SharePoint Application Pages in Mi
 
 # Get to know the SharePoint Application pages
 
-Learning pathways provides two SharePoint Application pages that you should know about as an administrator. These two pages are non-editable. 
+Learning pathways provides two SharePoint Application pages that you should know about as an administrator. These two pages are non-editable and should not be deleted. 
 
 - CustomLearningAdmin.aspx
 - CustomLearningViewer.aspx
@@ -19,13 +19,13 @@ The CustomLearningAdmin.aspx page provides Administrative features for learning 
 
 ### View CustomLearningAdmin.aspx
 
-1. Click the SharePoint **Settings** icon, and then click **Site Contents**. 
+1. Click the SharePoint **Settings** icon, and then click **Site Contents** > **Site Pages**. 
 2. Click **CustomLearningAdmin.aspx**. 
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 
 ## CustomLearningViewer.aspx
-The CustomLearningViewer.aspx page provides a viewer for displaying learning pathways contents in the web part. For example, if you copy a Playlist link and share it with a co-worker, the link, when clicked, takes the user to the Viewer page and displays the linked content. We’ll cover this page and its functionality in more detail in later topics.
+The CustomLearningViewer.aspx page provides a viewer for displaying learning pathways contents in the web part. For example, if you copy a Playlist link and share it with a co-worker, the link, when clicked, takes the user to the Viewer page and displays the linked content. 
 
 ### View CustomLearningViewer.aspx
 
