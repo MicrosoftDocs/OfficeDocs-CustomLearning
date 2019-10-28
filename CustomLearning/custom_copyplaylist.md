@@ -1,37 +1,38 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Create new playlists
+title:  Copy a playlist
 ms.date: 02/18/2019
-description: How to create new playlists
+description: How to copy a playlist
 ---
 
-# Create a Custom Playlist
+# Copy a Playlist
+Quite often, organizations need to modify a Microsoft-supplied playlist by removing or replacing an asset with an asset created by the organization. For example, you might want to remove a step from the Start with Six Simple Steps playlist. Now you can use the learning pathways Copy Playlist feature to easily copy the Six Simple Steps playlist and simply remove an asset, replace an asset, or add new assets. 
 
-When you create a playlist, you first create the playlist with the playlist details, and then add assets to the playlist. You can add a playlist to any subcategory. For example, you can add a playlist to the **First Days** subcategory or a **Product** subcategory like **Excel**. In this section, we’ll cover how to create a playlist, and then cover adding assets to a playlist in the following section, [Add assets to a custom playlist](custom_addassets.md).
+## To copy a playlist
 
-## Create a playlist 
-
-1. From the Microsoft 365 learning pathways **Home** page, click **Office 365 training**, select the system menu from the Web part, and then select **Administer Playlist**. 
-2. Select a subcategory. In this example, select **First Days**.  
-3. Click the + icon.  
-
-![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
-
+1. From the Microsoft 365 learning pathways **Home** page, click **Office 365 training**.
+2. Click the **Administration** icon.
+3. Under **First Days**, click the **Six Simple Steps - Welcome to Office 365** playlist, and then click **Copy Playlist**. 
+4. Click **Edit Detail**, and then fill in the **Title** and **Description** fields as shown in the following example, then click **Save Detail**.  
+ 
 4.	Fill out the fields in the playlist as shown in the following example. You can leave the default icon for this example. 
 
-![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
+![cg-copyplaylisteditdetails.png](media/cg-copyplaylisteditdetails.png)
 
-5.	When you are done, select **Save Detail**. 
+## Add or remove assets from a playlist
+With custom playlists, you can:
 
-## Edit a playlist
+- add and remove Microsoft assets, but not edit the assets from Microsoft
+- add, remove, and edit custom existing SharePoint assets from your organization or SharePoint assets that you create. 
 
-- From the **Custom Learning Administration** page, click the playlist, and then click **Edit Detail**.  
+1. Scroll down the **Administration** page, and then under **Playlist Assets** click the delete icon for **Step 5. Set up mobile apps**. 
 
-![cg-editplaylist.png](media/cg-editplaylist.png)
+![cg-copyplaylistremoveasset.png](media/cg-copyplaylistremoveasset.png)
 
-### Delete a playlist
+## Verify the asset is removed from the playlist
+1. Return to the tab with the **Microsoft 365 training** page.
+2. Click **First Days**, then click the **Five Simple Steps - Welcome to Office 365** playlist. 
+3. Click through the playlist to verify that the asset has been removed.
 
-- From the Custom Learning Administration page, click the **Delete** icon for the playlist.  
-
-![cg-deleteplaylist.png](media/cg-deleteplaylist.png)
+![cg-copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
