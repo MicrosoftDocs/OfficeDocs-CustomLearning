@@ -8,7 +8,7 @@ description: How to create new playlists
 
 # Create a Custom Playlist
 
-When you create a playlist, you first create the playlist with the playlist details, and then add assets to the playlist. You can add a playlist to any subcategory. For example, you can add a playlist to the **First Days** subcategory or a **Product** subcategory like **Excel**. In this section, we’ll cover how to create a playlist, and then cover adding assets to a playlist in the following section, [Add assets to a custom playlist](custom_addassets.md).
+With Microsoft 365 learning pathways you can create custom playlists that are tailored to the unique needs of your organization. For example, create a playlist for onboarding new hires to Microsoft Teams. Or create playlists for executive administrators with information suited to their unique role. Or create first day playlist   You can add a playlist to any subcategory. For example, you can add a playlist to the **First Days** subcategory or a **Product** subcategory like **Excel**. In this section, we’ll cover how to create a playlist, and then cover adding assets to a playlist in the following section, [Add assets to a custom playlist](custom_addassets.md).
 
 ## Create a playlist 
 
