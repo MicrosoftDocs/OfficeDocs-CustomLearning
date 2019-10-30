@@ -67,7 +67,6 @@ Work with your human resources team to align the launch of your training site wi
 3.	Run your adoption campaign over a sustained period of time. 
 4.	Join the Driving Adoption community. Share your experience with Microsoft 365 learning pathways in our Driving Adoption community online. Find us at https://aka.ms/DriveAdoption. 
 
-
 ## Join the Driving Adoption community
 
 Share your experience with Microsoft 365 learning pathways in our Driving Adoption community online.  Find us at https://aka.ms/DriveAdoption.
