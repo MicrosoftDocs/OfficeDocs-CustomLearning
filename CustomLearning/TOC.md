@@ -3,7 +3,7 @@
 ## [Provision Microsoft 365 learning pathways](custom_provision.md)
 ## [Explore the Microsoft 365 learning pathways site](custom_exploresite.md)
 ## [Stand alone web part setup](custom_manualsetup.md)
-# [Admin Success Center](custom_adminsuccesscenter)
+# [Admin Success Center](custom_successcenter)
 ## [Plan your learning content](custom_plancontent.md)
 ## [Customize learning pathways](custom_overview.md)
 ### [Go to the M365 learning pathways site](custom_goto.md)
