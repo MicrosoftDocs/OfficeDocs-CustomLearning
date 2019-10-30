@@ -1,10 +1,10 @@
 ---
-title:                     # Driving Adoption of learning pathways
-description:               # Steps for driving adoption of learning pathways
+title: Drive adoption of learning pathways
+description: Drive adoption of learning pathways               
 author: karuanag
 ms.author: karuanag
-ms.date: 5/16/19
-ms.topic: getting-started  # how-to
+ms.date: 10/30/2019
+ms.topic: getting-started 
 ---
 
 # Drive adoption of your learning pathways portal
@@ -66,7 +66,6 @@ Work with your human resources team to align the launch of your training site wi
 2.	Pilot your customized version of Microsoft 365 learning pathways with a representative group of end users and do a dry run of your adoption plan. Based on feedback from the pilot iterate a final adoption plan.
 3.	Run your adoption campaign over a sustained period of time. 
 4.	Join the Driving Adoption community. Share your experience with Microsoft 365 learning pathways in our Driving Adoption community online. Find us at https://aka.ms/DriveAdoption. 
-
 
 ## Join the Driving Adoption community
 
