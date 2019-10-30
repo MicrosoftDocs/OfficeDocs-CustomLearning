@@ -14,7 +14,7 @@ Before you dive into rolling out Microsoft 365 learning pathways, it’s a good 
 3. **Create a content plan** – review the available Adoption Guides to help you with building an overall plan.
 
 ## Review the available resources
-Before you create a content plan for Microsoft 365 learning pathways, take some time to discover all the resources that are available to you. 
+Before you create a content plan for Microsoft 365 learning pathways, take some time to discover all the resources that are available to you.  
 
 ### Review the learning pathways SharePoint site
 The Microsoft 365 learning pathways solution provides a SharePoint communication site with a web part that's connected to an online catalog. The SharePoint site is fully customizable, including the site name, logo, pages, menu items, themes, and tiles. Take some time to click the tiles and menu items to discover what's available with the learning pathways site.
