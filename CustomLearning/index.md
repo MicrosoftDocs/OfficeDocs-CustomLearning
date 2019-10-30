@@ -16,7 +16,7 @@ Microsoft 365 learning pathways offers:
 - **A fully customizable SharePoint Online communication site** - The learning pathways training portal can be customized to add your organization's help, support, and community content
 - **Easy provisioning** - Provision learning pathways from the SharePoint Online Provisioning Service with just a few easy steps
 - **The ability to create your own training playlists** - with learning pathways, you can create targeted training playlists to meet the unique needs of your environment
-- **Up-to-date content** - Learning pathways provides content through a Microsoft online content catalog, so the content at your site is regularly updated
+- **Up-to-date content** - Learning pathways provides content through a Microsoft online content catalog, so the content at your site is regularly updated 
 
 ![cg-introducing.png](media/cg-introducing.png)
 
