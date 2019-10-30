@@ -30,4 +30,4 @@
 # [Frequently Asked Questions](faq.md)
 # [Partner Frequently Asked Questions](custom_partner.md)
 # [Update Microsoft 365 learning pathways](custom_update.md)
-# [Troubleshooting Microsoft 365 learning pathways](custom_troubleshooting.md)
+# [Troubleshooting Microsoft 365 learning pathways](custom_troubleshooting.md) 
