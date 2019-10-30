@@ -1,10 +1,10 @@
 ---
-title:                     # Driving Adoption of learning pathways
-description:               # Steps for driving adoption of learning pathways
+title: Drive adoption of learning pathways
+description: Drive adoption of learning pathways               
 author: karuanag
 ms.author: karuanag
-ms.date: 5/16/19
-ms.topic: getting-started  # how-to
+ms.date: 10/30/2019
+ms.topic: getting-started 
 ---
 
 # Drive adoption of your learning pathways portal

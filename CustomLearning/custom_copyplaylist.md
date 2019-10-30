@@ -18,7 +18,6 @@ Quite often, organizations need to modify a Microsoft-supplied playlist by remov
  
 4.	Fill out the fields in the playlist as shown in the following example. You can leave the default icon for this example. 
 
-![cg-copyplaylisteditdetails.png](media/cg-copyplaylisteditdetails.png)
 
 ## Add or remove assets from a playlist
 With custom playlists, you can:
@@ -28,11 +27,9 @@ With custom playlists, you can:
 
 1. Scroll down the **Administration** page, and then under **Playlist Assets** click the delete icon for **Step 5. Set up mobile apps**. 
 
-![cg-copyplaylistremoveasset.png](media/cg-copyplaylistremoveasset.png)
-
 ## Verify the asset is removed from the playlist
 1. Return to the tab with the **Microsoft 365 training** page.
 2. Click **First Days**, then click the **Five Simple Steps - Welcome to Office 365** playlist. 
 3. Click through the playlist to verify that the asset has been removed.
 
-![cg-copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
+
