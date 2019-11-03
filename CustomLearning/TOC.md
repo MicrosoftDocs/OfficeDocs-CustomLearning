@@ -5,7 +5,7 @@
 ## [Stand alone web part setup](custom_manualsetup.md)
 # [Admin Success Center](custom_successcenter.md)
 ## [November Content Updates](custom_contentupdates.md)
-## [Manage Content Updates](custom_managecontentupdates.md)
+## [Manage Content Updates](custom_contentupdatesmanage.md)
 ## [November Feature Updates](custom_featureupdates.md)
 ## [Plan your learning content](custom_plancontent.md)
 ## [Customize learning pathways](custom_overview.md)
