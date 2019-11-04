@@ -10,7 +10,7 @@ description: Setup Option for Custom Learning setup
 Learning pathways provides the flexibility to set up the solution in a couple different ways. The following sections outline the options available.
 
 > [!IMPORTANT]
-> As of 5/21/2019, Microsoft 365 learning pathways is the new name for the solution formerly known as Custom Learning for Office 365. If you have already provisioned Custom Learning for Office 365 in your organization and want to update the solution, follow the “Updating the solution” instructions in the [Microsoft 365 learning pathways ReadMe](https://github.com/pnp/custom-learning-office-365). If you are provisioning Microsoft 365 learning pathways for the first time, see [Provision Microsoft 365 learning pathways instructions]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) in the Microsoft 365 learning pathways documentation.  
+> If you have already provisioned Custom Learning for Office 365 in your organization and want to update the solution, follow the “Updating the solution” instructions in the [Microsoft 365 learning pathways ReadMe](https://github.com/pnp/custom-learning-office-365). If you are provisioning Microsoft 365 learning pathways for the first time, see [Provision Microsoft 365 learning pathways instructions]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) in the Microsoft 365 learning pathways documentation.  
 
 
 ## Recommended - SharePoint Online Provisioning Service Setup 
@@ -24,6 +24,6 @@ For organizations that already have an established SharePoint Online modern comm
 - For Manual web part installation instructions, see see [Manually install the web part](custom_manualsetup.md). 
 
 ## Update learning pathways
-Organizations that have used the SharePoint Online Provisioning Service to install earlier versions of Microsoft 365 learning pathways, previously called Custom Learning for Office 365,can update the solution to the latest version. For instructions on how to check the version deployed against the most recent version of the solution, along with instructions on how to update the solution, see the "Updating the solution" section of the [ReadMe file](https://github.com/pnp/custom-learning-office-365/blob/master/README.md).
+Organizations that have used the SharePoint Online Provisioning Service to install earlier versions of Microsoft 365 learning pathways can update the solution to the latest version. For instructions on how to check the version deployed against the most recent version of the solution, along with instructions on how to update the solution, see the "Updating the solution" section of the [ReadMe file](https://github.com/pnp/custom-learning-office-365/blob/master/README.md).
 
 ### Next Steps - [Provision Microsoft 365 learning pathways](custom_provision.md)

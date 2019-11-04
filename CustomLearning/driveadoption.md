@@ -26,8 +26,8 @@ Using the following scenarios in your communication campaign will help engage us
 - Share sites and content
 - Connect your organization with Yammer
 
-## Use the Download Adoption Kit
-To assist you with executing your Microsoft 365 learning pathways communication campaign, use the downloadable adoption kit. It contains: 
+## Use the downloadable Adoption Kit
+To assist you with executing your Microsoft 365 learning pathways communication campaign, use the [downloadable Adoption Kit](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip). It contains: 
 
 - Microsoft 365 learning pathways recommended communication campaign calendar to help you plan your campaign
 - End user launch and tips email templates for each of the five Microsoft 365 scenarios.    
