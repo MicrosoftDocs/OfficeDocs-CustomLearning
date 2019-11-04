@@ -18,6 +18,7 @@
 ### [Hide and show Playlists](custom_hideshowplaylists.md)
 ### [Hide and show Technology](custom_hideshowtech.md)
 ### [Create SharePoint pages for custom playlists](custom_createnewpage.md)
+### [Copy a Playlist](custom_copyplaylist.md)
 ### [Create a Custom Playlist](custom_createnewplaylist.md)
 ### [Add assets to a Custom Playlist](custom_addassets.md)
 ### [Create a Subcategory](custom_createnewcat.md)
