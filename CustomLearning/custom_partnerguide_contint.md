@@ -11,4 +11,4 @@ Get started with the learning pathways experience by following the three steps o
 
 |                    |                                                                                          | 
 |--------------------|------------------------------------------------------------------------------------------|
-|Technologies        |   Content is tagged and can be hidden based on the Technology it’s assigned.             |  |&nbsp;ID            |   GUID representing the technology                                                       |  |&nbsp;Name          |   Display name of the technology
+|Technologies        |   Content is tagged and can be hidden based on the Technology it’s assigned.             |  |&nbsp;ID            |   GUID representing the technology                                                       |  |&nbsp;Name          |   Display name of the technology                                                         |
