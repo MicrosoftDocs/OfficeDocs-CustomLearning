@@ -7,7 +7,7 @@ description: Learn how Microsoft 365 learning pathways can accelerate usage and 
 ---
 
 # Microsoft 365 learning pathways 
-Microsoft 365 learning pathways is a customizable, on-demand learning solution designed to increase usage and adoption of Microsoft 365 services in your organization.  
+Microsoft 365 learning pathways is a customizable, on-demand learning solution designed to increase usage and adoption of Microsoft 365 services in your organization.   
 
 ## On-demand, custom training from Microsoft
 
