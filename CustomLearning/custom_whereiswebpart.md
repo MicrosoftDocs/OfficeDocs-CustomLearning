@@ -6,7 +6,7 @@ ms.date: 02/15/2019
 description: Learn where the learning pathways web part appears in the learning pathways site
 ---
 
-# Where's the Microsoft 365 learning pathways web part?
+# Where's the Microsoft 365 learning pathways web part? 
 
 When learning pathways is provisioned in your organization, the learning pathways site and web part are added to your organization’s SharePoint tenant. As part of the provisioning, the Microsoft 365 learning web part is added to the following pages of the Microsoft 365 learning pathways site:
 
