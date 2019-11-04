@@ -62,7 +62,7 @@ For example, your organization have may already have custom Quick Start Guides, 
 Note that you can get started using learning pathways within days, but it’s best to do some up-front planning before executing a learning campaign strategy to onboard a new technology or set of services. Developing a content plan and using learning pathways is really part of a more extensive effort in planning an overall Change Management strategy, so we provide adoption materials that you can leverage for planning your overall strategy. As part of your planning effort, check out [Adoption Resources](https://resources.techcommunity.microsoft.com/adoption/).
 
 ### Build a Learning Plan and Iterate 
-Many companies who’ve successfully rolled out Learning Pathways have adopted Learning campaigns focusing on specific scenarios or technologies. For example, "Be more collaborative - using Teams" or “Be more mobile with Outlook mobile.” You can see examples of potential learning campaigns using the [downloadable Adoption Kit](https://resources.techcommunity.microsoft.com/adoption/).
+Many companies who’ve successfully rolled out Learning Pathways have adopted Learning campaigns focusing on specific scenarios or technologies. For example, "Be more collaborative - using Teams" or “Be more mobile with Outlook mobile.” You can see examples of potential learning campaigns using the [downloadable Adoption Kit](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip).
 
 
  
