@@ -48,12 +48,15 @@ With Microsoft 365 Learning Pathways, you can have content provided by Microsoft
 - **Playlist** - are containers for assets. Microsoft provides playlists which you cannot modify, but you can create your own playlists.  
 - **Assets** - are the learning pages within playlist. Microsoft provides assets in playlists which you cannot modify, but you can create your own assets and add them to playlists.est
 
-### Review the learning pathways inventory and resources
-If the Admin inventory isn’t quite enough detail, take a look at Microsoft 365 learning pathways Inventory Spreadsheet on the Resources page. It includes a full list of metadata, categories, subcategories, playlists, and assets. The Resources page also provides a link to additional assets such as customizable Quick Start Guides. For more information, see [Learning pathways resources](custom_plancontent_resources.md).
+### Review additional resources from Microsoft
+Microsoft provides help and training resources that you can leverage when planning for content for learning pathways. 
+
+-  [Office Help and Training](https://support.office.com)
+-  [Office 365 Training Center](https://support.office.com/office-training-center)
 
 ### Review the learning resources in your organization
 Take stock of the learning content already available to you in your organization.
-For example, your organization have may already have custom Quick Start Guides, Cheat Sheets, or SharePoint pages dedicated to Microsoft 365 readiness, HelpDesk, onboarding or training. Existing SharePoint assets can be incorporated into the Microsoft 365 Portal playlists and or mixed with Microsoft content in a playlist to build a targeted playlist for your organization. For more information about mixing your organization's content with Microsoft's content, see the Customizing learning pathways section of the Admin Success Center.
+For example, your organization have may already have custom Quick Start Guides, Cheat Sheets, or SharePoint pages dedicated to Microsoft 365 readiness, HelpDesk, onboarding or training. Existing SharePoint assets can be incorporated into the Microsoft 365 Portal playlists and or mixed with Microsoft content in a playlist to build a targeted playlist for your organization. For more information about mixing your organization's content with Microsoft's content, see the [Customizing learning pathways](custom_overview.md).Customizing learning pathways section of the Admin Success Center.
 
 ### Leverage the Adoption Resources
 Note that you can get started using learning pathways within days, but it’s best to do some up-front planning before executing a learning campaign strategy to onboard a new technology or set of services. Developing a content plan and using learning pathways is really part of a more extensive effort in planning an overall Change Management strategy, so we provide adoption materials that you can leverage for planning your overall strategy. As part of your planning effort, check out [Adoption Resources](https://resources.techcommunity.microsoft.com/adoption/).
