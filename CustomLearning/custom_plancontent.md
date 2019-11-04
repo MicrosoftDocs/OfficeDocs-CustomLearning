@@ -49,7 +49,7 @@ With Microsoft 365 Learning Pathways, you can have content provided by Microsoft
 - **Assets** - are the learning pages within playlist. Microsoft provides assets in playlists which you cannot modify, but you can create your own assets and add them to playlists.est
 
 ### Review additional resources from Microsoft
-Microsoft provides help and training resources that you can leverage when planning for content for learning pathways. 
+Microsoft provides help and training resources that you can leverage when planning for content for learning pathways.  
 
 -  [Office Help and Training](https://support.office.com)
 -  [Office 365 Training Center](https://support.office.com/office-training-center)
