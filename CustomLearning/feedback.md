@@ -18,7 +18,7 @@ As is standard with open source solutions, the community triages these issues fo
 
 ## Provide us feedback
 
-Our solution is only a success if it is enabling your business outcomes.  Please help us to make it better by giving us regular feedback through  [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  We regularly review all your comments and questions.
+Our solution is only a success if it is enabling your business outcomes.  Please help us to make it better by giving us regular feedback through  [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  We regularly review all your comments and questions. 
 
 ## Usage Questions
 
