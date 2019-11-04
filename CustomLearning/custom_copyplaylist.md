@@ -16,16 +16,15 @@ Quite often, organizations need to modify a Microsoft-supplied playlist by remov
 3. Under **First Days**, click the **Six Simple Steps - Welcome to Office 365** playlist, and then click **Copy Playlist**. 
 4. Click **Edit Detail**, and then fill in the **Title** and **Description** fields as shown in the following example, then click **Save Detail**.  
  
-4.	Fill out the fields in the playlist as shown in the following example. You can leave the default icon for this example. 
-
+![cg-copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
 
 ## Add or remove assets from a playlist
 With custom playlists, you can:
-
 - add and remove Microsoft assets, but not edit the assets from Microsoft
 - add, remove, and edit custom existing SharePoint assets from your organization or SharePoint assets that you create. 
 
-1. Scroll down the **Administration** page, and then under **Playlist Assets** click the delete icon for **Step 5. Set up mobile apps**. 
+### Remove an asset from a playlist
+- Scroll down the **Administration** page, and then under **Playlist Assets** click the delete icon for **Step 5. Set up mobile apps**. 
 
 ## Verify the asset is removed from the playlist
 1. Return to the tab with the **Microsoft 365 training** page.
