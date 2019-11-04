@@ -29,8 +29,6 @@ To successfully set up Microsoft 365 learning pathways with the Provisioning Ser
 4. Click **Add to your tenant**. If you are not signed into to your tenant, the Provisioning Service will ask for your Tenant Admin credentials. 
 5. From the Permissions requested dialog box, select **Consent on behalf of your organization** and then select **Accept**.
 
-![inst_perms](media/inst_perms.png)
-
 The provisioning service requires these permissions to create the tenant app catalog, install the application into the tenant app catalog and provision the site template. There is no overall impact on your tenant and these permissions are explicitly used for the purpose of the solution installation. You must accept these permissions to proceed with the installation.
 
 6. Complete the fields on the provisioning information page as appropriate for your installation. At a minimum enter the email address where you wish to get notifications about the provisioning process and the destination URL for your site to be provisioned to.  
