@@ -28,6 +28,9 @@ Content for Microsoft 365 learning pathways is driven by a set of JSON files tha
 
 **Disclaimer:** the JSON file structure is subject to change based on upcoming solution work. The Microsoft 365 learning pathways partner Early Adopter Program (EAP) will be informed of any impending changes of this nature. Along with any customer backwards compatibility and/or transition guidance. 
 
+### Download 
+You can download the Microsoft 365 learning pathways solution, along with the JSON files, from the GitHub from here https://github.com/pnp/custom-learning-office-365. Note that at this time, Microsoft is not taking GitHub pull request on the solution. But you can use the GitHub files as a starting point for creating your own custom content pack. 
+
 ## Metadata.json Structure
 You can think of this file as the brains of the menus and structure. It contains all the navigation structure as well as pick lists for data in the other two files. 
 
