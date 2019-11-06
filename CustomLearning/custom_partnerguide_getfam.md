@@ -1,13 +1,13 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Get familiar with the solution experience
+title:  Get familiar with the solution 
 ms.date: 3/9/2019
-description: Familiarize yourself with the solution experience
+description: Familiarize yourself with the solution 
 ---
 
-# Get familiar with the solution experience
-Get started with the learning pathways experience by following the three steps outlined below. With the three steps, you can build a compelling demo that you can use for engaging presentations with customers. 
+# Get familiar with the solution 
+Get started with learning pathways by following the three steps outlined below. With the three steps, you can build a compelling demo that you can use for engaging presentations with customers. 
 
 ![cg-partner-getfam.png](media/cg-partner-getfam.png)
 
