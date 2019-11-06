@@ -1,9 +1,9 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Familiarize yourself with the solution experience
+title:  Partner integration models
 ms.date: 3/9/2019
-description: Familiarize yourself with the solution experience
+description: Partner integration models
 ---
 
 # Partner integration models
