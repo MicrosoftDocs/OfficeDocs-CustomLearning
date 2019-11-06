@@ -31,6 +31,7 @@
 # [Frequently Asked Questions](faq.md)
 # [Partner Guide](custom_partnerguide.md)
 ## [Partner Frequently Asked Questions](custom_partner.md)
-## [Partner Frequently Asked Questions](custom_partner_getfam.md)
+## [Get familiar with the solution](custom_partnerguide_getfam.md)
+
 # [Update Microsoft 365 learning pathways](custom_update.md)
 # [Troubleshooting Microsoft 365 learning pathways](custom_troubleshooting.md) 
