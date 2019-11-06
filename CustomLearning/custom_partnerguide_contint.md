@@ -28,8 +28,8 @@ Content for Microsoft 365 learning pathways is driven by a set of JSON files tha
 
 **Disclaimer:** the JSON file structure is subject to change based on upcoming solution work. The Microsoft 365 learning pathways partner Early Adopter Program (EAP) will be informed of any impending changes of this nature. Along with any customer backwards compatibility and/or transition guidance. 
 
-### Download 
-You can download the Microsoft 365 learning pathways solution, along with the JSON files, from the GitHub from here https://github.com/pnp/custom-learning-office-365. Note that at this time, Microsoft is not taking GitHub pull request on the solution. But you can use the GitHub files as a starting point for creating your own custom content pack. 
+### Download the Microsoft 365 learning pathways solution
+You can download the Microsoft 365 learning pathways solution, along with the JSON files, from the GitHub repository: https://github.com/pnp/custom-learning-office-365. Note that at this time, Microsoft is not taking GitHub pull request on the solution. But you can use the GitHub files as a starting point for creating your own custom content pack. 
 
 ## Metadata.json Structure
 You can think of this file as the brains of the menus and structure. It contains all the navigation structure as well as pick lists for data in the other two files. 
@@ -140,7 +140,7 @@ Key framing to keep in mind for this feature:
 - This is primary applicable for partner redistribution scenarios – where manual playlist configuration is too cumbersome 
 - Custom Content Packs are an advanced feature and should only be used by Partners with experience administrating web content. Untrustworthy content sources may introduce unsafe content into your site. You should only add sources that you trust.
 
-> **!IMPORTANT**
+> **IMPORTANT**
 > Before adding a Custom Content Pack, you must have provisioned Microsoft 365 learning pathways 3.0 or later. For informataion about provisioning Microsoft 365 learning pathways, see [Provision Microsoft 365 learning pathways](https://docs.microsoft.com/en-us/office365/customlearning/custom_provision).
 
 ## Content Whitelisting
@@ -153,11 +153,11 @@ Once you've created modified the JSON and defined your CDN, you can add the Cont
 2. From the **Administration** page, click the **... Add Content Pack** in the upper-right corner of the page.
 3. Click Custom Content Pack, and then enter a name of the Content Pack and then specify the CDN where the JSON files are located.
 
-![cg-part-addconpack.png](media/cg-part-json-folder.png)
+![cg-part-addconpack.png](media/cg-part-addconpack.png)
 
 4. Click **Save**. The content from your Custom Content Pack should now appear in the Administration page. Here is an example. 
 
-![cg-part-addconpack.png](media/cg-part-json-folder.png)
+![cg-part-addconpackex.png](media/cg-part-addconpackex.png)
 
 ## Filter to the Content Pack in the web part
 With learning pathways, you can add the learning pathways web part to a page, filter the web part to point to the Custom Content Pack source, and then filter the web part to the category, subcategory, playlist, and asset that you want. 
@@ -170,7 +170,7 @@ With learning pathways, you can add the learning pathways web part to a page, fi
 6. Click the Web part, and then click the Edit icon.
 7. Select the Learning Source, and then filter the web part to the content you want.
 
-![![cg-part-conpackfilter.png](media/cg-conpackfilter.png)
+![![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)
 
 
 
