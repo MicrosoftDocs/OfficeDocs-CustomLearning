@@ -110,7 +110,7 @@ Microsoft utilizes GitHub pages as a Content Delivery Network (CDN) source for i
 
 It is important that you maintain the same versioning structure that Microsoft does should you choose to extend the learning pathways solution with your own content pack. Your CDN endpoint should not include the version folder, as the manifest version the web part supports is baked into it and is automatically appended to the CDN url. We will obviously give you time to create new instances of your manifest files any time we revision it.
 
-![cg-part-json-folder.png](media/cg-part-json-folder.png)
+![cg-part-json-folder.png](media/cg-part-json-folder.png) 
 
 For more information about utilizing GitHub pages as your CDN source please see the following help documentation: [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages).
 
