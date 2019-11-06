@@ -40,25 +40,25 @@ You can think of this file as the brains of the menus and structure. It contains
 |**Technologies**              |Content is tagged and can be hidden based on the Technology it’s assigned.                 |  
 |&nbsp;&nbsp;Id                |GUID representing the technology                                                           |  
 |&nbsp;&nbsp;Name              |Display name of the technology                                                             |
-|&nbsp;&nbsp;**Subjects[ ]**    |When playlists associated with a category/subcategory are various audiences tagged, a selector will be available to show the available audiences.                                                                    |
-|Id                            |GUID representing the subject                                                              |
-|Name                          |Display name of the subject                                                                |
+|&nbsp;&nbsp;*Subjects[ ]*     |An array of subjects that are a subset of the technology                                   | 
+|&nbsp;&nbsp;&nbsp;&nbsp;Id    |GUID representing the subject                                                              |
+|&nbsp;&nbsp;&nbsp;&nbsp;Name  |Display name of the subject                                                                |
 |**Categories [ ]**             |Categories inform the navigation of the webpart. Each category represents a top level of the navigation                                                                                                                 |
 |&nbsp;&nbsp;Id                |GUID representing the category/subcategory                                                 |
 |&nbsp;&nbsp;Name              |Display name for the category/subcategory                                                  |
 |&nbsp;&nbsp;Image             |URL for the image that should be displayed in the UX (relative to the CDN base)            |
 |&nbsp;&nbsp;TechnologyId      |The GUID of the Technology this content is related to (optional – empty string)            |
-|&nbsp;&nbsp;SubjectId         |Display name for the category/subcategory                                                  |
-|&nbsp;&nbsp;Source            |URL for the image that should be displayed in the UX (relative to the CDN base)            |
-|&nbsp;&nbsp;Subcategories[ ]  |URL for the image that should be displayed in the UX (relative to the CDN base)            |
+|&nbsp;&nbsp;SubjectId         |The GUID of the Subject this content is related to (optional – empty string)               |
+|&nbsp;&nbsp;Source            |From Source array, not specifically used in UX other than custom data added by the user is marked as “Tenant” and the UX admin area does not allow editing of anything not marked “Tenant”.                           |
+|&nbsp;&nbsp;*Subcategories[ ]*|Sub-Categories are basically the nav level from level 2 down. The structure is the same as a Category just nested.          |
 |**Audiences [ ]**             |When playlists associated with a category/subcategory are various audiences tagged, a selector will be available to show the available audiences. |         
 |&nbsp;&nbsp;Id                |GUID of the audience                                                                       |  
 |&nbsp;&nbsp;Name              |Display name of the audience                                                               |       
-|**Sources [ ]**               |GUID of the audience                                                                       |  
-|**Levels  [ ]**               |Display name of the audience                                                               |  
+|**Sources [ ]**               |Array of strings that tag content with its source, not specifically used in UX other than custom data added by the user is marked as “Tenant” and the UX admin area does not allow editing of anything not marked “Tenant”.                                                   |  
+|**Levels  [ ]**               |When playlists associated with a category/subcategory are various levels tagged, a selector will be available to show the available levels.             |  
 |&nbsp;&nbsp;Id                |GUID of the Level                                                                          |  
 |&nbsp;&nbsp;Name              |Display name of the Level                                                                  | 
-|**Status Tag  [ ]**           |Status tag is to identify content with various status that will be exposed in the UX. Some of these flags will be show to the consumer and some only to the admin.                                                   |  
+|**StatusTag  [ ]**           |Status tag is to identify content with various status that will be exposed in the UX. Some of these flags will be show to the consumer and some only to the admin.                                                   |  
 |&nbsp;&nbsp;Id                |GUID of the StatugTag                                                                      |  
 |&nbsp;&nbsp;Name              |Display name of the StatusTag                                                              | 
 |**Telemetry  [ ]**            |                                                                                           |  
@@ -94,7 +94,7 @@ playlists.json – The playlists manifest is an array of objects that describe t
 |Description                   |A description showed for each playlist in the UX                                           |
 |StatusTagId                   |Associated status tag                                                                      |
 |StatusNote                    |Notes about content displayed to administrators                                            |
-|Assets                        |An array of GUID’s for the assets that are part of this playlist, in display order.        |         
+|*Assets[]*                        |An array of GUID’s for the assets that are part of this playlist, in display order.        |         
 
 ## Asset.json Structure
 playlists.json – The playlists manifest is an array of objects that describe the metadata about a playlist and the assets that are included in the playlist.
@@ -103,13 +103,13 @@ playlists.json – The playlists manifest is an array of objects that describe t
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |Id                            |GUID representing the playlist                                                             |  
 |Title                         |Display name of the playlist                                                               |
-|Description                   |                                                                                           |                      
+|Description                   |---                                                                                           |                      
 |URL                           |The source url for the asset, to be applied to the iFrame                                  |
 |TechnologyId                  |Associated technology                                                                      |
 |SubjectId                     |Associated subject                                                                         |
 |Source                        |Display name for the category/subcategory                                                  |
-|StatusTagId                   |                                           |
-|StatusNote                    |The Category or SubCategory ID that represents the container the playlist should be shown in. Currently the manifest does not support selecting a Category or SubCategory as the container if it also has SubCategory children.        |
+|StatusTagId                   |Associated status tag                                                                      |
+|StatusNote                    |Notes about content displayed to administrators.                                           |
 
 ## Caching
 The current version of the viewer web part utilizes a cached version of the manifest files for 24 hours. After 24 hours, the first user that hit’s the webpart takes the performance hit to refresh the cache by downloading the manifests from the source CDN and merge that information with hidden technologies and playlists as well as merging in custom sub-categories, playlists, and assets. Alternately the admin web part always downloads the content from the manifests and merges them in and updates the cache.  So, in other words, the administrator can force a cache update at any time by loading the admin web part, aka going to the Administration page.
