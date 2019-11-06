@@ -7,7 +7,7 @@ description: Familiarize yourself with the solution experience
 ---
 
 # Familiarize yourself with the solution experience
-Get started with the learning pathways experience by following the three steps outlined below. With the three steps, you can build a compelling demo that you can use for engaging presentations with customers.
+Get started with the learning pathways experience by following the three steps outlined below. With the three steps, you can build a compelling demo that you can use for engaging presentations with customers. 
 
 ![cg-partner-getfam.png](media/cg-partner-getfam.png)
 
