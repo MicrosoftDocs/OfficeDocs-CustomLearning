@@ -140,7 +140,7 @@ Key framing to keep in mind for this feature:
 - This is primary applicable for partner redistribution scenarios – where manual playlist configuration is too cumbersome 
 - Custom Content Packs are an advanced feature and should only be used by Partners with experience administrating web content. Untrustworthy content sources may introduce unsafe content into your site. You should only add sources that you trust.
 
-> [!IMPORTANT]
+> **!IMPORTANT**
 > Before adding a Custom Content Pack, you must have provisioned Microsoft 365 learning pathways 3.0 or later. For informataion about provisioning Microsoft 365 learning pathways, see [Provision Microsoft 365 learning pathways](https://docs.microsoft.com/en-us/office365/customlearning/custom_provision).
 
 ## Content Whitelisting
