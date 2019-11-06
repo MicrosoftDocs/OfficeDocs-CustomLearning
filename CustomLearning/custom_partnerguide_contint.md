@@ -162,15 +162,15 @@ Once you've created modified the JSON and defined your CDN, you can add the Cont
 ## Filter to the Content Pack in the web part
 With learning pathways, you can add the learning pathways web part to a page, filter the web part to point to the Custom Content Pack source, and then filter the web part to the category, subcategory, playlist, and asset that you want. 
 
-1. From the learning pathways site, click New, and then Page.
-2. Click Blank, and then Create Page.
+1. From the learning pathways site, click **New**, and then **Page**.
+2. Click **Blank**, and then **Create Page**.
 3. Give the page a name. 
-4. Click + Add a new section on the left side of the page.
-5. Click + in the top-middle of the new section, and then add the Microsoft 365 learning pathways web part.
-6. Click the Web part, and then click the Edit icon.
-7. Select the Learning Source, and then filter the web part to the content you want.
+4. Click **+ Add a new section** on the left side of the page.
+5. Click **+** in the top-middle of the new section, and then add the **Microsoft 365 learning pathways** web part.
+6. Click the Web part, and then click the **Edit** icon.
+7. In the **Select the Learning Source** box, select your Custom Content Pack, and and then filter the web part to the content you want. The following provides an example of the Web part filtered to a playlist from a Custom Content Pack.
 
-![![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)
+![[cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)
 
 
 
