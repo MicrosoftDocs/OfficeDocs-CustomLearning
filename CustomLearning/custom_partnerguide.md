@@ -8,7 +8,11 @@ description: How does Microsoft 365 learning pathways compare to partner offerin
 
 # Microsoft 365 learning pathways Partner Guide
 
-## Coming soon....
-The Microsoft 365 learning pathways Partner Guide is currently under development and is coming soon.
- 
+If you are Partner or MVP that is interested in connecting with your peers and the learning pathways engineering team – then we invite you to join our Early Adopter Program. This community is focused on a collaborative environment enabling you to ask questions on the below guidance as well as learn from your peers. More specifics on what the program entails include:  
+- An active Partner and MVP collaboration engagement forum 
+- Monthly onboarding and awareness topics 
+- Roadmap insights 
+- Early access to partner onboarding guidance and tooling 
+
+Interested? Sign-up here for nomination for inclusion: [https://aka.ms/M365lpPartnerEAP](https://aka.ms/M365lpPartnerEAP).   
 
