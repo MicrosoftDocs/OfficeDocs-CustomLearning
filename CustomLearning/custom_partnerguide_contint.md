@@ -15,12 +15,12 @@ While it’s not possible to supplement the Microsoft 365 learning pathways cont
 To get started, here are some best practices to follow. 	
 
 ### 1. Begin with building expertise as an Enabler. 
-You can help a percentage of your customer base right away by enabling their learning pathways training portal and performing targeted Microsoft content curation. For instructions on provisioning learning pathways, see https://docs.microsoft.com/en-us/office365/customlearning/custom_provision. 
+You can help a percentage of your customer base right away by enabling their learning pathways training portal and performing targeted Microsoft content curation. For instructions on provisioning learning pathways, see https://docs.microsoft.com/en-us/office365/customlearning/custom_provision.  
 
 ### 2. Then extend your services as an Integrator
 Perform an automation return on investment analysis - depending on the quantity of your content and/or services integration needs. For example, it may not make sense to take on the development and operational costs with respect to our content integration guidelines if you can quickly manually create a targeted custom playlist(s) pointing to your for-pay content or reference your services.
 
-### 3. When the return on investment makes sense – consider Redistribution
+### 3. When the return on investment makes sense – consider Redistribution 
 When the return on investment makes sense – consider Redistribution (or working with related learning pathways partners) to build repackaged solutions. These are based on the SharePoint Patterns and Practice framework which provides solutions to extract customized sites and then deploy into customer environments 
 
 ## Partner-provided content integration guidelines
