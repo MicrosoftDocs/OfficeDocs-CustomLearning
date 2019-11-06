@@ -170,7 +170,7 @@ With learning pathways, you can add the learning pathways web part to a page, fi
 6. Click the Web part, and then click the **Edit** icon.
 7. In the **Select the Learning Source** box, select your Custom Content Pack, and and then filter the web part to the content you want. The following provides an example of the Web part filtered to a playlist from a Custom Content Pack.
 
-![[cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)
+![[cg-part-conpackfilter.png](media/cg-part-conpackfilter.png) 
 
 
 
