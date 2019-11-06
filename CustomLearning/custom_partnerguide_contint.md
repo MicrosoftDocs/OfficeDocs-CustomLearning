@@ -6,13 +6,30 @@ ms.date: 3/9/2019
 description: Familiarize yourself with the solution experience
 ---
 
-# Familiarize yourself with the solution experience
-Instructions should go here. Download the sample. Get yourself a good JSON editor. Load up the JSON and see how it looks so you can understand the values in the table.
+# Partner integration models
+While it’s not possible to supplement the Microsoft 365 learning pathways content directly ‘out of the box’ from the SharePoint Online Provisioning service, there are several integration models that partners can leverage to create aligned value-add service offerings. The partner integration models above are presented in order of ascending complexity and levels of investment. Hence our guidance is to build your expertise and graduate to more advanced levels based on your business models.
+
+![cg-part-intmodel.png](media/cg-part-intmodel.png) 
+
+## How should I get started? 
+To get started, here are some best practices to follow. 	
+
+### 1. Begin with building expertise as an Enabler. 
+You can help a percentage of your customer base right away by enabling their learning pathways training portal and performing targeted Microsoft content curation. For instructions on provisioning learning pathways, see https://docs.microsoft.com/en-us/office365/customlearning/custom_provision. 
+
+### 2. Then extend your services as an Integrator
+Perform an automation return on investment analysis - depending on the quantity of your content and/or services integration needs. For example, it may not make sense to take on the development and operational costs with respect to our content integration guidelines if you can quickly manually create a targeted custom playlist(s) pointing to your for-pay content or reference your services.
+
+### 3. When the return on investment makes sense – consider Redistribution
+When the return on investment makes sense – consider Redistribution (or working with related learning pathways partners) to build repackaged solutions. These are based on the SharePoint Patterns and Practice framework which provides solutions to extract customized sites and then deploy into customer environments 
 
 ## Partner-provided content integration guidelines
 Content for Microsoft 365 learning pathways is driven by a set of JSON files that act as content manifests for your learning package. There are three files: metadata.json, playlists.json, and assets.json. These files need to be structured to match the models the web part recognizes and then hosted from a content delivery network (CDN) to allow the web part to load them. Microsoft will provide starter templates of these files to get you started.  
 
 **Disclaimer:** the JSON file structure is subject to change based on upcoming solution work. The Microsoft 365 learning pathways partner Early Adopter Program (EAP) will be informed of any impending changes of this nature. Along with any customer backwards compatibility and/or transition guidance. 
+
+### Download 
+You can download the Microsoft 365 learning pathways solution, along with the JSON files, from the GitHub from here https://github.com/pnp/custom-learning-office-365. Note that at this time, Microsoft is not taking GitHub pull request on the solution. But you can use the GitHub files as a starting point for creating your own custom content pack. 
 
 ## Metadata.json Structure
 You can think of this file as the brains of the menus and structure. It contains all the navigation structure as well as pick lists for data in the other two files. 
@@ -145,13 +162,13 @@ Once you've created modified the JSON and defined your CDN, you can add the Cont
 ## Filter to the Content Pack in the web part
 With learning pathways, you can add the learning pathways web part to a page, filter the web part to point to the Custom Content Pack source, and then filter the web part to the category, subcategory, playlist, and asset that you want. 
 
-From the learning pathways site, click New, and then Page.
-Click Blank, and then Create Page.
-Give the page a name. 
-Click + Add a new section on the left side of the page.
-Click + in the top-middle of the new section, and then add the Microsoft 365 learning pathways web part.
-Click the Web part, and then click the Edit icon.
-Select the Learning Source, and then filter the web part to the content you want.
+1. From the learning pathways site, click New, and then Page.
+2. Click Blank, and then Create Page.
+3. Give the page a name. 
+4. Click + Add a new section on the left side of the page.
+5. Click + in the top-middle of the new section, and then add the Microsoft 365 learning pathways web part.
+6. Click the Web part, and then click the Edit icon.
+7. Select the Learning Source, and then filter the web part to the content you want.
 
 ![![cg-part-conpackfilter.png](media/cg-conpackfilter.png)
 
