@@ -28,5 +28,5 @@ Follow the referenced article to:
 
 ## Feedback
 
-As of today, reporting is limited to the SharePoint site level. Lend your vote to our [User Voice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions) forum to help prioritize enhanced reporting functionality requests.   
+As of today, reporting is limited to the SharePoint site level. Lend your vote to our [User Voice](https://go.microsoft.com/fwlink/?linkid=2109552) forum to help prioritize enhanced reporting functionality requests.   
 
