@@ -30,6 +30,6 @@ You can provision learning pathways with the SharePoint Online Provisioning Serv
 - [Create a Custom Playlist](https://docs.microsoft.com/en-us/office365/customlearning/custom_createnewplaylist) – starting with [SharePoint pages](https://docs.microsoft.com/en-us/office365/customlearning/custom_createnewpage), [playlist creation](https://docs.microsoft.com/en-us/office365/customlearning/custom_createnewplaylist), [adding assets](https://docs.microsoft.com/en-us/office365/customlearning/custom_addassets), and [creating subcategories](https://docs.microsoft.com/en-us/office365/customlearning/custom_createnewcat).
 
 ## 5. Create a sample learning pathways communication campaign
-5.	Create a sample learning pathways communication campaign based on the [downloadable Adoption Kit](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip) and highlight the custom content you created in Step 4. You can leverage this when demoing the complete customer experience. 
+Create a sample learning pathways communication campaign based on the [downloadable Adoption Kit](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip) and highlight the custom content you created in Step 4. You can leverage this when demoing the complete customer experience. 
 
 
