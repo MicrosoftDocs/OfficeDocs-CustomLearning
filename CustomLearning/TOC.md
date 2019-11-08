@@ -29,7 +29,7 @@
 ## [Measure Impact](custom_measureimpact.md)
 # [Feedback and Support](feedback.md)
 # [Frequently Asked Questions](faq.md)
-# [Partner Guide](custom_partnerguide.md)
+# [Microsoft 365 learning pathways Early Adopter Program](custom_partnerguide.md)
 ## [Get familiar with the solution](custom_partnerguide_getfam.md)
 ## [Partner integration models](custom_partnerguide_contint.md) 
 ## [Partner Frequently Asked Questions](custom_partner.md)
