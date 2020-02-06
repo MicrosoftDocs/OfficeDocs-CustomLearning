@@ -7,9 +7,6 @@ description: Learn how Microsoft 365 learning pathways can accelerate usage and 
 ---
 
 # Microsoft 365 learning pathways 
-> [!IMPORTANT]
-> Support.office.com is currently down. As a result, support.office.com content in Microsoft 365 Learning Pathways is currently unavailable. Engineers are working to restore access.
-
 Microsoft 365 learning pathways is a customizable, on-demand learning solution designed to increase usage and adoption of Microsoft 365 services in your organization.   
 
 ## On-demand, custom training from Microsoft
