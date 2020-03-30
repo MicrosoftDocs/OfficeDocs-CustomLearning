@@ -5,7 +5,7 @@ title:  Learning pathways April 2020 Content Update
 ms.date: 3/30/2020
 description: Learning pathways April 2020 Content Update
 ---
-# Update Microsoft 365 learning pathways
+# Learning pathways April 2020 Content Update
 Welcome to the Microsoft 365 learning pathways April 2020 Content Update. In response to the Covid-19 outbreak, the April 2020 Content Update provides learning playlists and resources focused on enabling remote work in your organization. We’ve added a new set of Work Remotely playlists, significantly updated the Microsoft Teams content, added a new set of Office for the Web playlists, and provided an Enabling Remote Work resources page for Administrators to help support remote workers. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md). 
 
 ## Work Remotely (2 new playlists/11 new assets)
