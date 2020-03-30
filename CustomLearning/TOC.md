@@ -4,7 +4,9 @@
 ## [Explore the Microsoft 365 learning pathways site](custom_exploresite.md)
 ## [Stand alone web part setup](custom_manualsetup.md)
 # [Admin Success Center](custom_successcenter.md)
-## [November Content Updates](custom_contentupdates.md)
+## Content Updates
+### [April 2020 Content Updates](custom_contentupdate_april_20.md)
+### [November 2019 Content Updates](custom_contentupdates.md)
 ## [Manage Content Updates](custom_contentupdatesmanage.md)
 ## [November Feature Updates](custom_featureupdates.md)
 ## [Plan your learning content](custom_plancontent.md)
