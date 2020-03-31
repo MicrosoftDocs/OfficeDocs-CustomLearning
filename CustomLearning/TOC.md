@@ -9,7 +9,7 @@
 ### [November 2019 Content Updates](custom_contentupdates.md)
 ## [Manage Content Updates](custom_contentupdatesmanage.md)
 ## [November Feature Updates](custom_featureupdates.md)
-## Plan learning content
+## Plan learning content 
 ### [Plan your learning content](custom_plancontent.md)
 ### [Resources for support remote workforce](custom_plancontent_remoteresources.md)
 ## [Customize learning pathways](custom_overview.md)
