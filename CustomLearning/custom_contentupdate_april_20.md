@@ -94,7 +94,7 @@ Office for the web provides a set of playlists for scenarios where users want to
 ## Resources for supporting your remote workforce
 You can use learning pathways to build a landing page in your learning pathways site for supporting remote workers. Or you can add the learning pathways web part to an existing support page on your learning pathways site and filter the web part to show the Work Remotely content. Here’s a list of some of the top resources from Microsoft for supporting remote work in your organization. 
 - [How to roll out Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/how-to-roll-out-teams)
-- [Meetings and conferencing in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/)deploy-meetings-microsoft-teams-landing-page
+- [Meetings and conferencing in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
 - [Support Remote Workers using Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/support-remote-work-with-teams)
 - [FAQ: Support your remote workforce](https://docs.microsoft.com/en-us/microsoftteams/faq-support-remote-workforce)
 - [The top 9 ways Microsoft IT is enabling remote work for its employees](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
