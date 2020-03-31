@@ -100,5 +100,5 @@ You can use learning pathways to build a landing page in your learning pathways 
 - [The top 9 ways Microsoft IT is enabling remote work for its employees](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
 - [Microsoft Teams Training](https://docs.microsoft.com/en-us/microsoftteams/training-microsoft-teams-landing-page)
 
-For more information about how to add resources for supporting a remote workforce to Learning Pathways, see [Customize learning pathways](custom_overview.md) and [Drive Adoption](driveadoption.md). 
+For more information about how to customize Learning Pathways, see [Customize learning pathways](custom_overview.md). 
 
