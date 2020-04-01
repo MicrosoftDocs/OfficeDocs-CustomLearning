@@ -6,17 +6,25 @@ ms.date: 3/30/2020
 description: Learning pathways April 2020 Content Update
 ---
 # Learning pathways April 2020 Content Update
-Welcome to the Microsoft 365 learning pathways April 2020 Content Update. In response to the Covid-19 outbreak, the April 2020 Content Update provides learning playlists and resources focused on enabling remote work in your organization. We’ve added a new set of Work Remotely playlists, significantly updated the Microsoft Teams content, especially for Teams meetings, and added a new set of Office for the Web playlists. As part of the update, we also provide an Enabling Remote Work resources page for Administrators to help support remote workers. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md). 
+Welcome to the Microsoft 365 learning pathways April 2020 Content Update. In response to current events, the April 2020 Content Update provides learning playlists and resources focused on enabling remote work in your organization. We’ve added a new set of Work Remotely playlists, significantly updated the Microsoft Teams content, especially for Teams meetings, and added a new set of Office for the Web playlists. As part of the update, we've also provided a list of Remote Work resources for administrators. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md). The following lists the April 2020 Microsoft 365 learning pathways content updates. 
 
-## Work Remotely (2 new playlists/11 new assets)
-A new Work Remotely subcategory has been added to learning pathways that feature the following playlists and assets: 
-### Work remotely (5 new assets)
+## Office 365 has been rebranded to Microsoft 365
+Office 365 has been rebranded to Microsoft 365. The name change is reflected throughout the Microsoft 365 learning pathways content. 
+
+## Updated Playlists
+
+### Work Remotely (2 new playlists/11 new assets)
+A new Work Remotely subcategory has been added to learning pathways that features the following playlists and assets: 
+
+![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+
+#### Work remotely (5 new assets)
 - Work remotely with Office 365
 - Get started at Office.com
 - Communicate or meet
 - Store your work files
 - Advanced alternatives
-### Best practices for collaborating with Office 365 (6 new assets)
+#### Best practices for collaborating with Office 365 (6 new assets)
 - Get started
 - Share
 - Co-author
@@ -92,7 +100,7 @@ Office for the web provides a set of playlists for scenarios where users want to
 - Share with someone outside your organization
 
 ## Resources for supporting your remote workforce
-You can use learning pathways to build a landing page in your learning pathways site for supporting remote workers. Or you can add the learning pathways web part to an existing support page on your learning pathways site and filter the web part to show the Work Remotely content. Here’s a list of some of the top resources from Microsoft for supporting remote work in your organization. 
+You can use learning pathways to build a landing page in your learning pathways site for supporting remote workers. Or you can add the learning pathways web part to an existing support page on your learning pathways site and filter the web part to show the Work Remotely playlists. Here’s a list of some of the top resources from Microsoft for supporting remote work in your organization. 
 - [How to roll out Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/how-to-roll-out-teams)
 - [Meetings and conferencing in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
 - [Support Remote Workers using Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/support-remote-work-with-teams)

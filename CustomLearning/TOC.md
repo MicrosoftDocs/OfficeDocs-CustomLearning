@@ -11,7 +11,7 @@
 ## [November Feature Updates](custom_featureupdates.md)
 ## Plan learning content 
 ### [Plan your learning content](custom_plancontent.md)
-### [Resources for support remote workforce](custom_plancontent_remoteresources.md)
+### [Resources for supporting your remote workforce](custom_plancontent_remoteresources.md)
 ## [Customize learning pathways](custom_overview.md)
 ### [Go to the M365 learning pathways site](custom_goto.md)
 ### [Customize the site](custom_edithelp.md)
