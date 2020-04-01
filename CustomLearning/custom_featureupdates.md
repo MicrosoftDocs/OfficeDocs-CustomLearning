@@ -1,18 +1,33 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Learning pathways November 2019 Feature Updates
+title:  Learning pathways Feature Updates
 ms.date: 10/20/2019
-description: Learning pathways November 2019 Feature Updates
+description: Learning pathways Feature Updates
 ---
 
-# November 2019 Version 3.0 Feature Updates
+# Learning pathways Feature Updates
+The learning pathways team listens to customer feedback to help provide the features you need. The following provides an update on the features planned for Q2 of 2020. 
+
+## Upcoming Feature Updates for Q2 2020
+Multilingual support for learning pathways is scheduled to release in the second quarter of 2020. The following languages will be supported. 
+
+- Chinese (Simplified) 
+- French  
+- German 
+- Italian (Italy) 
+- Japanese (Japan)  
+- Portuguese (Brazilian) 
+- Russian (Russian)  
+- Spanish 
+
+## November 2019 Version 3.0 Feature Updates
 Based largely on customer feedback, the following new features have been added to Microsoft 365 learning pathways version 3.0.
 
-## Content updates and editorial calendar
+### Content updates and editorial calendar
 One of the promises of learning pathways is up-to-date content. To this end, we've provided our first November 2019 quarterly content update with a variety of new subcategories, playlist, and assets. Content updates are communicated in our Content Update articles in our What's New/What's Changed playlist. Learning pathways quarterly content updates can also be found here: For general Office help, see [November 2019 content updates](custom_contentupdates.md).
 
-## Microsoft 365 Success Center
+### Learning pathways Admin Success Center
 We've added a Microsoft 365 learning pathways Admin Success Center to help admins and site collection owners get the most out of learning pathways. The Admin Success Center provides links to planning and adoption resources and offers guidance on planning, customizing, driving adoption, and measuring impact of learning pathways. For more information, see [Admin Success Center](custom_successcenter.md).
 
 ## Playlist navigation
