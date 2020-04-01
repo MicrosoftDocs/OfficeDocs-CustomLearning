@@ -21,6 +21,9 @@ Multilingual support for learning pathways is scheduled to release in the second
 - Russian (Russian)  
 - Spanish 
 
+> [!NOTE]
+> Support for the Dutch language will not be included in the upcoming release of multi-language support for learning pathways. We will continue to evaluate new language options in the future.
+
 ## November 2019 Version 3.0 Feature Updates
 Based largely on customer feedback, the following new features have been added to Microsoft 365 learning pathways version 3.0.
 
