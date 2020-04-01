@@ -4,8 +4,7 @@
 ## [Explore the Microsoft 365 learning pathways site](custom_exploresite.md)
 ## [Stand alone web part setup](custom_manualsetup.md)
 # What's new 
-## [April 2020 Content Updates](custom_contentupdate_april_20.md)
-## [November 2019 Content Updates](custom_contentupdates.md)
+## [Content Updates](custom_contentupdate_april_20.md)
 ## [Manage Content Updates](custom_contentupdatesmanage.md)
 ## [Feature Updates](custom_featureupdates.md)
 # [Admin Success Center](custom_successcenter.md)
