@@ -33,10 +33,9 @@ Microsoft 365 learning pathways is currently in Beta Preview. Please consider th
 
 ### What languages is Microsoft 365 learning pathways available in?
 
-Microsoft 365 learning pathways is currently available only in English. Automatic end-to-end provisioning only works with English tenants. We plan on rolling out multilingual support for these nine languages in the first quarter of 2020. 
+Microsoft 365 learning pathways is currently available only in English. Automatic end-to-end provisioning only works with English tenants. We plan on rolling out multilingual support for the following languages in the second quarter of 2020. 
 
 - Chinese (Simplified) 
-- Dutch (Netherlands) 
 - French  
 - German 
 - Italian (Italy) 
@@ -44,6 +43,8 @@ Microsoft 365 learning pathways is currently available only in English. Automati
 - Portuguese (Brazilian) 
 - Russian (Russian)  
 - Spanish 
+
+> Support for the Dutch language will not be included in the upcoming release of multi-language support for learning pathways. We will continue to evaluate new language options in the future.
 
 ### How long will it take to install the site in our tenant environment?
 
