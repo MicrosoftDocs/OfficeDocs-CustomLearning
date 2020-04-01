@@ -10,7 +10,7 @@ description: Learning pathways Feature Updates
 The learning pathways team listens to customer feedback to help provide the features you need. The following provides an update on the features planned for Q2 of 2020. 
 
 ## Upcoming Feature Updates for Q2 2020
-Multilingual support for learning pathways is scheduled to release in the second quarter of 2020. The following languages will be supported. 
+Multilingual support for learning pathways is scheduled to release in the second quarter of 2020. Learning pathways multilingual support takes a dependency on the “Multiligual page publishing for Modern SharePoint” feature and will be available at the same time as SharePoint multilingual support is generally available. For more information, see [Multiligual page publishing for Modern SharePoint](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=50217) in the Microsoft 365 Roadmap. 
 
 - Chinese (Simplified) 
 - French  
