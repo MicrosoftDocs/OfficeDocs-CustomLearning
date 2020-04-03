@@ -5,19 +5,22 @@ title:  Learning pathways Content Updates
 ms.date: 3/30/2020
 description: Learning pathways April 2020 Content Updates
 ---
-# Learning pathways Content Updates
+# Microsoft 365 Learning Pathways Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. The following list the content updates for April 2020.
 
 ## April 2020 Content Updates
- In response to current events, the April 2020 Content Update provides learning playlists and resources focused on enabling remote work in your organization. We’ve added a new set of Work Remotely playlists, significantly updated the Microsoft Teams content, especially for Teams meetings, and added a new set of Office for the Web playlists. As part of the update, we've also provided a list of Remote Work resources for administrators. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md). The following lists the April 2020 Microsoft 365 learning pathways content updates. 
+ In response to current events, the April 2020 Content Update provides learning playlists and resources designed to enable remote work in your organization. We’ve added a new set of Work remotely playlists, significantly updated the Microsoft Teams content, especially for Teams meetings, added a new set of Office for the web playlists, and added new Microsoft Forms assets. As part of the update, we've also provided a list of Remote Work resources for administrators.  
+ 
+ To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md). The following lists the April 2020 Microsoft 365 learning pathways content updates. 
 
-### Office 365 has been rebranded to Microsoft 365
+### Office 365 was rebranded to Microsoft 365
 Office 365 has been rebranded to Microsoft 365. The name change is reflected throughout the Microsoft 365 learning pathways content. 
 
-### Updated Playlists
+### New or Updated Playlists
+The following playlists have been added or updated.  
 
-#### Work Remotely (2 new playlists/11 new assets)
-A new Work Remotely subcategory has been added to learning pathways that features the following playlists and assets: 
+#### Work remotely (2 new playlists/11 new assets)
+A new Work remotely subcategory was added to learning pathways that features the following playlists and assets: 
 
 ![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
 
@@ -67,7 +70,7 @@ Office for the web provides a set of playlists for scenarios where users want to
 - Create new documents
 - Get back to work
 - Recommended files
-#### Outlook for the Web
+#### Outlook for the web
 - Get to know Outlook for the Web
 - Create an reply to email
 - Organize your Inbox
@@ -75,13 +78,13 @@ Office for the web provides a set of playlists for scenarios where users want to
 - Schedule an appointment or meeting
 - Create an edit a contact
 - Search for email, contacts, and events
-#### Word for the Web
+#### Word for the web
 - Get to know Word for the Web
 - Change document layout
 - Insert tables and pictures
 - Collaborate online
 - Cool things in Word for the Web
-#### Excel for the Web
+#### Excel for the web
 - Get to know Excel for the Web
 - Create formulas
 - Insert a PivotTable
@@ -102,16 +105,26 @@ Office for the web provides a set of playlists for scenarios where users want to
 - Secure your docs only to specific people
 - Share with someone outside your organization
 
+###Microsoft Forms 
+By request, there are also some new Forms assets. 
+#### Forms (4 new assets) 
+- Create a form 
+- Share a form 
+- View results of a form 
+- Frequently Asked Questions about Microsoft Forms 
+
 ### Resources for supporting your remote workforce
 You can use learning pathways to build a landing page in your learning pathways site for supporting remote workers. Or you can add the learning pathways web part to an existing support page on your learning pathways site and filter the web part to show the Work Remotely playlists. Here’s a list of some of the top resources from Microsoft for supporting remote work in your organization. 
-- [How to roll out Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/how-to-roll-out-teams)
-- [Meetings and conferencing in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Support Remote Workers using Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/support-remote-work-with-teams)
-- [FAQ: Support your remote workforce](https://docs.microsoft.com/en-us/microsoftteams/faq-support-remote-workforce)
-- [The top 9 ways Microsoft IT is enabling remote work for its employees](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Microsoft Teams Training](https://docs.microsoft.com/en-us/microsoftteams/training-microsoft-teams-landing-page)
+- [How to roll out Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
+- [Meetings and conferencing in Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [Support Remote Workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
+- [FAQ: Support your remote workforce](https://docs.microsoft.com/microsoftteams/faq-support-remote-workforce)
+- [The top 9 ways Microsoft IT is enabling remote work for its employees](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
+- [Microsoft Teams Training](https://docs.microsoft.com/microsoftteams/training-microsoft-teams-landing-page)
+- [Education: Microsoft Education Center](https://education.microsoft.com) 
+- [Education: Getting started with remote learning](https://education.microsoft.com/resource/4c0c02c0)
 
-For more information about how to customize Learning Pathways, see [Customize learning pathways](custom_overview.md). 
+For more information about how to customize Learning Pathways, see [Customize learning pathways]((custom_overview.md). 
 
 ## November 2019 Content Updates
 Welcome to the Microsoft 365 learning pathways content update. Starting with our November 2019 update, we'll provide an updated inventory of the learning pathways catalog on a quarterly basis. For the November 2019 update, the following new content subcategories and playlists have been added to the learning pathways catalog. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).    
