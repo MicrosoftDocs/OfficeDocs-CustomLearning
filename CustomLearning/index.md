@@ -10,7 +10,7 @@ description: Learn how Microsoft 365 learning pathways can accelerate usage and 
 Microsoft 365 learning pathways is a customizable, on-demand learning solution designed to increase usage and adoption of Microsoft 365 services in your organization.    
 
 > [!IMPORTANT]
-> In response to current events, learning pathways is providing an April 2020 Content Update that focuses on playlists and resources to enable remote work in your organization. We’ve added a new set of Work remotely playlists, significantly updated the Microsoft Teams content, especially for Teams meetings, and added a new set of Office for the web playlists. As part of the update, we've also provided a list of Remote Work resources for administrators. For the full list of updates, see [Learning pathways April 2020 Content Updates](custom_contentupdates.md).   
+> In response to current events, learning pathways is providing an April 2020 Content Update that focuses on playlists and resources designed to enable remote work in your organization. We’ve added a new set of Work remotely playlists, significantly updated the Microsoft Teams content, especially for Teams meetings, and added a new set of Office for the web playlists. As part of the update, we've also provided a list of Remote Work resources for administrators. For the full list of updates, see [Learning pathways April 2020 Content Updates](custom_contentupdates.md).   
 
 ## On-demand, custom training from Microsoft
 
