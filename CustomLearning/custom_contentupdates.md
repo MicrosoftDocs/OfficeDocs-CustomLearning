@@ -103,7 +103,7 @@ Office for the web provides a set of playlists for scenarios where users want to
 - Share your documents
 - Create a shareable link
 - Secure your docs only to specific people
-- Share with someone outside your organization
+- Share with someone outside your organization 
 
 ### Microsoft Forms 
 By request, there are also some new Forms assets. 
