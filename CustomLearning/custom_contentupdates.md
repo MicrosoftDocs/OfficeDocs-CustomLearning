@@ -103,9 +103,9 @@ Office for the web provides a set of playlists for scenarios where users want to
 - Share your documents
 - Create a shareable link
 - Secure your docs only to specific people
-- Share with someone outside your organization
+- Share with someone outside your organization 
 
-###Microsoft Forms 
+### Microsoft Forms 
 By request, there are also some new Forms assets. 
 #### Forms (4 new assets) 
 - Create a form 
@@ -124,7 +124,7 @@ You can use learning pathways to build a landing page in your learning pathways 
 - [Education: Microsoft Education Center](https://education.microsoft.com) 
 - [Education: Getting started with remote learning](https://education.microsoft.com/resource/4c0c02c0)
 
-For more information about how to customize Learning Pathways, see [Customize learning pathways]((custom_overview.md). 
+For more information about how to customize Learning Pathways, see [Customize learning pathways](custom_overview.md). 
 
 ## November 2019 Content Updates
 Welcome to the Microsoft 365 learning pathways content update. Starting with our November 2019 update, we'll provide an updated inventory of the learning pathways catalog on a quarterly basis. For the November 2019 update, the following new content subcategories and playlists have been added to the learning pathways catalog. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).    
