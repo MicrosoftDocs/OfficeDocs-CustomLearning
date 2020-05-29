@@ -29,7 +29,7 @@ To ensure a successful manual setup of the learning pathways web part, the follo
 ## Step 1 - Get the web part package and setup script from GitHub
 As part of the setup process, you'll need the Microsoft 365 learning pathways Web part package and the PowerShell Setup Script.
 
-- Go the the [learning pathways GitHub Repository](https://github.com/pnp/custom-learning-office-365).
+- Go to the [learning pathways GitHub Repository](https://github.com/pnp/custom-learning-office-365).
 - Click **Download** to save the web part package and script to a local drive. You'll be using the script and the web part package in later steps of this process.
 
 ## Step 2 - Upload the web part to the Tenant App Catalog
