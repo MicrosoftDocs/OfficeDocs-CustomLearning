@@ -16,7 +16,7 @@ The learning pathways SharePoint site pages are translated into nine languages. 
 3.	Click **Publish**.
 
 ## Translate the page in the supported languages
-When you modify a page, it must also be modified in the supported languages. This is the role of the translator. If you've specified a translator in Language settings, they'll be notified when you publish the page in English. For now, you can play the role of translator. 
+When you modify a page, it must also be modified in the supported languages. This is the role of the translator. If you've specified a translator in Language settings, they'll be notified when you publish the page in English. For now, you can play the role of translator. For more information for setting up a foreign language account, see <Set up a foreign language account.>
 
 1. Navigate to the page that requires translation. In this case, it's the page you just modified. 
 2. Copy the English text in the page title and get the translation from Bing Translator. Remember, this is just a simulation. 
