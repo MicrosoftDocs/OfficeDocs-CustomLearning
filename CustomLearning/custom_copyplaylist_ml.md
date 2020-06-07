@@ -16,19 +16,32 @@ Quite often, organizations need to modify a Microsoft-supplied playlist by remov
 3. Under **First Days**, click the **Six Simple Steps - Welcome to Office 365** playlist, and then click **Copy Playlist**. 
 4. Click **Edit Detail**, and then fill in the **Title** and **Description** fields as shown in the following example, then click **Save Detail**.  
  
-![cg-copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
+## Add languages for the playlist details
+1.	From the Home menu, select Learning pathways administration.
+2.	Select a playlist. In this case, we’ll select Six Simple Steps.
+3.	Select Copy Playlist. When you copy a playlist, it also copies the playlist details in the languages you’ve enabled for the site.
+4.	Scroll down the page and click Edit Detail. 
+5.	Modify the playlist details and then click Save Detail. 
+6.	For Translator: Make a note for the translator they will have to modify the language details for the supported non-English languages.
 
-## Add or remove assets from a playlist
-With custom playlists, you can:
-- add and remove Microsoft assets, but not edit the assets from Microsoft
-- add, remove, and edit custom existing SharePoint assets from your organization or SharePoint assets that you create. 
+## Translate the playlist details - h
+This is the role of the translator. 
+1.	From the Home menu, select Learning pathways administration.
+2.	Select a playlist. In this case, we’ll select Six Simple Steps. 
+3.	Select Edit Detials, then select the language to translte. When you copy a playlist, it also copies the playlist details in the languages you’ve enabled for the site.
+4.	Scroll down the page and click Edit Detail. 
+5.	Modify the playlist details and then click Save Detail. 
+6.	For Translator: Make a note for the translator they will have to modify the language details for the supported non-English languages.
+ 
+## Modify the playlist assets
+You can add or remove assets from a playlist or edit the assets in a playlist. By default, the assets are available in the languages enabled for the site. In this case, Italian. 
 
-### Remove an asset from a playlist
-- Scroll down the **Administration** page, and then under **Playlist Assets** click the delete icon for **Step 5. Set up mobile apps**. 
+## Remove an asset from the playlist
+- Scroll down the page to the assets list.
+- Delete the Try New Things asset.
 
-## Verify the asset is removed from the playlist
-1. Return to the tab with the **Microsoft 365 training** page.
-2. Click **First Days**, then click the **Five Simple Steps - Welcome to Office 365** playlist. 
-3. Click through the playlist to verify that the asset has been removed.
+## Close the playlist
+- Close the playlist. In this case the pages all come from Microsoft so there is not need to translate the pages. 
+
 
 
