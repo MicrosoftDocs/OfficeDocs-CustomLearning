@@ -36,7 +36,6 @@ The SharePoint Site Language settings let you determine the languages to support
 - If you're going to translate pages, optionally assign one or more translators for each language.  In the Translator column, start typing the name of a person you want to be a translator, and then select the name from the list. Note this person should have a foreign language profile set up. (See previous instructions).
 
 Note: Anyone in your organization's Active Directory can be assigned as a translator. People assigned as translators will not automatically be given appropriate permissions. When someone without edit permissions to a site tries to access the site, they will be directed to a web page where they can request access.
-
  
 ### Next Steps
 - Explore the [default content](custom_exploresite.md) provided in the site and web part.
