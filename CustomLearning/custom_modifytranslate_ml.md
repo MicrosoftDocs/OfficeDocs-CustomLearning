@@ -1,51 +1,34 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Explore the site and default content
+title:  Modify and translate a page
 ms.date: 02/10/2019
-description: Explore the learning pathways site and default content
+description: Modify and translate a page
 ---
 
-# Explore the learning pathways site
+# Modify and translate a page
+The learning pathways SharePoint site pages are translated into nine languages. When you make a change to an English source page, the changes are not syncronized with the additonal language pages. Translations must be done manually. 
 
-> Note: To explore the learning pathways site and it's administrative features, you'll need Site Collection Admin, Owner, or Member permissions to the site. If you don't have the neccesary permissions, contact the Site Administrator for the site. The learning pathways site is hosted in your Office 365 tenant, so you'll need to sign in to Office 365 to get to the site. If you haven’t already signed into Office 365, sign in now. 
+## Edit a multilanguage page
+1.	From the learning pathways **Home** page, click **Microsoft 365 training**.  
+2.	Click **Edit** in the upper-left corner of the SharePoint site. 
+3. In the page banner, click **Edit web part**, then change the text Title text to something like Microsoft 365 training for <your Company name>, then and then close the **Title Region** pane. 
+3.	Click **Publish**.
 
-## Sign in to Office 365 
+## Translate the page in the supported languages
+When you modify a page, it must also be modified in the supported languages. This is the role of the translator. If you've specified a translator in Language settings, they'll be notified when you publish the page in English. For now, you can play the role of translator. 
 
-1.	Open your Web browser and navigate to office.com or your organization’s sign-in location. 
-2.	Sign in with your user name and password.
-3. 	Navigate to the location of the site using the URL supplied by your tenant administrator or select SharePoint from the Office 365 Home page, and then select the site. 
+1. Navigate to the page that requires translation. In this case, it's the page you just modified. 
+2. Copy the English text in the page title and get the translation from Bing Translator. Remember, this is just a simulation. 
+<English is selected graphic>
+3. Select a language from the language dropdown. In this example, we select Italian. The Italian page is now displayed, but the changes made in the English version will need to be translated for the Italian version of the page.
+<English is selected graphic>
+4. Hover over the Microsoft 365 training tile, and then click Edit details. 
+5.	Change the Formazione su Microsoft 365 to Formazione su Contoso. You can use Bing Translator as you become familiar with the SharePoint multilingual feature. 
+6. Republish the page. 
+7. Repeat Steps 2-6 for as many languages as you have supported for the site.
 
-![cg-introducing.png](media/cg-introducing.png)
-
-## Explore the learning pathways site
-
-The learning pathways site is based on a SharePoint communication template, so it's easy to modify the site to meet the needs of your organization. You can change the site name, logo, menu items, and the content on the pages. One of the pages you'll want to modify for your organization is the Ask questions and get help page. Let's take a look.
-
-### View the Ask questions and get help page
-
-The learning pathways site provides default content to help you get starting building your training and support portal. As an admininstrator or owner of the site, one of the things you’ll want to do is change the links on the **Ask question and get help page** point to resources in your organization. 
-
-1.	From the Microsoft 365 learning pathways Home page, click the **Ask questions and get help** menu item.
-2.	Click the **Edit** button.
-3.	Hover over a Help option image, then click **Edit web part**.
-
-![cg-edithelp.png](media/cg-edithelp.png)
-
-For instructions on customizing site pages, see [Customize the site](custom_edithelp.md).
-
-### View the learning pathways content in the web part
-The Microsoft 365 training page hosts the learning pathways Web part configured to show all the training available for learning pathways. 
-
-1. Scroll down the page to view all the categories and subcategories.
-2. Kick the tires a bit. Click a few subcategories, and then click a few playlists to get a feel for how learning pathways content is organized. 
-
-![cg-gotoall.png](media/cg-gotoall.png)
-
-For instructions on customizing the learning pathways web part, see [Customize the Learning Experience](custom_overview.md).
-
-### Get a complete site tour and customization guidance
-For a detailed look at learning pathways, incuding the site, the web part, administrative features, and guidance on how to build unique learning experiences for your environment, see [Customize the Learning Experience](custom_overview.md)
+NOTE: Unless you are running the site with a non-English language profile, the Web part, Site title, and navigation will appear in English. When you modify a page, you modify it in the default language. The default language for Learning Pathways is English. When you publish the page, translators, if you selected them, are notified that the page is available for translation. 
 
 ## Next Steps
 - [Customize the Learning Experience](custom_overview.md)
