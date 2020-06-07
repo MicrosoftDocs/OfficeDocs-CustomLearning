@@ -40,7 +40,7 @@ o	Select Create for the language you want to support.
 When you modify a page, it must also be modified in the supported languages. This is the role of the translator. If you've specified a translator in Language settings, they'll be notified when you publish the page in English. For now, you can play the role of translator. For more information for setting up a foreign language account, see [Set up a foreign language account].
 
 1. Navigate to the page that requires translation. In this case, it's the page you just modified. 
-2. Copy the English text in the page title and get the translation from Bing Translator. Remember, this is just a simulation. 
+2. Copy the English text in the page title and get the translation from Bing Translator. Remember, this is just a simulation.    
 [graphic]
 3. Select a language from the language dropdown. In this example, we select Italian. The Italian page is now displayed, but the changes made in the English version will need to be translated for the Italian version of the page. 
 [graphic]
