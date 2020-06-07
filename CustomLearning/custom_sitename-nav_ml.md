@@ -1,39 +1,12 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Hide and show playlists
-ms.date: 10/27/2019
-description: Hide and show playlists
+title:  Translate the site title, description, and navigation
+ms.date: 6/7/2020
+description: Translate the site title, description, and navigation
 ---
 
-# Hide and show Playlists
+## Translate the site title, description, and navigation
+To show the site name, navigation, and footer of your site in the different languages you've made available, each must be translated manually. For example, if you’ve made changes to the site title, description and navigation of the site in English, a user with Spanish as their preferred personal language manually edits and translates the title, description, navigation into Spanish. A user with German as their preferred personal language does the same for German. Once the content is translated, it will display for all users of those preferred languages. 
 
-To tailor learning pathways for your environment, you can hide playlists provided by Microsoft.    
-
-- You can hide a playlist like Start with Six Simple Steps and replace it with a custom playlist that your create for your organization.
-- You can hide a playlist for a product if the playlist covers functionality not supported in your organization. For example, if Microsoft Teams is not configured for calls or meetings, you can hide the **Start chats, calls, and meetings** playlist. When you hide a playlist, it's hidden for all supported languages.    
-
-## Hide a playlist
-
-1. From the learning pathways **Home** page, click the **Office 365 training** tile.
-2. From the learning pathways web part, select the **Administer** icon. 
-3. From left pane in the **Administration** page, select a subcategory, and then select the eyeball for a playlist to hide it. For this example, click the **Microsoft Teams** subcategory, and then hide the ****Start chats, calls, and meetings** playlist.  
-
-![cg-hideplaylist.png](media/cg-hideplaylist.png)
-
-### Verify the playlist is hidden
-- To verify the playlist is hidden, select the browser tab with the **Get Started with Office 365** page loaded, and then refresh the page. 
-Select Microsoft Teams. You should now see the **Start chats, calls, and meetings** subcategory is hidden. 
-
-### Verify the playlist is hidden in a non-English language
-A translator or person with a foreign language profile should open learning pathways,click Microsoft 365 training, and then verify that the proper subcategories and assets are hidden.  
-- To verify the playlist is hidden, select the browser tab with the **Get Started with Office 365** page loaded, and then refresh the page. 
-Select Microsoft Teams. You should now see the **Start chats, calls, and meetings** subcategory is hidden. 
-
-
-![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
-
-## Unhide a playlist 
-
-- From the **CAdministration** page, select a subcategory, select a playlist, and then select the eyeball for the hidden playlist to unhide it. For this example, unhide the Microsoft Teams ***Start chats, calls, and meetings** playlist.   
-
+- For more information about how site title, description, and navigation are translated, see [Set up a multilanguage site name, navigation, and footer](https://support.office.com/en-us/article/create-multilingual-communication-sites-pages-and-news-2bb7d610-5453-41c6-a0e8-6f40b3ed750c#bkmk_muitranslations).
