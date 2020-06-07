@@ -11,7 +11,7 @@ description: Hide and show playlists
 To tailor learning pathways for your environment, you can hide playlists provided by Microsoft. 
 
 - You can hide a playlist like Start with Six Simple Steps and replace it with a custom playlist that your create for your organization.
-- You can hide a playlist for a product if the playlist covers functionality not supported in your organization. For example, if Microsoft Teams is not configured for calls or meetings, you can hide the **Start chats, calls, and meetings** playlist. 
+- You can hide a playlist for a product if the playlist covers functionality not supported in your organization. For example, if Microsoft Teams is not configured for calls or meetings, you can hide the **Start chats, calls, and meetings** playlist. When you hide a playlist, it's hidden for all supported languages.  
 
 ## Hide a playlist
 
@@ -25,9 +25,15 @@ To tailor learning pathways for your environment, you can hide playlists provide
 - To verify the playlist is hidden, select the browser tab with the **Get Started with Office 365** page loaded, and then refresh the page. 
 Select Microsoft Teams. You should now see the **Start chats, calls, and meetings** subcategory is hidden. 
 
+### Verify the playlist is hidden in a non-English language
+A translator or person with a foreign language profile should open learning pathways,click Microsoft 365 training, and then verify that the proper subcategories and assets are hidden.  
+- To verify the playlist is hidden, select the browser tab with the **Get Started with Office 365** page loaded, and then refresh the page. 
+Select Microsoft Teams. You should now see the **Start chats, calls, and meetings** subcategory is hidden. 
+
+
 ![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
 
-## Unhide a playlist
+## Unhide a playlist 
 
 - From the **CAdministration** page, select a subcategory, select a playlist, and then select the eyeball for the hidden playlist to unhide it. For this example, unhide the Microsoft Teams ***Start chats, calls, and meetings** playlist.   
 
