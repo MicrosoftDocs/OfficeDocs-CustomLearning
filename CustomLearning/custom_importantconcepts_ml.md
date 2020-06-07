@@ -30,5 +30,7 @@ The following page elements translations are not available when the language opt
 
 Site name and navigation for a language must be translated by a person with a language profile associated with the language.
 
+For more information about translating Site Name, Description, and Navigation, see <...>
+
 ### Next Steps
 - Explore the [default content](custom_exploresite.md) provided in the site and web part.
