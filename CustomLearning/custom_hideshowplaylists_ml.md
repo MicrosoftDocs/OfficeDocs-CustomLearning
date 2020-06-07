@@ -8,7 +8,7 @@ description: Hide and show playlists
 
 # Hide and show Playlists
 
-To tailor learning pathways for your environment, you can hide playlists provided by Microsoft. 
+To tailor learning pathways for your environment, you can hide playlists provided by Microsoft.    
 
 - You can hide a playlist like Start with Six Simple Steps and replace it with a custom playlist that your create for your organization.
 - You can hide a playlist for a product if the playlist covers functionality not supported in your organization. For example, if Microsoft Teams is not configured for calls or meetings, you can hide the **Start chats, calls, and meetings** playlist. When you hide a playlist, it's hidden for all supported languages.    
