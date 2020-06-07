@@ -16,22 +16,31 @@ With Microsoft 365 learning pathways, you can create custom playlists from scrat
 2. Select the **Administer**" icon  subcategory. In this example, select **First Days**.  
 3. Click the + icon.  
 
-![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
+## To add a language for a playlist
+1.	To add a language for a playlist, select the playlist, click Edit Detail, and then select a language from Add Language list, in this case Italian.
+2.	Click Save detail. 
 
-4.	Fill out the fields in the playlist as shown in the following example. You can leave the default icon for this example. 
+## Translate the playlist detail
+In the language of origin, follow the steps to add a playlist
+- For Translator: Make a note for the translator to modify the playlist details for Italian. 
 
-![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
+## Add an asset to a playlist and have assets translated
+1.	To add an asset, scroll down the page, click **+ New Asset**. 
+2.	Fill out the details, and then click **Create New Asset**.
+3.	Click **Save Asset**.
 
-5.	When you are done, select **Save Detail**. 
+## To open and edit the asset
+- Select the asset, and then select **Open Page**. 
+- Modify the page as desired and then select **Publish**. 
 
-## Edit a playlist
+## Add a language to the new asset page
+1. With the new asset page open, click **Translation**.
+2. Under **Italian**, click **New**.
+3. Publish the page and save the URL. 
 
-- From the **Custom Learning Administration** page, click the playlist, and then click **Edit Detail**.  
-
-![cg-editplaylist.png](media/cg-editplaylist.png)
-
-### Delete a playlist
-
-- From the Custom Learning Administration page, click the **Delete** icon for the playlist.  
-
-![cg-deleteplaylist.png](media/cg-deleteplaylist.png)
+## Add a language and URL for the new asset
+1.	Return to the Learning pathways Administration page and click the pencil to edit the newly added asset.
+2.	Click **Add Language**, add the languages supported. 
+3.	Edit the URL to point to the URL of the page you just created.
+ 
+Notify the translator they will need to translate the playlist detail and the playlist page in Italian.
