@@ -1,0 +1,14 @@
+{ 
+  "redirections": [ 
+    {
+       "source_path": "CustomLearning/servicedecisions.md",
+       "redirect_url": "https://docs.microsoft.com/Office365/CustomLearning/custom_setupoptions",
+       "redirect_document_id": true
+    },
+    {
+      "source_path": "CustomLearning/sitesetup.md",
+      "redirect_url": "https://docs.microsoft.com/Office365/CustomLearning/custom_setupoptions",
+      "redirect_document_id": false
+   }                                              
+  ] 
+}
