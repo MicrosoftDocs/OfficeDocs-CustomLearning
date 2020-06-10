@@ -18,11 +18,11 @@ Organizations that that don’t have learning pathways already provisioned in th
 To successfully set up Microsoft 365 learning pathways with the Provisioning Service, the person doing the provisioning must meet the following pre-requisites: 
  
 - The person provisioning learning pathways must be a Tenant Administrator of the tenant where learning pathways will be provisioned.  
-- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization does not have an SharePoint tenant App Catalog, refer to the [SharePoint Online documentation](https://docs.microsoft.com/sharepoint/use-app-catalog) to create one. Note that you must wait at least two hours after creating the App Catalog before provisioning learning pathways.  
+- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization doesn't have an SharePoint tenant App Catalog, refer to the [SharePoint Online documentation](https://docs.microsoft.com/sharepoint/use-app-catalog) to create one. You must wait at least two hours after creating the App Catalog before provisioning learning pathways.  
 - The person provisioning learning pathways must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning learning pathways is not a Site Collection Owner of the App Catalog, [complete these instructions](addappadmin.md) and continue. 
 
-## Ensure the Tenant Admin account does not have a language selected
-Before you provision learning pathways, ensure that the Admin Account for the tenant does not have a language selected. Here’s how to verify if the Admin account does not have a language selected. 
+## Ensure the Tenant Admin account doesn't have a language selected
+Before you provision learning pathways, ensure that the Admin Account for the tenant doesn't have a language selected. Here’s how to verify if the Admin account doesn't have a language selected. 
 1.	With your Edge Admin profile, go to office.com.
 2.	Enter the user credentials (if necessary).
 3.	In Microsoft 365, click **All Apps** > Delve. 
@@ -34,10 +34,10 @@ Before you provision learning pathways, ensure that the Admin Account for the te
 ### To provision learning pathways
 
 1. Go to the [Microsoft 365 learning pathways solution page](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
-2. Click **Add to your tenant**. If you are not signed into to your tenant, the Provisioning Service will ask for your Tenant Admin credentials. 
+2. Click **Add to your tenant**. If you aren't signed into to your tenant, the Provisioning Service will ask for your Tenant Admin credentials. 
 3. From the Permissions requested dialog box, select **Consent on behalf of your organization** and then select **Accept**.
 
-The provisioning service requires these permissions to create the tenant App Catalog, install the application into the tenant App Catalog and provision the site template. There is no overall impact on your tenant and these permissions are explicitly used for the purpose of the solution installation. You must accept these permissions to proceed with the installation.
+The provisioning service requires these permissions to create the tenant App Catalog, install the application into the tenant App Catalog and provision the site template. There's no overall impact on your tenant. These permissions are explicitly used for the purpose of the solution installation. You must accept these permissions to continue with the installation.
 
 4. Complete the fields on the provisioning information page as appropriate for your installation. At a minimum, enter the email address where you wish to get notifications about the provisioning process and the destination URL for your site to be provisioned to.  
 > [!NOTE]
@@ -45,7 +45,7 @@ The provisioning service requires these permissions to create the tenant App Cat
 
 ![inst_options.png](media/inst_options.png)
 
-6. Click **Provision** when ready to install learning pathways into your tenant environment.  The provisioning process will take up to 15 minutes. You will be notified via email (to the notification email address you entered on the Provisioning page) when the site is ready for access. 
+6. Click **Provision** when ready to install learning pathways into your tenant environment.  The provisioning process can take up to 15 minutes. You will be notified via email when the site is ready. 
 
 > [!IMPORTANT]
 > The Tenant Admin who provisions the learning pathways site must go to the site, and then open **CustomLearningAdmin.aspx** to initialize learning pathways Admin properties. At this time, the Tenant Admin should also assign Owners to the site. 
@@ -59,7 +59,7 @@ When provisioning is complete, the Tenant Admin who provisioned the site receive
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 
 ## Add Owners to Site
-As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign a few owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content delivered through the learning pathways Web part. In addition, they'll have the ability to build custom playlist and assign them to custom subcategories.  
+As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign a few owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content and build custom playlist and subcategories.  
 
 1. From the SharePoint **Settings** menu, click **Site Permissions**.
 2. Click **Advanced Permission Settings**.
@@ -103,6 +103,5 @@ If you don’t want a multilingual site, for example, you want an English-only s
 Learning pathways supports 9 languages, but it’s recommended that you add only the languages you need to support for the learning pathways site. You can add langauges at any time. 
 - Under **Add or remove site languages**, start typing a language name in **Select or type a language**, or choose a language from the dropdown. You can repeat this step to add multiple languages. You can add or remove languages from your site at any time by going back to this page.
 
-### Next Steps
-- Explore the [default content](custom_exploresite.md) provided in the site and web part.
-- See [Translate site pages](custom_translate_page_ml.md) for more information about adding translation pages to the learning pathways site.
+
+
