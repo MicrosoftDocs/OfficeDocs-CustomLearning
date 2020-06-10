@@ -4,13 +4,14 @@ ms.author: pkrebs
 title:  Provision a new learning pathways multilingual site
 ms.date: 02/10/2019
 description: Provision the Microsoft 365 learning pathways site via the SharePoint Provisioning Service
+ROBOTS: NOINDEX, NOFOLLOW
 ---
 
 # Provision a new learning pathways multilingual site
 Organizations that that don’t have learning pathways already provisioned in their tenant can add the multilingual learning pathways solution to their tenant. With this option, the learning pathways SharePoint template is translated into nine languages and can be used with a minimum of modification. 
 
 > [!IMPORTANT]
-> If you already have learning pathways provisioned in your tenant, it's recommended that you follow the upgrade path for learning pathways. If you install learning pathways over an existing instance in your tenant, any changes made to the the learning pathways site template or playlists will be lost.
+> If you already have learning pathways provisioned in your tenant, it's recommended that you follow the [update path](custom_update_ml.md) for learning pathways. If you install learning pathways over an existing instance in your tenant, any changes made to the the learning pathways site template or playlists may be lost.
 
 ## Prerequisites for multilingual support
  
@@ -18,10 +19,10 @@ To successfully set up Microsoft 365 learning pathways with the Provisioning Ser
  
 - The person provisioning learning pathways must be a Tenant Administrator of the tenant where learning pathways will be provisioned.  
 - A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization does not have an SharePoint tenant App catalog, refer to the [SharePoint Online documentation](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) to create one. Note that you must wait at least two hours after creating the app catalog before provisioning learning pathways.  
-- The person provisioning learning pathways must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning learning pathways is not a Site Collection Owner of the App Catalog [complete these instructions](addappadmin.md) and continue. 
+- The person provisioning learning pathways must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning learning pathways is not a Site Collection Owner of the App Catalog, [complete these instructions](addappadmin.md) and continue. 
 
 ## Ensure the Tenant Admin account does not have a language selected
-Before you provision Learning Pathways, ensure that the Admin Account for the tenant does not have a language selected. Here’s how to verify if the Admin account does not have a language selected. 
+Before you provision learning pathways, ensure that the Admin Account for the tenant does not have a language selected. Here’s how to verify if the Admin account does not have a language selected. 
 1.	With your Edge Admin profile, go to office.com.
 2.	Enter the user credentials (if necessary).
 3.	In Microsoft 365, click **All Apps** > Delve. 
@@ -29,7 +30,6 @@ Before you provision Learning Pathways, ensure that the Admin Account for the te
 5.	Scroll down the page and click **How can I change language and regional settings**.
 6.	Click **here**, and then click the ellipses **...**.
 7.	Under **My Display Languages**, you should see **No languages selected**. If a language is selected, unselect it.
-
 
 ### To provision learning pathways
 
@@ -52,7 +52,7 @@ The provisioning service requires these permissions to create the tenant app cat
 
 ## Validate Provisioning Success and Initialize the CustomConfig List
 
-When provisioning is complete, the Tenant Admin who provisioned the site, receives an email from the PnP Provisioning Service. The email contains a link to the site. At this point, the Tenant Admin should go to the site using the link provided in the email and set up the site for first use:
+When provisioning is complete, the Tenant Admin who provisioned the site receives an email from the PnP Provisioning Service. The email contains a link to the site. At this point, the Tenant Admin should go to the site using the link provided in the email and set up the site for first use:
 
 - Go to `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Opening **CustomLearningAdmin.aspx** initializes the **CustomConfig** list item that sets up learning pathways for first use. You should see a page that looks like this:
 
@@ -68,8 +68,41 @@ As the Tenant Admin, it's unlikely you'll be the person customizing the site, so
 5. Add a link to [Explore the Site](custom_exploresite.md) in the Share message, and then click **Share**.
 
 ## Add translators to the site
-Translators require member permissions or higher on the site. They also require a foreign language user profile. Go <here> for more information about setting up translators and foreign language profiles.
+Translators require member permissions or higher on the site. 
+
+## Choose options for using multiple languages on the site
+The SharePoint Provisioning Service creates the Learning Pathways site in nine languages. The following recommendations apply:
+- Turn off the languages you don’t want to support
+- If you are not supporting a multilingual site, turn off the multi-lingual feature. 
+
+### Remove languages you don’t want to support
+For organizations that choose to support only one language, in addition to the default English language, we recommend removing languages that aren’t supported. 
+1. From the Learning Pathways site, select **Settings** from the top-right of the page, and then select **Site information**.
+2. At the bottom of the site information pane, select **View all site settings**.
+3. Under **Site Administration**, select **Language settings**.
+4. Under **Enable pages and news to be translated into multiple languages**, slide the toggle to **On**. It should be On by default.
+5. Under Add or remove site languages, click **Remove** to remove the languages you don't need for the site. The following shows an example of the Language Settings page to show Italian supported for the site, in addition to the default English language.
+
+![custom_update_ml_langsettings.png](media/custom_update_ml_langsettings.png)
+
+> [!NOTE]
+> When removing languages you cannot remove the default English language. 
+
+### Assign translators
+If you're going to translate pages, optionally assign one or more translators for each language (except the site default language). 
+- In the **Translator** column, start typing the name of a person you want to be a translator, and then select the name from the list. 
+
+> [!NOTE]
+> Anyone in your organization's Active Directory can be assigned as a translator. People assigned as translators will not automatically be given appropriate permissions. When someone without edit permissions to a site tries to access the site, they will be directed to a web page where they can request access.
+
+## Turn off multilingual support
+If you don’t want a multilingual site, for example, you want an English-only site, it’s recommended that you turn off the multilingual feature. 
+- Under **Enable pages and news to be translated**, select **Off**. 
+
+### Add languages
+Learning pathways supports 9 languages, but it’s recommended that you add only the languages you need to support for the learning pathways site. You can add langauges at any time. 
+- Under **Add or remove site languages**, start typing a language name in **Select or type a language**, or choose a language from the dropdown. You can repeat this step to add multiple languages. You can add or remove languages from your site at any time by going back to this page.
 
 ### Next Steps
 - Explore the [default content](custom_exploresite.md) provided in the site and web part.
-- Go <here> to get started with information about the translation process for learning pathways.
+- See [Translate site pages](custom_translate_page_ml.md) for more information about adding translation pages to the learning pathways site.

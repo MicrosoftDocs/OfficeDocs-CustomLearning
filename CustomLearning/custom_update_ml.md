@@ -4,9 +4,10 @@ ms.author: pkrebs
 title:  Update Microsoft 365 learning pathways
 ms.date: 05/20/2019
 description: Update Microsoft 365 learning pathways
+ROBOTS: NOINDEX, NOFOLLOW
 ---
 # Update Microsoft 365 learning pathways
-If you have an existing Learning Pathways site, you can upgrade it for multi-lingual support. To upgrade learning pathways to the multilingual 4.0 version, you upload the web part package, customlearning.sppkg, to the SharePoint tenant app catalog. When you upgrade learning pathways, note the following: 
+If you have an existing Learning Pathways site, you can upgrade it for multi-lingual support. To upgrade learning pathways to the multilingual 4.0 version, you upload the web part package, customlearning.sppkg, to the SharePoint tenant app catalog. When you upgrade learning pathways:  
 
 - Any previously created custom playlists and assets are maintained
 - Settings to hide or show content are maintained
@@ -14,11 +15,11 @@ If you have an existing Learning Pathways site, you can upgrade it for multi-lin
 - The learning pathways site pages are not translated. This work must be done manually
 
 ## Read the learning pathways multilingual overview
-To get an understanding of how multilingual support works for learning pathways, and what’s in the learning pathways version 4.0 release, read the [Learning pathways multilingual overview](custom_ml_overview.md)) before proceeding with the upgrade. 
+To get an understanding of how multilingual support works for learning pathways, and what’s in the learning pathways version 4.0 release, read the [Learning pathways multilingual overview](custom_overview_ml.md)) before proceeding with the upgrade. 
 
 ## Prerequisites to upgrade
 Before updating learning pathways, the following prerequisite must be met:
-- The person updating learning pathways must be a site collection owner of the tenant app catalog. If the person provisioning learning pathways is not a site collection wwner of the app catalog, [complete these instructions](addappadmin.md) and continue. 
+- The person updating learning pathways must be a site collection owner of the tenant app catalog. If the person provisioning learning pathways is not a site collection owner of the app catalog, [complete these instructions](addappadmin.md) and continue. 
 
 ## Set language settings before upgrading
 Before upgrading learning pathways, it’s recommended that you set the site language settings. To enable multilingual support for the learning pathways site, you can set the **Enable pages and news to be translated into multiple languages** to **On**, and then add the languages you want to support for the site.
@@ -38,10 +39,9 @@ When defining Language settings for learning pathways, you can also assign trans
 - For a supported language, click **Select or type a translator** and then select a translator. 
 
 ## Update the learning pathways web part package
-In this step, you upload the learning pathways 4.0 web part to the SharePoint app catalog, and then navigate to the Learning Pathways Administration page to initiate the upgrade process.
+In this step, you upload the learning pathways 4.0 web part to the SharePoint app catalog, and then navigate to the Learning pathways Administration page to initiate the update process.
 
 ### Upload the web part package
-
 1.	Go to the multilingual share location in Teams and download **customlearning.sppkg** to a local drive on your PC. 
 2.	If you’re not already signed in, sign into your tenant with a Tenant Admin or Site Collection Admin account. 
 3.	Click **Admin** > **Show All** > **SharePoint** > **More Features**. 
@@ -50,15 +50,14 @@ In this step, you upload the learning pathways 4.0 web part to the SharePoint ap
 6.	Click **Upload** > **Choose Files**. 
 7.	Select the **customlearning.sppkg** file you just downloaded, click **OK** > **Deploy**. 
 
-### Go to the Learning pathways Admin page to finish the upgrade
+### Go to the Learning pathways Admin page to finish the update
 1.	From the Learning Pathways site, select **Learning pathways administration** from the **Home** menu. 
 2.	You’ll see a prompt asking if you want to upgrade. 
-![inst_options.png](media/inst_options.png)
+![custom_update_adminprompt_ml.png](media/custom_update_adminprompt_ml.png)
 3.	Click **Start**. 
 4. When the upgrade is complete, click **Close**. 
 
-Note: You can force an upgrade from v3 to v4 in the future with the following command in your browser: https://*yourtenantname*.sharepoint.com/sites/*yoursitename*/SitePages/CustomLearningAdmin.aspx?forceUpdate=V3
-
 ### Next Steps
-- [Customize](custom_overview.md) the training experience for your organization.
+- Explore the [default content](custom_exploresite.md) provided in the site and web part.
+- See [Translate site pages](custom_translate_page_ml.md) for more information about adding translation pages to the learning pathways site.
 
