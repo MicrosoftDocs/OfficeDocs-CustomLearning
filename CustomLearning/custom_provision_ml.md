@@ -18,7 +18,7 @@ Organizations that that don’t have learning pathways already provisioned in th
 To successfully set up Microsoft 365 learning pathways with the Provisioning Service, the person doing the provisioning must meet the following pre-requisites: 
  
 - The person provisioning learning pathways must be a Tenant Administrator of the tenant where learning pathways will be provisioned.  
-- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization does not have an SharePoint tenant App catalog, refer to the [SharePoint Online documentation](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) to create one. Note that you must wait at least two hours after creating the app catalog before provisioning learning pathways.  
+- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization does not have an SharePoint tenant App Catalog, refer to the [SharePoint Online documentation](https://docs.microsoft.com/sharepoint/use-app-catalog) to create one. Note that you must wait at least two hours after creating the App Catalog before provisioning learning pathways.  
 - The person provisioning learning pathways must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning learning pathways is not a Site Collection Owner of the App Catalog, [complete these instructions](addappadmin.md) and continue. 
 
 ## Ensure the Tenant Admin account does not have a language selected
@@ -37,7 +37,7 @@ Before you provision learning pathways, ensure that the Admin Account for the te
 2. Click **Add to your tenant**. If you are not signed into to your tenant, the Provisioning Service will ask for your Tenant Admin credentials. 
 3. From the Permissions requested dialog box, select **Consent on behalf of your organization** and then select **Accept**.
 
-The provisioning service requires these permissions to create the tenant app catalog, install the application into the tenant app catalog and provision the site template. There is no overall impact on your tenant and these permissions are explicitly used for the purpose of the solution installation. You must accept these permissions to proceed with the installation.
+The provisioning service requires these permissions to create the tenant App Catalog, install the application into the tenant App Catalog and provision the site template. There is no overall impact on your tenant and these permissions are explicitly used for the purpose of the solution installation. You must accept these permissions to proceed with the installation.
 
 4. Complete the fields on the provisioning information page as appropriate for your installation. At a minimum, enter the email address where you wish to get notifications about the provisioning process and the destination URL for your site to be provisioned to.  
 > [!NOTE]

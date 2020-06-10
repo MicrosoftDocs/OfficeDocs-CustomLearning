@@ -47,10 +47,10 @@ Notice that in the following example, the page has been translated to Italian. B
 - Translation pages are shown in the corresponding language site
 - Translation pages display correctly in the News web part and the Highlighted content web parts
 - The language dropdown at the top of the site includes all of the languages you've enabled
-- Translators, if you assigned them, are notified of the translation request.
+- Translators are notified of the translation request.
 
 ## What does a translator do?
-Translators manually translate the copies of the default language page into the language(s) specified. When the copies of the page(s) are created, translators are notified in email that a translation is requested. The email includes a link to the default language page and the newly created translation page. The translator will:
+Translators manually translate the copies of the default language page into the language(s) specified. When the copies of the page(s) are created, translators are notified in email. The email includes a link to the default language page and the newly created translation page. The translator will:
 1. Select the **Start translating** button in the email.
 2. Select **Edit** on the top right of the page, and translate the content.
 3. When done, select **Save as draft** (if you're not ready to make it visible to readers)or, if the page is ready to be visible to everyone who is using that language on the site, select **Publish** or **Post news**.
@@ -61,5 +61,5 @@ For more information about the translation process, see [Create multilingual com
 When the default language page is updated, the page must be republished. Then, the translator(s) for the translation pages are notified in email that an update has been made so updates can be made to the individual translation pages.
 
 ## Next Steps
-- [Translate custom playlists](custom_translate_expl_ml.md)
-- [Hide and show multiligual content](custom_translate_expl_ml.md)
+- [Translate custom playlists](custom_translate_pl_ml.md)
+- [Hide and show multiligual content](custom_translate_pl_ml.md)
