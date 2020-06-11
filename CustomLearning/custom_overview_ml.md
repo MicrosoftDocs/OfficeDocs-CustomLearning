@@ -21,7 +21,7 @@ If your organization spans a diverse population, you can make Microsoft 365 lear
 - Russian (Russian)
 - Spanish
 
-Multilingual support for learning pathways is supported by the SharePoint Online multilingual feature for SharePoint Online communication sites. 
+Multilingual support for learning pathways is supported by the SharePoint Online multilingual feature for SharePoint Online communication sites.  
 
 ## Get familiar with the SharePoint Online multilingual feature
 With SharePoint Online multi-lingual support, you can provide translated pages, news posts, and user interface elements in the user's preferred language. Before you start, take some time to learn how multilingual support works. 
