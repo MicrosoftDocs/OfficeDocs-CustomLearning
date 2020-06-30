@@ -1,14 +1,14 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Translate a new playlist
+title:  Translate learning pathways custom playlists
 ms.date: 06/8/2020
-description: Translate a new playlist
+description:  Translate learning pathways custom playlists
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 
-# Translate a learning pathways custom playlist
-If you've created learning pathways custom playlists for your site, you can translate the playlists into the languages enabled for this site.
+# Translate learning pathways custom playlists
+If you've created custom playlists for learning pathways, you can translate the playlists into the languages enabled for this site.
 
 1.	From the learning pathways **Home** menu, click **Learning pathways administration**. 
 2.	Click the custom playlist. In this example, we'll use **Five Simple Steps - Welcome to Contoso**. 
@@ -41,7 +41,7 @@ https://tenantname.sharepoint.com/sites/M365LP/SitePages/it/Welcome-to-Contoso.a
 ![custom_update_ml_transcusplurl.png](media/custom_update_ml_transcusplurl.png)
 6.	Scroll up the page and click **Close Playlist**.
 
-## What the translator does?
+## What the translator does
 The translator will:
 - Translate playlist details.
 - Translate asset details.

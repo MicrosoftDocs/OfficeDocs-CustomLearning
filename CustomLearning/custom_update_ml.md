@@ -1,9 +1,9 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Update Microsoft 365 learning pathways
+title:  Update Microsoft 365 learning pathways for multilingual support
 ms.date: 05/20/2019
-description: Update Microsoft 365 learning pathways
+description: Update Microsoft 365 learning pathways for multilingual support
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 # Update Microsoft 365 learning pathways
