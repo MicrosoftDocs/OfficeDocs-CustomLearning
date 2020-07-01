@@ -51,10 +51,10 @@ When provisioning is complete, the Tenant Admin who provisioned the site, receiv
 ## Add Owners to Site
 As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign a few owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content delivered through the learning pathways Web part. In addition, they'll have the ability to build custom playlist and assign them to custom subcategories.  
 
-1. From the SharePoint **Settings** menu, click **Site Permissions**.
-2. Click **Advanced Permission Settings**.
+1. From the SharePoint **Settings** menu, click **Site permissions**.
+2. Click **Advanced permissions settings**.
 3. Click **Microsoft 365 learning pathways Owners**.
-4. Click **New** > **Add Users to this group**, and then add the people you want to be Owners. 
+4. Click **New** > **Add users to this group**, and then add the people you want to be Owners. 
 5. Add a link to [Explore the Site](custom_exploresite.md) in the Share message, and then click **Share**.
 
 ### Next Steps
