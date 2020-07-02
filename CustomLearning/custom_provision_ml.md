@@ -1,13 +1,13 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Provision a new learning pathways multilingual site
+title:  Provision a new learning pathways multilingual solution
 ms.date: 02/10/2019
 description: Provision the Microsoft 365 learning pathways site via the SharePoint Provisioning Service
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 
-# Provision a new learning pathways multilingual site
+# Provision a new learning pathways multilingual solution
 Organizations that that don’t have learning pathways already provisioned in their tenant can add the multilingual learning pathways solution to their tenant. With this option, the learning pathways SharePoint template is translated into nine languages and can be used with a minimum of modification. 
 
 > [!IMPORTANT]
