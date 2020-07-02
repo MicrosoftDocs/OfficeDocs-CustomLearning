@@ -130,5 +130,5 @@ From the Learning Pathways **Home** menu, click **Learning pathways administrati
 From the Learning Pathways **Home** menu, click **Learning pathways administration**. 
 1. Click the custom playlist that requires translation. 
 2. Scroll down the page, then under Assets, select the asset, select the language, and then click Open. 
-3. Make the translations for the page, and then click **Publish**.  
+3. Make the translations for the page, and then click **Publish**.   
 
