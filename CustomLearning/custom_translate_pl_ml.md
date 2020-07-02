@@ -70,7 +70,7 @@ If you have upgraded learning pathways for multilingual support and have existin
 
 > [!IMPORTANT]
 > - Microsoft-supplied playlists are already translated and can't be modified unless you create a copy of the playlist. You can only add languages for custom playlists. 
-> - To add languages for custom playlists and assets, multilingual support and languages must be enabled. For more details on enabling multilingual support and options, see [Set Language Settings](https://docs.microsoft.com/en-us/office365/customlearning/custom_update_ml#set-language-settings). 
+> - To add languages for custom playlists and assets, multilingual support and languages must be enabled. For more details on enabling multilingual support and options, see [Set Language Settings](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings). 
 
 ### To add languages for an existing playlist
 1.	From the learning pathways **Home** menu, click **Learning pathways administration**. 
@@ -106,7 +106,7 @@ If you have upgraded learning pathways for multilingual support and have existin
 
 > [!IMPORTANT]
 > - Microsoft-supplied playlists are already translated and can't be modified unless you create a copy of the playlist. You can only add languages for custom playlists. 
-> - To add languages for custom playlists and assets, multilingual support and languages must be enabled. For more details on enabling multilingual support and options, see [Set Language Settings](https://docs.microsoft.com/en-us/office365/customlearning/custom_update_ml#set-language-settings). 
+> - To add languages for custom playlists and assets, multilingual support and languages must be enabled. For more details on enabling multilingual support and options, see [Set Language Settings](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings). 
 
 
 
