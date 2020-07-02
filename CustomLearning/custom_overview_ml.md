@@ -2,7 +2,7 @@
 author: pkrebs
 ms.author: pkrebs
 title:  Overview
-ms.date: 06/06/2020
+ms.date: 07/06/2020
 description: Multilingual support for learning pathways
 ROBOTS: NOINDEX, NOFOLLOW
 ---
@@ -21,23 +21,22 @@ If your organization spans a diverse population, you can make Microsoft 365 lear
 - Russian (Russian)
 - Spanish
 
-Multilingual support for learning pathways is supported by the SharePoint Online multilingual feature for SharePoint Online communication sites.  
-
-## Get familiar with the SharePoint Online multilingual feature
+## Get familiar with the SharePoint Online multilingual features
+Multilingual support for learning pathways is enabled by SharePoint Online multilingual features for SharePoint Online communication sites.
 With SharePoint Online multi-lingual support, you can provide translated pages, news posts, and user interface elements in the user's preferred language. Before you start, take some time to learn how multilingual support works. 
-- To get familiar with the SharePoint Online multilingual feature, see [Create multilingual communication sites, pages, and news](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
+- To learn about SharePoint Online multilingual features, see [Create multilingual communication sites, pages, and news](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 
-### How multilingual support works for learning pathways
-Before you get started with multilingual support for learning pathways, it's important to understand some key concepts about how multilingual support works for learning pathways. 
+### What you should know before getting started 
+Before you get started enabling multilingual support for learning pathways, here's some key information you should know. 
 
-- Some functionality is introduced gradually to organizations that have opted in to the Targeted Release program. To determine if the Targeted Release program feature is enabled in your tenant, see [Set up the Standard or Targeted release options](https://support.office.com/en-us/article/3b3adfa4-1777-4ff0-b606-fb8732101f47). 
 - Page translation features are available on SharePoint Online communication sites only.
-- Pages aren't translated automatically. Each page created in your default language can have a corresponding page in a chosen target language that you, or someone you assign, manually translates. After a page is translated and published, it will automatically be displayed to users in the language specified in their profile.
-- New installs of learning pathways from the SharePoint look book site provide a fully- translated SharePoint site in nine languages. SharePoint provides the ability to remove the languages you don't want to support in your organization. You can also turn off the multilingual feature for an English-only site. 
-- English is the default language for learning pathways. The learning pathways administration page is English-only. 
-- Changes to the original source page or to other translation pages aren't automatically synced with all translation pages. Each translation page must be updated manually.
-- The language of content displayed to a user will depend on their personal language and region settings. For more information about setting up a User Profile for Language and Region, see [Create multilingual communication sites, pages, and news](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
-- Site navigation, title, footers must be translated by a person with a user profile in the language to be translated.
-- The learning pathways Web part is displayed in the language of the user profile of the person viewing the site. 
+- The learning pathways Web part is displayed in the language of the user profile of the person viewing the site.   
+- If you provision a new learning pathways site from the SharePoint Provisioning Service, the site is created with English as the default language. The default language cannot be changed. For more information, see [Setup options for multilingual support](https://docs.microsoft.com/en-us/office365/customlearning/custom_setupoptions_ml).
+- Previous versions of learning pathways, if installed in your tenant, were provisioned with English as the default language. The default language cannot be changed. For more information, see [Setup options for multilingual support](https://docs.microsoft.com/en-us/office365/customlearning/custom_setupoptions_ml).
+- If you provision a new learning pathways site, the site is provisioned in 9 languages. You can turn off the languages you don't want to support. For more information, see [Provision a new learning pathways multilingual site](https://docs.microsoft.com/en-us/office365/customlearning/custom_provision_ml).  
+- If you update learning pathways from a previous version to the 4.0 multilingual version, the pages of your site are not automatically translated automatically. Each page created in your default language can have a corresponding page in a chosen target language that you, or someone you assign, manually translates. After a page is translated and published, it will automatically be displayed to users in the language specified in their profile. For more information, see [Update learning pathways for multilingual support](https://docs.microsoft.com/en-us/office365/customlearning/custom_update_ml). 
+- The language displayed in the learning pathways web part will depend on their user's personal language and region settings. For more information about setting up a user profile for language and region, see [Create multilingual communication sites, pages, and news](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
+- Site navigation, title, footers must be translated by a person with a user profile in the language to be translated. For more information about translating site navigation, title, and footer, see [Create multilingual communication sites, pages, and news](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).
 
-- To get started, see Multilingual setup options for learning pathways. 
+## Next Steps
+- To get started, see [Setup options for learning pathways multilingual support](https://docs.microsoft.com/en-us/office365/customlearning/custom_setupoptions_ml).
