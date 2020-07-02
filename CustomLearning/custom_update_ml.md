@@ -1,12 +1,12 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Update Microsoft 365 learning pathways for multilingual support
+title:  Update learning pathways for multilingual support
 ms.date: 05/20/2019
-description: Update Microsoft 365 learning pathways for multilingual support
+description: Update learning pathways for multilingual support
 ROBOTS: NOINDEX, NOFOLLOW
 ---
-# Update Microsoft 365 learning pathways
+# Update learning pathways for multilingual support
 If you have an existing Learning Pathways site, you can update it for multilingual support. To update learning pathways to the multilingual 4.0 version, you upload the web part package, customlearning.sppkg, to the SharePoint tenant App Catalog. When you update learning pathways:  
 
 - Any previously created custom playlists and assets are maintained
@@ -35,7 +35,7 @@ Learning pathways supports nine languages, you should add only the languages you
 - Under **Add or remove site languages**, start typing a language name in **Select or type a language**, or choose a language from the dropdown. You can repeat this step to add multiple languages. You can add or remove languages from your site at any time by going back to this page.
  
 ### Assign translators
-When defining Language settings for learning pathways, you can assign translators. Translators should have a foreign language profile set up. For more information about foreign language profiles, see [Create multilingual communication sites, pages, and news](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
+When defining Language settings for learning pathways, you can assign translators. Translators should have a foreign language profile set up. For more information about foreign language profiles, see [Create multilingual communication sites, pages, and news](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
 - For a supported language, click **Select or type a translator** and then select a translator. 
 
 ## Update the learning pathways web part package
