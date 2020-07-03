@@ -21,14 +21,14 @@ If you have not installed learning pathways and need it multiple languages, you 
 If you installed learning pathways but aren’t actively using it, or you haven’t made any customizations to the site or playlists, you can use the SharePoint Provisioning Service to install a new solution with support for nine languages. English will be the default language and cannot be changed. 
 - To provision a new learning pathways solution with English as the default language for the site, see [Provision a new learning pathways solution](custom_provision_ml.md).
 
-### Scenario 3: We have not installed learning pathways and don’t need multilingual support 
+### Scenario 3: We haven't installed learning pathways and don’t need multilingual support 
 If you have not installed learning pathways and don’t need multilingual support, you can install it from the SharePoint Provisioning Service. English will be the default language. After install, you need to turn off multilingual support. 
 - To provision a new learning pathways solution without multilingual support, see [Provision a new learning pathways solution](custom_provision_ml.md).
 
 ## Update learning pathways (with a web part upload) scenarios
 If you have an existing version of learning pathways installed, you can upload the learning pathways web part to the SharePoint App Catalog to enable multilingual support. 
 
-### Scenario 1: We need to upgrade an existing version of learning pathways but do not need multilingual support
+### Scenario 1: We need to upgrade an existing version of learning pathways but don't need multilingual support
 You can update learning pathways version 4.0 without multilingual support. With the update, you get a couple of new features, including an image selector for custom playlists and subcategories. 
 
 - To update an existing learning pathways solution without multilingual support, see [Update learning pathways for multilingual support](custom_update_ml.md). The upgrade process for no multilingual support is the same as with multilingual support, but with fewer steps. 
