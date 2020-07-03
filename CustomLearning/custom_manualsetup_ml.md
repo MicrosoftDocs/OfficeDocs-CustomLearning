@@ -8,9 +8,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 ---
 # Learning pathways manual setup
 
-Microsoft 365 learning pathways offers a manual, stand-alone web part setup for those organizations that already have an established SharePoint Online modern communication site dedicated to training, or that just want to set up the learning pathways web part in their own communication site. Note that the manual setup requires experience working with Windows PowerShell and the SharePoint Online Management Shell. The steps for a manual set up of the learning pathways Web part as as follows: 
+Microsoft 365 learning pathways offers a manual setup for organizations that need support for one of the following scenarios:
+
+- Your organization has an established SharePoint Online modern communication site dedicated to training and you want to add learning pathways to that site. In this scenario, the learning pathways web part has not be set up on the site.
+
+- You want to install learning pathways for multilingual support in one of your organization's SharePoint Communication sites. The site has, or will have, a default langauge that is not English, but is one of the languages supported by learning pathways. Here are the languages supported by learning pathways:
+
+- English
+- Chinese (Simplified)
+- French
+- German
+- Italian (Italy)
+- Japanese (Japan)
+- Portuguese (Brazilian)
+- Russian (Russian)
+- Spanish
+
+Manual setup of learning pathways requires experience working with Windows PowerShell and the SharePoint Online Management Shell. Here are the steps for the manual setup of learning pathways: 
 
 - Validate that you have met all the prerequisites.
+- Check the default language settings for your site. If OK, proceed with manual install. If you need a different default language setting, you'll need to create a new site. 
 - Install the customlearning.sppkg file in your SharePoint Tenant App Catalog.
 - Provision/Identify a modern communication site to act as your Microsoft 365 learning pathways home site.
 - Execute a PowerShell script that will configure your tenant with the appropriate artifacts that learning pathways depends on.
@@ -27,7 +44,35 @@ To ensure a successful manual setup of the learning pathways web part, the follo
 - If an account with that role does not work, go to the SharePoint admin center and find the Site Collection Administrators for the app catalog site collection and either log in as one of the Site Collection Administrators, or add the SharePoint administrator account that failed to the Site Collection Administrators. 
 - You will also need access to an account that is a SharePoint Tenant Admin.
 
-## Step 1 - Get the web part package and setup script from GitHub
+## Step 1 - Check your language settings
+As the first step of the manual install process, check your site language settings. Here are the possible options:
+
+### Option 1 - You don't want multilingual support
+If you don't want multilingual support for your site, ensure it's turned off.
+1.	From the SharePoint communication site, select **Settings** > **Site information** > **View all site settings** > **Language settings**. 
+2.	Set the **Enable pages and news to be translated into multiple languages** switch to **Off**.
+3.	Click **Save**. 
+4.	Proceed to Step 2.
+
+## Option 2 - You want multilingual support and you're OK with the default language
+A SharePoint communication site has a default language. The default language determines the language in which you view learning pathways, including the learning pathways Administration page. The default language setting is set when the site is first created and cannot be changed afterward. Before proceeding with the manual setup, ensure you're OK with default language of the target site.
+
+1.	From the SharePoint communication site, select **Settings** > **Site information** > **View all site settings** > **Language settings**. 
+2.	Set the **Enable pages and news to be translated into multiple languages** switch to **On**.
+    - If you're OK with the language that appears at the top of the list under **Language**, you can add additional languages, and then click **Save**. Proceed to Step 2.
+    - If you want a different default language than what's been selected for the site, you'll need to create a new SharePoint Communication site with the language you want. Proceed to Option 3. 
+
+## Option #3 - You want multilingual support but want a different default language for the site
+With this option, you create a new SharePoint Online communication site with the default language you want, and then set the Language settings for the site. 
+1.	To create a new SharePoint communication site, see [Create a communication site in SharePoint Online](https://support.microsoft.com/office/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). When creating the site, be sure to set the Language to the default language you want for learning pathways. 
+2. From the site you created, select **Settings** > **Site information** > **View all site settings** > **Language settings**. 
+2.	Set the **Enable pages and news to be translated into multiple languages** switch to **On**.
+3. Add additonal languages, if necessary, and then click **Save**. 
+4. Proceed to Step 2. 
+
+>![Note] If you need to migrate custom content from a site to a newly created site, see [Migrate custom content](Migrate custom content). 
+
+## Step 2 - Get the web part package and setup script from GitHub
 As part of the setup process, you'll need the Microsoft 365 learning pathways Web part package and the PowerShell Setup Script.
 
 - Go the the [learning pathways GitHub Repository](https://github.com/pnp/custom-learning-office-365).
@@ -76,6 +121,9 @@ As the Tenant Admin, it's unlikely you'll be the person customizing the site, so
 3. Click **learning pathways for Office 365 Owners**.
 4. Click **New** > **Add Users to this group**, and then add the people you want to be Owners. 
 5. Add a link to [Explore the Site](https://docs.microsoft.com/Office365/CustomLearning/custom_explore) in the Share message, and then click **Share**.
+
+## Migrate Custom Content
+After you reestablish your learning pathways site by following the steps above, you will need to move the contents of your **CustomPlaylists** list and your **CustomAssets** list. You can also, optionally, move the actual custom pages that make up your custom assets if they live in the existing learning pathways site, and your intent is to delete it. The task can be difficult because  for all the items in the **CustomPlaylists** list, the ID of the list item in the **CustomAssets** list is buried in the JSONData field of each playlist list item. Therefore, simply moving the contents of the **CustomPlaylists** list from one site to the other will not be sufficient. Further, the **CustomAssets** list contains the absolute URL to the custom asset's page in the JSONData field of the list item. If the assets aren't moved and the site isn't renamed (thus changing the absolute URL to the asset's page), then **CustomAssets** can remain. But you will need to manually correct the entries. Given the complexity of this type of migration we suggest you consider enlisting one of our learning pathways partners to assist you in making this transition.
 
 ### Next Steps
 - [Customize](custom_overview.md) the training experience for your organization.
