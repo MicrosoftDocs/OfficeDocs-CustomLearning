@@ -8,7 +8,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 ---
 # Learning pathways manual setup
 
-Microsoft 365 learning pathways offers a manual, stand-alone web part setup for those organizations that already have an established SharePoint Online modern communication site dedicated to training, or that just want to set up the learning pathways web part in their own communication site. Note that the manual setup requires experience working with Windows PowerShell and the SharePoint Online Management Shell. The steps for a manual set up of the learning pathways Web part as as follows:
+Microsoft 365 learning pathways offers a manual, stand-alone web part setup for those organizations that already have an established SharePoint Online modern communication site dedicated to training, or that just want to set up the learning pathways web part in their own communication site. Note that the manual setup requires experience working with Windows PowerShell and the SharePoint Online Management Shell. The steps for a manual set up of the learning pathways Web part as as follows: 
 
 - Validate that you have met all the prerequisites.
 - Install the customlearning.sppkg file in your SharePoint Tenant App Catalog.
