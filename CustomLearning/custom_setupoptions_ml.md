@@ -8,7 +8,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 ---
 
 # Setup options for multilingual learning pathways
-With the release of multilingual features for SharePoint Online communications sites, learning pathways now offers support for multiple languages. You can set up learning pathways in a variety of ways to meet the needs of your organization. To help you decide the best path for your organization, we’ve outlined the setup options.
+With the release of multilingual features for SharePoint Online communications sites, learning pathways now offers support for multiple languages. You can set up learning pathways in different kinds of ways to meet the needs of your organization. To help you decide the best path for your organization, we’ve outlined the setup options.
 
 ## New install scenarios
 The "new install scenarios" explain the options for installing a new instance of the learning pathways using the SharePoint Provisioning Service, now available from the SharePoint look book.
@@ -25,7 +25,7 @@ If you installed learning pathways but aren’t actively using it, or you haven�
 If you have not installed learning pathways and don’t need multilingual support, you can install it from the SharePoint Provisioning Service. English will be the default language. After install, you need to turn off multilingual support. 
 - To provision a new learning pathways solution without multilingual support, see [Provision a new learning pathways solution](custom_provision_ml.md).
 
-## Update learning pathways with a web part upload scenarios
+## Update learning pathways (with a web part upload) scenarios
 If you have an existing version of learning pathways installed, you can upload the learning pathways web part to the SharePoint App Catalog to enable multilingual support. 
 
 ### Scenario 1: We need to upgrade an existing version of learning pathways but do not need multilingual support
