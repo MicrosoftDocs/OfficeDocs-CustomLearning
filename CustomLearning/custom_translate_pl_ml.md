@@ -25,7 +25,7 @@ To demonstrate how to create a new custom playlist and have it translated, we'll
 1.	From the learning pathways **Home** menu, click **Learning pathways administration**. 
 2.	Under **Microsoft 365 learning pathways**, select **First Days**, then select **Six Simple Steps - Welcome to Microsoft 365**. 
 3. Click **Copy Playlist**, scroll down the page and click **Edit Detail**.   
-4. Change the title of the playlist. In this example, we'll change the playlist title to to **Five Simple Steps**. Note that the languages available will depend on the supported languages selected for the site. To add additional languages, you need to add additional supported languages to the site.   
+4. Change the title of the playlist. In this example, we'll change the playlist title to to **Five Simple Steps**. The languages available will depend on the supported languages selected for the site. To add additional languages, you need to add additional supported languages to the site.   
 5. Click **Save Detail**. 
 6. Click a language to the right of the default language (in this case English) to view the copied playlist details. The details for the new language reflect the original copied playlist and require translation.
 7. Make a note to notify the translator of the playlist details to be translated.  
@@ -49,7 +49,7 @@ These instructions assume you're using the Five Simple Steps playlist in the exa
 2. Select **Create Asset**, and then select **Save Asset**.
 
 **To open the asset**
-1. Select the asset you just created, and then click **Open**.  
+1. Select the asset you created, and then click **Open**.  
 2. Make the changes to the page as desired. For now, you can change the title of the page and add some text to the page as shown in the following example, and then click **Publish**. 
 3. Click **Translation**.
 4. Select **Create** for the language(s) you want. For this example, we'll select Italian.
@@ -70,22 +70,22 @@ If you have upgraded learning pathways for multilingual support and have existin
 
 > [!IMPORTANT]
 > - Microsoft-supplied playlists are already translated and can't be modified unless you create a copy of the playlist. You can only add languages for custom playlists. 
-> - To add languages for custom playlists and assets, multilingual support and languages must be enabled. For more details on enabling multilingual support and options, see [Set Language Settings](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings). 
+> - To add languages for custom playlists and assets, multilingual support and languages must be enabled. For more information, see [Set Language Settings](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings). 
 
 ### To add languages for an existing playlist
 1.	From the learning pathways **Home** menu, click **Learning pathways administration**. 
-2.	Select a custom playlist. A custom playlist is identified by the people icon with the checkmark as shown in the following example.
+2.	Select a custom playlist. A custom playlist is identified by the people icon with the checkmark, as shown in the following example.
 ![custom_ml_pl_customselect.png](media/custom_ml_pl_customselect.png) 
 3. Select **Edit Detail**. You may need to scroll down to find the **Edit Detail** button.   
-4. Select **Add language** and then select a language. 
+4. Select **Add language** and then select a language.  
 5. Select **Save Detail**.
- Note that the languages available will depend on the supported languages selected for the site. To add additional languages, you need to add additional supported languages to the site.   
+ The languages available will depend on the supported languages selected for the site. To add additional languages, you need to add additional supported languages to the site.   
 5. Click a language to the right of the default language (in this case English) to view the copied playlist details. The details for the new language reflect the original copied playlist and require translation.
 ![custom_ml_pl_editdetailit.png](media/custom_ml_pl_editdetailit.png) 
 7. Make a note to notify the translator of the playlist details to be translated.  
 
 **To open the asset**
-1. Select the asset you just created, and then click **Open**.  
+1. Select the asset you created, and then click **Open**.  
 2. Make the changes to the page as desired. For now, you can change the title of the page and add some text to the page as shown in the following example, and then click **Publish**. 
 3. Click **Translation**.
 4. Select **Create** for the language(s) you want. For this example, we'll select Italian.
