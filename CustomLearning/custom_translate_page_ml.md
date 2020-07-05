@@ -54,7 +54,7 @@ What’s translations aren't visible?
 - The learning pathways web part is in English
 
 ## View the fully translated site 
-To view a fully translated site in a specific language, including the site pages, navigation, and web part, the user’s personal language and regional settings must be set for that language. For more information on setting language and regional settings, see [Change your personal language and regional settings](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). It's recommended that you use a separate account or have another user with the different language settings view the translated pages. 
+To view a fully translated site in a specific language, including the site pages, navigation, and web part, the user’s personal language and regional settings must be set for that language. For more information on setting language and regional settings, see [Change your personal language and regional settings](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). It's recommended that you use a separate account or have another user with the different language settings view the translated pages.  
 
 ## Working with an updated or manually installed learning pathways site
 If you updated an existing Learning Pathways site or manually installed the web part to an existing site, you'll need to manually translate the site pages. The learning pathways web part and content are already translated and will appear in the user's preferred language. To translate pages, see the following instructions "Create pages for the languages you want". 
