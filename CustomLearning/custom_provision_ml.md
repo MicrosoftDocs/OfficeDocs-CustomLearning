@@ -8,7 +8,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 ---
 
 # Provision a new learning pathways multilingual solution
-Organizations that that don’t have learning pathways already provisioned in their tenant can add the multilingual learning pathways solution to their tenant. With this option, the learning pathways SharePoint template is translated into nine languages and can be used with a minimum of modification. 
+Organizations that that don’t have learning pathways provisioned in their tenant can use the SharePoint Provisioning Service to add the multilingual learning pathways solution. With this option, the learning pathways SharePoint template is translated into nine languages and can be used with a minimum of modification. 
 
 > [!IMPORTANT]
 > If you already have learning pathways provisioned in your tenant, it's recommended that you follow the [update path](custom_update_ml.md) for learning pathways. If you install learning pathways over an existing instance in your tenant, any changes made to the the learning pathways site template or playlists may be lost.
@@ -68,12 +68,12 @@ As the Tenant Admin, it's unlikely you'll be the person customizing the site, so
 5. Add a link to [Explore the Site](custom_exploresite.md) in the Share message, and then click **Share**.
 
 ## Add translators to the site
-Translators require member permissions or higher on the site. 
+If you will be using translators for the site, you can assign them permissions. Translators require Member permissions or higher. 
 
 ## Choose options for using multiple languages on the site
 The SharePoint Provisioning Service creates the Learning Pathways site in nine languages. The following recommendations apply:
 - Turn off the languages you don’t want to support
-- If you are not supporting a multilingual site, turn off the multi-lingual feature. 
+- If you are not supporting a multilingual site, turn off the multi-lingual feature. See the "Turn off multilingual support" section later in this topic.
 
 ### Remove languages you don’t want to support
 For organizations that choose to support only one language, in addition to the default English language, we recommend removing languages that aren’t supported. 
@@ -97,6 +97,11 @@ If you're going to translate pages, optionally assign one or more translators fo
 
 ## Turn off multilingual support
 If you don’t want a multilingual site, for example, you want an English-only site, it’s recommended that you turn off the multilingual feature. 
+
+1. From the Learning Pathways site, select **Settings** from the top-right of the page, and then select **Site information**.
+2. At the bottom of the site information pane, select **View all site settings**.
+3. Under **Site Administration**, select **Language settings**.
+4. Under **Enable pages and news to be translated into multiple languages**, slide the toggle to **On**. It should be On by default.
 - Under **Enable pages and news to be translated**, select **Off**. 
 
 ### Add languages
