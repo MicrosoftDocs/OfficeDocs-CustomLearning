@@ -8,7 +8,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 ---
 
 # Translate learning pathways custom playlists
-With Learning Pathways, the way you work with custom playlists depends on how you provisioned the Learning Pathways site. 
+With Learning Pathways, the way you work with custom playlists depends on how you set up learning pathways.  
 
 - If you provisioned a new learning pathways multilingual site, you can copy or create a new playlist and translate the playlist into the languages that the site supports.
 - If you upgraded an existing learning pathways site that has pre-existing custom playlists, you can translate the existing playlists into the languages that your site supports. You can also copy and create new playlists. 
@@ -33,7 +33,7 @@ To demonstrate how to create a new custom playlist and have it translated, we'll
 ![custom_update_ml_pldetail.png](media/custom_update_ml_pldetail.png)
 
 > [!IMPORTANT]
-> Translator notifications are not built into custom playlists. Translators will need to be notified manually. Translators manually translate the copies of the default language details into the language(s) specified. You will need to notify the translator of the translations required for playlist details. It's recommended that you finish all playlist changes,including adding, editing, or deleting playlist assets, then notify the translator of the required translations for playlist details and assets.
+> Translator notifications are not built into custom playlists. Translators will need to be notified manually. Translators manually translate the copies of the default language details into the language(s) specified. You'll need to notify the translator of the translations required for playlist details. It's recommended that you finish all playlist changes,including adding, editing, or deleting playlist assets, then notify the translator of the required translations for playlist details and assets.
 
 ## Create multilingual assets in a custom playlist
 Any assets in a playlist that are supplied by Microsoft are not editable and do not require translation. Microsoft-supplied assets will be available in the languages supported by the site. For custom assets that you create, or existing custom assets, you can add the languages supported by the site.  Let's take a look at how to add languages for new and existing custom assets in a playlist. 
@@ -109,9 +109,8 @@ If you have upgraded learning pathways for multilingual support and have existin
 > - To add languages for custom playlists and assets, multilingual support and languages must be enabled. For more details on enabling multilingual support and options, see [Set Language Settings](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings). 
 
 
-
-
 ## Instructions for the translator
+When you add languages to playlists, you need to notify the translator of the changes. You can point the translator to the following 
 
 ### Translate playlist details
 From the Learning Pathways **Home** menu, click **Learning pathways administration**. 
@@ -131,4 +130,7 @@ From the Learning Pathways **Home** menu, click **Learning pathways administrati
 1. Click the custom playlist that requires translation. 
 2. Scroll down the page, then under Assets, select the asset, select the language, and then click Open. 
 3. Make the translations for the page, and then click **Publish**.   
+
+## For more information
+- For more information about customizing learning pathways, see [Customize Learning Pathways](custom_overview.md).  
 
