@@ -11,11 +11,11 @@ description: Translate site pages
 Before you start translating the learning pathways site, it’s important to understand a few key concepts of how the multilingual feature works with learning pathways. 
 - Site information - Navigation, logo, and site name translations require that the site is viewed, and translated, in the user’s language profile.  
 - The learning pathways Web part must be viewed with user’s language profile for it to appear in a non-English language. The Web part and the Microsoft-supplied content are already translated for you. For more information about languages profiles, see [Change your personal language and regional settings](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
-- The way you set up learning pathways determines whether you have translated pages available. New sites provisioned with the SharePoint Provisioning Service will have translated pages in nine languages available. Updated sites or sites you create will require manual translation. See [Setup options for multilingual learning pathways](custom_setupoptions_ml.md).
+- The way you set up learning pathways determines whether you have translated pages available. New sites provisioned with the Microsoft 365 look book service will have translated pages in nine languages available. Updated sites or sites you create will require manual translation. See [Setup options for multilingual learning pathways](custom_setupoptions_ml.md).
 - Multilingual support for learning pathways is enabled by SharePoint Online multilingual features for communication sites. To learn about SharePoint Online multilingual features, see [Create multilingual communication sites, pages, and news](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 
 ## Working with a newly provisioned site
-If you provisioned a new learning pathways site from the SharePoint Provisioning Service, the translated pages are already available to you. By default, the site provides the following pages:
+If you provisioned a new learning pathways site from the Microsoft 365 look book service, the translated pages are already available to you. By default, the site provides the following pages:
 
 - Home.aspx
 - Start-with-Six-Simple-Steps.aspx
