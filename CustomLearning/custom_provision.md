@@ -7,7 +7,7 @@ description: Provision the Microsoft 365 learning pathways site with the Microso
 ---
 
 # Provision a new learning pathways solution
-Organizations that that don’t have learning pathways provisioned in their tenant can use the Microsoft 365 look book service to add the multilingual learning pathways solution. With this option, the learning pathways SharePoint template is translated into nine languages and can be used with a minimum of modification. 
+Organizations that that don’t have learning pathways provisioned in their tenant can use the SharePoint look book service to add the multilingual learning pathways solution. With this option, the learning pathways SharePoint template is translated into nine languages and can be used with a minimum of modification. 
 
 > [!IMPORTANT]
 > If you already have learning pathways provisioned in your tenant, it's recommended that you [update](custom_update.md) learning pathways. If you install a new instance of learning pathways, you will need to manually transfer any customizations from the existing site to the new site. 
@@ -70,7 +70,7 @@ As the Tenant Admin, it's unlikely you'll be the person customizing the site, so
 If you will be using translators for the site, you can assign them permissions. Translators require Member permissions or higher. 
 
 ## Choose options for using multiple languages on the site
-The Microsoft 365 look book service creates the Learning Pathways site in nine languages. The following recommendations apply:
+The SharePoint look book service creates the Learning Pathways site in nine languages. The following recommendations apply:
 - Turn off the languages you don’t want to support
 - If you are not supporting a multilingual site, turn off the multi-lingual feature. See the "Turn off multilingual support" section later in this topic.
 
