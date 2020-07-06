@@ -6,7 +6,7 @@ ms.date: 02/10/2019
 description: Provision the Microsoft 365 learning pathways site with the Microsoft 365 look book service
 ---
 
-# Provision a new learning pathways solution
+# Provision a new learning pathways solution 
 Organizations that that don’t have learning pathways provisioned in their tenant can use the SharePoint look book service to add the multilingual learning pathways solution. With this option, the learning pathways SharePoint template is translated into nine languages and can be used with a minimum of modification. 
 
 > [!IMPORTANT]
