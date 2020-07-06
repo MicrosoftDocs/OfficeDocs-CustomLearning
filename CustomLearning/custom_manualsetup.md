@@ -7,7 +7,7 @@ description: Microsoft 365 learning pathways manual setup
 ---
 # Learning pathways manual setup
 
-Microsoft 365 learning pathways offers a manual setup for organizations that need support for one of the following scenarios:
+Microsoft 365 learning pathways offers a manual setup for organizations that need support for one of the following scenarios: 
 
 - Your organization has an established SharePoint Online modern communication site dedicated to training and you want to add learning pathways to that site. In this scenario, the learning pathways web part hasn't been set up on the site.
 
