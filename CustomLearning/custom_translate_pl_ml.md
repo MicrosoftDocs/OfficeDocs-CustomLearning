@@ -2,9 +2,8 @@
 author: pkrebs
 ms.author: pkrebs
 title:  Translate learning pathways custom playlists
-ms.date: 06/8/2020
+ms.date: 07/06/2020
 description:  Translate learning pathways custom playlists
-ROBOTS: NOINDEX, NOFOLLOW
 ---
 
 # Translate learning pathways custom playlists

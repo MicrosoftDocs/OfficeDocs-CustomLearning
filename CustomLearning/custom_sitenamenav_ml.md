@@ -2,7 +2,7 @@
 author: pkrebs
 ms.author: pkrebs
 title:  Translate the site name, navigation and footer
-ms.date: 6/7/2020
+ms.date: 7/6/2020
 description: Translate the site name, navigation and footer
 ROBOTS: NOINDEX, NOFOLLOW
 ---

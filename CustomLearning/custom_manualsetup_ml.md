@@ -1,12 +1,12 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Learning pathways manual setup
+title:  Learning pathways manual setup for ml
 ms.date: 02/10/2019
 description: Learning pathways manual setup
 ROBOTS: NOINDEX, NOFOLLOW
 ---
-# Learning pathways manual setup
+# Learning pathways manual setup for multilingual
 
 Microsoft 365 learning pathways offers a manual setup for organizations that need support for one of the following scenarios:
 

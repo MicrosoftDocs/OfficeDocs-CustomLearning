@@ -2,7 +2,7 @@
 author: pkrebs
 ms.author: pkrebs
 title:  Translate site pages
-ms.date: 02/10/2019
+ms.date: 07/06/2020
 description: Translate site pages
 
 ---

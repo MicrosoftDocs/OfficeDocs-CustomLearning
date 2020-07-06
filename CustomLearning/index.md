@@ -2,7 +2,7 @@
 author: pkrebs
 ms.author: pkrebs
 title:  Overview of Microsoft 365 learning pathways 
-ms.date: 10/23/2019
+ms.date: 7/6/2020
 description: Learn how Microsoft 365 learning pathways can accelerate usage and adoption of Microsoft 365 services in your organization. Learning pathways include a custom SharePoint Online web part and a modern SharePoint Online communications training site that is easily provisioned to your Microsoft 365 tenant. 
 ---
 
@@ -10,7 +10,9 @@ description: Learn how Microsoft 365 learning pathways can accelerate usage and 
 Microsoft 365 learning pathways is a customizable, on-demand learning solution designed to increase usage and adoption of Microsoft 365 services in your organization.    
 
 > [!IMPORTANT]
-> In response to current events, learning pathways is providing an April 2020 Content Update that focuses on playlists and resources designed to enable remote work in your organization. We’ve added a new set of Work remotely playlists, significantly updated the Microsoft Teams content, especially for Teams meetings, and added a new set of Office for the web playlists. As part of the update, we've also provided a list of Remote Work resources for administrators. For the full list of updates, see [Learning pathways April 2020 Content Updates](custom_contentupdates.md).   
+> In response to customer feedback, learning pathways now offers multilingual support for nine languages. For information and instructions about how to enable multilingual support for learning pathways, read the following topics: 
+>- [Overview of multilingual support for learning pathways](custom_overview_ml.md) 
+>- [Setup options for learning pathways](custom_setupoptions.md)  
 
 ## On-demand, custom training from Microsoft
 
@@ -28,11 +30,12 @@ Learning pathways can be provisioned from the SharePoint Online Provisioning Ser
 
 ![cg-provision.png](media/cg-provision.png)
 
-## 3 Easy Steps
+## 4 Easy Steps
 Let's get started creating a learning pathways experience for your environment.
-1. Choose a [setup option](custom_setupoptions.md) and provision Microsoft 365 learning pathways.  
-2. Tailor learning pathways for your environment.
-3. Share learning pathways with your users using our [adoption tools](driveadoption.md).
+1. Read the [Overview of multilingual support for learning pathways](custom_overview_ml.md). 
+2. Choose a [setup option](custom_setupoptions.md) and provision Microsoft 365 learning pathways.  
+3. Tailor learning pathways for your environment.
+4. Share learning pathways with your users using our [adoption tools](driveadoption.md).
 
 ## Feedback and Support
 
