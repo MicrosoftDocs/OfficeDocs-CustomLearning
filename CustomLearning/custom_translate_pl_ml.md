@@ -131,5 +131,5 @@ From the Learning Pathways **Home** menu, click **Learning pathways administrati
 3. Make the translations for the page, and then click **Publish**.   
 
 ## For more information
-- For more information about customizing learning pathways, see [Customize Learning Pathways](custom_overview.md).   
+- For more information about customizing learning pathways, see [Customize Learning Pathways](custom_overview.md). 
 
