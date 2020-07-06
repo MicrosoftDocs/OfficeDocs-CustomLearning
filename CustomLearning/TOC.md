@@ -8,7 +8,7 @@
 ## [Content Updates](custom_contentupdates.md) 
 ## [Manage Content Updates](custom_contentupdatesmanage.md)
 ## [Feature Updates](custom_featureupdates.md)
-# [Multilingual support]
+# Multilingual support
 ## [Multilingual support for learning pathways](custom_overview_ml.md)
 ## [Translate site pages](custom_translate_page_ml.md)
 ## [Translate learning pathways custom playlists](custom_translate_pl_ml.md)
