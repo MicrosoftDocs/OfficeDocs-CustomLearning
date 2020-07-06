@@ -35,7 +35,7 @@ Let's get started creating a learning pathways experience for your environment.
 1. Read the [Overview of multilingual support for learning pathways](custom_overview_ml.md). 
 2. Choose a [setup option](custom_setupoptions.md) and provision Microsoft 365 learning pathways.  
 3. Tailor learning pathways for your environment.
-3. Share learning pathways with your users using our [adoption tools](driveadoption.md).
+4. Share learning pathways with your users using our [adoption tools](driveadoption.md).
 
 ## Feedback and Support
 
