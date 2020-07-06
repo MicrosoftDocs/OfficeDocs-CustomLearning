@@ -6,22 +6,30 @@ ms.date: 10/20/2019
 description: Learning pathways Feature Updates
 ---
 
-# Learning pathways Feature Updates
-The learning pathways team listens to customer feedback to help provide the features you need. The following provides an update on the features planned for Q2 of 2020. 
+# July 2020 Version 4.0 feature updates 
 
-## Upcoming Feature Updates for Q2 2020
-Multilingual support for learning pathways is scheduled to release in the second quarter of 2020. Multilingual support takes a dependency on the “Multiligual page publishing for Modern SharePoint” feature and will be available at the same time as General Availability for SharePoint multilingual support. For more information, see the [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217).  
-  
-The following languages will be supported for learning pathways:   
+The following new features have been added to Microsoft 365 learning pathways version 4.0. 
 
+## Multilingual support for learning pathways 
+Multilingual support for learning pathways is now available in nine languages.  
+- English	  
 - Chinese (Simplified) 
-- French  
+- French 
 - German 
 - Italian (Italy) 
-- Japanese (Japan)  
+- Japanese (Japan) 
 - Portuguese (Brazilian) 
-- Russian (Russian)  
+- Russian (Russian) 
 - Spanish 
+
+For more information, see [Learning pathways multilingual overview](custom_overview.md). 
+
+## Image picker for learning pathways custom subcategories 
+Learning pathways now provides an easy-to-use image picker for custom playlists and subcategories.  In past versions, you could change the image for a playlist, but not a subcategory.  
+
+For more information, see:
+- [Create a custom playlist](custom_createnewplaylist.md). 
+- [Create a subcategory](custom_createnewcat.md)
 
 > [!NOTE]
 > Support for the Dutch language will not be included in the upcoming release of multi-language support for learning pathways. We will continue to evaluate new language options in the future.
