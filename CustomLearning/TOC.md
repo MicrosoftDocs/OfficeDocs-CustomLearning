@@ -2,7 +2,7 @@
 ## [Microsoft 365 Learning pathways setup options](custom_setupoptions.md)
 ## [Provision Microsoft 365 learning pathways](custom_provision.md)
 ## [Explore the Microsoft 365 learning pathways site](custom_exploresite.md)
-## [Stand alone web part setup](custom_manualsetup.md)
+## [Manual Setup](custom_manualsetup.md)
 # What's new 
 ## [Content Updates](custom_contentupdates.md) 
 ## [Manage Content Updates](custom_contentupdatesmanage.md)
