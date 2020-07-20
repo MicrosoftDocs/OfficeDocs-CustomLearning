@@ -36,6 +36,8 @@ Before you provision learning pathways, ensure that the Admin Account for the te
 2. Click **Add to your tenant**. If you aren't signed into to your tenant, the Provisioning Service will ask for your Tenant Admin credentials. 
 3. From the Permissions requested dialog box, select **Consent on behalf of your organization** and then select **Accept**.
 
+![Image of the app catologue consent](media/app-catologue-consent.png)
+
 The look book service requires these permissions to create the tenant App Catalog, install the application into the tenant App Catalog and provision the site template. There's no overall impact on your tenant. These permissions are explicitly used for the purpose of the solution installation. You must accept these permissions to continue with the installation.
 
 4. Complete the fields on the provisioning information page as appropriate for your installation. At a minimum, enter the email address where you wish to get notifications about the provisioning process and the destination URL for your site to be provisioned to.  
