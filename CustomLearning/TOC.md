@@ -32,6 +32,7 @@
 ### [Add assets to a Custom Playlist](custom_addassets.md)
 ### [Create a Subcategory](custom_createnewcat.md)
 ### [Add and edit the Microsoft 365 learning pathways web part](custom_addwebpart.md)
+### [Sort subcategories and playlists](custom_sortsubplay.md)
 ### [Link to learning pathways content](custom_linking.md)
 ### [Search for learning pathways content](custom_search.md)
 ## [Drive Adoption](driveadoption.md)
