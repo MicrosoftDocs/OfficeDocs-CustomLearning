@@ -24,6 +24,12 @@ Multilingual support for learning pathways is now available in nine languages.
 
 For more information, see [Learning pathways multilingual overview](custom_overview.md). 
 
+## Sort subcategories and playlists
+
+Now you can sort subcategories and playlists in learning pathways. For example, if you add a custom playlist to a subcategory, you can sort the playlists so that the custom playlist appears first in the sort order. 
+
+For more information, see [Sort subcategories and playlists](custom_sortsubplay.md). 
+
 ## Image picker for learning pathways custom subcategories 
 Learning pathways now provides an easy-to-use image picker for custom playlists and subcategories.  In past versions, you could change the image for a playlist, but not a subcategory.  
 
