@@ -7,14 +7,14 @@ description: Provision the Microsoft 365 learning pathways site with the Microso
 ---
 
 # Provision a new learning pathways solution 
-Organizations that that don’t have learning pathways provisioned in their tenant can use the SharePoint look book service to add the multilingual learning pathways solution. With this option, the learning pathways SharePoint template is translated into nine languages and can be used with a minimum of modification.
+Organizations that that don’t have learning pathways provisioned in their tenant can use the SharePoint look book service to add the multilingual learning pathways solution. With this option, the learning pathways SharePoint template is translated into nine languages and can be used with a minimum of modification. 
 
 > [!IMPORTANT]
 > If you already have learning pathways provisioned in your tenant, it's recommended that you [update](custom_update.md) learning pathways. If you install a new instance of learning pathways, you will need to manually transfer any customizations from the existing site to the new site. 
 
 ## Prerequisites for multilingual support
  
-To successfully set up Microsoft 365 learning pathways with the look book service, the person doing the provisioning must meet the following pre-requisites: 
+To successfully set up Microsoft 365 learning pathways with the look book service, the person doing the provisioning must meet the following pre-requisites:   
  
 - The person provisioning learning pathways must be a Tenant Administrator of the tenant where learning pathways will be provisioned.  
 - A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization doesn't have an SharePoint tenant App Catalog, refer to the [SharePoint Online documentation](https://docs.microsoft.com/sharepoint/use-app-catalog) to create one. You must wait at least two hours after creating the App Catalog before provisioning learning pathways.  
@@ -35,8 +35,6 @@ Before you provision learning pathways, ensure that the Admin Account for the te
 1. Go to the [Microsoft 365 learning pathways solution page](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
 2. Click **Add to your tenant**. If you aren't signed into to your tenant, the Provisioning Service will ask for your Tenant Admin credentials. 
 3. From the Permissions requested dialog box, select **Consent on behalf of your organization** and then select **Accept**.
-
-![Image of the app catologue consent](media/app-catologue-consent.png)
 
 The look book service requires these permissions to create the tenant App Catalog, install the application into the tenant App Catalog and provision the site template. There's no overall impact on your tenant. These permissions are explicitly used for the purpose of the solution installation. You must accept these permissions to continue with the installation.
 
