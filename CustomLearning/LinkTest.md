@@ -44,6 +44,7 @@ Microsoft 365 learning pathways is an open source project supported through our 
 This is an [internal link test](custom_setupoptions.md). 
 This is an [external link test](https://adoption.microsoft.com/).
 This is a [redirect link test](https://aka.ms/CustomLearningHelp).
+This is a new link [go](http://stackoverflow.com){:target="_blank" rel="noopener"}.
 
 ## Additional Resources
 You can use the Microsoft 365 learning pathways site to provide links to any new or existing user community forums. Consider starting an internal user group, if you don't have one already, to enable people to share their success and learn from each other.  If you don't have time to nurture an internal user group, you and your employees can join the [Microsoft Office 365 Champion community](https://aka.ms/O365Champions) for monthly training, membership in the online community, and early access to tools and resources for Office 365.
