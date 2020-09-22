@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Learning pathways manual setup
+title: Learning pathways manual setup
 ms.date: 07/06/2020
 description: Microsoft 365 learning pathways manual setup
 ---

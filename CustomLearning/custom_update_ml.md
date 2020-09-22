@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Update learning pathways for multilingual support
+title: Update learning pathways for multilingual support
 ms.date: 05/20/2019
 description: Update learning pathways for multilingual support
 ROBOTS: NOINDEX, NOFOLLOW

@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Resources for supporting your remote workforce
+title: Resources for supporting your remote workforce
 ms.date: 3/31/2020
 description: Resources for supporting your remote workforce
 ---

@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Translate the site name, navigation and footers
+title: Translate the site name, navigation and footers
 ms.date: 7/6/2020
 description: Translate the site name, navigation and footers
 ---

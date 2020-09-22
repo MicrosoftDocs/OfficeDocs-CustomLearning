@@ -1,7 +1,7 @@
 ---
 author: karuanag
 ms.author: karuanag
-title:  Frequently Asked Questions for Microsoft 365 learning pathways
+title: Frequently Asked Questions for Microsoft 365 learning pathways
 ms.date: 02/10/2019
 description: Frequently asked questions information for Microsoft 365 learning pathways 
 ---

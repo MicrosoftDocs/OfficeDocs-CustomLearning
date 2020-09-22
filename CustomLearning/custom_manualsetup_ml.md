@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Learning pathways manual setup for ml
+title: Learning pathways manual setup for ml
 ms.date: 02/10/2019
 description: Learning pathways manual setup
 ROBOTS: NOINDEX, NOFOLLOW

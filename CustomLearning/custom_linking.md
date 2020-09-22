@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Linking to Microsoft 365 learning pathways assets
+title: Linking to Microsoft 365 learning pathways assets
 ms.date: 02/15/2019
 description: How to link to Microsoft 365 learning pathways assets
 ---
