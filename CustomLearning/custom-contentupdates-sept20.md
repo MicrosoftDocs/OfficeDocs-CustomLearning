@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: pkrebs@microsoft.com
 title:  Learning pathways September 2020 Content Updates
 ms.date: 9/21/2020
 description: Learning pathways September 2020 Content Updates
