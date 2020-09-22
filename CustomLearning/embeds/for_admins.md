@@ -1,10 +1,10 @@
 ---
-title:                     # Helpful Links for Administrators using Custom Learning for Office 365
-description:               #  Helpful Links for Administrators using Custom Learning for Office 365
-author: {github-id}        # karuanag
-ms.author: {ms-alias}      # karuanag
-ms.date: {@date}           # 02/01/2019
-ms.topic: getting-started  # administration 
+title: Helpful Links for Administrators using Custom Learning for Office 365
+description: Helpful Links for Administrators using Custom Learning for Office 365
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: administration 
 ---
 
 # Helpful Links for Office 365 Administrators

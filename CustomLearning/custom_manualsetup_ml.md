@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Learning pathways manual setup for ml
+title: Learning pathways manual setup for ml
 ms.date: 02/10/2019
 description: Learning pathways manual setup
 ROBOTS: NOINDEX, NOFOLLOW
@@ -79,7 +79,7 @@ As part of the setup process, you'll need the Microsoft 365 learning pathways We
 To set up Microsoft 365 learning pathways, you upload the customlearning.sppkg file to the tenant-wide App Catalog and deploy it. See [Use the App Catalog to make custom business apps available for your SharePoint Online environment](https://docs.microsoft.com/sharepoint/use-app-catalog) for detailed instructions on how to add an app to the App Catalog.
 
 ## Step 3 - Provision/identify a modern communication site
-Either identify an existing SharePoint communication site or provision a new one in your SharePoint Online tenant. For more information about how to provision a communication site see [Create a communication site in SharePoint Online](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) and follow the steps to create a communication site.
+Either identify an existing SharePoint communication site or provision a new one in your SharePoint Online tenant. For more information about how to provision a communication site see [Create a communication site in SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) and follow the steps to create a communication site.
 
 ## Step 4 - Add the Microsoft 365 learning pathways app to the site
 

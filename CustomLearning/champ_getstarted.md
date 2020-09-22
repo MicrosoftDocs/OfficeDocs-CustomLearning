@@ -1,10 +1,10 @@
 ---
-title:                     # Champion Program Best Practices
-description:               # Drive adoption of Office 365 with our Champion Program best practices
-author: {github-id}        # karuanag
-ms.author: {ms-alias}      # karuanag
-ms.date: {@date}           # 02/01/2019
-ms.topic: getting-started  # how-to
+title: Champion Program Best Practices
+description: Drive adoption of Office 365 with our Champion Program best practices
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
 ---
 
 # Establish Champions for User Adoption 
