@@ -28,7 +28,7 @@ In this example, we’ll first create a SharePoint page to add to the playlist. 
 5.	In a Web browser, go to this URL https://youtu.be/wYrRCRphrp0 and get the embed code for the video. 
 6.	In the SharePoint Web part, select Add Embed code and then paste it into the Embed box. 
 7.	In the right-hand box, select Add a new web part, and then select Text. 
-8.	In a Web browser, go to this URL: https://support.office.com/en-us/article/13c4e429-7324-4886-b377-5dbed539193b and copy the Try it! Instructions from the page and paste them into the Text Web part. Your page should look like the following. 
+8.	In a Web browser, go to this URL: https://support.office.com/article/13c4e429-7324-4886-b377-5dbed539193b and copy the Try it! Instructions from the page and paste them into the Text Web part. Your page should look like the following. 
 
 ![Embed page](media/clo365teamscommandbox.png)
 

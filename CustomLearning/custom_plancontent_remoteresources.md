@@ -16,12 +16,12 @@ For more information about how to customize Learning Pathways, see [Customize le
 
 ## Top resources from Microsoft for supporting your remote workforce
 You can build a landing page in your Learning Pathways SharePoint site for supporting remote workers. Or you can add resources to an existing support page for remote workers. Here’s a list of some of the top resources from Microsoft for supporting remote work in your organization. 
-- [How to roll out Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/how-to-roll-out-teams)
-- [Meetings and conferencing in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Support Remote Workers using Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/support-remote-work-with-teams)
-- [FAQ: Support your remote workforce](https://docs.microsoft.com/en-us/microsoftteams/faq-support-remote-workforce)
-- [The top 9 ways Microsoft IT is enabling remote work for its employees](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Microsoft Teams Training](https://docs.microsoft.com/en-us/microsoftteams/training-microsoft-teams-landing-page)
+- [How to roll out Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
+- [Meetings and conferencing in Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [Support Remote Workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
+- [FAQ: Support your remote workforce](https://docs.microsoft.com/microsoftteams/faq-support-remote-workforce)
+- [The top 9 ways Microsoft IT is enabling remote work for its employees](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
+- [Microsoft Teams Training](https://docs.microsoft.com/microsoftteams/training-microsoft-teams-landing-page)
 
 
 For more information about how to customize Learning Pathways, see [Customize learning pathways](custom_overview.md). For information about how to add and edit the Web part to filter to a subcategory or playlist, see 
