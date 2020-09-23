@@ -4,6 +4,7 @@ ms.author: pkrebs
 title: Measure Impact of Microsoft 365 learning pathways
 ms.date: 02/10/2019
 description: How to measure impact of Microsoft 365 learning pathways
+ms.service: sharepoint online
 ---
 
 # Measuring impact of Microsoft 365 learning pathways

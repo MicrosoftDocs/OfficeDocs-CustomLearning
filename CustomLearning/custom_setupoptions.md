@@ -4,6 +4,7 @@ ms.author: pkrebs
 title: Setup option for learning pathways
 ms.date: 07/16/2020
 description: Setup option for learning pathways
+ms.service: sharepoint online
 ---
 
 # Setup options for multilingual learning pathways

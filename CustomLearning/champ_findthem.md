@@ -5,6 +5,7 @@ author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
+ms.service: sharepoint online
 ---
 
 # Finding your Champions 

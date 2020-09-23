@@ -4,6 +4,7 @@ ms.author: pkrebs
 title: Troubleshooting Microsoft 365 learning pathways
 ms.date: 02/10/2019
 description: Learn how to troubleshoot Microsoft 365 learning pathways
+ms.service: sharepoint online
 ---
 
 # Troubleshoot Microsoft 365 learning pathways
