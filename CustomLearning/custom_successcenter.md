@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Learning pathways Admin Success Center
+title: Learning pathways Admin Success Center
 ms.date: 10/24/2019
 description: Learning pathways Admin Success Center
 ms.service: SharePoint Online

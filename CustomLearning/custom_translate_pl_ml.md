@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Translate learning pathways custom playlists
+title: Translate learning pathways custom playlists
 ms.date: 07/06/2020
 description:  Translate learning pathways custom playlists
 ms.service: SharePoint Online

@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Overview
+title: Overview
 ms.date: 07/06/2020
 description: Multilingual support for learning pathways
 ROBOTS: NOINDEX, NOFOLLOW

@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Customize learning pathways
+title: Customize learning pathways
 ms.date: 02/18/2019
 description: Customize learning pathways
 ms.service: SharePoint Online

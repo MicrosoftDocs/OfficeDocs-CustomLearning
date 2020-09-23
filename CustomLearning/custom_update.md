@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Update Microsoft 365 learning pathways
+title: Update Microsoft 365 learning pathways
 ms.date: 07/06/2020
 description: Update Microsoft 365 learning pathways
 ms.service: SharePoint Online

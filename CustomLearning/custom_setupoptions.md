@@ -1,7 +1,7 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Setup option for learning pathways
+title: Setup option for learning pathways
 ms.date: 07/16/2020
 description: Setup option for learning pathways
 ms.service: SharePoint Online
