@@ -4,6 +4,7 @@ ms.author: pkrebs
 title:  Hide and show technology
 ms.date: 05/20/2019
 description: How to hide and show technology
+ms.service: SharePoint Online
 ---
 
 # Hide and show Technology

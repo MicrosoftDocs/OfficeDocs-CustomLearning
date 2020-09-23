@@ -4,6 +4,7 @@ ms.author: pkrebs
 title:  Add assets to a playlist
 ms.date: 02/17/2019
 description: Add new and existing assets to a learning pathways playlist
+ms.service: SharePoint Online
 ---
 
 # Add Assets to a Custom Playlist

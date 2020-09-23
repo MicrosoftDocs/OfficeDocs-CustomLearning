@@ -5,6 +5,7 @@ author: {github-id}        # karuanag
 ms.author: {ms-alias}      # karuanag
 ms.date: {@date}           # 02/01/2019
 ms.topic: getting-started  # how-to
+ms.service: SharePoint Online
 ---
 
 # Finding your Champions 

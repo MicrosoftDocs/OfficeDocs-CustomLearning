@@ -1,3 +1,12 @@
+---
+author: pkrebs
+ms.author: pkrebs
+title:  Manual Install Learning Pathways
+ms.date: 02/18/2019
+description: Manual Install Learning Pathways
+ms.service: SharePoint Online
+---
+
 # Manually installing and configuring Custom Learning for Office 365
 
 The Microsoft Custom Learning Web Part is build using the [SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview) version 1.7.1.

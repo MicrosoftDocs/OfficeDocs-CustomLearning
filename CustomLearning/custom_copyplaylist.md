@@ -4,6 +4,7 @@ ms.author: pkrebs
 title:  Copy a playlist
 ms.date: 02/18/2019
 description: How to copy a playlist
+ms.service: SharePoint Online
 ---
 
 # Copy a Playlist

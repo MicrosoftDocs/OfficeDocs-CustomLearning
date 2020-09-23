@@ -4,7 +4,9 @@ ms.author: pkrebs@microsoft.com
 title:  Learning pathways September 2020 Content Updates
 ms.date: 9/21/2020
 description: Learning pathways September 2020 Content Updates
+ms.service: SharePoint Online
 ---
+
 # September 2020 Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md). The following lists the September 2020 Microsoft 365 learning pathways content updates. 
 

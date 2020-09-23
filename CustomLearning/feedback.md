@@ -4,6 +4,7 @@ ms.author: karuanag
 title:  Feedback and Support
 ms.date: 02/10/2019
 description: Feedback and support information for Microsoft 365 learning pathways
+ms.service: SharePoint Online
 ---
 
 # Feedback and Support

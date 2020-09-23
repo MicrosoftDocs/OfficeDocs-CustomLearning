@@ -4,6 +4,7 @@ ms.author: pkrebs
 title:  Hide and show playlists
 ms.date: 10/27/2019
 description: Hide and show playlists
+ms.service: SharePoint Online
 ---
 
 # Hide and show Playlists
