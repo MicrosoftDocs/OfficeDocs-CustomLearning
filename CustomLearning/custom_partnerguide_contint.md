@@ -1,9 +1,10 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Partner integration models
+title: Partner integration models
 ms.date: 3/9/2019
 description: Partner integration models
+ms.service: sharepoint online
 ---
 
 # Partner integration models
@@ -15,7 +16,7 @@ While it’s not possible to supplement the Microsoft 365 learning pathways cont
 To get started, here are some best practices to follow. 	
 
 ### 1. Begin with building expertise as an Enabler. 
-You can help a percentage of your customer base right away by enabling their learning pathways training portal and performing targeted Microsoft content curation. For instructions on provisioning learning pathways, see https://docs.microsoft.com/en-us/office365/customlearning/custom_provision.  
+You can help a percentage of your customer base right away by enabling their learning pathways training portal and performing targeted Microsoft content curation. For instructions on provisioning learning pathways, see https://docs.microsoft.com/office365/customlearning/custom_provision.  
 
 ### 2. Then extend your services as an Integrator
 Perform an automation return on investment analysis - depending on the quantity of your content and/or services integration needs. For example, it may not make sense to take on the development and operational costs with respect to our content integration guidelines if you can quickly manually create a targeted custom playlist(s) pointing to your for-pay content or reference your services.
@@ -141,10 +142,10 @@ Key framing to keep in mind for this feature:
 - Custom Content Packs are an advanced feature and should only be used by Partners with experience administrating web content. Untrustworthy content sources may introduce unsafe content into your site. You should only add sources that you trust.
 
 > **IMPORTANT**
-> Before adding a Custom Content Pack, you must have provisioned Microsoft 365 learning pathways 3.0 or later. For informataion about provisioning Microsoft 365 learning pathways, see [Provision Microsoft 365 learning pathways](https://docs.microsoft.com/en-us/office365/customlearning/custom_provision).
+> Before adding a Custom Content Pack, you must have provisioned Microsoft 365 learning pathways 3.0 or later. For informataion about provisioning Microsoft 365 learning pathways, see [Provision Microsoft 365 learning pathways](https://docs.microsoft.com/office365/customlearning/custom_provision).
 
 ### Content Whitelisting
-As a partner it’s your responsibility to assist your consumers in making sure your content is whitelisted in their environment. We suggest you create a test scenario in their environment to validate that your content can be iFrame’d into a SharePoint page inside of their firewall. Follow the [Create SharePoint pages for Custom Playlists](https://docs.microsoft.com/en-us/office365/customlearning/custom_createnewpage) instructions to confirm this is the case.
+As a partner it’s your responsibility to assist your consumers in making sure your content is whitelisted in their environment. We suggest you create a test scenario in their environment to validate that your content can be iFrame’d into a SharePoint page inside of their firewall. Follow the [Create SharePoint pages for Custom Playlists](https://docs.microsoft.com/office365/customlearning/custom_createnewpage) instructions to confirm this is the case.
 
 ### Add a Content Pack to Learning Pathways
 Once you've created modified the JSON and defined your CDN, you can add the Contact Pack to learning pathways. 

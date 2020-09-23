@@ -1,9 +1,10 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Microsoft 365 learning pathways Early Adopter Program
+title: Microsoft 365 learning pathways Early Adopter Program
 ms.date: 3/9/2019
 description: Microsoft 365 learning pathways Early Adopter Program
+ms.service: sharepoint online
 ---
 
 # Microsoft 365 learning pathways Early Adopter Program

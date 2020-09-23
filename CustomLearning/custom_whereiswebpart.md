@@ -1,9 +1,10 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Where is the Microsoft 365 learning web part
+title: Where is the Microsoft 365 learning web part
 ms.date: 02/15/2019
 description: Learn where the learning pathways web part appears in the learning pathways site
+ms.service: sharepoint online
 ---
 
 # Where's the Microsoft 365 learning pathways web part? 

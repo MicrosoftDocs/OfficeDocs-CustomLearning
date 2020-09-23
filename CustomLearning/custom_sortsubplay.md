@@ -1,9 +1,10 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Sort subcategories and playlists
+title: Sort subcategories and playlists
 ms.date: 07/20/2020
-description: Sort subcategories and playlists in learning pathways 
+description: Sort subcategories and playlists in learning pathways
+ms.service: sharepoint online 
 ---
 
 # Sort subcategories and playlists

@@ -1,9 +1,10 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Go to the Microsoft 365 learning pathways site
+title: Go to the Microsoft 365 learning pathways site
 ms.date: 02/18/2019
 description: Go to the Microsoft 365 learning pathways site
+ms.service: sharepoint online
 ---
 
 # Go to the Microsoft 365 learning pathways site

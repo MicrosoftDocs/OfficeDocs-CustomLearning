@@ -1,9 +1,10 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Copy a playlist
+title: Copy a playlist
 ms.date: 02/18/2019
 description: How to copy a playlist
+ms.service: sharepoint online
 ---
 
 # Copy a Playlist

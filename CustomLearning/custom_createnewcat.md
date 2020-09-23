@@ -1,9 +1,10 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Create a new subcategory
+title: Create a new subcategory
 ms.date: 02/17/2019
 description: Create a new subcategory with learning pathways
+ms.service: sharepoint online
 ---
 
 # Create a Subcategory 

@@ -1,10 +1,11 @@
 ---
-title:                     # Day in the Life with Office 365 - Collaborating with Colleagues
-description:               # Quick steps to be ready for the day at hand with Office 365
-author: {github-id}        # karuanag
-ms.author: {ms-alias}      # karuanag
-ms.date: {@date}           # 02/01/2019
-ms.topic: getting-started  # how-to
+title: Day in the Life with Office 365 - Collaborating with Colleagues
+description: Quick steps to be ready for the day at hand with Office 365
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
 ---
 
 # Collaborating with Colleagues

@@ -1,9 +1,10 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  November 2019 Content Updates
+title: November 2019 Content Updates
 ms.date: 10/20/2019
 description: Microsoft 365 learning pathways content update
+ms.service: sharepoint online
 ---
 
 # November 2019 Content Updates

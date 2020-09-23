@@ -1,9 +1,10 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Go to the Custom Learning for Office 365 site
+title: Go to the Custom Learning for Office 365 site
 ms.date: 02/18/2019
 description: Go to the Custom Learning Site
+ms.service: sharepoint online
 ---
 
 # Add Owners Custom Learning site

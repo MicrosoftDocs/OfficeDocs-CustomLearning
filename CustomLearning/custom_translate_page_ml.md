@@ -1,16 +1,17 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title:  Translate site pages
+title: Translate site pages
 ms.date: 07/06/2020
 description: Translate site pages
+ms.service: sharepoint online
 
 ---
 
 # Translate site pages
 Before you start translating the learning pathways site, it’s important to understand a few key concepts of how the multilingual feature works with learning pathways. 
 - Site information - Navigation, logo, and site name translations require that the site is viewed, and translated, in the user’s language profile.  
-- The learning pathways Web part must be viewed with user’s language profile for it to appear in a non-English language. The Web part and the Microsoft-supplied content are already translated for you. For more information about languages profiles, see [Change your personal language and regional settings](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
+- The learning pathways Web part must be viewed with user’s language profile for it to appear in a non-English language. The Web part and the Microsoft-supplied content are already translated for you. For more information about languages profiles, see [Change your personal language and regional settings](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
 - The way you set up learning pathways determines whether you have translated pages available. New sites provisioned with the Microsoft 365 look book service will have translated pages in nine languages available. Updated sites or sites you create will require manual translation. See [Setup options for multilingual learning pathways](custom_setupoptions_ml.md).
 - Multilingual support for learning pathways is enabled by SharePoint Online multilingual features for communication sites. To learn about SharePoint Online multilingual features, see [Create multilingual communication sites, pages, and news](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 
@@ -54,7 +55,7 @@ What’s translations aren't visible?
 - The learning pathways web part is in English
 
 ## View the fully translated site 
-To view a fully translated site in a specific language, including the site pages, navigation, and web part, the user’s personal language and regional settings must be set for that language. For more information on setting language and regional settings, see [Change your personal language and regional settings](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). It's recommended that you use a separate account or have another user with the different language settings view the translated pages.  
+To view a fully translated site in a specific language, including the site pages, navigation, and web part, the user’s personal language and regional settings must be set for that language. For more information on setting language and regional settings, see [Change your personal language and regional settings](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). It's recommended that you use a separate account or have another user with the different language settings view the translated pages.  
 
 ## Working with an updated or manually installed learning pathways site
 If you updated an existing Learning Pathways site or manually installed the web part to an existing site, you'll need to manually translate the site pages. The learning pathways web part and content are already translated and will appear in the user's preferred language. To translate pages, see the following instructions "Create pages for the languages you want". 
@@ -76,7 +77,7 @@ Once you've enabled your site for multilingual features and you've chosen the la
 After you create the page(s), the status of the page (draft saved, published, and so on) is shown in the translation pane next to each language. Also, the translator(s) you assigned will be notified in email that a translation is requested.
 
 ### View the fully translated site in a specific language
-To view a fully translated site in a specific language, including the site pages, navigation, and web part, the user’s personal language and regional settings must be set for that language. For more information on setting language and regional settings, see [Change your personal language and regional settings](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). Note that it’s best to use a separate account or have another user with the different language settings view the translated pages.
+To view a fully translated site in a specific language, including the site pages, navigation, and web part, the user’s personal language and regional settings must be set for that language. For more information on setting language and regional settings, see [Change your personal language and regional settings](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). Note that it’s best to use a separate account or have another user with the different language settings view the translated pages.
 
 ## What does a translator do?
  After the site is set up in English, a user with Spanish as their preferred personal language, for example, manually edits and translates the title, navigation, and footer content into Spanish. A user with German as their preferred personal language does the same for German. Once the content is translated, it will display for all users of those preferred languages. The Web part picks up the user's preferred language and shows the content translated in that language. 
@@ -86,7 +87,7 @@ Translators manually translate the copies of the default language page into the 
 2. Select **Edit** on the top right of the page, and translate the content.
 3. When done, select **Save as draft** (if you're not ready to make it visible to readers) or if the page is ready to be visible to everyone who is using that language on the site, select **Publish** or **Post news**.
 
-For more information about the translation process, see [Create multilingual communication sites, pages, and news](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
+For more information about the translation process, see [Create multilingual communication sites, pages, and news](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 
 ## Updating the default language page
 When the default language page is updated, the page must be republished. Then, the translator(s) for the translation pages are notified in email that an update has been made so updates can be made to the individual translation pages.
@@ -103,8 +104,8 @@ After the site is set up in English, a user with Spanish as their preferred pers
 >- If a change is made to the site name, navigation, or footer in the default language, the corresponding translated item in another language is not automatically updated unless you choose to overwrite existing site translations. If you do that, the translated item is replaced by the update in the default language and would have to be manually translated again. To overwrite translations, go to the Site languages page for the default language, and select Show advanced settings. Then, slide the toggle for Overwrite translations to On. This option does not apply to page or news content.
 
 ### To view the fully translated site in a specific language
-To view a fully translated site in a specific language, including the site pages, navigation, and web part, the user’s personal language and regional settings must be set for that language. For more information on setting language and regional settings, see [Change your personal language and regional settings](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). It’s recommended that you use a separate account or have another user with the different language settings view the translated pages.
+To view a fully translated site in a specific language, including the site pages, navigation, and web part, the user’s personal language and regional settings must be set for that language. For more information on setting language and regional settings, see [Change your personal language and regional settings](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). It’s recommended that you use a separate account or have another user with the different language settings view the translated pages.
 
 ## For more information
-- For more information about translating SharePoint communication site pages, see [Create multilingual communication sites, pages, and news](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).
+- For more information about translating SharePoint communication site pages, see [Create multilingual communication sites, pages, and news](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).
 - For more information about customizing learning pathways, see [Customize Learning Pathways](custom_overview.md).  

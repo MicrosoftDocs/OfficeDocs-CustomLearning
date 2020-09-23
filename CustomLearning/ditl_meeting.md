@@ -1,10 +1,11 @@
 ---
-title:                     # Day in the Life with Office 365 - Meeting at the Office
-description:               # Quick steps to be ready for the day at hand with Office 365
-author: {github-id}        # karuanag
-ms.author: {ms-alias}      # karuanag
-ms.date: {@date}           # 02/01/2019
-ms.topic: getting-started  # how-to
+title: Day in the Life with Office 365 - Meeting at the Office
+description: Quick steps to be ready for the day at hand with Office 365
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
 ---
 
 # Meeting at the Office
@@ -63,4 +64,4 @@ Directly adding action items into a plan for your project saves you from transcr
 ![Planner Task](media/ditl_task.png)
 
 ## End a meeting
-When everything on the agenda has been discussed, end the meeting, regardless of the time. Assign and send action items to all participants. If you are collaborating in Microsoft Teams, you can easily share action items in the appropriate channel. Action items can also be entered and assigned in Planner during the meeting, providing a fast way to track for completion which can also be [accessed in Microsoft Teams](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 
+When everything on the agenda has been discussed, end the meeting, regardless of the time. Assign and send action items to all participants. If you are collaborating in Microsoft Teams, you can easily share action items in the appropriate channel. Action items can also be entered and assigned in Planner during the meeting, providing a fast way to track for completion which can also be [accessed in Microsoft Teams](https://support.office.com/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 
