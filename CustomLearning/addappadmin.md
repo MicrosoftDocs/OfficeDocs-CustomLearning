@@ -4,7 +4,7 @@ ms.author: karuanag
 title: Add administrator to SharePoint Online App Catalog
 ms.date: 02/10/2019
 description: Add the required administrator to your App Catalog
-ms.service: SharePoint Online
+ms.service: sharepoint online
 ---
 
 # View or Add an Administrator to your SharePoint Online App Catalog

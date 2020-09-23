@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Partner Onboarding Guide
 ms.date: 3/9/2019
 description: Partner Onboarding Guide for Microsoft 365 Learning Pathways
-ms.service: SharePoint Online
+ms.service: sharepoint online
 ---
 
 # Partner Onboarding Guide

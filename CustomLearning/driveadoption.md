@@ -5,7 +5,7 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started 
-ms.service: SharePoint Online
+ms.service: sharepoint online
 ---
 
 # Drive adoption of your learning pathways portal

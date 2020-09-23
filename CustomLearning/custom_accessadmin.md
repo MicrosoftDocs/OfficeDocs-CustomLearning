@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Learning Pathways Administration
 ms.date: 02/15/2019
 description: How to access the Custom Learning Admin page from the Web part or the menu
-ms.service: SharePoint Online
+ms.service: sharepoint online
 ---
 
 # Access the Learning Pathways Administration page
