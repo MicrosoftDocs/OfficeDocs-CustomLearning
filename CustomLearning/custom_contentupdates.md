@@ -9,33 +9,33 @@ ms.service: sharepoint online
 # Microsoft 365 Learning Pathways Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. The following list the content updates for September 2020.
 
-# September 2020 Content Updates
+## September 2020 Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md). 
 
-## Security
+### Security
 A new security subcategory has been added with playlists and assets to help users work more securely in the office and at home. 
 
-![cg-security-playlist.png](media/cg-security-playlist.png)
+![learning pathways security playlist](media/cg-security-playlist.png)
 
-### "Five simple steps" playlist
+#### "Five simple steps" playlist
 - Protect yourself from phishing
 - Avoid tech support scams
 - Work from home more securely
 - Keep your PC up-to-date
 - Stay protected with Windows security
 
-### "Security at home" playlist
+#### "Security at home" playlist
 - Tips to keep your data safe
 - Keep your computer safe at home
 - Help protect your family online with Windows Security – is this in here by accident?
 
-### "Security at work" playlist
+#### "Security at work" playlist
 - Keep your computer secure at work
 - What is Multi-factor Authentication?
 - Firewall and network protection in Windows security
 - Prevent changes in security settings with Tamper Protection
 
-## "Get started with Teams" playlist
+### "Get started with Teams" playlist
 A new "Get Started with Teams" playlist has been added to the "Get Started/First Days" subcategory to help users get up and running with Teams. The playlist includes:
 - Welcome to Microsoft Teams  
 - Get your team up and running
@@ -45,27 +45,27 @@ A new "Get Started with Teams" playlist has been added to the "Get Started/First
 - Join a Teams meeting 
 - Manage meetings 
  
-## Microsoft 365 Basics
+### Microsoft 365 Basics
 In the Products category, the "Office 365 Basics" subcategory has been updated to the "Microsoft 365 Basics" category. Retired assets in the "Office 365 Basics" category are still available if they've been added to a custom playlist.
 
-### "Get started" playlist
+#### "Get started" playlist
 - What is Microsoft 365?
 - Sign in
 - Office.com
 
-### "Create and save" playlist
+#### "Create and save" playlist
 - Using the desktop apps
 - Using Office.com apps
 - Save files to the cloud
 - Sync Files on Demand with OneDrive
 
-### "Share and collaborate" playlist
+#### "Share and collaborate" playlist
 - Share files in Microsoft 365
 - Co-author
 - Use @mentions
 - Follow-ups
 
-### "Work with Microsoft Teams" playlist
+#### "Work with Microsoft Teams" playlist
 - Welcome to Microsoft Teams
 - Overview of teams and channels
 - Create and format a post
@@ -74,22 +74,22 @@ In the Products category, the "Office 365 Basics" subcategory has been updated t
 - Join a Teams meeting
 - Tips for better meetings
 
-### "Get the most out of Windows" playlist
+#### "Get the most out of Windows" playlist
 - Find your documents, apps, and more with Search
 - Microsoft Edge
 - Microsoft Search in Bing
 
-### "Work from anywhere" playlist
+#### "Work from anywhere" playlist
 - OneDrive mobile app
 - Outlook mobile app
 
-### "Cool Microsoft 365 features" playlist
+#### "Cool Microsoft 365 features" playlist
 - PowerPoint Designer
 - Ideas in Excel
 - Editor in Word
 - Make your content accessible
 
-## "Create a chart" playlist in Access
+### "Create a chart" playlist in Access
 A "Create a chart playlist" has been added to the "Products\Access" subcategory.  
 - Create a column chart
 - Create a bar chart
@@ -97,43 +97,43 @@ A "Create a chart playlist" has been added to the "Products\Access" subcategory.
 - Create a pie chart
 - Create a combo chart
 
-## Teams updates
+### Teams updates
 The "Product\Microsoft Teams" subcategory has been updated with the following assets. 
 
-### "Manage meetings" playlist
+#### "Manage meetings" playlist
 - Join a Teams meeting
-### "Work with posts and messages" playlist
+#### "Work with posts and messages" playlist
 - Create and format a post
 
-## Planner 
+### Planner 
 The follow assets have been added to the "Use Planner" playlist in "Products\Planner".
-### Use Planner playlist
+#### Use Planner playlist
 - To Do vs Planner
 - See your Planner Tasks in To Do
 - Use the Tasks App in Teams
 
-## Word
+### Word
 The following asset has been updated in the "Share and co-author with Word" playlist.
 
-### "Share and co-author with Word" playlist
+#### "Share and co-author with Word" playlist
 - "Collaborate on Word documents with real-time co-authoring" asset has been updated. 
 
-## Office for the web
+### Office for the web
 The following asset has been updated in the "Office for the web: Word for the web" playlist.
 
-### "Office for the web: Word for the web" playlist
+#### "Office for the web: Word for the web" playlist
 - Transcribe your recordings
 
-## PowerPoint (new, updated)
+### PowerPoint (new, updated)
 The following assets have been updated or added to the Products\PowerPoint playlists. 
 
-### "Text & tables with PowerPoint" playlist
+#### "Text & tables with PowerPoint" playlist
 - Change handwritten ink to shapes, text, or math in PowerPoint (new)
 
-### Present slideshows playlist
+#### Present slideshows playlist
 - Record a presentation (updated)
 
-## Office Quick Start guides (updated)
+### Office Quick Start guides (updated)
 The Office Quick Start guides for all the Office products have been updated. 
 
 ## April 2020 Content Updates
@@ -150,7 +150,7 @@ The following playlists have been added or updated.
 #### Work remotely (2 new playlists/11 new assets)
 A new Work remotely subcategory was added to learning pathways that features the following playlists and assets: 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![learning pathway work remotely playlist](media/cg-contentupdate-apr2020-01.png)
 
 ##### Work remotely (5 new assets)
 - Work remotely with Office 365

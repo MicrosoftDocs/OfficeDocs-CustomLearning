@@ -27,7 +27,7 @@ Microsoft 365 learning pathways offers:
 ## SharePoint look book service
 Learning pathways can be provisioned from the SharePoint look book service. When Microsoft 365 learning pathways is provisioned, organizations get a SharePoint Online communication site designed to be an out-of-the box training portal, along with a learning pathways Web part connected to an online catalog of training content. 
 
-![cg-provision.png](media/cg-provision.png)
+![SharePoint look book provisioning page](media/cg-provision.png)
 
 ## 4 Easy Steps
 Let's get started creating a learning pathways experience for your environment.
