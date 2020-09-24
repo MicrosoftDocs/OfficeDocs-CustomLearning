@@ -23,7 +23,7 @@ The following playlists have been added or updated.
 #### Work remotely (2 new playlists/11 new assets)
 A new Work remotely subcategory was added to learning pathways that features the following playlists and assets: 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![learning pathways work remotely playlist](media/cg-contentupdate-apr2020-01.png)
 
 ##### Work remotely (5 new assets)
 - Work remotely with Office 365
