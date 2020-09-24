@@ -2,7 +2,7 @@
 author: pkrebs
 ms.author: pkrebs
 title: Overview of Microsoft 365 learning pathways 
-ms.date: 7/6/2020
+ms.date: 9/24/2020
 description: Learn how Microsoft 365 learning pathways can accelerate usage and adoption of Microsoft 365 services in your organization. Learning pathways include a custom SharePoint Online web part and a modern SharePoint Online communications training site that is easily provisioned to your Microsoft 365 tenant. 
 ms.service: sharepoint online
 ---
@@ -11,9 +11,7 @@ ms.service: sharepoint online
 Microsoft 365 learning pathways is a customizable, on-demand learning solution designed to increase usage and adoption of Microsoft 365 services in your organization.    
 
 > [!IMPORTANT]
-> In response to customer feedback, learning pathways now offers multilingual support for nine languages. For information and instructions about how to enable multilingual support for learning pathways, read the following topics: 
->- [Overview of multilingual support for learning pathways](custom_overview_ml.md) 
->- [Setup options for learning pathways](custom_setupoptions.md)  
+> Learning pathways strives to adhere to a quarterly content update cycle. As of 9/24/2020, we've updated the learning pathways content for our September content update. To learn more about the September 2020 content update, see [Content Updates](custom_contentupdates.md). To learn about how content updates are applied and how to manage content them, see [Manage Content Updates](custom_contentupdatesmanage.md).  
 
 ## On-demand, custom training from Microsoft
 
@@ -29,7 +27,7 @@ Microsoft 365 learning pathways offers:
 ## SharePoint look book service
 Learning pathways can be provisioned from the SharePoint look book service. When Microsoft 365 learning pathways is provisioned, organizations get a SharePoint Online communication site designed to be an out-of-the box training portal, along with a learning pathways Web part connected to an online catalog of training content. 
 
-![cg-provision.png](media/cg-provision.png)
+![SharePoint look book provisioning page](media/cg-provision.png)
 
 ## 4 Easy Steps
 Let's get started creating a learning pathways experience for your environment.
