@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Learning pathways September 2020 Content Updates
 ms.date: 9/21/2020
 description: Learning pathways September 2020 Content Updates
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Learning pathways September 2020 content updates
