@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Learning pathways Content Updates
 ms.date: 3/30/2020
 description: Learning pathways Content Updates
-ms.service: sharepoint online
+ms.service: o365-solutions
 ---
 # Microsoft 365 Learning Pathways Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. The following list the content updates for September 2020.
 
 ## September 2020 Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md). 
+
+> [!IMPORTANT]
+> The September content update has been released for English. Content updates for Chinese (Simplified), French, German, Italian, Japanese, Portuguese (Brazilian), Russian, and Spanish are coming soon.  
 
 ### Security
 A new security subcategory has been added with playlists and assets to help users work more securely in the office and at home. 
