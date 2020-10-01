@@ -12,6 +12,9 @@ Learning pathways strives to adhere to a quarterly content update cycle. The fol
 ## September 2020 Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md). 
 
+> [!IMPORTANT]
+> The September content update has been released for English. Content updates for Chinese (Simplified), French, German, Italian, Japanese, Portuguese (Brazilian), Russian, and Spanish are coming soon.  
+
 ### Security
 A new security subcategory has been added with playlists and assets to help users work more securely in the office and at home. 
 
