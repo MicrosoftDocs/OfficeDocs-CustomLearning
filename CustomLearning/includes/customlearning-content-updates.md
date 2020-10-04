@@ -102,3 +102,11 @@
 | 9/24/2020 | [Learning pathways Content Updates](/Office365/CustomLearning/custom_contentupdates) | modified |
 | 9/24/2020 | [Learning pathways Content Updates April](/Office365/CustomLearning/custom_contentupdates_april20) | modified |
 | 9/24/2020 | [Overview of Microsoft 365 learning pathways](/Office365/CustomLearning/index) | modified |
+
+
+## Week of September 28, 2020
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 10/1/2020 | [Learning pathways Content Updates](/Office365/CustomLearning/custom_contentupdates) | modified |
