@@ -110,3 +110,11 @@
 | Published On |Topic title | Change |
 |------|------------|--------|
 | 10/1/2020 | [Learning pathways Content Updates](/Office365/CustomLearning/custom_contentupdates) | modified |
+
+
+## Week of October 05, 2020
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 10/5/2020 | [Learning pathways Content Updates](/Office365/CustomLearning/custom_contentupdates) | modified |
