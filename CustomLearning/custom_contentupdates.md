@@ -30,7 +30,7 @@ A new security subcategory has been added with playlists and assets to help user
 #### "Security at home" playlist
 - Tips to keep your data safe
 - Keep your computer safe at home
-- Help protect your family online with Windows Security – is this in here by accident?
+- Help protect your family online with Windows Security
 
 #### "Security at work" playlist
 - Keep your computer secure at work
