@@ -1,32 +1,15 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Explore the site and default content
-ms.date: 02/10/2019
-description: Explore the learning pathways site and default content
+title: Use Advisor for Teams with learning pathways to help roll out Microsoft Teams
+ms.date: 12/9/2020
+description: Use Advisor for Teams with learning pathways to help roll out Microsoft Teams 
 ms.service: sharepoint online
 ---
 
-# Explore the learning pathways site
+# Use Advisor for Teams with learning pathways to help roll out Microsoft Teams
+Now Learning Pathways is integrated with Advisor for Teams. Advisor for Teams walks you through a Microsoft Teams rollout and learning pathways helps complete the last mile of the rollout by offering a customizable learning solution for getting users up-to-speed quickly. Advisor for Teams assesses your organization's Microsoft 365 environment and identifies the most common configurations that you need to update or modify before you can successfully roll out Teams. Then, Advisor for Teams creates a Deployment team (in Teams), with channels for each workload you want to roll out. Each workload in the Deployment team comes with a comprehensive Planner plan that includes all the rollout tasks for each workload, including tasks for creating a learning plan, and driving adoption with learning pathways.
 
-> Note: To explore the learning pathways site and it's administrative features, you'll need Site Collection Admin, Owner, or Member permissions to the site. If you don't have the neccesary permissions, contact the Site Administrator for the site. The learning pathways site is hosted in your Office 365 tenant, so you'll need to sign in to Office 365 to get to the site. If you haven’t already signed into Office 365, sign in now. 
-
-## Sign in to Office 365 
-
-1.	Open your Web browser and navigate to office.com or your organization’s sign-in location. 
-2.	Sign in with your user name and password.
-3. 	Navigate to the location of the site using the URL supplied by your tenant administrator or select SharePoint from the Office 365 Home page, and then select the site. 
-
-![cg-exploresite.png](media/cg-introducing.png)
-
-## Explore Microsoft 365 learning pathways
-
-The learning pathways site is based on a SharePoint communication template, so it's easy to modify the site to meet the needs of your organization. You can change the site name, logo, menu items, and the content on the pages. Guidance for customizing learning pathways is provided in the Admin Success Center. 
-
-### Get started with the Admin Success Center
-
-The Admin Success Center provides the guidance and resources to help you plan, customize, drive adoption, and measure the impact of your learning pathways deployment. 
-
-- From the Microsoft 365 learning pathways **Home** page, click **Get started with the Admin Success Center**.
-
-Learning pathways provides guidance within the Admin Success Center in the solution. Documentation for the Admin Success Center is also available in this documentation set. See [Learning pathways Admin Success Center](custom_successcenter.md).
+- For more information about using Teams Advisor, see [Use Advisor for Teams to roll out Teams](https://docs.microsoft.com/microsoftteams/use-advisor-teams-roll-out)
+- For more information about using Teams Advisor with Learning Pathways, see [Create a Learning Plan](https://docs.microsoft.com/microsoftteams/use-advisor-teams-roll-out#create-a-learning-plan)
+- For more information about how to plan, customize, drive adoption, and measure the impact of your learning pathways deployment, see the [Learning pathways Admin Success Center](custom_successcenter.md)
