@@ -24,13 +24,13 @@ A new security subcategory has been added with playlists and assets to help user
 - Protect yourself from phishing
 - Avoid tech support scams
 - Work from home more securely
-- Keep your PC up-to-date
+- Keep your PC up to date
 - Stay protected with Windows security
 
 #### "Security at home" playlist
 - Tips to keep your data safe
 - Keep your computer safe at home
-- Help protect your family online with Windows Security – is this in here by accident?
+- Help protect your family online with Windows Security   
 
 #### "Security at work" playlist
 - Keep your computer secure at work
@@ -140,7 +140,7 @@ The following assets have been updated or added to the Products\PowerPoint playl
 The Office Quick Start guides for all the Office products have been updated. 
 
 ## April 2020 Content Updates
- In response to current events, the April 2020 Content Update provides learning playlists and resources designed to enable remote work in your organization. We’ve added a new set of Work remotely playlists, significantly updated the Microsoft Teams content, especially for Teams meetings, added a new set of Office for the web playlists, and added new Microsoft Forms assets. As part of the update, we've also provided a list of Remote Work resources for administrators.  
+ In response to current events, the April 2020 Content Update provides learning playlists and resources designed to enable remote work in your organization. We’ve added a new set of Work remotely playlists, and updated the Microsoft Teams content, especially for Teams meetings. We've also added a new set of Office for the web playlists, and added new Microsoft Forms assets. We've also provided a list of Remote Work resources for administrators.  
  
  To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md). The following lists the April 2020 Microsoft 365 learning pathways content updates. 
 
@@ -155,7 +155,7 @@ A new Work remotely subcategory was added to learning pathways that features the
 
 ![learning pathway work remotely playlist](media/cg-contentupdate-apr2020-01.png)
 
-##### Work remotely (5 new assets)
+##### Work remotely (five new assets)
 - Work remotely with Office 365
 - Get started at Office.com
 - Communicate or meet
@@ -169,20 +169,20 @@ A new Work remotely subcategory was added to learning pathways that features the
 - Meet
 - Mobile
 
-### Teams (9 new assets/6 updated assets)
+### Teams (nine new assets/six updated assets)
 A variety of updates have been made to Teams content. 
-#### Collaborate in teams and channels (1 new/1 updated asset)
+#### Collaborate in teams and channels (one new/one updated asset)
 - Create and use private channels (new)
 - Show or hide channels (updated)
-#### Start chats and calls (2 new/1 updated)
+#### Start chats and calls (two new/one updated)
 - Start and pin chats (new)
 - Hide chats, delete messages (new)
 - Make calls (updated)
-#### Explore apps and tools (1 new)
+#### Explore apps and tools (one new)
 - Use apps (new)
 #### Work with posts and messages
 - Post a message to multiple channels (new)
-#### Manage meetings (3 new/4 updated assets)
+#### Manage meetings (three new/four updated assets)
 - Join a Teams meeting (new)
 - Create instant meetings with Meet now (updated)
 - Meet in a channel (new)
@@ -190,12 +190,12 @@ A variety of updates have been made to Teams content.
 - Show your screen during a meeting (updated)
 - Show PowerPoint slides (updated)
 - Move around during a Teams meeting (updated)
-#### Work with post and messages (1 new)
+#### Work with post and messages (one new)
 - Post a message to multiple channels (new)
 
 ### Office for the web
 Office for the web provides a set of playlists for scenarios where users want to create, share, and collaborate with Office on the web. This set of content is also valuable for organizations that are making the switch from Google G Suite to Microsoft 365.
-#### Get started (5 new assets)
+#### Get started (five new assets)
 - Get started
 - Find it with Search
 - Create new documents
@@ -203,7 +203,7 @@ Office for the web provides a set of playlists for scenarios where users want to
 - Recommended files
 #### Outlook for the web
 - Get to know Outlook for the Web
-- Create an reply to email
+- Create a reply to email
 - Organize your Inbox
 - Create a signature and automatic reply
 - Schedule an appointment or meeting
@@ -238,7 +238,7 @@ Office for the web provides a set of playlists for scenarios where users want to
 
 ### Microsoft Forms 
 By request, there are also some new Forms assets. 
-#### Forms (4 new assets) 
+#### Forms (four new assets) 
 - Create a form 
 - Share a form 
 - View results of a form 
@@ -261,27 +261,26 @@ For more information about how to customize Learning Pathways, see [Customize le
 Welcome to the Microsoft 365 learning pathways content update. Starting with our November 2019 update, we'll provide an updated inventory of the learning pathways catalog on a quarterly basis. For the November 2019 update, the following new content subcategories and playlists have been added to the learning pathways catalog. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).    
 
 ### Teams
-Several new playlist have been added to the Teams subcategory.
-- Work with posts and messages (3 assets)
-- Upload and find files (2 assets)
-- Set up and attend live events (4 assets)
-- Manage your activity feed (2 assets)
-- Teams on the go (2 assets)
+Several new playlists have been added to the Teams subcategory.
+- Work with posts and messages (four assets)
+- Upload and find files (two assets)
+- Set up and attend live events (four assets)
+- Manage your activity feed (two assets)
+- Teams on the go (two assets)
 
 ### Microsoft 365 Success Center
 We've added a Microsoft 365 learning pathways Success Center subcategory to the learning pathways experience. The Success Center provides the following playlists.
-- What’s New, What Changed (3 asset)
-- Plan your learning content (2 assets)
-- Customize learning pathways (8 assets?)
-- Drive Adoption of learning pathways (1 asset)
-- Measure impact of learning pathways (1 asset)
+- What’s New, What Changed (three assets)
+- Plan your learning content (two assets)
+- Customize learning pathways (eight assets?)
+- Drive Adoption of learning pathways (one asset)
+- Measure impact of learning pathways (one asset)
 
 ### Outlook
-The following playlists has been added to the Outlook subcategory. 
-- Outlook mobile: Manage your inbox (4 assets)
-- Outlook mobile: Manage your time (8 assets)
-- Outlook mobile: People and connections (5 assets)
-- Outlook mobile: Search and share (4 assets)
+The following playlists have been added to the Outlook subcategory. 
+- Outlook mobile: Manage your inbox (eight assets)
+- Outlook mobile: People and connections (five assets)
+- Outlook mobile: Search and share (four assets)
 
 ### OneDrive
 The following video assets have been added for OneDrive. 
@@ -290,36 +289,33 @@ The following video assets have been added for OneDrive.
 
 ### Planner
 The following playlists and assets have been added to the catalog.  
-- Planner Quick Start (6 assets)
-- Use Planner (8 assets)
+- Planner Quick Start (six assets)
+- Use Planner (eight assets)
 
 ### Accessibility
 The Accessibility subcategory of content has been added with the following playlists. 
-- Microsoft 365 Accessibility Overview and Resources (3 assets)
-- Create more accessible email messages in Outlook (3 assets)
-- Create more accessible Word documents (8 assets)
-- Create more accessible Excel workbooks (3 assets)
-- Create more accessible slides in PowerPoint (5 assets)
-
-### OneDrive
-NOTE: Changes need to be added here.....
+- Microsoft 365 Accessibility Overview and Resources (three assets)
+- Create more accessible email messages in Outlook (three assets)
+- Create more accessible Word documents (eight assets)
+- Create more accessible Excel workbooks (three assets)
+- Create more accessible slides in PowerPoint (five assets)
 
 ### Sway
 The Sway subcategory of content has been added with the following playlists. 
-- Sway Quick Start (4 assets)
-- Share and access Sway (5 assets)
+- Sway Quick Start (four assets)
+- Share and access Sway (five assets)
 - Add content to Sway (11 assets)
-- Customize Sway (5 assets)
+- Customize Sway (five assets)
 
 ### Access
-- Access Quick Start (4 assets)
-- Intro to Access (3 assets)
-- Create an Access database (2 assets)
-- Add tables (2 assets)
-- Use relationships (5 assets)
-- Add and edit data (2 assets)
-- Manage data with queries (5 assets)
-- Create forms (1 asset)
-- Create reports (2 assets)
-- Protect databases (1 asset)
+- Access Quick Start (four assets)
+- Intro to Access (three assets)
+- Create an Access database (two assets)
+- Add tables (two assets)
+- Use relationships (five assets)
+- Add and edit data (two assets)
+- Manage data with queries (five assets)
+- Create forms (one asset)
+- Create reports (two assets)
+- Protect databases (one asset)
 
