@@ -14,6 +14,7 @@
 ## [Translate learning pathways custom playlists](custom_translate_pl_ml.md)
 ## [Translate the site name, navigation and footers](custom_sitenamenav_ml.md)
 # [Admin Success Center](custom_successcenter.md)
+## [Use Advisor for Teams with learning pathways to help roll out Microsoft Teams](custom_teamsadvisor.md)
 ## Plan learning content 
 ### [Plan your learning content](custom_plancontent.md)
 ### [Resources for supporting your remote workforce](custom_plancontent_remoteresources.md)
