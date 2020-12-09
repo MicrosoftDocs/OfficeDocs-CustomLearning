@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Learning pathways Content Updates
 ms.date: 3/30/2020
 description: Learning pathways Content Updates
-ms.service: sharepoint online
+ms.service: o365-solutions
 ---
 # Microsoft 365 Learning Pathways Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. The following list the content updates for September 2020.

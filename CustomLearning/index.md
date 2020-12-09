@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Overview of Microsoft 365 learning pathways 
 ms.date: 9/24/2020
 description: Learn how Microsoft 365 learning pathways can accelerate usage and adoption of Microsoft 365 services in your organization. Learning pathways include a custom SharePoint Online web part and a modern SharePoint Online communications training site that is easily provisioned to your Microsoft 365 tenant. 
-ms.service: sharepoint online
+ms.service: o365-solutions
 ---
 
 # Microsoft 365 learning pathways 
