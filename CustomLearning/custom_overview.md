@@ -15,7 +15,7 @@ Microsoft 365 learning pathways provides a variety of ways that you can customiz
 - Build custom playlists and subcategories crafted specifically for your user's needs
 - Build landing pages with content filtered to support business outcomes, such as driving the adoption of Microsoft Teams, Outlook mobile, or working more collaboratively with Microsoft 365.
 
-![cg-introducing.png](media/cg-introducing.png)
+![Introduction](media/cg-introducing.png)
 
 ## Requirements and Permissions
 

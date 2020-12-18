@@ -20,11 +20,11 @@ Opening the Administration page from the web part is the preferred method since 
 1. From the Microsoft 365 learning pathways **Home** page, click the **Office 365 training** tile.
 2. Click the **Administration** icon in the Web part as shown in the following example  
 
-![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
+![Administration icon](media/cg-adminaccbtn.png)
 
 ## Access from the Home menu item
 Rather than navigate to a page with a Web part, administrators can access the Adminstration page from the SharePoint **Home** menu item. 
 
 - From the Microsoft 365 Learning Pathways Home page, click the **Home** menu, then click **Microsoft learning administration**.
 
-![cg-adminaccmenu.png](media/cg-adminaccmenu.png)
+![Home menu](media/cg-adminaccmenu.png)

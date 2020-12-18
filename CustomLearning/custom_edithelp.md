@@ -1,13 +1,13 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Customize the learning pathways site
+title: Customize site of learning pathways
 ms.date: 02/15/2019
-description: Learn about the variety of customizations available with Microsoft 365 learning pathways
+description: Learn about the various customizations available with Microsoft 365 learning pathways
 ms.service: sharepoint-online
 ---
 
-# Customize the site
+# Customize the learning pathways site
 
 The Microsoft 365 learning pathways site is based on a SharePoint communication template, so it's easy to modify the site to meet the needs of your organization. You can change the site name, logo, menu items, and the content on the pages. 
 
@@ -26,7 +26,7 @@ As an administrator of the learning pathways site, one of the things you’ll wa
 2.	Click the **Edit** button.
 3.	Hover over a Help option image, then click **Edit web part**.
 
-![cg-edithelp.png](media/cg-edithelp.png)
+![Edit help content](media/cg-edithelp.png)
 
 4.	In the **Link** box, enter the URL for the internal resource. 
 5.	Repeat steps 3 and 4 for the other two images that aren’t linked.

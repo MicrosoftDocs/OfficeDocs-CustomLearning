@@ -96,7 +96,7 @@ Ensure the following permissions are set for the site:
 A PowerShell script `CustomLearningConfiguration.ps1` is included that you will need to execute to create three [tenant properties](https://docs.microsoft.com/sharepoint/dev/spfx/tenant-properties) that the solution uses. In addition, the script creates two [single part app pages](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/single-part-app-pages) in the site pages library to host the admin and user web parts at a known location.
 
 1. If you haven't already downloaded the SharePoint Online Management Shell, download it now. See [SharePoint Online Management Shell Download](https://go.microsoft.com/fwlink/p/?LinkId=255251).
-2. You may need to set a PowerShell execution policy to run the script. For more information, see [About Execution Policies](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+2. You may need to set a PowerShell execution policy to run the script. For more information, see [About Execution Policies](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6&preserve-view=true).
 3. Execute the `CustomLearningConfiguration.ps1` script. In addition to your Tenant Admin credentials, the script will prompt you for your tenant name and site name. Considering the following example for your site URL, `https://contoso.sharepoint.com/sites/O365CL`, `contoso` is the tenant name and `O365CL` is the site name. 
 
 ### Disabling Telemetry Collection
@@ -108,7 +108,7 @@ After the PowerShell script is successfully run, you navigate to the site, initi
 
 - Go to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Opening **CustomLearningAdmin.aspx** initializes the **CustomConfig** list item that sets up learning pathways for first use. You should see a page that looks like this:
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+![Admin app page](media/cg-adminapppage.png)
 
 ## Add Owners to Site
 As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign a few owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content delivered through the learning pathways Web part. In addition, they'll have the ability to build custom playlist and assign them to custom subcategories.  

@@ -27,11 +27,11 @@ Here’s an example of the **Get Started with Microsoft Teams** page with the We
 
 - From the learning pathways Home page, select **Get started with Microsoft Teams**.
 
-![cg-whereiswp-teams.png](media/cg-whereiswp-teams.png)
+![Web part filter for Teams](media/cg-whereiswp-teams.png)
 
 - Click the **Home** menu on the learning pathways site menu to return to the site Home page.
 
-![cg-homebtnmenu.png](media/cg-homebtnmenu.png)
+![Home menu](media/cg-homebtnmenu.png)
 
 ## View the Six Simple Steps playlist
 
@@ -39,15 +39,15 @@ The web part on the **Start-with-Six-Simple-Steps.aspx** page is configured to s
 
 - From the learning pathways Home page,  click **Start with six simple steps**. 
 
-![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
+![Six simple steps](media/cg-whereiswp-six.png)
 
 ## View all Microsoft 365 training
 
 The Web part on the **Microsoft 365 training** page is configured to show all the categories and subcategories available from the learning pathways catalog. This includes subcategories from Microsoft along with any subcategories that you create for your organization.
 
-- From the learning pathways Home page, click **Microsoft 365 training**. The page appears appears with the Web part configured to show all the categories and subcategories available from the Custom Learning catalog.
+- From the learning pathways Home page, click **Microsoft 365 training**. The page appears with the Web part configured to show all the categories and subcategories available from the Custom Learning catalog.
 
-![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
+![Web part of Office 365](media/cg-whereiswp-o365.png)
 
 - Click the **Home** menu on the learning pathways site menu to return to the site Home page.
 
@@ -57,7 +57,7 @@ The Web part on the **Admin Success Center** page is configured to filter all th
 
 - From the learning pathways Home page, click **Get started with the Admin Success Center**. button. 
 
-![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
+![Admin success center](media/cg-adminsuccesscenterwebpart.png)
 
 - Click the **Home** menu on the learning pathways site menu to return to the site Home page.
 

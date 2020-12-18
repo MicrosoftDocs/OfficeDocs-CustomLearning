@@ -21,7 +21,7 @@ Sign in to the SharePoint Online Provisioning Service and provisioning Custom Le
 4.	Search for your name
 5.	Click your name in Search results. You should see Global administrator for your role.
 
-![cg-globaladminrole.png](media/cg-globaladminrole.png)
+![Global administrator for role](media/cg-globaladminrole.png)
 
 ### If you don’t have the Global administrator role
 - Find a Global Administrator in your organization and have that person sign into the service or have them assign the Global administrator role to you.
@@ -44,7 +44,7 @@ To provision Microsoft 365 learning pathways, you will need to be a Site Collect
 2. Click **Classic Admin SharePoint Center**, and then select the **app catalog**.
 3. Select **Owner**, and then ensure you are a Site Collection Owner. It should look something like this.
  
-![cg-sitecollectionowner.png](media/cg-sitecollectionowner.png)
+![Site collection owner](media/cg-sitecollectionowner.png)
 
 ### How to create a Tenant App Catalog if one doesn’t exists 
 1. Sign in to Office 365 with your SharePoint Online admin account.
@@ -54,7 +54,7 @@ To provision Microsoft 365 learning pathways, you will need to be a Site Collect
 5. Click **Create a new app catalog site**, and then click **OK**. 
 6.	Enter the information for the App Catalog. You may want to include more than one Administrator. The following shows an example.  
 
-![cg-appcatalogfinish.png](media/cg-appcatalogfinish.png)
+![Finish entering information for app catalog](media/cg-appcatalogfinish.png)
 
 7.	That’s it. You’re done. But before you move to provisioning Custom Learning, you need to wait at least 30 minutes to make sure the App Catalog creation is complete. 
 

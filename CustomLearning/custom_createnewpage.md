@@ -18,7 +18,7 @@ One of the unique features of learning pathways is the ability to create playlis
 3. In the left column, click + , and then click the **Embed** web part. 
 4. In the right column, click +, and then click the **Text** web part. Your page should look like this.
 
-![cg-pagenewstart.png](media/cg-pagenewstart.png)
+![creating a sharepoint page](media/cg-pagenewstart.png)
 
 ### Add a video and text from YouTube
 
@@ -31,7 +31,7 @@ One of the unique features of learning pathways is the ability to create playlis
 7. Select the **Edit web part** icon  in the Title area of the SharePoint page, and then name the page “Custom Playlist Introduction”. 
 8. For **Layout**, select **Plain**, then close **Title Region** properties pane. The page should now look something like the following. 
 
-![cg-pagenewfinish.png](media/cg-pagenewfinish.png)
+![Finish the page](media/cg-pagenewfinish.png)
 
 ### Publish the page
 

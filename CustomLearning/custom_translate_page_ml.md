@@ -36,7 +36,7 @@ To get familiar with the translated learning pathways site, let's take a look at
 ### View the translated Home page
 From the learning pathways Home page, select a language from the language dropdown as shown in the following example. In the example, you see Italian selected in the upper right corner and all the page elements are translated.
 
-![custom_ml_pages_home.png](media/custom_ml_pages_home.png)
+![custom_ml home page](media/custom_ml_pages_home.png)
 
 ### View the translated Microsoft 365 training page
 Now let's take a look at the Microsoft 365 training page. 
@@ -44,7 +44,7 @@ Now let's take a look at the Microsoft 365 training page.
 1. From the learning pathways site **Home** page, click **Microsoft 365 training**.
 2. In the upper-right corner of the page, select a language. In this example, Italian is selected.
 
-![custom_ml_pages_training.png](media/custom_ml_pages_training.png)
+![custom_ml_ training page](media/custom_ml_pages_training.png)
 
 What translations are visible when the language is selected?
 - The SharePoint page is translated as shown in the graphic above. Notice the text for the page banner is now in Italian.
