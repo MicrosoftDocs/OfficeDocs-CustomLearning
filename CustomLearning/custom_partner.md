@@ -1,5 +1,5 @@
 ---
-author: mikeholl
+author: mhollinshead
 ms.author: mikeholl
 title: Partner Frequently Asked Questions
 ms.date: 3/9/2019
