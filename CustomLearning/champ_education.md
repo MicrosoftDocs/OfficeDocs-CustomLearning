@@ -1,11 +1,11 @@
 ---
 title: Champion Program Best Practices - Service Adoption Specialist
-description: Drive adoption of Office 365 with our Champion Program best practices
+description: Drive adoption of Office 365 with best practices of our Champion Program 
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Validate your Skills - Become a Service Adoption Specialist

@@ -1,11 +1,11 @@
 ---
 title: Champion Program Best Practices - Collect Feedback
-description: Drive adoption of Office 365 with our Champion Program best practices
+description: Drive adoption of Office 365 with Champion Program best practices
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Collect feedback from your employees

@@ -4,7 +4,7 @@ ms.author: karuanag
 title: Customize the Training Experience
 ms.date: 02/10/2019
 description: Learn about the variety of customizations available with Custom Learning for Office 365
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Customize the Training Experience
@@ -30,19 +30,19 @@ You can fully customize the Custom Learning web site. If you are not familiar wi
 
 As a starting point for customizing the site, select Ask questions and get help from the menu bar, then click the SharePoint Edit button and change the images and the links. 
 
-![custom_ask.png](media/custom_ask.png)
+![Custom ask questions](media/custom_ask.png)
 
 ## Customize available services
 
 1.	Navigate to the Custom Learning Administration page within the website
-![custom_admin.png](media/custom_admin.png)
+![Custom admin page](media/custom_admin.png)
 1. Select **Technology** to see the full list of services that are included in the solution
 1. Select a technology and **click the eye symbol** to hide this content.  Click the eye symbol again to show the content within the experience. 
 ![custom](media/custom_techlist.png)
 
 The same process can be repeated for categories of playlists within the experience.  Simply select the Category option to show/hide playlists. 
 
-![custom_cat.png](media/custom_cat.png)
+![Custom categories](media/custom_cat.png)
 
 ### Next Steps
 

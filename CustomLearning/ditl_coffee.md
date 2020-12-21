@@ -1,11 +1,11 @@
 ---
 title: Day in the Life with Office 365 - Morning Coffee
-description: Quick steps to be ready for the day at hand with Office 365
+description: Quick steps for readiness for the day at hand with Office 365
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # During Morning Coffee

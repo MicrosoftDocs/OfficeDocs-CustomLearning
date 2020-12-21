@@ -4,7 +4,7 @@ ms.author: pkrebs
 title:  Manual Install Learning Pathways
 ms.date: 02/18/2019
 description: Manual Install Learning Pathways
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Manually installing and configuring Custom Learning for Office 365

@@ -3,8 +3,8 @@ author: pkrebs
 ms.author: pkrebs
 title: November 2019 Content Updates
 ms.date: 10/20/2019
-description: Microsoft 365 learning pathways content update
-ms.service: sharepoint online
+description: Microsoft 365 learning pathways - update in content
+ms.service: sharepoint-online
 ---
 
 # November 2019 Content Updates
@@ -26,14 +26,14 @@ We've added a Microsoft 365 learning pathways Success Center subcategory to the 
 - Drive Adoption of learning pathways (1 asset)
 - Measure impact of learning pathways (1 asset)
 
-## Outlook
+## Outlook - updates
 The following playlists has been added to the Outlook subcategory. 
 - Outlook mobile: Manage your inbox (4 assets)
 - Outlook mobile: Manage your time (8 assets)
 - Outlook mobile: People and connections (5 assets)
 - Outlook mobile: Search and share (4 assets)
 
-## OneDrive
+## OneDrive - updates
 The following video assets have been added for OneDrive. 
 - Set up your iPhone or iPad has been added to the Intro to OneDrive playlist
 - Turn on OneDrive Backup has been added to the Manage your files with OneDrive playlist

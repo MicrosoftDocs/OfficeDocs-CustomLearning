@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Provision the Custom Learning site
 ms.date: 02/10/2019
 description: Provision the Custom Learning for Office 365 site via the SharePoint Provisioning Engine
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Provision Custom Learning
@@ -27,11 +27,11 @@ To successfully set up Custom Learning with the Provisioning Service [SharePoint
 
 2. Clear the **Consent on behalf of your organization** and select **Accept**.
 
-![in](media/inst_perms.png)
+![installation permissions](media/inst_perms.png)
 
 3. Select **Custom Learning for Office 365** from the solution gallery.
 
-![in](media/inst_select.png)
+![installation option selection](media/inst_select.png)
 
 4. From the solution home page select **Add to your Tenant**
 
@@ -41,7 +41,7 @@ To successfully set up Custom Learning with the Provisioning Service [SharePoint
 > [!NOTE]
 > Make the destination URL for your site something friendly to your employees such as "/sites/MyTraining" or "/teams/LearnOffice365".
 
-![inst_options.png](media/inst_options.png)
+![installation options](media/inst_options.png)
 
 6. Select **Provision** when ready to install Custom Learning into your tenant environment.  The provisioning process will take up to 15 minutes. You will be notified via email (to the notification email address you entered on the Provisioning page) when the site is ready for access.
 
