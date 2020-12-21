@@ -95,7 +95,7 @@ Custom playlists can be used to assist your end users in a variety of tasks.  Do
 1. Click on the icon representing a link
 1. Copy the URL to the playlist
 
-![Share](media/share.png)
+![Share playlist](media/share.png)
 This URL can now be inserted in your site navigation or utilized in other communications to take your employees directly to that playlist. 
 
 ### Next Steps - [Drive Adoption](driveadoption.md)
