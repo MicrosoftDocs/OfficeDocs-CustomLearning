@@ -46,6 +46,7 @@ At a minimum, to ensure success, we recommend you:
 - Sustain the communications campaign over a period of time so employees have an opportunity to understand the message.
 - Encourage feedback through a Yammer community or Microsoft Team.
 - Reach out to key business leaders in your organization and encourage them to build playlists for common tasks and processes that they would like their team members to learn.  
+- Consider putting Learning Pathways in the left rail of Microsoft Teams using this [template application](https://github.com/msft-teams/tools/tree/master/M365%20Learning%20Pathways).
 
 ## Integrate with your service desk
 As the “go-to” channel for end user “how to” questions, your service desk can help promote your Microsoft 365 learning pathways site as an alternative to end users creating a new ticket. Consider including a standard Microsoft 365 learning pathways tagline such as “Check out our training site for resources to get productive with Office 365” in all service desk communications to end users. Your service desk can also be trained to encourage end users with “how to” related questions to visit your Microsoft 365 learning pathways site to self-serve. 
