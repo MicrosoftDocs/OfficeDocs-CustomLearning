@@ -44,6 +44,15 @@
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-CustomLearning",
       "feedback_product_url": "https://microsoftteams.uservoice.com/forums/913429-learning-solutions"
+      "contributors_to_exclude": [ 
+        "rjagiewich", 
+        "traya1", 
+        "rmca14", 
+        "claydetels19", 
+        "jborsecnik",
+        "tiburd",
+        "garycentric"
+      ],
     },
     "fileMetadata": {},
     "template": [],
