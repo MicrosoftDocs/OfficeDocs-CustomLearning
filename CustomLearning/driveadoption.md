@@ -19,7 +19,7 @@ To help drive sustained adoption of Microsoft 365 learning pathways in your orga
 - Reinforce end user learning by encouraging ongoing consumption of Microsoft 365 training
 
 ### Center your learning campaigns around scenarios or business goals
-Using the following scenarios in your communication campaign will help engage users by highlighting what they can accomplish with Microsoft 365, then directing them to the icrosoft 365 learning pathways site to learn the “how”. We recommend centering your communication campaign around five basic Microsoft 365 scenarios:
+Using the following scenarios in your communication campaign will help engage users by highlighting what they can accomplish with Microsoft 365, then directing them to the Microsoft 365 learning pathways site to learn the “how”. We recommend centering your communication campaign around five basic Microsoft 365 scenarios:
 
 - Create impactful content together
 - Provide a chat-based workspace with Teams
