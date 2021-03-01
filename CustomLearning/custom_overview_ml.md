@@ -10,7 +10,7 @@ ms.service: sharepoint online
 
 # Multilingual support for learning pathways
 
-If your organization spans a diverse population, you can make Microsoft 365 learning pathways available in multiple languages. Learning pathways currently supports nine languages. English is the default language. The supported languages include:   
+If your organization spans a diverse population, you can make Microsoft 365 learning pathways available in multiple languages. Learning pathways currently supports ten languages. English is the default language. The supported languages include:   
 
 - English	 
 - Chinese (Simplified)
@@ -21,6 +21,7 @@ If your organization spans a diverse population, you can make Microsoft 365 lear
 - Portuguese (Brazilian)
 - Russian (Russian)
 - Spanish
+- Dutch
 
 ## Get familiar with the SharePoint Online multilingual features
 Multilingual support for learning pathways is enabled by SharePoint Online multilingual features for communication sites.
