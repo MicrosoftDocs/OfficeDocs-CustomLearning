@@ -7,13 +7,134 @@ description: Learning pathways Content Updates
 ms.service: o365-solutions
 ---
 # Microsoft 365 Learning Pathways Content Updates
-Learning pathways strives to adhere to a quarterly content update cycle. The following list the content updates for September 2020.
-
-## September 2020 Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md). 
 
-> [!IMPORTANT]
-> The September content update has been released for English, Chinese (Simplified), French, German, Italian, Japanese, Portuguese (Brazilian), Russian, and Spanish.  
+## March 2021 Content Updates
+The following lists the content updates for March 2021. 
+
+### Hybrid workplace
+To help organizations make the transition to a hybrid workplace, where employees work from home and in the office, we've provided playlists to help users run more effective meetings, create inclusive meeting environments, collaborate asychronously, and reach large audiences with live events. The Hybrid workplace subcategory includes the following playlists and assets.
+
+#### Run effective meetings
+- Run effective meetings
+- Hybrid meetings
+- Hybrid meeting space considerations
+- What to do before, during, and after hybrid meetings
+- Schedule effective meetings
+- Plan and lead effective meetings
+- Engage your audience before, during, and after hybrid meetings
+- Meeting checklist
+- Reduce meeting fatigue
+
+#### Create inclusive meeting environments
+- Create inclusive meeting environments
+- Make meetings and related content accessible for all
+- Limit distractions in meetings
+- Build empathy across time zones
+
+#### Asynchronous collaboration and co-authoring
+- Reduce or replace meetings with asynchronous collaboration
+- Collaborate and co-author shared content
+- Best practices for collaborating in Microsoft 365
+- Co-author Microsoft 365 files
+- Document collaboration and co-authoring
+- Collaborating with SharePoint, Teams, and OneDrive
+- Collaborating in Teams
+- Use document libraries in SharePoint
+- Troubleshoot common co-authoring errors
+
+#### Reach large audiences with live events
+- Use live events to reach large audiences
+- Get started using Microsoft Teams for live events
+- Plan and schedule a live event in Teams
+- Organize a live even
+
+### Microsoft Teams
+Microsoft Teams has been updated with the following content.
+
+#### Manage meetings playlist
+The Manage meeting playlist has the following new asset.
+- Tips for Teams meetings
+
+#### Teams on the go playlist
+The Teams on the go playlist has been updated with the following new assets.
+- Start a channel on the go
+- Create a channel on the go
+- Manage notifications on the go
+
+#### Manage team schedules with Shifts
+The Manage team schedules with Shifts playlist has been added with the following assets.
+- What is Shifts
+- Shifts for managers
+- Create a Shifts schedule
+- Manage a Shifts schedule
+- Shifts for Firstline workers
+
+#### Walkie Talkie, Tasks, and Praise
+The Walkie Talkie, Tasks, and Praise playlist has been added with the following assets.
+- Walkie Talkie
+- Use the Task app in Teams
+- Tasks for managers
+- Tasks for Firstline workers
+- Communication and Praise
+
+#### Create approvals
+The Create approval playlist has been added with the following assets.
+- What is approvals?
+- Create an approval
+- Create an approval from a chat
+
+### Lists
+A new Lists subcategory and playlist has been added to learning pathways.
+
+#### Get started with Lists
+The Get started with Lists playlist has the following new assets.
+- Create a list from the Lists app
+- Create a list in a Teams channel
+- Add or edit list items
+- Create or change the view of a list
+- Edit a list view
+- Find and manage your list
+- Share a list or list item
+- Track business information
+
+### Forms
+The Create a form and view results playlist has been updated with the following new assets.
+
+#### Create a form and view results
+- Create a new form or quiz
+- Share a form to get responses
+- View results of your form
+- Use branching logic in your form
+- Add sections to your survey or questionnaire
+
+### Excel
+Excel in learning pathways has been updated with the following content.
+
+#### Intro to Excel
+The Intro to Excel playlist has the following new asset.
+- Create a dropdown-list
+
+#### Linked data types
+A new Linked data types playlist has been added to learning pathways with the following assets. 
+- Convert text to an Organization data type
+- Use the Data Selector to specify Organization data types
+- View and insert data from an Organization data type
+
+#### Formulas and functions
+Two new assets have been added to the Formulas and functions playlist.
+- XLOOKUP function
+- MATCH function
+
+### SharePoint
+All SharePoint playlists and assets have been updated. The updated playlists include:
+- SharePoint Online Quick Start
+- Intro to SharePoint Online
+- Create sites, posts, and lists
+- Share and sync with SharePoint
+
+## September 2020 Content Updates
+The following lists the content updates for September 2020. 
 
 ### Security
 A new security subcategory has been added with playlists and assets to help users work more securely in the office and at home. 
