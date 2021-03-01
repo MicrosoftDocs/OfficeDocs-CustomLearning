@@ -7,12 +7,34 @@ description: Learning pathways Feature Updates
 ms.service: sharepoint online
 ---
 
-# July 2020 Version 4.0 feature updates 
+# Learning pathways version 4.0 feature updates
+The following includes feature updates for learning pathways version 4.0.  
+
+## March 2021 feature updates
+March 2021 feature updates include multilingual support for Dutch and the availability of the learning pathways web part code as open source. 
+
+### Multilingual support for Dutch 
+Multilingual support for learning pathways now includes Dutch. The list of supported languages includes: 
+- English	  
+- Chinese (Simplified) 
+- French 
+- German 
+- Italian (Italy) 
+- Japanese (Japan) 
+- Portuguese (Brazilian) 
+- Russian (Russian) 
+- Spanish
+- Dutch 
+
+### Learning pathways Web Part is now open source
+The learning pathways Web Part is now available as open source. For more information, see the [Contributions guide](https://github.com/pnp/custom-learning-office-365#contributions).
+
+## July 2020 Version 4.0 feature updates 
 
 The following new features have been added to Microsoft 365 learning pathways version 4.0. 
 
-## Multilingual support for learning pathways 
-Multilingual support for learning pathways is now available in nine languages.  
+### Multilingual support for learning pathways 
+Multilingual support for learning pathways now includes Dutch. 
 - English	  
 - Chinese (Simplified) 
 - French 
@@ -22,6 +44,7 @@ Multilingual support for learning pathways is now available in nine languages.
 - Portuguese (Brazilian) 
 - Russian (Russian) 
 - Spanish 
+
 
 For more information, see [Learning pathways multilingual overview](custom_overview.md). 
 
