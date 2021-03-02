@@ -42,7 +42,7 @@ When defining Language settings for learning pathways, you can assign translator
 In this step, you upload the learning pathways 4.0 web part to the SharePoint App Catalog, and then navigate to the learning pathways Administration page to start the update process.
 
 ### Upload the web part package
-1.	Go to the [GitHub custom learning repository](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), select **customlearning.sppkg** and then download it to a local drive on your PC.
+1.	Go to the [GitHub custom learning repository](https://github.com/pnp/custom-learning-office-365/tree/main/installation), select **customlearning.sppkg** and then download it to a local drive on your PC.
 2.	If you’re not already signed in, sign into your tenant with a Tenant Admin or Site Collection Admin account. 
 3.	Click **Admin** > **Show All** > **SharePoint** > **More Features**. 
 4.	Under **Apps**, click **Open**. 
