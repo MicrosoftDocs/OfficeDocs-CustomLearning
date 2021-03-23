@@ -367,12 +367,12 @@ By request, there are also some new Forms assets.
 
 ### Resources for supporting your remote workforce
 You can use learning pathways to build a landing page in your learning pathways site for supporting remote workers. Or you can add the learning pathways web part to an existing support page on your learning pathways site and filter the web part to show the Work Remotely playlists. Here’s a list of some of the top resources from Microsoft for supporting remote work in your organization. 
-- [How to roll out Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
-- [Meetings and conferencing in Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Support Remote Workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
-- [FAQ: Support your remote workforce](https://docs.microsoft.com/microsoftteams/faq-support-remote-workforce)
+- [How to roll out Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
+- [Meetings and conferencing in Microsoft Teams](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [Support Remote Workers using Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
+- [FAQ: Support your remote workforce](/microsoftteams/faq-support-remote-workforce)
 - [The top 9 ways Microsoft IT is enabling remote work for its employees](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Microsoft Teams Training](https://docs.microsoft.com/microsoftteams/training-microsoft-teams-landing-page)
+- [Microsoft Teams Training](/microsoftteams/training-microsoft-teams-landing-page)
 - [Education: Microsoft Education Center](https://education.microsoft.com) 
 - [Education: Getting started with remote learning](https://education.microsoft.com/resource/4c0c02c0)
 
@@ -439,4 +439,3 @@ The Sway subcategory of content has been added with the following playlists.
 - Create forms (one asset)
 - Create reports (two assets)
 - Protect databases (one asset)
-
