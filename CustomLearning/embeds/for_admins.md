@@ -11,7 +11,7 @@ ms.topic: administration
 
 ## Links for this solution
 
-- [Custom Learning](https://docs.microsoft.com/office365/customlearning) Service Information Pages https://docs.microsoft.com/office365/customlearning
+- [Custom Learning](/office365/customlearning) Service Information Pages https://docs.microsoft.com/office365/customlearning
 - Adoption Tools Feedback Forum on UserVoice https://aka.ms/AdoptionFeedback 
 
 ## Links for Adoption Success Owners
@@ -22,4 +22,4 @@ ms.topic: administration
 - Microsoft 365 Roadmap https://aka.ms/M365Roadmap
 - Technical Documentation https://docs.microsoft.com
 - FastTrack Service Deployment support https://www.microsoft.com/fasttrack
-- 
+-

@@ -20,7 +20,7 @@ As a SharePoint Online site owner, you can view information that shows you how u
 ![cg-measureimpactreport.png](media/cg-measureimpactreport.png)
 
 ## Organization-level impact
-The Office 365 Admin Center SharePoint site usage report enables Administrators to get a high level view of the value you are getting from the Custom Learning for Office 365 site relative to all other SharePoint sites. See [Report Details](https://docs.microsoft.com/office365/admin/activity-reports/sharepoint-site-usage?view=o365-worldwide).
+The Office 365 Admin Center SharePoint site usage report enables Administrators to get a high level view of the value you are getting from the Custom Learning for Office 365 site relative to all other SharePoint sites. See [Report Details](/office365/admin/activity-reports/sharepoint-site-usage?view=o365-worldwide).
  
 Follow the referenced article to: 
 1. Learn how to get to the SharePoint site usage report 
@@ -29,5 +29,4 @@ Follow the referenced article to:
 
 ## Feedback
 
-As of today, reporting is limited to the SharePoint site level. Lend your vote to our [User Voice](https://go.microsoft.com/fwlink/?linkid=2109552) forum to help prioritize enhanced reporting functionality requests.   
-
+As of today, reporting is limited to the SharePoint site level. Lend your vote to our [User Voice](https://go.microsoft.com/fwlink/?linkid=2109552) forum to help prioritize enhanced reporting functionality requests.
