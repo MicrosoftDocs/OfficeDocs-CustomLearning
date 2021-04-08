@@ -1,13 +1,17 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Frequently Asked Questions for Microsoft 365 learning pathways
+title: Frequently asked questions for Microsoft 365 learning pathways
 ms.date: 02/10/2019
+ms.service: Microsoft 365 Education
+ms.topic: article
+manager: alexb
+audience: itpro
 description: Frequently asked questions information for Microsoft 365 learning pathways 
 ms.service: sharepoint online
 ---
 
-# Frequently Asked Questions
+# Frequently asked questions
 
 ### I recently saw a blog post that Custom Learning for Office 365 is being renamed to Microsoft 365 learning pathways. Are there other changes being added to the solution as part of the renaming effort? Should I update the solution in my organization?
 

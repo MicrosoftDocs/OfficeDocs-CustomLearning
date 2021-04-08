@@ -1,12 +1,15 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Hide and show playlists
+title: How to hide and show playlists
 ms.date: 02/15/2019
+manager: bpardi
+audience: itpro
 description: Hide and show playlists
+topic: article
 ---
 
-# Hide and show Playlists
+# How to hide and show Playlists
 
 To tailor learning pathways for your environment, you may need to hide playlists provided by Microsoft and replace them with playlists that you create for your organization. For example, a common customer use case is to hide the Six Simple Steps playlist from Microsoft and replace it with a playlist that you create for your organization or user group. 
 

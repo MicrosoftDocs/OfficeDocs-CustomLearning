@@ -4,10 +4,13 @@ ms.author: karuanag
 title: Customize the Training Experience
 ms.date: 02/10/2019
 description: Learn about the variety of customizations available with Custom Learning for Office 365
+manager: alexb
+audience: itpro
+ms.topic: article
 ms.service: sharepoint online
 ---
 
-# Customize the Training Experience
+# Customize the training experience
 
 This is a test four. By default both the site experience and the webpart include content for all Office 365 and Windows 10 services.  If only all or some of these services are available in your company you can adjust what content is available to your users.  
 

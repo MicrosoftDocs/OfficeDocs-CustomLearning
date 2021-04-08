@@ -3,7 +3,9 @@ title: Day in the Life with Office 365 - On Your Commute
 description: Quick steps to be ready for the day at hand with Office 365
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
+audience: itpro
 ms.topic: how-to
 ms.service: sharepoint online
 ---

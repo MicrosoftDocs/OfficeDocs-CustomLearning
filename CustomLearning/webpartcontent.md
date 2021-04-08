@@ -1,4 +1,15 @@
-# Webpart Default Content
+---
+author: karuanag
+ms.author: pkrebs
+title: Webpart default content
+ms.date: 08/21/2018
+manager: alexb
+audience: itpro
+description: Hide and show playlists
+topic: article
+---
+
+# Webpart default content
 
 ## The Playlist Model
 

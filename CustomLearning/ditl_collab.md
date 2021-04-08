@@ -5,6 +5,8 @@ author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
+manager: alexb
+audience: itpro
 ms.service: sharepoint online
 ---
 

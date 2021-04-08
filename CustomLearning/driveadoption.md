@@ -3,8 +3,10 @@ title: Drive adoption of learning pathways
 description: Drive adoption of learning pathways               
 author: karuanag
 ms.author: karuanag
+manager: alexb
+audience: itpro
 ms.date: 10/30/2019
-ms.topic: getting-started 
+ms.topic: article 
 ms.service: sharepoint online
 ---
 
