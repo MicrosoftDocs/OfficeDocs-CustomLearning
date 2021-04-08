@@ -6,7 +6,7 @@ ms.date: 02/18/2019
 manager: bpardi
 description: Manual Install Learning Pathways
 audience: itpro
-ms.service: sharepoint online
+ms.service: Microsoft 365 Education
 ms.topic: article
 ---
 
