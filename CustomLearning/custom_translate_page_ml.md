@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Translate site pages
 ms.date: 07/06/2020
 description: Translate site pages
-ms.service: sharepoint online
+ms.service: sharepoint-online
 
 ---
 

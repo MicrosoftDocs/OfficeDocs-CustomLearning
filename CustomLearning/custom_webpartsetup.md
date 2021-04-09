@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Provision the Custom Learning site
 ms.date: 02/10/2019
 description: Provision the Custom Learning for Office 365 site via the SharePoint Provisioning Engine
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Provision Custom Learning
@@ -61,6 +61,3 @@ As the Tenant Admin, it's unlikely you'll be the person customizing the site, so
 4. Click **New** > **Add Users to this group**, add the people you want to be Owners, and then click **Share**.
 
 8. Click the **Following** option in the upper right hand corner of the page to follow the site.  
-
-### Next Steps
-- Explore the [default content](sitecontent.md) included in the webpart.

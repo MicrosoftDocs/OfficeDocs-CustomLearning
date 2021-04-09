@@ -4,7 +4,7 @@ ms.author: karuanag
 title: Customize and Share Playlists
 ms.date: 02/10/2019
 description: Create custom playlists from existing content or new SharePoint pages
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Customize and Share Playlists
