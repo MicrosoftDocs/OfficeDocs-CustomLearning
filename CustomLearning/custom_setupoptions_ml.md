@@ -5,7 +5,7 @@ title: Setup options for multilingual learning pathways
 ms.date: 07/6/2020
 description: Setup options for multilingual learning pathways
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Setup options for multilingual learning pathways

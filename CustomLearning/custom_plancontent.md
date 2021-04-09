@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Plan your learning pathways content
 ms.date: 10/20/2019
 description: Microsoft 365 learning pathways content update
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Plan your learning pathways content

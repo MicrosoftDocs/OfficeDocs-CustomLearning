@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Learning pathways Feature Updates
 ms.date: 10/20/2019
 description: Learning pathways Feature Updates
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Learning pathways version 4.0 feature updates

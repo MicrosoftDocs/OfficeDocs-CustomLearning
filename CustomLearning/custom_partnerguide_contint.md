@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Partner integration models
 ms.date: 3/9/2019
 description: Partner integration models
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Partner integration models

@@ -5,7 +5,7 @@ title: Provision a new learning pathways multilingual solution
 ms.date: 02/10/2019
 description: Provision the Microsoft 365 learning pathways site via the SharePoint Provisioning Service
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Provision a new learning pathways multilingual solution
