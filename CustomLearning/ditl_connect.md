@@ -1,13 +1,13 @@
 ---
 title: Day in the Life with Office 365 - Connecting Across the Company
-description: Quick steps to be ready for the day at hand with Office 365
+description: Steps to be ready for your work day with Office 365
 author: karuanag
 ms.author: karuanag
 manager: alexb
 audience: itpro
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
+ms.service: SharePoint Online
 ---
 
 # Connecting Across the Company
