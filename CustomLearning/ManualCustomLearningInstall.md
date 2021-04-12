@@ -14,7 +14,7 @@ ms.topic: article
 
 The Microsoft Custom Learning Web Part is build using the [SharePoint Framework](/sharepoint/dev/spfx/sharepoint-framework-overview) version 1.7.1.
 
-To manually install and configure the web part and site collection you will need to complete the following steps:
+To manually install and configure the web part and site collection, you will need to complete the following steps:
 
 1. Validate that you have met all the prerequisites.
 1. Install the customlearning.sppkg file in your Office 365 Tenant App Catalog.
@@ -24,7 +24,7 @@ To manually install and configure the web part and site collection you will need
 
 ## Prerequisites
 
-You must have set up and configured the tenant-wide App Catalog. Please see [Set up your Office 365 tenant](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) and follow the Create app catalog site section. If your tenant-wide App Catalog has already been provisioned you will need access to an account that has rights to upload a package to it to complete this setup process. Generally this is an account with the SharePoint administrator role. If an account with that role does not work, go to the SharePoint admin center and find the Site Collection Administrators for the app catalog site collection and either log in as one of the Site Collection Administrators, or add the SharePoint administrator account that failed to the Site Collection Administrators. You will also need access to an account that is a SharePoint Tenant Admin.
+You must have set up and configured the tenant-wide App Catalog. See [Set up your Office 365 tenant](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) and follow the Create app catalog site section. If your tenant-wide App Catalog has already been provisioned you will need access to an account that has rights to upload a package to it to complete this setup process. Generally this is an account with the SharePoint administrator role. If an account with that role does not work, go to the SharePoint admin center and find the Site Collection Administrators for the app catalog site collection and either log in as one of the Site Collection Administrators, or add the SharePoint administrator account that failed to the Site Collection Administrators. You will also need access to an account that is a SharePoint Tenant Admin.
 
 ## Upload the web part to the Tenant App Catalog
 
@@ -48,7 +48,7 @@ A PowerShell script `CustomLearningConfiguration.ps1` is included that you will 
 
 Part of this solution includes anonymized telemetry tracking opt in, which by default is set to on. If you are performing a manual install and you would like to turn telemetry tracking off, please change the `CustomlearningConfiguration.ps1` script to set the $optInTelemetry variable to $false.
 
-If you are not performing a manual install and would like to turn telemetry tracking off, a seperate script `TelemetryOptOut.ps1` has been included that when run will disable telemetry tracking.
+If you are not performing a manual install and would like to turn telemetry tracking off, a separate script `TelemetryOptOut.ps1` has been included that when run will disable telemetry tracking.
 
 ## Initialize web part custom configuration
 
