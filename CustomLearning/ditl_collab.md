@@ -7,7 +7,7 @@ ms.date: 02/01/2019
 ms.topic: how-to
 manager: alexb
 audience: itpro
-ms.service: SharePoint Online
+ms.service: sharepoint-online
 ---
 
 # Collaborating with Colleagues
