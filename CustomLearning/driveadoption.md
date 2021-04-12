@@ -7,7 +7,7 @@ manager: alexb
 audience: itpro
 ms.date: 10/30/2019
 ms.topic: article 
-ms.service: SharePoint Online
+ms.service: sharepoint-online
 ---
 
 # Drive adoption of your learning pathways portal
