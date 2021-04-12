@@ -7,7 +7,7 @@ description: Learn about the variety of customizations available with Custom Lea
 manager: alexb
 audience: itpro
 ms.topic: article
-ms.service: Microsoft 365 Education
+ms.service: o365-administration
 ---
 
 # Customize the training experience
