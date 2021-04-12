@@ -4,9 +4,10 @@ ms.author: pkrebs
 title: Webpart default content
 ms.date: 08/21/2018
 manager: alexb
+ms.service: o365-solutions
 audience: itpro
 description: Hide and show playlists
-topic: article
+ms.topic: article
 ---
 
 # Webpart default content
