@@ -5,7 +5,7 @@ description: Video guidance for creating teams and channels.
 ms.author: karuanag
 manager: alexb
 audience: itpro
-ms.service: Microsoft Teams
+ms.service: o365-administration
 ms.topic: article
 ---
 # Guidance for creating Teams and Channels
