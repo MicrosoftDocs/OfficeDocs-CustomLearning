@@ -7,7 +7,7 @@ manager: alexb
 ms.date: 02/01/2019
 audience: itpro
 ms.topic: how-to
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # During your Commute
