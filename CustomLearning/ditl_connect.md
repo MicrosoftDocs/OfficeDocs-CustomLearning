@@ -26,7 +26,7 @@ It's been a busy day, but before you leave the office you want to ensure that al
 - Understand your audience and their existing communication methods
 - Target your key messages by persona, for example, project stakeholder, team member, or employee
 - Select communication tools that compliment each other, for example, author a post on your Yammer community and send an alert via e-mail 
-- Co-author your information with others on your team
+- Coauthor your information with others on your team
 - Publish your information and send a notification to all of your interested parties 
  
 ## Select your communication method
@@ -36,7 +36,7 @@ Use the information below to decide the best way to communicate with your team. 
 
 ![Social Media Post](media/ditl_IT-Service-News.png)
 
-**SharePoint**: If you want to reach people outside of your  working group, consider writing a brief news article on your charter and progress that is readily available and kept for the life of your project in SharePoint online. Use a modern page in a SharePoint team site, or for a larger programs, consider creating a SharePoint communication site. 
+**SharePoint**: If you want to reach people outside of your  working group, consider writing a brief news article on your charter and progress that is readily available and kept for the life of your project in SharePoint online. Use a modern page in a SharePoint team site, or for larger programs, consider creating a SharePoint communication site. 
 
 SharePoint communication sites provide visual and flexible news articles that allow you to embed images, dashboards, and text together. Information is then available via any browser or through the SharePoint mobile app. This video provides a quick overview of what these powerful sites can do. To ensure the best visibility pin the communication site as a tab for your working group in Microsoft Teams.
 
