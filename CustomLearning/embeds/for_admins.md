@@ -5,7 +5,7 @@ author: karuanag
 ms.author: karuanag
 manager: alexb
 audience: itpro
-ms.service: Office 365 Administration
+ms.service: o365-administration
 ms.date: 02/01/2019
 ms.topic: article 
 ---
