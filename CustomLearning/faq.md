@@ -1,14 +1,13 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Frequently asked questions for Microsoft 365 learning pathways
 ms.date: 02/10/2019
 ms.service: Microsoft 365 Education
 ms.topic: article
 manager: alexb
 audience: itpro
-description: Frequently asked questions information for Microsoft 365 learning pathways 
-ms.service: sharepoint online
+description: Frequently asked questions information for Microsoft 365 learning pathways.
+ms.service: sharepoint-online
 ---
 
 # Frequently asked questions
