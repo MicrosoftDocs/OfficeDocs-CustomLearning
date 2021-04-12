@@ -1,8 +1,8 @@
 ---
+title: Microsoft 365 learning pathways FAQ
 author: karuanag
 ms.author: karuanag
 ms.date: 02/10/2019
-ms.service: Microsoft 365 Education
 ms.topic: article
 manager: alexb
 audience: itpro
