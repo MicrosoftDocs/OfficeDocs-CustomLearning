@@ -7,7 +7,7 @@ manager: alexb
 audience: itpro
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: SharePoint Online
+ms.service: sharepoint-online
 ---
 
 # Meeting at the Office
