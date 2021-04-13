@@ -14,7 +14,7 @@ ms.service: sharepoint-online
 
 ![Connect visual](media/ditl_crosscompany.png)
 
-It's been a busy day, but before you leave the office you want to ensure that all the people interested in your work are informed about what is happening. Making sure that all your stakeholders -- inside and outside of your team -- understand your goals, progress, and results is an important part of what you do.  
+It's been a busy day, but before you leave the office you want to ensure that all the people interested in your work are informed about what is happening. Making sure that all your stakeholders--inside and outside of your team--understand your goals, progress, and results is an important part of what you do.  
 
 ## Tools
 - SharePoint
@@ -42,13 +42,13 @@ SharePoint communication sites provide visual and flexible news articles that al
 
 ![Example communication site in SharePoint online](media/ditl_Comm-Site.png)
 
-**Microsoft Teams**:  If this broad group of people is already a part of your working group in Microsoft Teams why not post a note in your General channel with key facts and a link to a Wiki page for your longer update.  Wiki pages can be co-authored by multiple people and persist over the life of that team. 
+**Microsoft Teams**:  If this broad group of people is already a part of your working group in Microsoft Teams why not post a note in your General channel with key facts and a link to a Wiki page for your longer update.  Wiki pages can be coauthored by multiple people and persist over the life of that team. 
 
 ![a screenshot of a Wiki page in Microsoft Teams](media/ditl_Teams-Wiki.png)
 
 ## Tip to Modernize Your Communication
 
-**For your email centric colleagues**: Subscribe them to alerts from either your Yammer group or your SharePoint news feed.  This way they will get a notification in their email that you've published new information and can then click through to your source information without you having to create a separate email.  Want to get snazzy?  Customize the notification with Microsoft Flow or PowerApps. Consider having a brownbag to show these users how to use Microsoft Teams, SharePoint or Yammer on their mobile devices. 
+**For your email-centric colleagues**: Subscribe them to alerts from either your Yammer group or your SharePoint news feed.  This way they will get a notification in their email that you've published new information and can then click through to your source information without you having to create a separate email.  Want to get snazzy?  Customize the notification with Microsoft Flow or PowerApps. Consider having a brownbag to show these users how to use Microsoft Teams, SharePoint, or Yammer on their mobile devices. 
 
 **Get people talking!** Encourage engagement by turning on comments for your SharePoint communication site pages.  If you are using Yammer ensure that people participate in your community by monitoring it regularly for questions that you can answer. 
 
