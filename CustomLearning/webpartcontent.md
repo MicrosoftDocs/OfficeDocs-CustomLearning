@@ -1,4 +1,16 @@
-# Webpart Default Content
+---
+author: karuanag
+ms.author: pkrebs
+title: Webpart default content
+ms.date: 08/21/2018
+manager: alexb
+ms.service: o365-solutions
+audience: itpro
+description: How the playlist model works
+ms.topic: article
+---
+
+# Webpart default content
 
 ## The Playlist Model
 
@@ -21,4 +33,4 @@ Selected playlist view
 ## Next Steps
 
 - Browse and familiarize yourself with the existing content
-- Proceed to [customize playlists](customplaylists.md)
+- Hide and show Playlists [customize playlists](custom_hideshowplaylists.md)

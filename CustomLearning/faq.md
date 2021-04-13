@@ -1,13 +1,16 @@
 ---
+title: Microsoft 365 learning pathways FAQ
 author: karuanag
 ms.author: karuanag
-title: Frequently Asked Questions for Microsoft 365 learning pathways
 ms.date: 02/10/2019
-description: Frequently asked questions information for Microsoft 365 learning pathways 
-ms.service: sharepoint online
+ms.topic: article
+manager: alexb
+audience: itpro
+description: Frequently asked questions information for Microsoft 365 learning pathways.
+ms.service: sharepoint-online
 ---
 
-# Frequently Asked Questions
+# Frequently asked questions
 
 ### I recently saw a blog post that Custom Learning for Office 365 is being renamed to Microsoft 365 learning pathways. Are there other changes being added to the solution as part of the renaming effort? Should I update the solution in my organization?
 
@@ -23,14 +26,14 @@ The Microsoft 365 learning pathways release is a rebranding effort dedicated to 
 
 ### Why is Microsoft asking for tenant permissions when installing Microsoft 365 learning pathways 
 
-- The SharePoint Online Provisioning service uses the permissions to provision the Learning Pathways SharePoint site, create the pages of the site, and to install the Microsoft 365 learning pathways application within their tenant. That is the only reason for us requesting the permissions. Without the requested permissions the SharePoint Provision Service cannot execute the commands that automatically install the learning pathways site template and web part. 
+- The SharePoint Online Provisioning service uses the permissions to provision the Learning Pathways SharePoint site, create the pages of the site, and to install the Microsoft 365 learning pathways application within their tenant. That's the only reason why we request the permissions. Without the requested permissions the SharePoint Provision Service cannot execute the commands that automatically install the learning pathways site template and web part. 
 
 ### What are the implications of Microsoft 365 learning pathways being in a Beta Preview? 
 
-Microsoft 365 learning pathways is currently in Beta Preview. Please consider the following as you evaluate, plan and implement Microsoft 365 learning pathways:
+Microsoft 365 learning pathways is currently in Beta Preview. Consider the following as you evaluate, plan, and implement Microsoft 365 learning pathways:
 
-- As with any Beta solution our service management team reserves the right to make changes to the service and its components. As we are actively resolving bugs and UX issues you would likely need to update the WebPart.
-- To update the web part you will need to download it from our GitHub repository and upload it into your tenant app catalog. Please see the "Updating the solution" section of the Microsoft 365 learning pathways [Readme](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) file. 
+- As with any Beta solution our service management team reserves the right to make changes to the service and its components. As you are actively resolving bugs and UX issues, you would likely need to update the WebPart.
+- To update the web part, you will need to download it from our GitHub repository and upload it into your tenant app catalog. See the "Updating the solution" section of the Microsoft 365 learning pathways [Readme](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) file. 
 
 ### What languages is Microsoft 365 learning pathways available in?
 
@@ -51,17 +54,17 @@ Microsoft 365 learning pathways is currently available only in English. Automati
 
 Based on our testing of the installation, it should take less than 15 minutes. This does not include time required to customize the site to your requirements.
 
-### Is Microsoft 365 learning pathways an open source solution and what are the implications?
+### Is Microsoft 365 learning pathways an open-source solution and what are the implications?
 
-Microsoft 365 learning pathways is an Open Source Software (OSS) solution and as such carries a set of benefits and considerations germane to OSS:
+Microsoft 365 learning pathways is an open-source software (OSS) solution and as such carries a set of benefits and considerations germane to OSS:
 
 #### Benefits 
 - **Microsoft 365 learning pathways is a free solution:** Customers can install the solution in their tenant, customize it and make it available to end users
-- **OSS enables rapid development and collaboration:**  All open source solutions are available to a broad community of contributors.  Microsoft is committed to this method of driving innovation.  To ensure we are delivering an experience that benefits the widest set of our customers our core service management team will reserve the right to determine what contributions are merged into our official build.  
+- **OSS enables rapid development and collaboration:**  All open-source solutions are available to a broad community of contributors.  Microsoft is committed to this method of driving innovation.  To ensure we are delivering an experience that benefits the widest set of our customers our core service management team will reserve the right to determine what contributions are merged into our official build.  
 - **OSS enables collaboration with partners:** Microsoft is working with several learning partners to support their efforts for future extensions and contributions to Microsoft 365 learning pathways. We will provide more information as these plans become finalized. 
 	
 #### Implications
-- **OSS is not a commercially available product:** Commercial products include updating and patching and are included in fee-based support contracts. While Microsoft currently offers documentation, updating and patching for Microsoft 365 learning pathways it is based on our commitment to improving this particular business scenario. Our plans are to continue investing in learning pathways, but customers should be aware that our service management team may change strategies in the future. Any future changes to Microsoft 365 learning pathways will be communicated in advance of taking effect. 
+- **OSS is not a commercially available product:** Commercial products include updating and patching and are included in fee-based support contracts. While Microsoft currently offers documentation, updating and patching for Microsoft 365 learning pathways it is based on our commitment to improving this particular business scenario. Our plans are to continue investing in learning pathways, be aware that our service management team may change strategies in the future. Any future changes to Microsoft 365 learning pathways will be communicated in advance of taking effect. 
 - **As OSS, Microsoft 365 learning pathways is supported through an online issues list on GitHub**: Microsoft 365 learning pathways is not covered by any existing Microsoft support contract. Submitted issues are triaged by Microsoft 365 learning pathways service owners and the community. Issue resolution service levels are NOT at the same level as a paid Microsoft support contract.  
 
 ### Can we make the Microsoft 365 learning pathways a subsite of our primary SharePoint site collection?
