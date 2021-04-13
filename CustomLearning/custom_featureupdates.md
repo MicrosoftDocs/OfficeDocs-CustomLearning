@@ -2,9 +2,9 @@
 author: pkrebs
 ms.author: pkrebs
 title: Learning pathways Feature Updates
-ms.date: 10/20/2019
+ms.date: 4/13/2021
 description: Learning pathways Feature Updates
-ms.service: sharepoint online
+ms.service: o365-solutions
 ---
 
 # Learning pathways version 4.0 feature updates
