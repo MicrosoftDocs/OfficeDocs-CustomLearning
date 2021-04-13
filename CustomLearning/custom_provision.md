@@ -18,7 +18,7 @@ Organizations that that don’t have learning pathways provisioned in their tena
 To successfully set up Microsoft 365 learning pathways with the look book service, the person doing the provisioning must meet the following pre-requisites:   
  
 - The person provisioning learning pathways must be a Tenant Administrator of the tenant where learning pathways will be provisioned.  
-- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization doesn't have an SharePoint tenant App Catalog, refer to the [SharePoint Online documentation](https://docs.microsoft.com/sharepoint/use-app-catalog) to create one. You must wait at least two hours after creating the App Catalog before provisioning learning pathways.  
+- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization doesn't have an SharePoint tenant App Catalog, refer to the [SharePoint Online documentation](/sharepoint/use-app-catalog) to create one. You must wait at least two hours after creating the App Catalog before provisioning learning pathways.  
 - The person provisioning learning pathways must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning learning pathways is not a Site Collection Owner of the App Catalog, [complete these instructions](addappadmin.md) and continue. 
 
 ## Ensure the Tenant Admin account doesn't have a language selected

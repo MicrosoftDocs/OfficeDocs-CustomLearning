@@ -142,10 +142,10 @@ Key framing to keep in mind for this feature:
 - Custom Content Packs are an advanced feature and should only be used by Partners with experience administrating web content. Untrustworthy content sources may introduce unsafe content into your site. You should only add sources that you trust.
 
 > **IMPORTANT**
-> Before adding a Custom Content Pack, you must have provisioned Microsoft 365 learning pathways 3.0 or later. For informataion about provisioning Microsoft 365 learning pathways, see [Provision Microsoft 365 learning pathways](https://docs.microsoft.com/office365/customlearning/custom_provision).
+> Before adding a Custom Content Pack, you must have provisioned Microsoft 365 learning pathways 3.0 or later. For informataion about provisioning Microsoft 365 learning pathways, see [Provision Microsoft 365 learning pathways](./custom_provision.md).
 
 ### Content Whitelisting
-As a partner it’s your responsibility to assist your consumers in making sure your content is whitelisted in their environment. We suggest you create a test scenario in their environment to validate that your content can be iFrame’d into a SharePoint page inside of their firewall. Follow the [Create SharePoint pages for Custom Playlists](https://docs.microsoft.com/office365/customlearning/custom_createnewpage) instructions to confirm this is the case.
+As a partner it’s your responsibility to assist your consumers in making sure your content is whitelisted in their environment. We suggest you create a test scenario in their environment to validate that your content can be iFrame’d into a SharePoint page inside of their firewall. Follow the [Create SharePoint pages for Custom Playlists](./custom_createnewpage.md) instructions to confirm this is the case.
 
 ### Add a Content Pack to Learning Pathways
 Once you've created modified the JSON and defined your CDN, you can add the Contact Pack to learning pathways. 
@@ -171,8 +171,4 @@ With learning pathways, you can add the learning pathways web part to a page, fi
 6. Click the Web part, and then click the **Edit** icon.
 7. In the **Select the Learning Source** box, select your Custom Content Pack, and and then filter the web part to the content you want. The following provides an example of the Web part filtered to a playlist from a Custom Content Pack.
 
-![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)  
-
-
-
-
+![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)

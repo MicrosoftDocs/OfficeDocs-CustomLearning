@@ -19,7 +19,7 @@ Organizations that that don’t have learning pathways provisioned in their tena
 To successfully set up Microsoft 365 learning pathways with the Provisioning Service, the person doing the provisioning must meet the following pre-requisites: 
  
 - The person provisioning learning pathways must be a Tenant Administrator of the tenant where learning pathways will be provisioned.  
-- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization doesn't have an SharePoint tenant App Catalog, refer to the [SharePoint Online documentation](https://docs.microsoft.com/sharepoint/use-app-catalog) to create one. You must wait at least two hours after creating the App Catalog before provisioning learning pathways.  
+- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization doesn't have an SharePoint tenant App Catalog, refer to the [SharePoint Online documentation](/sharepoint/use-app-catalog) to create one. You must wait at least two hours after creating the App Catalog before provisioning learning pathways.  
 - The person provisioning learning pathways must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning learning pathways is not a Site Collection Owner of the App Catalog, [complete these instructions](addappadmin.md) and continue. 
 
 ## Ensure the Tenant Admin account doesn't have a language selected
@@ -108,6 +108,3 @@ If you don’t want a multilingual site, for example, you want an English-only s
 ### Add languages
 Learning pathways supports 9 languages, but it’s recommended that you add only the languages you need to support for the learning pathways site. You can add langauges at any time. 
 - Under **Add or remove site languages**, start typing a language name in **Select or type a language**, or choose a language from the dropdown. You can repeat this step to add multiple languages. You can add or remove languages from your site at any time by going back to this page.
-
-
-
