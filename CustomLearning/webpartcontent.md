@@ -33,4 +33,4 @@ Selected playlist view
 ## Next Steps
 
 - Browse and familiarize yourself with the existing content
-- Proceed to [customize playlists](customplaylists.md)
+- Hide and show Playlists [customize playlists](custom_hideshowplaylists.md)
