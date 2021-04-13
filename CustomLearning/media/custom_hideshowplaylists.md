@@ -6,7 +6,6 @@ description: How to hide playlists provided by Microsoft and replace them with p
 ms.date: 02/15/2019
 manager: bpardi
 audience: itpro
-description: Hide and show playlists
 ms.topic: article
 ms.service: o365-solutions
 ---
