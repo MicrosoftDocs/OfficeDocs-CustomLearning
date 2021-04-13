@@ -6,7 +6,7 @@ ms.date: 08/21/2018
 manager: alexb
 ms.service: o365-solutions
 audience: itpro
-description: Hide and show playlists
+description: How the playlist model works
 ms.topic: article
 ---
 
