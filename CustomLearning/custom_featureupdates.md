@@ -43,7 +43,8 @@ Multilingual support for learning pathways now includes Dutch.
 - Japanese (Japan) 
 - Portuguese (Brazilian) 
 - Russian (Russian) 
-- Spanish 
+- Spanish
+- Dutch 
 
 
 For more information, see [Learning pathways multilingual overview](custom_overview.md). 
@@ -60,9 +61,6 @@ Learning pathways now provides an easy-to-use image picker for custom playlists 
 For more information, see:
 - [Create a custom playlist](custom_createnewplaylist.md). 
 - [Create a subcategory](custom_createnewcat.md)
-
-> [!NOTE]
-> Support for the Dutch language will not be included in the upcoming release of multi-language support for learning pathways. We will continue to evaluate new language options in the future.
 
 ## November 2019 Version 3.0 Feature Updates
 Based largely on customer feedback, the following new features have been added to Microsoft 365 learning pathways version 3.0.
