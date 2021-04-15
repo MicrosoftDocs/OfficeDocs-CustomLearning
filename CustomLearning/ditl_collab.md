@@ -1,10 +1,12 @@
 ---
 title: Day in the Life with Office 365 - Collaborating with Colleagues
-description: Quick steps to be ready for the day at hand with Office 365
+description: Get ready for your day ahead with Office 365
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
+manager: alexb
+audience: itpro
 ms.service: sharepoint-online
 ---
 
@@ -12,7 +14,7 @@ ms.service: sharepoint-online
 
 ![Commute visual](media/ditl_collab.png)
 
-It's 2:00 PM and time to collaborate with colleagues. Office 365 provides best-in-class opportunities for collaboration, enabling teams to work together in a number of ways. 
+It's 2:00 PM and time to collaborate with colleagues. Office 365 provides best-in-class opportunities for collaboration, enabling teams to work together in multiple ways. 
 
 ## Tools
 - Microsoft Teams
@@ -23,12 +25,12 @@ It's 2:00 PM and time to collaborate with colleagues. Office 365 provides best-i
 ## Checklist for collaborating with colleagues
 - Create or join a Microsoft Team to collaborate
 - Create and share files from OneDrive 
-- Co-create in Office 365 
+- Cocreate in Office 365 
 - Use cloud attachments
 
 ## Create or join a Microsoft Team for collaboration
 
-Microsoft Teams and channels are places where people can collaborate by sharing files, tracking team action items and much more. Every Microsoft Teams has an integration into a SharePoint site, a OneNote notebook and other assets. This service of Office 365 is best used for people who work together frequently on shared projects or outcomes. 
+Microsoft Teams and channels are places where people can collaborate by sharing files, tracking team action items and much more. Every Microsoft Teams has an integration into a SharePoint site, a OneNote notebook, and other assets. This service of Office 365 is best used for people who work together frequently on shared projects or outcomes. 
 
 ## Share Files from your OneDrive
 Files that have been saved on OneDrive for Business can be shared with anyone either from the browser or Office 365 desktop applications like Word or Excel. It is possible to share with individuals using their name, alias, or company email address. 

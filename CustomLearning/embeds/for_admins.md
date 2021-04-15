@@ -3,8 +3,11 @@ title: Helpful Links for Administrators using Custom Learning for Office 365
 description: Helpful Links for Administrators using Custom Learning for Office 365
 author: karuanag
 ms.author: karuanag
+manager: alexb
+audience: itpro
+ms.service: o365-administration
 ms.date: 02/01/2019
-ms.topic: administration 
+ms.topic: article 
 ---
 
 # Helpful Links for Office 365 Administrators
