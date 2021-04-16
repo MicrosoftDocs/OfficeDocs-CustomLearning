@@ -3,6 +3,9 @@ author: pkrebs
 ms.author: pkrebs
 title: Customize learning pathways
 ms.date: 02/18/2019
+manager: bpardi 
+audience: admin
+mstopic: article
 description: Customize learning pathways
 ms.service: sharepoint-online
 ---
