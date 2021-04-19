@@ -5,12 +5,15 @@ title: Partner Onboarding Guide
 ms.date: 3/9/2019
 description: Partner Onboarding Guide for Microsoft 365 Learning Pathways
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
 ---
 
 # Partner Onboarding Guide
 Get started with learning pathways by following the three steps outlined below. With the three steps, you can build a compelling demo that you can use for engaging presentations with customers. 
 
-![cg-partner-getfam.png](media/cg-partner-getfam.png)
+![Chart illustrated the five-step onboarding process.](media/cg-partner-getfam.png)
 
 ## 1. Create a Microsoft 365 demonstration environment
 You can use demos.microsoft.com to create a demo environment where you can provision the service, validate it, and use it for presenting learning pathways to customers. All partners have access to https://demos.microsoft.com for these purposes. You can use the demos.microsoft.com **Getting Started Guide** if you are new to the demo environment.

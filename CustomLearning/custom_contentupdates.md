@@ -1,8 +1,11 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: Learning pathways Content Updates
 ms.date: 3/30/2020
+audience: Admin
+ms.topic: article
 description: Learning pathways Content Updates
 ms.service: o365-solutions
 ---

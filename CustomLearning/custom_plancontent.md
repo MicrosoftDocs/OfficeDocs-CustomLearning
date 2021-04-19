@@ -3,8 +3,11 @@ author: pkrebs
 ms.author: pkrebs
 title: Plan your learning pathways content
 ms.date: 10/20/2019
-description: Microsoft 365 learning pathways content update
+description: Microsoft 365 learning pathways content options available.
 ms.service: sharepoint-online
+manager: bpardi
+mstopic: article
+audience: admin
 ---
 
 # Plan your learning pathways content
@@ -20,7 +23,7 @@ Before you create a content plan for Microsoft 365 learning pathways, take some 
 ### Review the learning pathways SharePoint site
 The Microsoft 365 learning pathways solution provides a SharePoint communication site with a web part that's connected to an online catalog. The SharePoint site is fully customizable, including the site name, logo, pages, menu items, themes, and tiles. Take some time to click the tiles and menu items to discover what's available with the learning pathways site.
 
-![cg-introducing.png](media/cg-introducing.png)
+![Photos of learning pathways in use.](media/cg-introducing.png)
 
 ### Review the content from the Online catalog with the Web part
 The Web part, by default, is added to a series of pages in the SharePoint Communication site. The complete set of content is provided on the Microsoft 365 training page. The Microsoft 365 training page hosts the learning pathways Web part configured to show all the training available for learning pathways. 
@@ -30,7 +33,7 @@ The Web part, by default, is added to a series of pages in the SharePoint Commun
 1. Scroll down the page to view all the categories and subcategories.
 2. Kick the tires a bit. Click a few subcategories, and then click a few playlists to get a feel for how learning pathways content is organized. 
 
-![cg-adminsuccesscenterplan_01.png](media/cg-adminsuccesscenterplan_01.png)
+![Window shows icons of learning pathways categories.](media/cg-adminsuccesscenterplan_01.png)
 
 ### View the Administration Page
 The Administration page provides a listing of the content available to you. This is where you can hide content, create new playlists, and add, edit, and remove playlist. Click through the various categories and playlists to see the full breath of the content available. 
@@ -39,7 +42,7 @@ The Administration page provides a listing of the content available to you. This
 1. From the learning pathways site, point to the Home menu dropdown arrow, then click Learning pathways Administration.  
 2. Then click through the various categories, subcategories, and playlists to get a feel for the breath of content available to you. 
 
-![cg-adminsuccesscenterplan_02.png](media/cg-adminsuccesscenterplan_02.png)
+   ![Sample pathways options window.](media/cg-adminsuccesscenterplan_02.png)
 
 ### Get to know the capabilities of Microsoft 365 Learning Pathways
 With Microsoft 365 Learning Pathways, you can have content provided by Microsoft mixed with content you create to target specific policies and procedures that are unique to your organization. As a best practice, try to leverage Microsoft-provided content as much as possible. Microsoft updates individual assets on a regular basis and updates the full inventory of content on a quarterly basis. Typically an organization will create 10-20% unique content, then leave the remaining 80% to Microsoft to keep up-to-date. The following lists describes how learning pathways content is organized, along with guidelines for the content that can be modified or created. Guidance for customizing content is provided in the Customizing learning pathways section of the Admin Success Center.
