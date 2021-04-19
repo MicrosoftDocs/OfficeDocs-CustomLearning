@@ -7,7 +7,7 @@ description: Provision the Microsoft 365 learning pathways site via the SharePoi
 ROBOTS: NOINDEX, NOFOLLOW
 ms.service: sharepoint-online
 manager: bpardi
-mstopic: article
+ms.topic: article
 audience: admin
 ---
 

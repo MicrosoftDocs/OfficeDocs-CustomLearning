@@ -7,7 +7,7 @@ description: Setup options for multilingual learning pathways
 ROBOTS: NOINDEX, NOFOLLOW
 ms.service: sharepoint-online
 manager: bpardi
-mstopic: article
+ms.topic: article
 audience: admin 
 ---
 
