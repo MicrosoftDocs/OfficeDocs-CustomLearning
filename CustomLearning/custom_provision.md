@@ -5,6 +5,9 @@ title: Provision a new learning pathways solution
 ms.date: 02/10/2019
 description: Provision the Microsoft 365 learning pathways site with the Microsoft 365 look book service
 ms.service: sharepoint-online
+manager: bpardi
+mstopic: article
+audience: admin
 ---
 
 # Provision a new learning pathways solution 

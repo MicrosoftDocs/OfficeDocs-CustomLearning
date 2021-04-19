@@ -5,6 +5,9 @@ title: Partner Onboarding Guide
 ms.date: 3/9/2019
 description: Partner Onboarding Guide for Microsoft 365 Learning Pathways
 ms.service: sharepoint-online
+manager: bpardi
+mstopic: article
+audience: itpro
 ---
 
 # Partner Onboarding Guide

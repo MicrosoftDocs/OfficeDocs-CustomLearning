@@ -5,6 +5,9 @@ title: Plan your learning pathways content
 ms.date: 10/20/2019
 description: Microsoft 365 learning pathways content update
 ms.service: sharepoint-online
+manager: bpardi
+mstopic: article
+audience: admin
 ---
 
 # Plan your learning pathways content
