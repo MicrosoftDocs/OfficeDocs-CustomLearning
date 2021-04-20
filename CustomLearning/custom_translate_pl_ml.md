@@ -5,6 +5,9 @@ title: Translate learning pathways custom playlists
 ms.date: 07/06/2020
 description:  Translate learning pathways custom playlists
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
 ---
 
 # Translate learning pathways custom playlists
