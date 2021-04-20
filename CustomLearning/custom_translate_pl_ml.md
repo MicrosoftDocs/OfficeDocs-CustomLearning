@@ -33,7 +33,7 @@ To demonstrate how to create a new custom playlist and have it translated, we'll
 6. Click a language to the right of the default language (in this case English) to view the copied playlist details. The details for the new language reflect the original copied playlist and require translation.
 7. Make a note to notify the translator of the playlist details to be translated.  
 
-![custom_update_ml_pldetail.png](media/custom_update_ml_pldetail.png)
+![Sample italian page.](media/custom_update_ml_pldetail.png)
 
 > [!IMPORTANT]
 > Translator notifications are not built into custom playlists. Translators will need to be notified manually. Translators manually translate the copies of the default language details into the language(s) specified. You'll need to notify the translator of the translations required for playlist details. It's recommended that you finish all playlist changes,including adding, editing, or deleting playlist assets, then notify the translator of the required translations for playlist details and assets.
