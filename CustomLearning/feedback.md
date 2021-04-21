@@ -1,14 +1,16 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Feedback and Support
+manager: alexb
+title: Feedback and support
 ms.date: 02/10/2019
-description: Feedback and support information for Microsoft 365 learning pathways
+description: Feedback and support information for Microsoft 365 learning pathways.
 ms.service: sharepoint-online
 audience: itpro
+ms.topic: article
 ---
 
-# Feedback and Support
+# Feedback and support
 
 Microsoft 365 learning pathways is an open source project that's supported through an [online issues list](https://aka.ms/CustomLearningHelp) on GitHub. The Microsoft 365 learning pathways solution is not covered by any existing Microsoft support contract.  
 

@@ -56,7 +56,7 @@ In this step, you upload the learning pathways 4.0 web part to the SharePoint Ap
 ### Complete the update
 1.	From the Learning Pathways site, select **Learning pathways administration** from the **Home** menu. 
 2.	You’ll see a prompt asking if you want to update. 
-![custom_update_adminprompt_ml.png](media/custom_update_adminprompt_ml.png)
+![Message prompts you to start the update.](media/custom_update_adminprompt_ml.png)
 3.	Click **Start**. 
 4. When the update is complete, click **Close**. 
 
