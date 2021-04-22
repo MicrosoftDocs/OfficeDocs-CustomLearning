@@ -4,7 +4,10 @@ ms.author: pkrebs
 title: Search
 ms.date: 02/10/2019
 description: Search in Microsoft 365 learning pathways
-ms.service: sharepoint online
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
 ---
 
 # Search for Microsoft 365 learning pathways content
@@ -16,5 +19,5 @@ Microsoft 365 learning pathways provides the ability to search for content by su
 
 - Click the **Search** icon and type a Search phrase. 
 
-![cg-search.png](media/cg-search.png)
+![Search web page.](media/cg-search.png)
 

@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Manage learning pathways content updates
 ms.date: 10/20/2019
 description: Manage learning pathways content updates
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Manage learning pathways content updates

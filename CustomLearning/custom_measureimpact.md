@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Measure Impact of Microsoft 365 learning pathways
 ms.date: 02/10/2019
 description: How to measure impact of Microsoft 365 learning pathways
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Measuring impact of Microsoft 365 learning pathways
@@ -27,6 +27,6 @@ Follow the referenced article to:
 2. Interpreting the SharePoint site usage report details. Sort on the Site URL field to more easily identify your Microsoft 365 learning pathways site. 
 3. Leverage the report Export functionality for more advanced data analysis or if your organization has greater than 2,000 sites. 
 
-## Feedback
+## Reporting
 
 As of today, reporting is limited to the SharePoint site level. Lend your vote to our [User Voice](https://go.microsoft.com/fwlink/?linkid=2109552) forum to help prioritize enhanced reporting functionality requests.
