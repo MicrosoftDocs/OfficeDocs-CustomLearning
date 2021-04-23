@@ -5,6 +5,9 @@ title: Use Advisor for Teams with learning pathways to help roll out Microsoft T
 ms.date: 12/9/2020
 description: Use Advisor for Teams with learning pathways to help roll out Microsoft Teams 
 ms.service: o365-solutions
+manager: bpardi
+ms.topic: article
+audience: admin
 ---
 
 # Use Advisor for Teams with learning pathways to help roll out Microsoft Teams

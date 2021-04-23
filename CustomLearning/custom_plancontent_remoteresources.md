@@ -4,7 +4,10 @@ ms.author: pkrebs
 title: Resources for supporting your remote workforce
 ms.date: 3/31/2020
 description: Resources for supporting your remote workforce
-ms.service: sharepoint online
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
 ---
 
 # Resources for supporting your remote workforce

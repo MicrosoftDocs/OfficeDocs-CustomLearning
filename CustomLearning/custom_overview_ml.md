@@ -1,11 +1,14 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: Overview
 ms.date: 07/06/2020
 description: Multilingual support for learning pathways
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
+ms.service: sharepoint-online
+audience: admin
+ms.topic: article
 ---
 
 # Multilingual support for learning pathways

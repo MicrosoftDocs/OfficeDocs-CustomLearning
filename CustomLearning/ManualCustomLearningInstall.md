@@ -5,9 +5,7 @@ title:  Manual Install Learning Pathways
 ms.date: 02/18/2019
 manager: bpardi
 description: Manual Install Learning Pathways
-audience: itpro
-ms.service: o365-administration
-ms.topic: article
+ms.service: sharepoint-online
 ---
 
 # Manually installing and configuring Custom Learning for Office 365

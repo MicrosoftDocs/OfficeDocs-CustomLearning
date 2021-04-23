@@ -4,7 +4,7 @@ ms.author: pkrebs
 title: Create new playlists
 ms.date: 02/18/2019
 description: How to create new playlists
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Create a Custom Playlist
