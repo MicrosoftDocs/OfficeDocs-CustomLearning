@@ -5,6 +5,8 @@ title: Go to the Microsoft 365 learning pathways site
 ms.date: 02/18/2019
 description: Go to the Microsoft 365 learning pathways site
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
 ---
 
 # Go to the Microsoft 365 learning pathways site
