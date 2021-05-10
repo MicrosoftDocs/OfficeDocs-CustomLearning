@@ -1,14 +1,15 @@
 ---
-title: Champion Program Best Practices
+title: Champion Program best practices: Establish champions for user adoption
 description: Drive adoption of Office 365 with our Champion Program best practices
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
 ---
 
-# Establish Champions for User Adoption 
+# Champion Program best practices: Establish champions for user adoption
 
 Organizational change management is the art of changing the behavior of a targeted group of people. There is a great deal of science and research supporting this practice. In these articles we are going to help you drive the adoption of key services that will lead to business outcomes in your company.  Following our best practices will shorten your time to gaining measurable value from Office 365.  
 
