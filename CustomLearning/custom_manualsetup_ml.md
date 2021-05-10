@@ -6,6 +6,8 @@ ms.date: 02/10/2019
 description: Learning pathways manual setup
 ROBOTS: NOINDEX, NOFOLLOW
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
 ---
 # Learning pathways manual setup for multilingual
 
@@ -96,8 +98,8 @@ Ensure the following permissions are set for the site:
 ## Step 6- Execute PowerShell Configuration Script
 A PowerShell script `CustomLearningConfiguration.ps1` is included that you will need to execute to create three [tenant properties](/sharepoint/dev/spfx/tenant-properties) that the solution uses. In addition, the script creates two [single part app pages](/sharepoint/dev/spfx/web-parts/single-part-app-pages) in the site pages library to host the admin and user web parts at a known location.
 
-1. If you haven't already downloaded the SharePoint Online Management Shell, download it now. See [SharePoint Online Management Shell Download](https://go.microsoft.com/fwlink/p/?LinkId=255251).
-2. You may need to set a PowerShell execution policy to run the script. For more information, see [About Execution Policies](/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+1. If you haven't already downloaded the SharePoint Online Management Shell, download it now. See [SharePoint Online Management Shell Download](https://go.microsoft.com/fwlink/p/).
+2. You may need to set a PowerShell execution policy to run the script. For more information, see [About Execution Policies](/powershell/module/microsoft.powershell.core/about/about_execution_policies).
 3. Execute the `CustomLearningConfiguration.ps1` script. In addition to your Tenant Admin credentials, the script will prompt you for your tenant name and site name. Considering the following example for your site URL, `https://contoso.sharepoint.com/sites/O365CL`, `contoso` is the tenant name and `O365CL` is the site name. 
 
 ### Disabling Telemetry Collection
@@ -118,7 +120,7 @@ As the Tenant Admin, it's unlikely you'll be the person customizing the site, so
 2. Click **Advanced Permission Settings**.
 3. Click **learning pathways for Office 365 Owners**.
 4. Click **New** > **Add Users to this group**, and then add the people you want to be Owners. 
-5. Add a link to [Explore the Site](https://docs.microsoft.com/Office365/CustomLearning/custom_explore) in the Share message, and then click **Share**.
+5. Add a link to [Explore the Site](custom_exploresite.md) in the Share message, and then click **Share**.
 
 ## Migrate Custom Content
 After you reestablish your learning pathways site by following the steps above, you will need to move the contents of your **CustomPlaylists** list and your **CustomAssets** list. You can also, optionally, move the actual custom pages that make up your custom assets if they live in the existing learning pathways site, and your intent is to delete it. The task can be difficult because  for all the items in the **CustomPlaylists** list, the ID of the list item in the **CustomAssets** list is buried in the JSONData field of each playlist list item. So, simply moving the contents of the **CustomPlaylists** list from one site to the other will not be sufficient. Further, the **CustomAssets** list contains the absolute URL to the custom asset's page in the JSONData field of the list item. If the assets aren't moved and the site isn't renamed (thus changing the absolute URL to the asset's page), then **CustomAssets** can remain. But you will need to manually correct the entries. Given the complexity of this type of migration we suggest you consider enlisting one of our learning pathways partners to assist you in making this transition. 
