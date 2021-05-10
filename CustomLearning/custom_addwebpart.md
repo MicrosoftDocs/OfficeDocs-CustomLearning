@@ -5,6 +5,8 @@ title: Add and edit the Microsoft 365 learning pathways Web part
 ms.date: 02/17/2019
 description: Add the Microsoft 365 learning pathways web part to a SharePoint page
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
 ---
 
 # Add and Edit the Microsoft 365 learning pathways web part

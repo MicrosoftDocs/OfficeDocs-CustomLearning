@@ -5,6 +5,8 @@ title: Customize the learning pathways site
 ms.date: 02/15/2019
 description: Learn about the variety of customizations available with Microsoft 365 learning pathways
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
 ---
 
 # Customize the site
