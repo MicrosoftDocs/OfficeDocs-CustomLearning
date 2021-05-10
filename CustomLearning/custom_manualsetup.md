@@ -119,7 +119,7 @@ As the Tenant Admin, it's unlikely you'll be the person customizing the site, so
 2. Click **Advanced Permission Settings**.
 3. Click **learning pathways for Office 365 Owners**.
 4. Click **New** > **Add Users to this group**, and then add the people you want to be Owners. 
-5. Add a link to [Explore the Site](custom_explore) in the Share message, and then click **Share**.
+5. Add a link to [Explore the Site](custom_exploresite.md) in the Share message, and then click **Share**.
 
 ## Migrate Custom Content
 After you reestablish your learning pathways site by following the steps above, you will need to move the contents of your **CustomPlaylists** list and your **CustomAssets** list. You can also, optionally, move the actual custom pages that make up your custom assets if they live in the existing learning pathways site, and your intent is to delete it. The task can be difficult because  for all the items in the **CustomPlaylists** list, the ID of the list item in the **CustomAssets** list is buried in the JSONData field of each playlist list item. So, simply moving the contents of the **CustomPlaylists** list from one site to the other will not be sufficient. Further, the **CustomAssets** list contains the absolute URL to the custom asset's page in the JSONData field of the list item. If the assets aren't moved and the site isn't renamed (thus changing the absolute URL to the asset's page), then **CustomAssets** can remain. But you will need to manually correct the entries. Given the complexity of this type of migration we suggest you consider enlisting one of our learning pathways partners to assist you in making this transition. 
