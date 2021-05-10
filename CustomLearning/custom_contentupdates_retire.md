@@ -5,6 +5,8 @@ title: November 2019 Content Updates
 ms.date: 10/20/2019
 description: Microsoft 365 learning pathways content update
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
 ---
 
 # November 2019 Content Updates
@@ -50,9 +52,6 @@ The Accessibility subcategory of content has been added with the following playl
 - Create more accessible Word documents (8 assets)
 - Create more accessible Excel workbooks (3 assets)
 - Create more accessible slides in PowerPoint (5 assets)
-
-## OneDrive
-NOTE: Changes need to be added here.....
 
 ## Sway
 The Sway subcategory of content has been added with the following playlists. 
