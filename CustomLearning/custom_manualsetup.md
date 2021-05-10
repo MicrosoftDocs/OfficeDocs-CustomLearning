@@ -5,6 +5,8 @@ title: Learning pathways manual setup
 ms.date: 07/06/2020
 description: Microsoft 365 learning pathways manual setup
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
 ---
 # Learning pathways manual setup
 

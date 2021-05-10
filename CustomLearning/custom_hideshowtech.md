@@ -5,6 +5,9 @@ title: Hide and show technology
 ms.date: 05/20/2019
 description: How to hide and show technology
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+
 ---
 
 # Hide and show Technology

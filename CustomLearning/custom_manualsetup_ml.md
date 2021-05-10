@@ -6,6 +6,7 @@ ms.date: 02/10/2019
 description: Learning pathways manual setup
 ROBOTS: NOINDEX, NOFOLLOW
 ms.service: sharepoint-online
+manager: bpardi
 ---
 # Learning pathways manual setup for multilingual
 
