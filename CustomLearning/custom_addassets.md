@@ -40,7 +40,7 @@ With the **Create Asset Page** option, you provide a title for the Asset, then c
 6. Under **Layout**, click **Plain**. 
 7. Add a new one-column section, and then add some sample text to the page so it looks like the following example. 
 
-   ![Add assets dialog.](media/cg-addassetcreatenewpageedit.png)
+   ![Add asset dialog.](media/cg-addassetcreatenewpageedit.png)
 
 7. Click **Publish**.
 8. Return to the **Custom Learning Administration** page. 
@@ -53,7 +53,7 @@ With the **Enter the URL** option, you provide a title for the Asset, then click
 2. To add a new asset to a playlist, click **New Asset**. 
 3. Enter a title. In this example, enter “Custom Playlist Introduction”, and then click **Enter URL**. 
 
-   ![Playlist Assets dialog](media/cg-newplaylistasseturl.png)
+   ![Playlist Assets dialog with new title being added.](media/cg-newplaylistasseturl.png)
 
 4. Enter the URL of the SharePoint page you created in a previous [Create SharePoint pages for custom playlists ](custom_createnewpage.md) section, and then fill out the remainder of the fields, as shown in the following illustration.
 
@@ -67,12 +67,12 @@ Existing assets consist of Microsoft-provided learning pathways assets or assets
 
 - In the **Search** box, enter a Search phrase, and then select an asset from the Search results. In this example, enter “What is Excel?” to add an Excel intro topic to the playlist.
 
-![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
+![New Asset dialog.](media/cg-existplaylistassetsearch.png)
 
 ## Edit, move, and delete assets
 You can edit custom assets that you create, but not assets from Microsoft. However, you can remove all assets from a playlist and change the order assets. 
 
-![Playlist Assets dialog](media/cg-playlistassetedit.png)
+![Playlist Assets dialog with options to remove or edit items.](media/cg-playlistassetedit.png)
 
 ### Edit an asset
 - Click the Edit button for an asset, modify the asset, and then click Save Asset. 

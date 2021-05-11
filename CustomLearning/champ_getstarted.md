@@ -1,6 +1,6 @@
 ---
 title: 'Champion Program best practices: Establish champions for user adoption'
-description: Drive adoption of Office 365 with our Champion Program best practices
+description:  Our Champion Program best practices help drive adoption of Office 365.
 author: karuanag
 ms.author: karuanag
 manager: alexb
