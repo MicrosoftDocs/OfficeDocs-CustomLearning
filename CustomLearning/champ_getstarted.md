@@ -20,7 +20,7 @@ A champions program is an essential part of driving adoption. These influencers 
 
 ## Who are champions and what makes them tick?
 
-Champions are not only passionate about what they do, but are also excited to share their knowledge and help their co-workers learn more effective solutions. Champions are enthusiastic and often frustrated with existing tools. They will help you win the watercooler buzz challenge!  
+Champions are not only passionate about what they do, but are also excited to share their knowledge and help their co-workers learn more effective solutions. Champions are enthusiastic and often frustrated with existing tools. They will help you win the water cooler buzz challenge!  
 
 We feel it is important to reward champions in meaningful ways. A few suggestions are:
 
@@ -40,7 +40,7 @@ Learning via co-workers is among the most effective method of learning in a prof
 
 Champions will help reduce the strain on the resources of the core project team, and help drive engagement throughout the community. They will also:
 
-1. Create the groundswell an enthusiasm that grows adoption of improved ways of working
+1. Create a ground swell oif enthusiasm that grows adoption of improved ways of working
 1. Build a circle of influence amongst their teams
 1. Bring the new ways of working ot life across teams
 1. Identify business challenges and possible solutions
