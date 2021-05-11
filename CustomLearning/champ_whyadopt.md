@@ -1,5 +1,5 @@
 ---
-title: Champion Program best practices: Why put effort into driving adoption
+title: 'Champion Program best practices: Why put effort into driving adoption'
 description: Why drive adoption? 
 author: karuanag
 ms.author: karuanag
