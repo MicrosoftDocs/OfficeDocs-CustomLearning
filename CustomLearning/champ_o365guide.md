@@ -9,6 +9,7 @@ ms.topic: how-to
 ms.service: sharepoint-online
 ---
 
+
 # Microsoft 365 End User Adoption Guide
 
 ![Microsoft 365 Adoption Guide](media/m365euguide.png)
