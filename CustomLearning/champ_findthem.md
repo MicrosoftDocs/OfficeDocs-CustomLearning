@@ -1,8 +1,9 @@
 ---
 title: Champion Program Best Practices - Find Champions
-description: Drive adoption of Office 365 with our Champion Program best practices
+description: Drive adoption of Office 365 by using Champion Program best practices.
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
