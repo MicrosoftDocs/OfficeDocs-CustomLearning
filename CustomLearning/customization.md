@@ -8,7 +8,6 @@ ms.service: sharepoint-online
 manager: alexb
 audience: itpro
 ms.topic: article
-ms.service: o365-administration
 ---
 
 # Customize the training experience
