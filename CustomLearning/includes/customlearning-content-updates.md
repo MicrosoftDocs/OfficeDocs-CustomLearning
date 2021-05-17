@@ -2,6 +2,49 @@
 
 
 
+## Week of May 10, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 5/10/2021 | [Add and edit the Microsoft 365 learning pathways Web part](/Office365/CustomLearning/custom_addwebpart) | modified |
+| 5/10/2021 | [Get to know the SharePoint Application pages](/Office365/CustomLearning/custom_apppages) | modified |
+| 5/10/2021 | [Learning pathways Content Updates April](/Office365/CustomLearning/custom_contentupdates_april20) | modified |
+| 5/10/2021 | [November 2019 Content Updates](/Office365/CustomLearning/custom_contentupdates_retire) | modified |
+| 5/10/2021 | [Manage learning pathways content updates](/Office365/CustomLearning/custom_contentupdatesmanage) | modified |
+| 5/10/2021 | [Copy a playlist](/Office365/CustomLearning/custom_copyplaylist) | modified |
+| 5/10/2021 | [Create a new subcategory](/Office365/CustomLearning/custom_createnewcat) | modified |
+| 5/10/2021 | [Create SharePoint pages for playlists](/Office365/CustomLearning/custom_createnewpage) | modified |
+| 5/10/2021 | [Create new playlists](/Office365/CustomLearning/custom_createnewplaylist) | modified |
+| 5/10/2021 | [How to customize the learning pathways site](/Office365/CustomLearning/custom_edithelp%20-%20copy) | modified |
+| 5/10/2021 | [Customize the learning pathways site](/Office365/CustomLearning/custom_edithelp) | modified |
+| 5/10/2021 | [How to explore the the site and default content](/Office365/CustomLearning/custom_explorecontent) | modified |
+| 5/10/2021 | [Explore the site and default content](/Office365/CustomLearning/custom_exploresite) | modified |
+| 5/10/2021 | [Learning pathways Feature Updates](/Office365/CustomLearning/custom_featureupdates) | modified |
+| 5/10/2021 | [Go to the Microsoft 365 learning pathways site](/Office365/CustomLearning/custom_goto) | modified |
+| 5/10/2021 | [Hide and show learning pathways multilingual playlists](/Office365/CustomLearning/custom_hideshow_ml) | modified |
+| 5/10/2021 | [Hide and show playlists](/Office365/CustomLearning/custom_hideshowplaylists) | modified |
+| 5/10/2021 | [Hide and show subcategories](/Office365/CustomLearning/custom_hideshowsub) | modified |
+| 5/10/2021 | [Hide and show technology](/Office365/CustomLearning/custom_hideshowtech) | modified |
+| 5/10/2021 | [Linking to Microsoft 365 learning pathways assets](/Office365/CustomLearning/custom_linking) | modified |
+| 5/10/2021 | [Learning pathways manual setup](/Office365/CustomLearning/custom_manualsetup) | modified |
+| 5/10/2021 | [Learning pathways manual setup for ml](/Office365/CustomLearning/custom_manualsetup_ml) | modified |
+| 5/10/2021 | [Measure Impact of Microsoft 365 learning pathways](/Office365/CustomLearning/custom_measureimpact) | modified |
+| 5/11/2021 | [Add administrator to SharePoint Online App Catalog](/Office365/CustomLearning/addappadmin) | modified |
+| 5/11/2021 | [Champion Program Best Practices - Service Adoption Specialist](/Office365/CustomLearning/champ_education) | modified |
+| 5/11/2021 | [Champion Program Best Practices - Collect Feedback](/Office365/CustomLearning/champ_feedback) | modified |
+| 5/11/2021 | [Champion Program Best Practices - Find Champions](/Office365/CustomLearning/champ_findthem) | modified |
+| 5/11/2021 | [Champion Program best practices: Establish champions for user adoption](/Office365/CustomLearning/champ_getstarted) | modified |
+| 5/11/2021 | [Champion Program Best Practices - Microsoft 365 End User Adoption Guide](/Office365/CustomLearning/champ_o365guide) | modified |
+| 5/11/2021 | [Champion Program Best Practices - Join the Office 365 Champions program](/Office365/CustomLearning/champ_o365program) | modified |
+| 5/11/2021 | [Champion Program Best Practices - Real World Guidance](/Office365/CustomLearning/champ_realworldguides) | modified |
+| 5/11/2021 | [Champion Program best practices: Why put effort into driving adoption](/Office365/CustomLearning/champ_whyadopt) | modified |
+| 5/11/2021 | [Learning Pathways Administration](/Office365/CustomLearning/custom_accessadmin) | modified |
+| 5/11/2021 | [Add assets to a playlist](/Office365/CustomLearning/custom_addassets) | modified |
+| 5/11/2021 | [Go to the Custom Learning for Office 365 site](/Office365/CustomLearning/custom_addowners) | modified |
+| 5/11/2021 | [Customize the Training Experience](/Office365/CustomLearning/customization) | modified |
+
+
 ## Week of April 19, 2021
 
 
@@ -97,29 +140,3 @@
 | 4/13/2021 | [How to hide and show playlists](/Office365/CustomLearning/media/custom_hideshowplaylists) | modified |
 | 4/13/2021 | [Webpart default content](/Office365/CustomLearning/webpartcontent) | modified |
 | 4/13/2021 | [Learning pathways Feature Updates](/Office365/CustomLearning/custom_featureupdates) | modified |
-
-
-## Week of March 22, 2021
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 3/23/2021 | [Manual Install Learning Pathways](/Office365/CustomLearning/manualcustomlearninginstall) | modified |
-| 3/23/2021 | [Champion Program Best Practices - Service Adoption Specialist](/Office365/CustomLearning/champ_education) | modified |
-| 3/23/2021 | [Champion Program Best Practices - Collect Feedback](/Office365/CustomLearning/champ_feedback) | modified |
-| 3/23/2021 | [Champion Program Best Practices - Find Champions](/Office365/CustomLearning/champ_findthem) | modified |
-| 3/23/2021 | [Learning pathways Content Updates](/Office365/CustomLearning/custom_contentupdates) | modified |
-| 3/23/2021 | [Learning pathways Content Updates April](/Office365/CustomLearning/custom_contentupdates_april20) | modified |
-| 3/23/2021 | [Learning pathways manual setup](/Office365/CustomLearning/custom_manualsetup) | modified |
-| 3/23/2021 | [Learning pathways manual setup for ml](/Office365/CustomLearning/custom_manualsetup_ml) | modified |
-| 3/23/2021 | [Measure Impact of Microsoft 365 learning pathways](/Office365/CustomLearning/custom_measureimpact) | modified |
-| 3/23/2021 | [Overview](/Office365/CustomLearning/custom_overview_ml) | modified |
-| 3/23/2021 | [Partner integration models](/Office365/CustomLearning/custom_partnerguide_contint) | modified |
-| 3/23/2021 | [Partner Onboarding Guide](/Office365/CustomLearning/custom_partnerguide_getfam) | modified |
-| 3/23/2021 | [Resources for supporting your remote workforce](/Office365/CustomLearning/custom_plancontent_remoteresources) | modified |
-| 3/23/2021 | [Provision a new learning pathways solution](/Office365/CustomLearning/custom_provision) | modified |
-| 3/23/2021 | [Provision a new learning pathways multilingual solution](/Office365/CustomLearning/custom_provision_ml) | modified |
-| 3/23/2021 | [Use Advisor for Teams with learning pathways to help roll out Microsoft Teams](/Office365/CustomLearning/custom_teamsadvisor) | modified |
-| 3/23/2021 | [Translate learning pathways custom playlists](/Office365/CustomLearning/custom_translate_pl_ml) | modified |
-| 3/23/2021 | [Provision the Custom Learning site](/Office365/CustomLearning/custom_webpartsetup) | modified |
-| 3/23/2021 | [Helpful Links for Administrators using Custom Learning for Office 365](/Office365/CustomLearning/embeds/for_admins) | modified |
