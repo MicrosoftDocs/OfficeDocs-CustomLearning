@@ -71,8 +71,16 @@ New assets with videos have been added to the following Microsoft Teams playlist
 #### Create approvals (updated)
 - Create an e-sign approval – new asset with video
 
-### Word, Excel, PowerPoint, Outlook
+### Teams, Excel, PowerPoint, Word, Outlook
 The following assets have new or updated videos.
+
+#### Teams
+- Manage meetings\Join a Teams meeting - updated video
+- Manage meetings\Manage meetings - updated video
+- Collaborate in teams and channels\Overview of teams and channels - updated video
+- Collaborate in teams and channels\Work with external guests - new video
+- Upload and find files\Upload and share files - updated video
+- Create approvals\Create an e-sign approval request - new video
 
 #### Excel
 - Intro to Excel\Use Excel as your calculator (subtraction) - updated video
@@ -99,7 +107,21 @@ The following assets have new or updated videos.
 - Insert tables, pictures & watermarks\Insert a table - updated video
 - Insert tables, pictures & watermarks\Insert pictures - updated video
 
-
+#### Outlook
+- Calendar\Welcome to your calendar - updated video
+- Calendar\Use calendar categories and reminders - updated video
+- Calendar\Search for calendar items - updated video
+- Contacts and tasks\Add a contact - updated video
+- Contacts and tasks\Create a contact group - updated video
+- Contacts and tasks\Create tasks and a to-do list - updated video
+- Contacts and tasks\Import contacts - updated video
+- Contacts and tasks\Export contacts - updated video
+- Create and send email\Create an email signature - updated video
+- Create and send email\Welcome your inbox - updated video
+- Create and send email\Retract or replace a sent email - updated video
+- Set up and customize\Add an Outlook.com or Microsoft 365 account - updated video
+- Set up and customize\Set up Gmail accounts - updated video
+- Manage email\Search and filter email - updated video
 
 ## March 2021 Content Updates
 The following lists the content updates for March 2021. 
