@@ -1,6 +1,8 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
+ms.topic: article
 title: Learning pathways Content Updates
 ms.date: 3/30/2020
 description: Learning pathways Content Updates
