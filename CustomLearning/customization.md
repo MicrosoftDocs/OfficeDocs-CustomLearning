@@ -4,10 +4,10 @@ ms.author: karuanag
 title: Customize the Training Experience
 ms.date: 02/10/2019
 description: Learn about the variety of customizations available with Custom Learning for Office 365
+ms.service: sharepoint-online
 manager: alexb
 audience: itpro
 ms.topic: article
-ms.service: o365-administration
 ---
 
 # Customize the training experience

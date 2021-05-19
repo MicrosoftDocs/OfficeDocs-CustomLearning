@@ -5,8 +5,7 @@ title:  Manual Install Learning Pathways
 ms.date: 02/18/2019
 manager: bpardi
 description: Manual Install Learning Pathways
-audience: itpro
-ms.service: o365-administration
+ms.service: sharepoint-online
 ms.topic: article
 ---
 

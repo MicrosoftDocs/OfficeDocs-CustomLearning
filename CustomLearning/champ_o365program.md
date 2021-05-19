@@ -1,18 +1,19 @@
 ---
-title: Champion Program Best Practices - Join the Office 365 Champions program
-description: Drive adoption of Office 365 with our Champion Program best practices
+title: 'Champion Program Best Practices - Join the Office 365 Champions program'
+description: Champion Program best practices for Microsoft 365.
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Office 365 Champions Program 
 
 ![make a difference become a champion](media/makeadifference.png)
 
-Microsoft provides a free Office 365 Champions program to support the Champion role worldwide.  This program provides an online community, monthly community calls and content driving adoption across a variety of services in Office 365.
+Microsoft provides a free Office 365 Champions program to support the Champion role worldwide.  This program provides an online community, monthly community calls, and content driving adoption across various services in Office 365.
 
 This program is open to everyone.  We recommend that at a minimum anyone running a Champion program in their organization become a member to get access to Champion training materials that can be utilized in their own program. 
 

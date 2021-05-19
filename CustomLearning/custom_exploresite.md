@@ -4,7 +4,9 @@ ms.author: pkrebs
 title: Explore the site and default content
 ms.date: 02/10/2019
 description: Explore the learning pathways site and default content
-ms.service: sharepoint online
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
 ---
 
 # Explore the learning pathways site
