@@ -6,7 +6,7 @@ ms.date: 10/20/2019
 description: Microsoft 365 learning pathways content options available.
 ms.service: sharepoint-online
 manager: bpardi
-mstopic: article
+ms.topic: article
 audience: admin
 ---
 
