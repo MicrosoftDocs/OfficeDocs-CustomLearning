@@ -9,7 +9,7 @@ description: Learning pathways Content Updates
 ms.service: o365-solutions
 ---
 # Microsoft 365 Learning Pathways Content Updates
-Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md). 
+Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).  
 
 ## May 2021 Content Updates
 The following lists the content updates for May 2021.   
