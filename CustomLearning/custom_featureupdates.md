@@ -7,6 +7,7 @@ description: Learning pathways Feature Updates
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
+---
 
 # Learning pathways version 4.0 feature updates
 The following includes feature updates for learning pathways version 4.0.  
