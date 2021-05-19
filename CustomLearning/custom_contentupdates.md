@@ -2,11 +2,12 @@
 author: pkrebs
 ms.author: pkrebs
 manager: bpardi
-ms.topic: article
 title: Learning pathways Content Updates
-ms.date: 3/30/2020
+ms.date: 5/19/2021
 description: Learning pathways Content Updates
 ms.service: o365-solutions
+audience: itpro
+ms.topic: article
 ---
 # Microsoft 365 Learning Pathways Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).  
