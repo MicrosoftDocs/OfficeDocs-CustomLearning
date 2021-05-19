@@ -4,7 +4,6 @@ ms.author: pkrebs
 manager: bpardi
 title: Learning pathways Content Updates
 ms.date: 5/19/2021
-audience: Admin
 ms.topic: article
 description: Learning pathways Content Updates
 ms.service: o365-solutions
@@ -14,7 +13,7 @@ audience: itpro
 Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).  
 
 ## May 2021 Content Updates
-The following lists the content updates for May 2021.   
+The following lists the content updates for May 2021.    
 
 ### Yammer
 Yammer content has been updated.
