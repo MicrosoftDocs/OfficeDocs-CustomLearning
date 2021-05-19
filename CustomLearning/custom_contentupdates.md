@@ -130,7 +130,7 @@ The following assets have new or updated videos.
 The following lists the content updates for March 2021. 
 
 ### Hybrid workplace
-To help organizations make the transition to a hybrid workplace, where employees work from home and in the office, we've provided playlists to help users run more effective meetings, create inclusive meeting environments, collaborate asychronously, and reach large audiences with live events. The Hybrid workplace subcategory includes the following playlists and assets.
+To help organizations make the transition to a hybrid workplace, where employees work from home and in the office, we've provided playlists to help users run more effective meetings, create inclusive meeting environments, collaborate asynchronously, and reach large audiences with live events. The Hybrid workplace subcategory includes the following playlists and assets.
 
 #### Run effective meetings
 - Run effective meetings
