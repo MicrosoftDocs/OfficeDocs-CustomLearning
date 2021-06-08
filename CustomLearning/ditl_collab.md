@@ -21,7 +21,7 @@ It's 2:00 PM and time to collaborate with colleagues. Office 365 provides best-i
 - Office Online
 - OneNote
 - SharePoint & OneDrive
-- 
+
 ## Checklist for collaborating with colleagues
 - Create or join a Microsoft Team to collaborate
 - Create and share files from OneDrive 
