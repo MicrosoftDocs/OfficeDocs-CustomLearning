@@ -24,7 +24,7 @@ You can build a landing page in your Learning Pathways SharePoint site for suppo
 - [Meetings and conferencing in Microsoft Teams](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
 - [Support Remote Workers using Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
 - [FAQ: Support your remote workforce](/microsoftteams/faq-support-remote-workforce)
-- [The top 9 ways Microsoft IT is enabling remote work for its employees](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
+- [The top 9 ways Microsoft IT is enabling remote work for its employees](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
 - [Microsoft Teams Training](/microsoftteams/training-microsoft-teams-landing-page)
 
 
