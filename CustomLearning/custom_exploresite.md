@@ -5,6 +5,8 @@ title: Explore the site and its default content
 ms.date: 02/10/2019
 description: Explore the learning pathways site and its default content
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
 ---
 
 # Explore learning pathways site

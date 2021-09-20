@@ -148,7 +148,7 @@ Key framing to keep in mind for this feature:
 > Before adding a Custom Content Pack, you must have provisioned Microsoft 365 learning pathways 3.0 or later. For informataion about provisioning Microsoft 365 learning pathways, see [Provision Microsoft 365 learning pathways](./custom_provision.md).
 
 ### Content reliability
-As a partner it’s your responsibility to assist your consumers in making sure your content is rendered reliable in their environment. We suggest you create a test scenario in their environment to validate that your content can be iFrame’d into a SharePoint page inside of their firewall. Follow the [Create SharePoint pages for Custom Playlists](https://docs.microsoft.com/office365/customlearning/custom_createnewpage) instructions to confirm this is the case.
+As a partner it’s your responsibility to assist your consumers in making sure your content is rendered reliable in their environment. We suggest you create a test scenario in their environment to validate that your content can be iFrame’d into a SharePoint page inside of their firewall. Follow the [Create SharePoint pages for Custom Playlists](custom_createnewpage.md) instructions to confirm this is the case.
 
 ### Add a Content Pack to Learning Pathways
 Once you've created modified the JSON and defined your CDN, you can add the Contact Pack to learning pathways. 
