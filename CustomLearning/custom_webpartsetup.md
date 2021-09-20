@@ -62,5 +62,3 @@ As the Tenant Admin, it's unlikely you'll be the person customizing the site, so
 
 8. Click the **Following** option in the upper right hand corner of the page to follow the site.  
 
-### Next Steps
-- Explore the [default content](sitecontent.md) included in the webpart.
