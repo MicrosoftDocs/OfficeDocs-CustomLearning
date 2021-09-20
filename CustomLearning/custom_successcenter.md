@@ -5,6 +5,9 @@ title: Learning pathways Admin Success Center
 ms.date: 10/24/2019
 description: Learning pathways Admin Success Center
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
 ---
 
 # Learning pathways Admin Success Center

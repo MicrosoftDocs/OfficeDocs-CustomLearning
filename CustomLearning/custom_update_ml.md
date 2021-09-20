@@ -5,7 +5,10 @@ title: Update learning pathways for multilingual support
 ms.date: 05/20/2019
 description: Update learning pathways for multilingual support
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
 ---
 # Update learning pathways for multilingual support
 If you have an existing Learning Pathways site, you can update it for multilingual support. To update learning pathways to the multilingual 4.0 version, you upload the web part package, customlearning.sppkg, to the SharePoint tenant App Catalog. When you update learning pathways:  

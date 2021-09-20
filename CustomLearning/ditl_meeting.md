@@ -1,11 +1,13 @@
 ---
 title: Day in the Life with Office 365 - Meeting at the Office
-description: Quick steps to be ready for the day at hand with Office 365
+description: Some tips to help you be ready for your work day in Office 365
 author: karuanag
 ms.author: karuanag
+manager: alexb
+audience: itpro
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Meeting at the Office

@@ -5,6 +5,9 @@ title: Translate site pages
 ms.date: 07/06/2020
 description: Translate site pages
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
 
 ---
 

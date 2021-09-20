@@ -1,11 +1,12 @@
 ---
-title: Champion Program Best Practices
+title: 'Champion Program best practices: Why put effort into driving adoption'
 description: Why drive adoption? 
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Why put effort into driving adoption?  

@@ -5,6 +5,8 @@ title: Add administrator to SharePoint Online App Catalog
 ms.date: 02/10/2019
 description: Add the required administrator to your App Catalog
 ms.service: sharepoint-online
+ms.topic: article
+manager: alexb
 ---
 
 # View or Add an Administrator to your SharePoint Online App Catalog
@@ -22,9 +24,7 @@ If your user name is listed you can return to provisioning the Custom Learning s
 ## Add an Administrator
 
 1. From the SharePoint Admin Center select the checkbox next to the app catalog URL and select the Owners drop-down box.
-![Owner in an app admin center](media/appadmin_owner.png)
+![The Owners option selected on the Site Collections tab.](media/appadmin_owner.png)
 1. Select Manage Administrators from the drop down menu
-![Manage administrators in the app](media/appadmin_manage.png)
+![Detail view of the Owners dropdown.](media/appadmin_manage.png)
 1. Add the correct individual as a Site Collection Administrator and click OK to save your changes.
-
-### Next Steps - [Site Provisioning](installsitepackage.md)

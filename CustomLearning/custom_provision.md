@@ -4,7 +4,10 @@ ms.author: pkrebs
 title: Provision a new learning pathways solution
 ms.date: 02/10/2019
 description: Provision the Microsoft 365 learning pathways site with the Microsoft 365 look book service
-ms.service: sharepoint online
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
 ---
 
 # Provision a new learning pathways solution 
@@ -18,7 +21,7 @@ Organizations that that don’t have learning pathways provisioned in their tena
 To successfully set up Microsoft 365 learning pathways with the look book service, the person doing the provisioning must meet the following pre-requisites:   
  
 - The person provisioning learning pathways must be a Tenant Administrator of the tenant where learning pathways will be provisioned.  
-- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization doesn't have an SharePoint tenant App Catalog, refer to the [SharePoint Online documentation](https://docs.microsoft.com/sharepoint/use-app-catalog) to create one. You must wait at least two hours after creating the App Catalog before provisioning learning pathways.  
+- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization doesn't have an SharePoint tenant App Catalog, refer to the [SharePoint Online documentation](/sharepoint/use-app-catalog) to create one. You must wait at least two hours after creating the App Catalog before provisioning learning pathways.  
 - The person provisioning learning pathways must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning learning pathways is not a Site Collection Owner of the App Catalog, [complete these instructions](addappadmin.md) and continue. 
 
 ## Ensure the Tenant Admin account doesn't have a language selected
@@ -40,10 +43,10 @@ Before you provision learning pathways, ensure that the Admin Account for the te
 The look book service requires these permissions to create the tenant App Catalog, install the application into the tenant App Catalog and provision the site template. There's no overall impact on your tenant. These permissions are explicitly used for the purpose of the solution installation. You must accept these permissions to continue with the installation.
 
 4. Complete the fields on the provisioning information page as appropriate for your installation. At a minimum, enter the email address where you wish to get notifications about the provisioning process and the destination URL for your site to be provisioned to.  
-> [!NOTE]
-> Make the destination URL for your site something friendly to your employees such as "/sites/MyTraining" or "/teams/LearnMicrosoft365".
+   > [!NOTE]
+   > Make the destination URL for your site something friendly to your employees such as "/sites/MyTraining" or "/teams/LearnMicrosoft365".
 
-![inst_options.png](media/inst_options.png)
+   ![Screen prompts you to enter basic information for setup.](media/inst_options.png)
 
 6. Click **Provision** when ready to install learning pathways into your tenant environment.  The provisioning process can take up to 15 minutes. You will be notified via email when the site is ready. 
 
@@ -56,7 +59,7 @@ When provisioning is complete, the Tenant Admin who provisioned the site receive
 
 - Go to `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Opening **CustomLearningAdmin.aspx** initializes the **CustomConfig** list item that sets up learning pathways for first use. You should see a page that looks like this:
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+   ![Sample initial CustomLearningAdmin.aspx page.](media/cg-adminapppage.png)
 
 ## Add Owners to Site
 As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign a few owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content and build custom playlist and subcategories.  
@@ -83,7 +86,7 @@ For organizations that choose to support only one language, in addition to the d
 4. Under **Enable pages and news to be translated into multiple languages**, slide the toggle to **On**. It should be On by default.
 5. Under Add or remove site languages, click **Remove** to remove the languages you don't need for the site. The following shows an example of the Language Settings page to show Italian supported for the site, in addition to the default English language.
 
-![custom_update_ml_langsettings.png](media/custom_update_ml_langsettings.png)
+   ![Sample site-languages screen.](media/custom_update_ml_langsettings.png)
 
 > [!NOTE]
 > When removing languages you cannot remove the default English language. 
