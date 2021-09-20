@@ -5,6 +5,8 @@ title: November 2019 Content Updates
 ms.date: 10/20/2019
 description: Microsoft 365 learning pathways - update in content
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
 ---
 
 # November 2019 Content Updates
