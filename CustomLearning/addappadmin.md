@@ -27,4 +27,3 @@ If your user name is listed you can return to provisioning the Custom Learning s
 ![Manage administrators in the app](media/appadmin_manage.png)
 1. Add the correct individual as a Site Collection Administrator and click OK to save your changes.
 
-### Next Steps - [Site Provisioning](installsitepackage.md)
