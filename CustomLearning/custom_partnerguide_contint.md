@@ -13,7 +13,7 @@ audience: admin
 # Partner integration models
 While it’s not possible to supplement the Microsoft 365 learning pathways content directly ‘out of the box’ from the SharePoint Online Provisioning service, there are several integration models that partners can leverage to create aligned value-add service offerings. The partner integration models above are presented in order of ascending complexity and levels of investment. Hence our guidance is to build your expertise and graduate to more advanced levels based on your business models.
 
-![Flow chart shows role of enablers, integrators, and redistibutors.](media/cg-part-intmodel.png)
+![Integration model](media/cg-part-intmodel.png) 
 
 ## How should I get started? 
 To get started, here are some best practices to follow. 	
@@ -131,7 +131,7 @@ Microsoft utilizes GitHub pages as a Content Delivery Network (CDN) source for i
 
 It is important that you maintain the same versioning structure that Microsoft does should you choose to extend the learning pathways solution with your own content pack. Your CDN endpoint should not include the version folder, as the manifest version the web part supports is baked into it and is automatically appended to the CDN url. We will obviously give you time to create new instances of your manifest files any time we revision it.
 
-![Screenshot shows sample structure.](media/cg-part-json-folder.png) 
+![json folder](media/cg-part-json-folder.png) 
 
 For more information about utilizing GitHub pages as your CDN source please see the following help documentation: [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages).
 
@@ -147,8 +147,8 @@ Key framing to keep in mind for this feature:
 > **IMPORTANT**
 > Before adding a Custom Content Pack, you must have provisioned Microsoft 365 learning pathways 3.0 or later. For informataion about provisioning Microsoft 365 learning pathways, see [Provision Microsoft 365 learning pathways](./custom_provision.md).
 
-### Content Whitelisting
-As a partner it’s your responsibility to assist your consumers in making sure your content is whitelisted in their environment. We suggest you create a test scenario in their environment to validate that your content can be iFrame’d into a SharePoint page inside of their firewall. Follow the [Create SharePoint pages for Custom Playlists](./custom_createnewpage.md) instructions to confirm this is the case.
+### Content reliability
+As a partner it’s your responsibility to assist your consumers in making sure your content is rendered reliable in their environment. We suggest you create a test scenario in their environment to validate that your content can be iFrame’d into a SharePoint page inside of their firewall. Follow the [Create SharePoint pages for Custom Playlists](custom_createnewpage.md) instructions to confirm this is the case.
 
 ### Add a Content Pack to Learning Pathways
 Once you've created modified the JSON and defined your CDN, you can add the Contact Pack to learning pathways. 
@@ -157,11 +157,11 @@ Once you've created modified the JSON and defined your CDN, you can add the Cont
 2. From the **Administration** page, click the **... Add Content Pack** in the upper-right corner of the page.
 3. Click Custom Content Pack, and then enter a name of the Content Pack and then specify the CDN where the JSON files are located.
 
-   ![Screen where you enter the name and paths.](media/cg-part-addconpack.png)
+![Add content pack](media/cg-part-addconpack.png)
 
 4. Click **Save**. The content from your Custom Content Pack should now appear in the Administration page. Here is an example. 
 
-   ![Administration page example.](media/cg-part-addconpackex.png)
+![Add content pack example](media/cg-part-addconpackex.png)
 
 ### Filter to the Content Pack in the web part
 With learning pathways, you can add the learning pathways web part to a page, filter the web part to point to the Custom Content Pack source, and then filter the web part to the category, subcategory, playlist, and asset that you want. 
@@ -174,4 +174,8 @@ With learning pathways, you can add the learning pathways web part to a page, fi
 6. Click the Web part, and then click the **Edit** icon.
 7. In the **Select the Learning Source** box, select your Custom Content Pack, and and then filter the web part to the content you want. The following provides an example of the Web part filtered to a playlist from a Custom Content Pack.
 
-   ![Screen shot of a sample web part filtered to a playlist from a Custom Content Pack.](media/cg-part-conpackfilter.png)
+![Content pack filter](media/cg-part-conpackfilter.png)  
+
+
+
+

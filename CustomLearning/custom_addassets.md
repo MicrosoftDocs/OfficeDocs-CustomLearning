@@ -33,14 +33,14 @@ With the **Create Asset Page** option, you provide a title for the Asset, then c
 2. To add a new asset to a playlist, click **New Asset**. 
 3. Enter a title. In this example enter “Add Assets to a Playlist”, and then click **Create Asset Page**.
 
-   ![A window shows the Create Asset Page button highted.](media/cg-addassetcreatenewpage.png)
+![Page to create new asset](media/cg-addassetcreatenewpage.png)
 
 4. Click **Open Page**.
 5. Click the **Edit** icon, and then click **Edit Web part** in the Title area.
 6. Under **Layout**, click **Plain**. 
 7. Add a new one-column section, and then add some sample text to the page so it looks like the following example. 
 
-   ![Add asset dialog.](media/cg-addassetcreatenewpageedit.png)
+![Edit asset creation page](media/cg-addassetcreatenewpageedit.png)
 
 7. Click **Publish**.
 8. Return to the **Custom Learning Administration** page. 
@@ -53,11 +53,11 @@ With the **Enter the URL** option, you provide a title for the Asset, then click
 2. To add a new asset to a playlist, click **New Asset**. 
 3. Enter a title. In this example, enter “Custom Playlist Introduction”, and then click **Enter URL**. 
 
-   ![Playlist Assets dialog with new title being added.](media/cg-newplaylistasseturl.png)
+![Playlist new asset URL](media/cg-newplaylistasseturl.png)
 
 4. Enter the URL of the SharePoint page you created in a previous [Create SharePoint pages for custom playlists ](custom_createnewpage.md) section, and then fill out the remainder of the fields, as shown in the following illustration.
 
-   ![Form for entering playlist introduction information.](media/cg-newplaylistassetdetails.png)
+![Details of new asset for playlist](media/cg-newplaylistassetdetails.png)
 
 5. Click **Save Asset**. 
 
@@ -67,12 +67,12 @@ Existing assets consist of Microsoft-provided learning pathways assets or assets
 
 - In the **Search** box, enter a Search phrase, and then select an asset from the Search results. In this example, enter “What is Excel?” to add an Excel intro topic to the playlist.
 
-![New Asset dialog.](media/cg-existplaylistassetsearch.png)
+![Search an asset from playlist](media/cg-existplaylistassetsearch.png)
 
 ## Edit, move, and delete assets
 You can edit custom assets that you create, but not assets from Microsoft. However, you can remove all assets from a playlist and change the order assets. 
 
-![Playlist Assets dialog with options to remove or edit items.](media/cg-playlistassetedit.png)
+![Edit asset in playlist](media/cg-playlistassetedit.png)
 
 ### Edit an asset
 - Click the Edit button for an asset, modify the asset, and then click Save Asset. 
@@ -91,4 +91,4 @@ Now that you've added assets to a playlist, let's close the playlist and see it 
 3. Refresh the page, and then click **First Days** under **Get Started**.
 4. Click **Learning Pathways Starter Kit** to view your first playlist in action. 
 
-![Sample introduction page.](media/cg-addassetcheckwork.png)
+![Checking playlist](media/cg-addassetcheckwork.png)

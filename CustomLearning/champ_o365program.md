@@ -1,6 +1,6 @@
 ---
-title: 'Champion Program Best Practices - Join the Office 365 Champions program'
-description: Champion Program best practices for Microsoft 365.
+title: Champion Program Best Practices - Join the Office 365 Champions program
+description: Drive adoption of Office 365 with Champion Program best practices
 author: karuanag
 ms.author: karuanag
 manager: alexb

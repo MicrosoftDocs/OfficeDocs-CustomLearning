@@ -11,7 +11,7 @@ ms.topic: article
 audience: admin 
 ---
 
-# Setup options for multilingual learning pathways
+# Setup options for pathways for multilingual learning
 With the release of multilingual features for SharePoint Online communications sites, learning pathways now offers support for multiple languages. You can set up learning pathways in different kinds of ways to meet the needs of your organization. To help you decide the best path for your organization, we’ve outlined the setup options. 
 
 ## New install scenarios

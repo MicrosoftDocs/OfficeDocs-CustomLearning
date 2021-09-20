@@ -24,7 +24,7 @@ If you've created new pages and learning experiences with the Microsoft 365 lear
 2. Click **Edit details** in one of the Home page tiles. In this example, we edit the **Recommended playlists** tiles.
 3. Under **Link**, click **Change**.
 
-![Pathways main screen with the Change button highligted.](media/cg-linktopage.png)
+![Link to page](media/cg-linktopage.png)
 
 4. Click **Site**, then **Site Pages**, click the page you want to link to, and then click **Open**. In this example, we link to the **Create-your-own-experience.aspx** page covered in the previous section.
 5. Close the Hero properties pane, click **Publish**, and then test the link. 
@@ -36,12 +36,12 @@ Learning pathways gives you, the administrator, or an end-user, the ability to l
 2. Click **Microsoft Teams**, and then click **Intro to Microsoft Teams**.
 3. Click the **Copy** icon.
 
-![Sample screen showing the URL with the Copy button next to it highlighted.](media/cg-linktowebpart.png)
+![Link to web part](media/cg-linktowebpart.png)
 
 4. Click Home from the Microsoft 365 learning pathways site menu.
 5. Paste the copied URL in the address bar of the browser and press ENTER. 
 
 As shown in the following illustration, the link goes to the CustomLearningViewer.aspx page and displays the content based on the parameters in the copied link. 
 
-![Sample page displayed.](media/cg-linktowebpartviewer.png)
+![Link to web part viewer](media/cg-linktowebpartviewer.png)
 
