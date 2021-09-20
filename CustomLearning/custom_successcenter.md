@@ -14,7 +14,7 @@ audience: admin
 
 Welcome to the Microsoft 365 learning pathways Admin Success Center. The Admin Success Center provides the guidance and resources to help you plan, customize, drive adoption, and measure the impact of your learning pathways deployment.
 
-![Learning pathway Admin Success Center home page.](media/cg-successcenter.png)
+![Success center](media/cg-successcenter.png)
 
 ## Sign in to Office 365 
 

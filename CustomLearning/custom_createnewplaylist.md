@@ -19,11 +19,11 @@ With Microsoft 365 learning pathways, you can create custom playlists from scrat
 2. Select the **Administer**" icon  subcategory. In this example, select **First Days**.  
 3. Click the + icon.  
 
-![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
+![Button to create a playlist](media/cg-newplaylistbtn.png)
 
 4.	Fill out the fields in the playlist as shown in the following example. You can leave the default icon for this example. 
 
-![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
+![Details to be filled for playlist](media/cg-newplaylistdetails.png)
 
 5.	When you are done, select **Save Detail**. 
 
@@ -31,10 +31,10 @@ With Microsoft 365 learning pathways, you can create custom playlists from scrat
 
 - From the **Custom Learning Administration** page, click the playlist, and then click **Edit Detail**.  
 
-![cg-editplaylist.png](media/cg-editplaylist.png)
+![Edit playlist](media/cg-editplaylist.png)
 
 ### Delete a playlist
 
 - From the Custom Learning Administration page, click the **Delete** icon for the playlist.  
 
-![cg-deleteplaylist.png](media/cg-deleteplaylist.png)
+![Delete playlist](media/cg-deleteplaylist.png)

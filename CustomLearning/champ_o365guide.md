@@ -1,6 +1,6 @@
 ---
 title: Champion Program Best Practices - Microsoft 365 End User Adoption Guide
-description: Drive adoption of Office 365 with our Champion Program best practices and the Microsoft 365 End User Adoption Guide.
+description: Drive adoption of Office 365 with best practices in Champion Program
 author: karuanag
 ms.author: karuanag
 manager: alexb
