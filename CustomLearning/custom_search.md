@@ -5,6 +5,9 @@ title: Search
 ms.date: 02/10/2019
 description: Search in Microsoft 365 learning pathways
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
 ---
 
 # Search for Microsoft 365 learning pathways content

@@ -5,7 +5,10 @@ title: Hide and show learning pathways multilingual playlists
 ms.date: 10/27/2019
 description: Hide and show playlists
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+
 ---
 
 # Hide and show learning pathways multilingual content 

@@ -3,6 +3,7 @@ title: Champion Program Best Practices - Find Champions
 description: Drive adoption of Office 365 with the best practices of our Champion Programs
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
@@ -28,6 +29,6 @@ If your organization does not have a current Champion program or you would like 
 
 Successful champion programs have a leader and a regular schedule to meet and discuss current issues.  Monthly meetings at a minimum are an important part of creating a positive culture in the community and fostering growth.  
 
-You can also use Microsoft Teams to create a hub for your Teamwork Champions' program.  An example for that team structure can be found in [this article](https://docs.microsoft.com/MicrosoftTeams/teams-adoption-your-first-teams).
+You can also use Microsoft Teams to create a hub for your Teamwork Champions' program.  An example for that team structure can be found in [this article](/MicrosoftTeams/teams-adoption-your-first-teams).
 
 ![teamwork champion team tabs](media/teams-adoption-tab-example.png)

@@ -5,6 +5,9 @@ title: Hide and show subcategories
 ms.date: 02/18/2019
 description: How to hide, show, edit, and delete subcategories
 ms.service: sharepoint-online
+ms.topic: article
+manager: bpardi
+
 ---
 
 # Hide and show Subcategories

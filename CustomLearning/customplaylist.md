@@ -1,13 +1,16 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Customize and Share Playlists
+manager: alexb
+title: Customize and share playlists
 ms.date: 02/10/2019
 description: Create custom playlists from existing content or new SharePoint pages
 ms.service: sharepoint-online
+audience: itpro
+ms.topic: article
 ---
 
-# Customize and Share Playlists
+# Customize and share playlists
 
 ## Create a Playlist
 
@@ -30,9 +33,7 @@ In this example, we’ll first create a SharePoint page to add to the playlist. 
 6.	In the SharePoint Web part, select Add Embed code and then paste it into the Embed box. 
 7.	In the right-hand box, select Add a new web part, and then select Text. 
 8.	In a Web browser, go to this URL: https://support.office.com/article/13c4e429-7324-4886-b377-5dbed539193b and copy the Try it! Instructions from the page and paste them into the Text Web part. Your page should look like the following. 
-
 ![Embed page](media/clo365teamscommandbox.png)
-
 9.	Click **Publish**, and then copy the URL of the page and paste it in Notepad
 
 #### Step 2: Create the Playlist

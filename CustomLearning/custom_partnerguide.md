@@ -3,8 +3,11 @@ author: pkrebs
 ms.author: pkrebs
 title: Microsoft 365 learning pathways Early Adopter Program
 ms.date: 3/9/2019
+manager: bpardi
 description: Microsoft 365 learning pathways Early Adopter Program
-ms.service: sharepoint online
+ms.service: sharepoint-online
+audience: admin
+ms.topic: article
 ---
 
 # Microsoft 365 learning pathways Early Adopter Program
@@ -16,4 +19,3 @@ If you are Partner or MVP that is interested in connecting with your peers and t
 - Early access to partner onboarding guidance and tooling 
 
 Interested? Sign-up here for nomination for inclusion: [https://aka.ms/M365lpPartnerEAP](https://aka.ms/M365lpPartnerEAP).   
-

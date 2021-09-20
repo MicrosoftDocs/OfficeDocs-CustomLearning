@@ -51,9 +51,6 @@ The Accessibility subcategory of content has been added with the following playl
 - Create more accessible Excel workbooks (3 assets)
 - Create more accessible slides in PowerPoint (5 assets)
 
-## OneDrive
-NOTE: Changes need to be added here.....
-
 ## Sway
 The Sway subcategory of content has been added with the following playlists. 
 - Sway Quick Start (4 assets)

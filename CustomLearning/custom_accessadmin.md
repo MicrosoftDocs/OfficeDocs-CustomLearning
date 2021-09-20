@@ -3,8 +3,10 @@ author: pkrebs
 ms.author: pkrebs
 title: Learning Pathways Administration
 ms.date: 02/15/2019
+manager: bpardi
+ms.topic: how-to
 description: How to access the Custom Learning Admin page from the Web part or the menu
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Access the Learning Pathways Administration page
@@ -18,13 +20,13 @@ Learning pathways administration is managed from the CustomLearningAdmin.aspx pa
 Opening the Administration page from the web part is the preferred method since it opens the page in a new browser tab. With this method, it's easy to flip back and forth between the tabbed pages to check or modify your work.  
 
 1. From the Microsoft 365 learning pathways **Home** page, click the **Office 365 training** tile.
-2. Click the **Administration** icon in the Web part as shown in the following example  
+2. Click the **Administration** icon in the Web part as shown in the following example.
 
-![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
+![A hand-shaped pointer icon points to the Administration icon in a Microsoft 365 training window.](media/cg-adminaccbtn.png)
 
 ## Access from the Home menu item
 Rather than navigate to a page with a Web part, administrators can access the Adminstration page from the SharePoint **Home** menu item. 
 
 - From the Microsoft 365 Learning Pathways Home page, click the **Home** menu, then click **Microsoft learning administration**.
 
-![cg-adminaccmenu.png](media/cg-adminaccmenu.png)
+![A hand-shaped pointer icon points at the administration option.](media/cg-adminaccmenu.png)

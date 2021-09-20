@@ -3,8 +3,11 @@ author: pkrebs
 ms.author: pkrebs
 title: Customize learning pathways
 ms.date: 02/18/2019
+manager: bpardi 
+audience: admin
+ms.topic: article
 description: Customize learning pathways
-ms.service: sharepoint online
+ms.service: sharepoint-online
 ---
 
 # Customize learning pathways
@@ -15,7 +18,7 @@ Microsoft 365 learning pathways provides a variety of ways that you can customiz
 - Build custom playlists and subcategories crafted specifically for your user's needs
 - Build landing pages with content filtered to support business outcomes, such as driving the adoption of Microsoft Teams, Outlook mobile, or working more collaboratively with Microsoft 365.
 
-![cg-introducing.png](media/cg-introducing.png)
+![General Microsoft learning pathways photo collection.](media/cg-introducing.png)
 
 ## Requirements and Permissions
 

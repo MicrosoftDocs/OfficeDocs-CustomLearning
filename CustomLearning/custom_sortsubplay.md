@@ -5,6 +5,9 @@ title: Sort subcategories and playlists
 ms.date: 07/20/2020
 description: Sort subcategories and playlists in learning pathways
 ms.service: sharepoint-online 
+manager: bpardi
+ms.topic: article
+audience: admin
 ---
 
 # Sort subcategories and playlists

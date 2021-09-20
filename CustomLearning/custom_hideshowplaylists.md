@@ -3,8 +3,10 @@ author: pkrebs
 ms.author: pkrebs
 title: Hide and show the playlists
 ms.date: 10/27/2019
-description: Hide and show the playlists
+description: Hide and show playlists
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
 ---
 
 # Hide and show the Playlists
@@ -18,7 +20,7 @@ To tailor learning pathways for your environment, you can hide playlists provide
 
 1. From the learning pathways **Home** page, click the **Office 365 training** tile.
 2. From the learning pathways web part, select the **Administer** icon. 
-3. From left pane in the **Administration** page, select a subcategory, and then select the eyeball for a playlist to hide it. For this example, click the **Microsoft Teams** subcategory, and then hide the ****Start chats, calls, and meetings** playlist.  
+3. From left pane in the **Administration** page, select a subcategory, and then select the eyeball for a playlist to hide it. For this example, click the **Microsoft Teams** subcategory, and then hide the **Start chats, calls, and meetings** playlist.  
 
 ![Hide playlist](media/cg-hideplaylist.png)
 

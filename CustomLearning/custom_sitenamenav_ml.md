@@ -5,6 +5,9 @@ title: Translate the site name, navigation and footers
 ms.date: 7/6/2020
 description: Translate the site name, navigation and footers
 ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
 ---
 
 # Translate the site name, navigation, and footers
