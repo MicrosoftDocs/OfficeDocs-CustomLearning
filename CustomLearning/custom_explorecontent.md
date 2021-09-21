@@ -28,7 +28,7 @@ The learning pathways site is based on a SharePoint communication template, so i
 
 ### View the Ask questions and get help page
 
-The learning pathways site provides default content to help you get starting building your training and support portal. As an admininstrator or owner of the site, one of the things you’ll want to do is change the links on the **Ask question and get help page** point to resources in your organization. 
+The learning pathways site provides default content to help you get starting building your training and support portal. As an administrator or owner of the site, one of the things you’ll want to do is change the links on the **Ask question and get help page** point to resources in your organization. 
 
 1.	From the Microsoft 365 learning pathways Home page, click the **Ask questions and get help** menu item.
 2.	Click the **Edit** button.
@@ -49,7 +49,7 @@ The Microsoft 365 training page hosts the learning pathways Web part configured 
 For instructions on customizing the learning pathways web part, see [Customize the Learning Experience](custom_overview.md).
 
 ### Get a complete site tour and customization guidance
-For a detailed look at learning pathways, incuding the site, the web part, administrative features, and guidance on how to build unique learning experiences for your environment, see [Customize the Learning Experience](custom_overview.md)
+For a detailed look at learning pathways, including the site, the web part, administrative features, and guidance on how to build unique learning experiences for your environment, see [Customize the Learning Experience](custom_overview.md)
 
 ## Next Steps
 - [Customize the Learning Experience](custom_overview.md)

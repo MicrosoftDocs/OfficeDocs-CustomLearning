@@ -17,7 +17,7 @@ The Custom Learning for Office 365 site is hosted in your Office 365 tenant, so 
 
 1.	Open your Web browser and navigate to office.com or your organization’s sign-in location. 
 2.	Sign in with your user name and password.
-3. 	Navigate to the location of the site. If you don't have it available, you can find it in the mail you recieved from the PnP Provisioning Service. Select SharePoint from the Office 365 Home page, and then select the **Custom Learning for Office 365** site. You may have named it different. 
+3. 	Navigate to the location of the site. If you don't have it available, you can find it in the mail you received from the PnP Provisioning Service. Select SharePoint from the Office 365 Home page, and then select the **Custom Learning for Office 365** site. You may have named it different. 
 5. Click the **Office 365 training** tile to see the full suite of training playlist available with Custom Learning and to verify Custom Learning is working as expected. 
 
 ![goto](media/cg-goto.png)
