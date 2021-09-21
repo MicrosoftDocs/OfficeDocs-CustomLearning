@@ -15,9 +15,9 @@ To successfully install CLO365, the person doing the provisioning of the solutio
 
 1. From the Office 365 Administration portal go to the SharePoint Online Admin Center
 1. **Select** the App Catalog URL from the site collection list
-![Sample window with URL selected.](media/appadmin_url.png)
+![URL of app](media/appadmin_url.png)
 1. Confirm that the CLO365 installer is listed as one of the app catalog administrators.
-![Site collection properties dialog](media/appadmin_dialog.png)
+![App admin dialog](media/appadmin_dialog.png)
 
 If your user name is listed you can return to provisioning the Custom Learning site.  If not complete the next steps. 
 

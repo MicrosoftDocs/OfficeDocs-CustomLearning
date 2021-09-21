@@ -110,7 +110,7 @@ After the PowerShell script is successfully run, you navigate to the site, initi
 
 - Go to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Opening **CustomLearningAdmin.aspx** initializes the **CustomConfig** list item that sets up learning pathways for first use. You should see a page that looks like this:
 
-![Sample configuration page.](media/cg-adminapppage.png)
+![Admin app page](media/cg-adminapppage.png)
 
 ## Add Owners to Site
 As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign a few owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content delivered through the learning pathways Web part. In addition, they'll have the ability to build custom playlist and assign them to custom subcategories.  

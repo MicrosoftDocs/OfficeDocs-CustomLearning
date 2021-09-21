@@ -1,15 +1,15 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Explore the site and default content
+title: Explore the site and its default content
 ms.date: 02/10/2019
-description: Explore the learning pathways site and default content
+description: Explore the learning pathways site and its default content
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
 ---
 
-# Explore the learning pathways site
+# Explore learning pathways site
 
 > Note: To explore the learning pathways site and it's administrative features, you'll need Site Collection Admin, Owner, or Member permissions to the site. If you don't have the neccesary permissions, contact the Site Administrator for the site. The learning pathways site is hosted in your Office 365 tenant, so you'll need to sign in to Office 365 to get to the site. If you haven’t already signed into Office 365, sign in now. 
 
