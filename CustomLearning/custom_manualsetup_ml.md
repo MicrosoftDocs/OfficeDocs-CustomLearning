@@ -55,7 +55,7 @@ If you don't want multilingual support for your site, ensure it's turned off.
 4.	Continue to Step 2.
 
 ## Option 2 - You want multilingual support and you're OK with the default language
-A SharePoint communication site has a default language. The default language determines the language in which you view learning pathways, including the learning pathways Administration page. The default language setting is set when the site is first created and cannot be changed afterward. Before Continueing with the manual setup, ensure you're OK with default language of the target site.
+A SharePoint communication site has a default language. The default language determines the language in which you view learning pathways, including the learning pathways Administration page. The default language setting is set when the site is first created and cannot be changed afterward. Before continuing with the manual setup, ensure you're OK with default language of the target site.
 
 1.	From the SharePoint communication site, select **Settings** > **Site information** > **View all site settings** > **Language settings**. 
 2.	Set the **Enable pages and news to be translated into multiple languages** switch to **On**.
@@ -98,7 +98,7 @@ Ensure the following permissions are set for the site:
 ## Step 6- Execute PowerShell Configuration Script
 A PowerShell script `CustomLearningConfiguration.ps1` is included that you will need to execute to create three [tenant properties](/sharepoint/dev/spfx/tenant-properties) that the solution uses. In addition, the script creates two [single part app pages](/sharepoint/dev/spfx/web-parts/single-part-app-pages) in the site pages library to host the admin and user web parts at a known location.
 
-1. If you haven't already downloaded the SharePoint Online Management Shell, download it now. See [SharePoint Online Management Shell Download](https://go.microsoft.com/fwlink/p/).
+1. If you haven't already downloaded the SharePoint Online Management Shell, download it now. See [SharePoint Online Management Shell Download](https://go.microsoft.com/fwlink/p/?LinkId=255251).
 2. You may need to set a PowerShell execution policy to run the script. For more information, see [About Execution Policies](/powershell/module/microsoft.powershell.core/about/about_execution_policies).
 3. Execute the `CustomLearningConfiguration.ps1` script. In addition to your Tenant Admin credentials, the script will prompt you for your tenant name and site name. Considering the following example for your site URL, `https://contoso.sharepoint.com/sites/O365CL`, `contoso` is the tenant name and `O365CL` is the site name. 
 
@@ -111,7 +111,7 @@ After the PowerShell script is successfully run, you navigate to the site, initi
 
 - Go to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Opening **CustomLearningAdmin.aspx** initializes the **CustomConfig** list item that sets up learning pathways for first use. You should see a page that looks like this:
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+![Admin app page.png](media/cg-adminapppage.png)
 
 ## Add Owners to Site
 As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign a few owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content delivered through the learning pathways Web part. In addition, they'll have the ability to build custom playlist and assign them to custom subcategories.  

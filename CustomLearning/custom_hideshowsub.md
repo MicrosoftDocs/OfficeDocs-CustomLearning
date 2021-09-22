@@ -20,12 +20,12 @@ With the learning pathways administration page, you can hide and show subcategor
 2. From the Microsoft 365 learning pathways Web part, click the Administration icon. 
 3. In the left pane of the page, select a subcategory, and then select the eyeball for the subcategory to hide it. For this example, hide the **Yammer** subcategory.  
 
-![Sample window shows the icon to hide a subcategory.](media/cg-hidesubcat.png)
+![Hide subcategory](media/cg-hidesubcat.png)
 
 ### Verify the subcategory is hidden
 - To verify the subcategory is hidden, select the browser tab with the **Get Started with Microsoft 365** page loaded, and then refresh the page. You should now see the Yammer subcategory hidden in the Products category. 
 
-![Sample window shows that the hidden subcatory is no longer dislayed.](media/cg-hidesubcatrefresh.png)
+![Hide subcategory refresh](media/cg-hidesubcatrefresh.png)
 
 ## Unhide a subcategory 
 

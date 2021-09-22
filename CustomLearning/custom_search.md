@@ -19,5 +19,5 @@ Microsoft 365 learning pathways provides the ability to search for content by su
 
 - Click the **Search** icon and type a Search phrase. 
 
-![Search web page.](media/cg-search.png)
+![Search](media/cg-search.png)
 

@@ -25,7 +25,7 @@ The CustomLearningAdmin.aspx page provides Administrative features for learning 
 1. Click the SharePoint **Settings** icon, and then click **Site Contents** > **Site Pages**. 
 2. Click **CustomLearningAdmin.aspx**. 
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+![Admin app page](media/cg-adminapppage.png)
 
 ## CustomLearningViewer.aspx
 The CustomLearningViewer.aspx page provides a viewer for displaying learning pathways contents in the web part. For example, if you copy a Playlist link and share it with a co-worker, the link, when clicked, takes the user to the Viewer page and displays the linked content. 
@@ -35,5 +35,5 @@ The CustomLearningViewer.aspx page provides a viewer for displaying learning pat
 1. Click the SharePoint **Settings** icon, and then click **Site Contents** > **Site Pages**. 
 2. Click **CustomLearningViewer.aspx**. 
 
-![cg-viewerapppage.png](media/cg-viewerapppage.png)
+![Viewer app page](media/cg-viewerapppage.png)
 

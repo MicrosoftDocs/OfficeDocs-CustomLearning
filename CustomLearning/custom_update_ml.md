@@ -31,7 +31,7 @@ Before updating learning pathways, set the site language settings. To enable mul
 2.	At the bottom of the site information pane, select **View all site settings**.
 3.	Under **Site Administration**, select **Language settings**.
 4.	Under **Enable pages and news to be translated into multiple languages**, set the toggle switch. 
-- For a multiligual site, slide the toggle to **On**, and then proceed to the Add Languages section. 
+- For a multilingual site, slide the toggle to **On**, and then proceed to the Add Languages section. 
 - For an English-only site, slide the toggle to **Off**.
 
 ### Add languages
@@ -57,7 +57,7 @@ In this step, you upload the learning pathways 4.0 web part to the SharePoint Ap
 ### Complete the update
 1.	From the Learning Pathways site, select **Learning pathways administration** from the **Home** menu. 
 2.	You’ll see a prompt asking if you want to update. 
-![custom_update_adminprompt_ml.png](media/custom_update_adminprompt_ml.png)
+![Custom update prompt for admin](media/custom_update_adminprompt_ml.png)
 3.	Click **Start**. 
 4. When the update is complete, click **Close**. 
 

@@ -1,6 +1,6 @@
 ---
-title: 'Champion Program best practices: Establish champions for user adoption'
-description:  Our Champion Program best practices help drive adoption of Office 365.
+title: Champion Program - Best Practices
+description: Drive adoption of Office 365 with the best practices in Champion Program
 author: karuanag
 ms.author: karuanag
 manager: alexb
@@ -40,7 +40,7 @@ Learning via co-workers is among the most effective method of learning in a prof
 
 Champions will help reduce the strain on the resources of the core project team, and help drive engagement throughout the community. They will also:
 
-1. Create a ground swell oif enthusiasm that grows adoption of improved ways of working
+1. Create a ground swell of enthusiasm that grows adoption of improved ways of working
 1. Build a circle of influence amongst their teams
 1. Bring the new ways of working ot life across teams
 1. Identify business challenges and possible solutions

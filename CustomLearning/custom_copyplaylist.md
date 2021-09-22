@@ -19,7 +19,7 @@ Quite often, organizations need to modify a Microsoft-supplied playlist by remov
 3. Under **First Days**, click the **Six Simple Steps - Welcome to Office 365** playlist, and then click **Copy Playlist**. 
 4. Click **Edit Detail**, and then fill in the **Title** and **Description** fields as shown in the following example, then click **Save Detail**.  
  
-![cg-copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
+![Copy playlist 5 steps](media/cg-copyplaylist5steps.png)
 
 ## Add or remove assets from a playlist
 With custom playlists, you can:

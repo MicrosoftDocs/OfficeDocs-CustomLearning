@@ -1,6 +1,6 @@
 ---
 title: Champion Program Best Practices - Real World Guidance
-description: Real World Guidance for your Microsoft 365 Champions Program.
+description: Drive adoption of Office 365 with the best practices of the Champion Program
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019

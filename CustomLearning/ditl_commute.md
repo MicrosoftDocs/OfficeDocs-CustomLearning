@@ -1,6 +1,6 @@
 ---
 title: Day in the Life with Office 365 - On Your Commute
-description: Steps to be ready for the day at hand with Office 365.
+description: Quick steps to get ready for the day at hand with Office 365
 author: karuanag
 ms.author: karuanag
 manager: alexb
