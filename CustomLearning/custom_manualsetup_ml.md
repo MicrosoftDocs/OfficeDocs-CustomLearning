@@ -55,7 +55,7 @@ If you don't want multilingual support for your site, ensure it's turned off.
 4.	Continue to Step 2.
 
 ## Option 2 - You want multilingual support and you're OK with the default language
-A SharePoint communication site has a default language. The default language determines the language in which you view learning pathways, including the learning pathways Administration page. The default language setting is set when the site is first created and cannot be changed afterward. Before Continueing with the manual setup, ensure you're OK with default language of the target site.
+A SharePoint communication site has a default language. The default language determines the language in which you view learning pathways, including the learning pathways Administration page. The default language setting is set when the site is first created and cannot be changed afterward. Before continuing with the manual setup, ensure you're OK with default language of the target site.
 
 1.	From the SharePoint communication site, select **Settings** > **Site information** > **View all site settings** > **Language settings**. 
 2.	Set the **Enable pages and news to be translated into multiple languages** switch to **On**.
