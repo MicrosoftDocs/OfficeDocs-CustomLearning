@@ -17,7 +17,7 @@ In some cases, you’ll want to create a new subcategory. For example, if the Fi
 3. Scroll down the page, 
 3. Click the **Add new Subcategory +** icon.  
 
-![cg-newsubcategory.png](media/cg-newsubcategory.png)
+![New subcategory](media/cg-newsubcategory.png)
 
 > [!TIP]
 > Microsoft-provided subcategories can be hidden, but not edited or deleted. 

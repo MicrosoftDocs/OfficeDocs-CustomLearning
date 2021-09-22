@@ -1,6 +1,6 @@
 ---
 title: Day in the Life with Office 365 - Collaborating with Colleagues
-description: Get ready for your day ahead with Office 365
+description: Quick steps to establish readiness for the day at hand with Office 365
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019

@@ -17,16 +17,16 @@ In some cases, you’ll want to hide content for a technology that’s not suppo
 ## Hide a Technology
 
 1. From the Microsoft 365 learning pathways **Home** page, click the **Recommended playlists** tile.
-2. From the Custom Learning Web part, select the **Aministration** icon.
+2. From the Custom Learning Web part, select the **Administration** icon.
 3. In the dropdown list box in the upper-right section of the **Administration** page, select **Technology**.
 For this example, click **Yammer** in the left pane of the page, then click the eyeball next to Yammer.  
 
-![Sample window shows a technology category marked with the icon to hid it.](media/cg-hidetech.png)
+![Hide technology](media/cg-hidetech.png)
 
 ### Verify the playlist is hidden
 - To verify **Yammer** technology is hidden, select the browser tab with the **Recommended playlists** page loaded, and then refresh the page. You'll notice that the **Connect your organization with Yammer** playlist is hidden. 
 
-![Sample window shows that the hidden technology is no longer listed.](media/cg-hidetechrefresh.png)
+![Hide technology refresh](media/cg-hidetechrefresh.png)
 
 ## Unhide a Technology
 

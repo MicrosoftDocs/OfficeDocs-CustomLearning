@@ -1,6 +1,6 @@
 ---
 title: Champion Program Best Practices - Collect Feedback
-description:  Best practices to drive adoption of Office 365.
+description: Drive adoption of Office 365 with the best practices of Champion Program
 author: karuanag
 ms.author: karuanag
 manager: alexb
