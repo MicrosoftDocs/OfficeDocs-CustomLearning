@@ -12,6 +12,197 @@ audience: itpro
 # Microsoft 365 Learning Pathways Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).  
 
+## September 2021 Content Updates
+The following lists the content updates for September 2021.
+
+### Microsoft Edge
+A Microsoft Edge subcategory has been added with three new playlists.
+
+#### Get started (new)
+- Get to know Microsoft Edge (new)
+- Add a site to my favorites in Microsoft Edge (new)
+- Find the settings/tools/internet options in Microsoft Edge (new)
+- Change your default search engine (new)
+- Accessibility features in Microsoft Edge (new)
+- Sign in to sync Microsoft Edge across devices (new)
+
+#### Personalize (new)
+- Change your browser home page (new)
+- Find, add, or remove extensions in Microsoft Edge (new)
+- Use the dark theme in Microsoft Edge (new)
+- Use Microsoft Edge in another language (new)
+- Increase default text size in Microsoft Edge (new)
+
+#### Privacy (new)
+- Configure your privacy settings so they're right for you (new)
+- Learn about tracking prevention (new)
+- Browse InPrivate (new)
+- View and delete browser history in Microsoft Edge (new)
+- Block pop-ups in Microsoft Edge (new)
+- Delete cookies in Microsoft Edge (new)
+
+### Collaboration (new)
+A Collaboration subcategory has been added with one new playlist.
+
+#### Collaboration (new)
+- Get started (new)
+- Share (new)
+- Co-author (new)
+- Comment (new)
+- Meet (new)
+- Mobile (new)
+
+### Teams
+The following playlists and assets have been updated in Microsoft Teams in learning pathways.
+
+#### Intro to Microsoft Teams (updated)
+- Welcome to Microsoft Teams (updated video)
+
+#### Manage team schedules with Shifts (updated)
+- What is Shifts? (updated video)
+- Create a Shifts schedule (updated video)
+- Manage and view a Shifts schedule (updated video)
+- Shifts for managers (retired)
+- Shifts for Firstline workers (retired)
+
+#### Set up and customize your team (updated)
+- Create a team with team templates (new video)
+
+#### Create and manage bookings (updated)
+- What is Bookings? (new video)
+- Create a Bookings calendar (new video)
+- Add staff and view a Bookings calendar (new video)
+- Create appointment types (new video)
+- Conduct a Bookings appointment (new video)
+- Join a Bookings appointment as an attendee (new video)
+
+#### Create approvals
+- Create an approval request with a template (new video/new asset)
+- Discover templates in Approvals (new video/new asset)
+- Create org-wide templates (new video/new asset)
+
+#### Start chats and make calls (updated)
+- Make calls (updated video)
+- Overview of Teams calls (new video/new asset)
+- Tips for Teams calls (new video/new asset)
+
+#### Collaborate in teams and channels (updated)
+- Create a channel (new video/new asset)
+- Work on a file together (retired)
+
+#### Manage meetings (updated)
+- Show your screen during a meeting (updated video)
+- Meet instantly (new video/new asset)
+- Schedule a webinar (new video/new asset)
+- Meet in a channel (retired)
+- Move around during a Teams meeting (retired)
+
+#### Upload and find files (updated)
+- Find and filter files (retired)
+
+#### Start chats and make calls (updated)
+- Start and pin chats (updated video)
+
+#### Work with posts and messages (updated)
+- Create and format a post (updated video)
+- Get attention with @mentions (retired)
+
+#### Explore apps and tools (updated)
+- Find and use apps (updated video)
+- Turn a file into a tab (retired)
+- Use the Tasks app in Teams (retired)
+
+#### Create approvals
+- Discover templates in Approvals (new video)
+
+#### Walkie Talkie (retired)
+- Walkie Talkie (retired)
+- Use the Task app in Teams (retired)
+- Tasks for managers (retired)
+- Tasks for Firstline workers (retired)
+- Communication and Praise (retired)
+
+### Outlook
+The following playlists and assets have been updated in Outlook in learning pathways.
+
+#### Create and send email (updated)
+- Create, send, and reply to an email (updated video)
+- Send and receive attachments (updated video)
+
+#### Manage email (updated)
+- Clean up your inbox (updated video)
+- Set-up auto-reply (out of office) (updated video)
+- Ignore email conversations (updated video)
+
+#### Organize your inbox (updated)
+- Organize email by using folders (updated video)
+
+### Word
+The following playlists and assets have been updated in Word in learning pathways.
+
+#### Lay out pages (updated)
+- Insert a table of contents (updated video)
+- Insert page numbers (updated video)
+- Change margins (updated video)
+
+#### Improve accessibility and ease of use (updated)
+- Learning tools in Word (updated)
+
+### Excel
+The following playlists and assets have been updated in Excel in learning pathways.
+
+#### Intro to Excel (updated)
+- Create a new workbook (updated video)
+
+#### Share and coauthor (updated)
+- Share your Excel workbook with others (updated video)
+- Save or convert to PDF (new video)
+
+#### Charts (updated)
+- Add a trend or moving average line to a chart (updated video)
+
+#### Rows & columns (updated)
+- Select cell contents in Excel (updated video)
+
+#### Formatting
+- Add a watermark in Excel (updated video)
+
+### PowerPoint
+The following playlists and assets have been updated in PowerPoint in learning pathways.
+
+#### Intro to PowerPoint
+- Add and format text (updated video)
+
+#### Share & co-author (updated)
+- Save PowerPoint presentations as PDF files (updated video)
+- Save a presentation as a video (updated video)
+
+#### Animation, video & audio (updated)
+- Animate text or objects (updated video)
+
+#### Slide and layout (updated)
+- Apply a slide layout (updated video)
+
+#### Present slide shows (updated)
+- Add speaker notes to your slides (updated video)
+
+#### Pictures and graphics (updated)
+- Insert a picture in PowerPoint (updated video)
+
+### Microsoft 365 (basics)
+The following playlists and assets have been updated in Microsoft 365 (basics) in learning pathways.
+
+#### Get started with Microsoft 365 (updated)
+- Get started at Office.com (updated video)
+- Sign in (new video)
+- Save files to the cloud (retired)
+
+#### Create and save (updated)
+- Save files to the cloud (retired)
+- Using the Desktop apps (updated video)
+- Work on the web (new video)
+- Sync Files on Demand with OneDrive (retired)
+
 ## May 2021 Content Updates
 The following lists the content updates for May 2021.    
 
@@ -249,133 +440,3 @@ All SharePoint playlists and assets have been updated. The updated playlists inc
 - Intro to SharePoint Online
 - Create sites, posts, and lists
 - Share and sync with SharePoint
-
-## September 2020 Content Updates
-The following lists the content updates for September 2020. 
-
-### Security
-A new security subcategory has been added with playlists and assets to help users work more securely in the office and at home. 
-
-![learning pathways security playlist](media/cg-security-playlist.png)
-
-#### "Five simple steps" playlist
-- Protect yourself from phishing
-- Avoid tech support scams
-- Work from home more securely
-- Keep your PC up to date
-- Stay protected with Windows security
-
-#### "Security at home" playlist
-- Tips to keep your data safe
-- Keep your computer safe at home
-- Help protect your family online with Windows Security   
-
-#### "Security at work" playlist
-- Keep your computer secure at work
-- What is Multi-factor Authentication?
-- Firewall and network protection in Windows security
-- Prevent changes in security settings with Tamper Protection
-
-### "Get started with Teams" playlist
-A new "Get Started with Teams" playlist has been added to the "Get Started/First Days" subcategory to help users get up and running with Teams. The playlist includes:
-- Welcome to Microsoft Teams  
-- Get your team up and running
-- Work in channels  
-- Upload and share files 
-- Start and pin chats  
-- Join a Teams meeting 
-- Manage meetings 
- 
-### Microsoft 365 Basics
-In the Products category, the "Office 365 Basics" subcategory has been updated to the "Microsoft 365 Basics" category. Retired assets in the "Office 365 Basics" category are still available if they've been added to a custom playlist.
-
-#### "Get started" playlist
-- What is Microsoft 365?
-- Sign in
-- Office.com
-
-#### "Create and save" playlist
-- Using the desktop apps
-- Using Office.com apps
-- Save files to the cloud
-- Sync Files on Demand with OneDrive
-
-#### "Share and collaborate" playlist
-- Share files in Microsoft 365
-- Co-author
-- Use @mentions
-- Follow-ups
-
-#### "Work with Microsoft Teams" playlist
-- Welcome to Microsoft Teams
-- Overview of teams and channels
-- Create and format a post
-- Start and pin chats
-- Make calls
-- Join a Teams meeting
-- Tips for better meetings
-
-#### "Get the most out of Windows" playlist
-- Find your documents, apps, and more with Search
-- Microsoft Edge
-- Microsoft Search in Bing
-
-#### "Work from anywhere" playlist
-- OneDrive mobile app
-- Outlook mobile app
-
-#### "Cool Microsoft 365 features" playlist
-- PowerPoint Designer
-- Ideas in Excel
-- Editor in Word
-- Make your content accessible
-
-### "Create a chart" playlist in Access
-A "Create a chart playlist" has been added to the "Products\Access" subcategory.  
-- Create a column chart
-- Create a bar chart
-- Create a line chart
-- Create a pie chart
-- Create a combo chart
-
-### Teams updates
-The "Product\Microsoft Teams" subcategory has been updated with the following assets. 
-
-#### "Manage meetings" playlist
-- Join a Teams meeting
-#### "Work with posts and messages" playlist
-- Create and format a post
-
-### Planner 
-The follow assets have been added to the "Use Planner" playlist in "Products\Planner".
-#### Use Planner playlist
-- To Do vs Planner
-- See your Planner Tasks in To Do
-- Use the Tasks App in Teams
-
-### Word
-The following asset has been updated in the "Share and co-author with Word" playlist.
-
-#### "Share and co-author with Word" playlist
-- "Collaborate on Word documents with real-time co-authoring" asset has been updated. 
-
-### Office for the web
-The following asset has been updated in the "Office for the web: Word for the web" playlist.
-
-#### "Office for the web: Word for the web" playlist
-- Transcribe your recordings
-
-### PowerPoint (new, updated)
-The following assets have been updated or added to the Products\PowerPoint playlists. 
-
-#### "Text & tables with PowerPoint" playlist
-- Change handwritten ink to shapes, text, or math in PowerPoint (new)
-
-#### Present slideshows playlist
-- Record a presentation (updated)
-
-### Office Quick Start guides (updated)
-The Office Quick Start guides for all the Office products have been updated. 
-
-For more information about how to customize Learning Pathways, see [Customize learning pathways](custom_overview.md). 
-
