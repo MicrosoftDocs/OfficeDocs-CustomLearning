@@ -14,7 +14,7 @@ ms.topic: article
 Microsoft 365 learning pathways is a customizable, on-demand learning solution designed to increase usage and adoption of Microsoft 365 services in your organization.       
 
 > [!IMPORTANT]
-> Learning pathways strives to adhere to a quarterly content update cycle. As of 5/19/2021, we've updated the learning pathways content for our May content update. To learn more about the May content update, see [Content Updates](custom_contentupdates.md). To learn about how content updates are applied and how to manage content them, see [Manage Content Updates](custom_contentupdatesmanage.md).  
+> Learning pathways strives to adhere to a quarterly content update cycle. As of 9/30/2021, we've updated the learning pathways content for our May content update. To learn more about the September content update, see [Content Updates](custom_contentupdates.md). To learn about how content updates are applied and how to manage content them, see [Manage Content Updates](custom_contentupdatesmanage.md).  
 
 ## On-demand, custom training from Microsoft
 
