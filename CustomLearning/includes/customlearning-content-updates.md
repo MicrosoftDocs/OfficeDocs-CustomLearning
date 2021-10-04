@@ -2,6 +2,17 @@
 
 
 
+## Week of September 27, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 9/30/2021 | [Learning pathways Content Updates](/Office365/CustomLearning/custom_contentupdates) | modified |
+| 9/30/2021 | [Learning pathways Feature Updates](/Office365/CustomLearning/custom_featureupdates) | modified |
+| 9/30/2021 | [Microsoft 365 learning pathways FAQ](/Office365/CustomLearning/faq) | modified |
+| 10/1/2021 | [Overview of Microsoft 365 learning pathways](/Office365/CustomLearning/index) | modified |
+
+
 ## Week of September 20, 2021
 
 
