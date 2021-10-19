@@ -15,7 +15,7 @@ The following includes feature updates for learning pathways version 4.0.
 
 ## September 2021 feature updates
 
-March 2021 feature updates include:
+September 2021 feature updates include:
 
 - The SharePoint look book communication site package has been updated with v4.3 webpart.
 - The [tabs in Dutch language](https://github.com/pnp/custom-learning-office-365/issues/566) issue has been fixed.
