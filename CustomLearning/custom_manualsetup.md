@@ -95,7 +95,8 @@ Ensure the following permissions are set for the site:
 - **Visitors group** - permissions required to view site content. 
 
 ## Step 6- Execute PowerShell Configuration Script
-A PowerShell script `CustomLearningConfiguration.ps1` is included that you will need to execute to create three [tenant properties](/sharepoint/dev/spfx/tenant-properties) that the solution uses. In addition, the script creates two [single part app pages](/sharepoint/dev/spfx/web-parts/single-part-app-pages) in the site pages library to host the admin and user web parts at a known location.
+A PowerShell script `M365LPConfiguration.ps1` is included that you will need to execute to create three [tenant properties](/sharepoint/dev/spfx/tenant-properties) that the solution uses. In addition, the script creates two [single part app pages](/sharepoint/dev/spfx/web-parts/single-part-app-pages) in the site pages library to host the admin and user web parts at a known location.
+# NOTE: DoD edit line numbers 37 & 54 to sharepoint-mil.us
 
 1. If you haven't already downloaded the SharePoint Online Management Shell, download it now. See [SharePoint Online Management Shell Download](https://go.microsoft.com/fwlink/p/?LinkId=255251).
 2. You may need to set a PowerShell execution policy to run the script. For more information, see [About Execution Policies](/powershell/module/microsoft.powershell.core/about/about_execution_policies).
