@@ -1,4 +1,4 @@
-{:allowed-branchname-matches ["master"]
+{:allowed-branchname-matches ["master" "main"]
  :allowed-filename-matches ["CustomLearning/"]
  
  :guidance-profile "d2b6c2c8-00ee-47f1-8d10-b280cc3434c1" ;; Profile ID for "M365-specific"
@@ -23,12 +23,12 @@
 **A minimum Acrolinx score of 20 is required.**
  
 Click the scorecard links for each article to review the Acrolinx feedback on grammar, spelling, punctuation, writing style, and terminology:
-| Article | Score | Issues | Scorecard | Processed |
-| ------- | ----- | ------ | --------- | --------- |
+| Article | Score | Issues | Spelling<br>issues | Scorecard | Processed |
+| ------- | ----- | ------ | ------ | --------- | --------- |
 "
 
  :template-change
- "| ${s/file} | ${acrolinx/qualityscore} | ${acrolinx/flags/issues} | [link](${acrolinx/scorecard}) | ${s/status} |
+ "| ${s/file} | ${acrolinx/qualityscore} | ${acrolinx/flags/issues} | ${acrolinx/flags/spelling} | [link](${acrolinx/scorecard}) | ${s/status} |
 "
  
  :template-footer
