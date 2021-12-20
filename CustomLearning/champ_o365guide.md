@@ -21,5 +21,4 @@ For further learning on this subject, utilize the [Microsoft 365 End User Adopti
 - Awareness
 - Training 
 - Plan, implement, and manage Change
-- 
 - We update this guide frequently to incorporate new information.
