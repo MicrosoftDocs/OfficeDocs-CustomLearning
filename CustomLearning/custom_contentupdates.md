@@ -12,6 +12,13 @@ audience: itpro
 # Microsoft 365 Learning Pathways Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).  
 
+## February 2022 Content Updates
+The following lists the content updates for February 2022.
+
+- Updated images for learning pathways product playlists
+- Updated descriptions for learning pathways playlists to improve search relevance
+- A content update to the Admin Success Center's "What's New/What's Changed" playlist to reflect the latest changes
+
 ## September 2021 Content Updates
 The following lists the content updates for September 2021.
 
