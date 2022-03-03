@@ -76,4 +76,4 @@ Share your experience with Microsoft 365 learning pathways in our Driving Adopti
 
 ## Give us Feedback
 
-Do you have requests for new features or content in the Custom Learning portal? Visit our online UserVoice where you can vote for existing suggestions or add your own. Find our UserVoice instance at https://aka.ms/AdoptionTools.
+Do you have requests for new features or content in the Custom Learning portal? Visit our online Community and Adoption Feedback Portal where you can vote for existing suggestions or add your own. Find our Feedback Portal at https://aka.ms/CommunityandAdoptionFeedback.
