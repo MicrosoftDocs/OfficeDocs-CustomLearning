@@ -22,7 +22,7 @@ ms.topic: article
 ## Why is Microsoft asking for tenant permissions when installing Microsoft 365 learning pathways?
 
 The SharePoint Online Provisioning service uses the permissions to provision the Learning Pathways SharePoint site, create the pages of the site, and to install the Microsoft 365 learning pathways application within their tenant. That's the only reason why we request the permissions. Without the requested permissions the SharePoint Provision Service cannot execute the commands that automatically install the learning pathways site template and web part.
-![Screenshot of permissions request](media/faqs-permissions-request-screenshot.png "Permissions request")
+
 If you still have concerns about this level of access, you can grant the permissions and deploy whichever site templates you are interested in, and then immediately remove the granted permissions to the app in the [Azure app store](https://myapps.microsoft.com).
 
 ## How long will it take to install the site in our tenant environment?
