@@ -14,7 +14,7 @@ ms.service: sharepoint-online
 
 ![Microsoft 365 Adoption Guide](media/m365euguide.png)
 
-For further learning on this subject, utilize the [Microsoft 365 End User Adoption Guide](https://aka.ms/adoptionguide). This guide lays out the steps toward driving end-user adoption across the following key areas:
+For further learning on this subject, utilize the [Microsoft 365 End User Adoption Guide](https://adoption.microsoft.com/files/assets/M365AdoptionGuide.pdf). This guide lays out the steps toward driving end-user adoption across the following key areas:
 
 - Stakeholders
 - Scenarios
