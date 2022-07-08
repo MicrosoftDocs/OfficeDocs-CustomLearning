@@ -37,7 +37,7 @@ Before you provision learning pathways, ensure that the Admin Account for the te
 
 ### To provision learning pathways
 
-1. Go to the [Microsoft 365 learning pathways solution page](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
+1. Go to the [Microsoft 365 learning pathways solution page](https://adoption.microsoft.com/microsoft-365-learning-pathways/).
 2. Click **Add to your tenant**. If you aren't signed into to your tenant, the Provisioning Service will ask for your Tenant Admin credentials. 
 3. From the Permissions requested dialog box, select **Consent on behalf of your organization** and then select **Accept**.
 

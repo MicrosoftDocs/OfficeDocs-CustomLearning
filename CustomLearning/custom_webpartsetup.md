@@ -16,7 +16,7 @@ With the SharePoint Online Provisioning Service, an Office 365 Tenant Administra
 
 ## Prerequisites
  
-To successfully set up Custom Learning with the Provisioning Service [SharePoint Online Provisioning Service](https://provisioning.sharepointpnp.com), the person doing the provisioning must meet the following pre-requisites: 
+To successfully set up Custom Learning with the Provisioning Service [SharePoint Online Provisioning Service](https://github.com/SharePoint/sp-provisioning-service), the person doing the provisioning must meet the following pre-requisites: 
  
 - The person provisioning Custom Learning must be a Tenant Administrator of the tenant where Custom Learning will be provisioned.  
 - A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization does not have an SharePoint tenant App catalog, refer to the [SharePoint Online documentation](/sharepoint/use-app-catalog) to create one.  
@@ -24,7 +24,7 @@ To successfully set up Custom Learning with the Provisioning Service [SharePoint
 
 ### To provision Custom Learning
 
-1. Go to http://provisioning.sharepointpnp.com and **sign in** from the upper right hand corner of the home page.  Sign in with the  credentials for the targeted tenant where you plan to install the site template.
+1. Go to `http://provisioning.sharepointpnp.com` and **sign in** from the upper right hand corner of the home page.  Sign in with the  credentials for the targeted tenant where you plan to install the site template.
 ![Provisioning service main page.](media/inst_signin.png)
 
 2. Clear the **Consent on behalf of your organization** and select **Accept**.
