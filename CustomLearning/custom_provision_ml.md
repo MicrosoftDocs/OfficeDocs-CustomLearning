@@ -109,5 +109,5 @@ If you don’t want a multilingual site, for example, you want an English-only s
 - Under **Enable pages and news to be translated**, select **Off**. 
 
 ### Add languages
-Learning pathways supports 9 languages, but it’s recommended that you add only the languages you need to support for the learning pathways site. You can add langauges at any time. 
+Learning pathways supports 9 languages, but it’s recommended that you add only the languages you need to support for the learning pathways site. You can add languages at any time. 
 - Under **Add or remove site languages**, start typing a language name in **Select or type a language**, or choose a language from the dropdown. You can repeat this step to add multiple languages. You can add or remove languages from your site at any time by going back to this page.
