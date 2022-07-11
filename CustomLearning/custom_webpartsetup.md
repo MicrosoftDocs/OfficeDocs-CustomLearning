@@ -16,15 +16,15 @@ With the SharePoint Online Provisioning Service, an Office 365 Tenant Administra
 
 ## Prerequisites
  
-To successfully set up Custom Learning with the Provisioning Service [SharePoint Online Provisioning Service](https://provisioning.sharepointpnp.com), the person doing the provisioning must meet the following pre-requisites: 
+To successfully set up Custom Learning with the Provisioning Service [SharePoint Online Provisioning Service](https://github.com/SharePoint/sp-provisioning-service), the person doing the provisioning must meet the following pre-requisites: 
  
 - The person provisioning Custom Learning must be a Tenant Administrator of the tenant where Custom Learning will be provisioned.  
-- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization does not have an SharePoint tenant App catalog, refer to the [SharePoint Online documentation](/sharepoint/use-app-catalog) to create one.  
+- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization does not have a SharePoint tenant App catalog, refer to the [SharePoint Online documentation](/sharepoint/use-app-catalog) to create one.  
 - The person provisioning Custom Learning must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning Custom Learning is not a Site Collection Owner of the App Catalog [complete these instructions](addappadmin.md) and continue. 
 
 ### To provision Custom Learning
 
-1. Go to http://provisioning.sharepointpnp.com and **sign in** from the upper right hand corner of the home page.  Sign in with the  credentials for the targeted tenant where you plan to install the site template.
+1. Go to `http://provisioning.sharepointpnp.com` and **sign in** from the upper right hand corner of the home page.  Sign in with the  credentials for the targeted tenant where you plan to install the site template.
 ![Provisioning service main page.](media/inst_signin.png)
 
 2. Clear the **Consent on behalf of your organization** and select **Accept**.
@@ -53,7 +53,7 @@ To successfully set up Custom Learning with the Provisioning Service [SharePoint
 
 ## Validate Provisioning Success
 
-When provisioning is complete, the Tenant Admin receives an email from the PnP Provisioning Service. The admin can copy the link to the site provided in the email, and then follow the instructions to go to the site. Alternately, the tenant admin can navigate to YOUR-SITE-COLLECTION-URL/SitePages/CustomLearningAdmin.aspx. This initializes the CustomConfig list item that sets up Custom Learning for its first use. The person who first opens this page must be a Tenant Admin,Site Collection Admin, or Owner of the site. You should see a page that looks like this: 
+When provisioning is complete, the Tenant Admin receives an email from the PnP Provisioning Service. The admin can copy the link to the site provided in the email, and then follow the instructions to go to the site. Alternately, the tenant admin can navigate to YOUR-SITE-COLLECTION-URL/SitePages/CustomLearningAdmin.aspx. This initializes the CustomConfig list item that sets up Custom Learning for its first use. The person who first opens this page must be a Tenant Admin, Site Collection Admin, or Owner of the site. You should see a page that looks like this: 
 
 ## Add Owners to Site
 As the Tenant Admin, it's unlikely you'll be the person customizing the site, so you'll need to assign Owners to the site. Owners have administrative privileges on the site so they can modify site pages and rebrand the site. They also have the ability to hide and show content delivered through the Custom Learning Web part. They'll also have the ability to build custom playlist and assign them to custom subcategories.  

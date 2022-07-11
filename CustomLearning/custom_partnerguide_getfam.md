@@ -20,7 +20,7 @@ You can use demos.microsoft.com to create a demo environment where you can provi
 
 ## 2. Provision Microsoft 365 learning pathways
 You can provision learning pathways with the SharePoint Online Provisioning Service.
-- To provision learning pathways, go to the [Microsoft 365 learning pathways](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239) solution page. Review the [Learning pathways setup options](./custom_setupoptions.md). 
+- To provision learning pathways, go to the [Microsoft 365 learning pathways](https://adoption.microsoft.com/en-us/microsoft-365-learning-pathways/) solution page. Review the [Learning pathways setup options](./custom_setupoptions.md). 
 - Review the [Solution Prerequisites](./custom_provision.md) – as these are common impediments for customer new to SharePoint who may not have all the correct permissions or necessary environment configuration in place, such as a tenant app catalog.
 - Try to deploy the solution via a non-Administrator role – to familiarize yourself with the provisioning service error-handling and email service.
 
