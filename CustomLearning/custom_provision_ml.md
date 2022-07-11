@@ -22,7 +22,7 @@ Organizations that that don’t have learning pathways provisioned in their tena
 To successfully set up Microsoft 365 learning pathways with the Provisioning Service, the person doing the provisioning must meet the following pre-requisites: 
  
 - The person provisioning learning pathways must be a Tenant Administrator of the tenant where learning pathways will be provisioned.  
-- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization doesn't have an SharePoint tenant App Catalog, refer to the [SharePoint Online documentation](/sharepoint/use-app-catalog) to create one. You must wait at least two hours after creating the App Catalog before provisioning learning pathways.  
+- A tenant App Catalog must be available within the Apps option of the SharePoint Admin Center. If your organization doesn't have a SharePoint tenant App Catalog, refer to the [SharePoint Online documentation](/sharepoint/use-app-catalog) to create one. You must wait at least two hours after creating the App Catalog before provisioning learning pathways.  
 - The person provisioning learning pathways must be a Site Collection Owner of the Tenant App Catalog. If the person provisioning learning pathways is not a Site Collection Owner of the App Catalog, [complete these instructions](addappadmin.md) and continue. 
 
 ## Ensure the Tenant Admin account doesn't have a language selected
@@ -37,7 +37,7 @@ Before you provision learning pathways, ensure that the Admin Account for the te
 
 ### To provision learning pathways
 
-1. Go to the [Microsoft 365 learning pathways solution page](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
+1. Go to the [Microsoft 365 learning pathways solution page](https://adoption.microsoft.com/microsoft-365-learning-pathways/).
 2. Click **Add to your tenant**. If you aren't signed into to your tenant, the Provisioning Service will ask for your Tenant Admin credentials. 
 3. From the Permissions requested dialog box, select **Consent on behalf of your organization** and then select **Accept**.
 
@@ -109,5 +109,5 @@ If you don’t want a multilingual site, for example, you want an English-only s
 - Under **Enable pages and news to be translated**, select **Off**. 
 
 ### Add languages
-Learning pathways supports 9 languages, but it’s recommended that you add only the languages you need to support for the learning pathways site. You can add langauges at any time. 
+Learning pathways supports 9 languages, but it’s recommended that you add only the languages you need to support for the learning pathways site. You can add languages at any time. 
 - Under **Add or remove site languages**, start typing a language name in **Select or type a language**, or choose a language from the dropdown. You can repeat this step to add multiple languages. You can add or remove languages from your site at any time by going back to this page.
