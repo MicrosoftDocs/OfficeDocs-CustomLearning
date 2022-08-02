@@ -12,6 +12,34 @@ audience: itpro
 # Microsoft 365 Learning Pathways Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).  
 
+## August 2021 Content Updates
+The following lists the content updates for August 2022.
+
+### Viva Connections
+A Viva Connections subcategory has been added to Learning Pathways for the August update. Microsoft Viva Connections provides a personalized and actionable home base that allows you to complete daily employee tasks, stay connected to company news, and access resources—all without leaving your hub for teamwork.
+
+#### Get started with Viva Connections
+The Get started with Viva Connections playlist contains the following assets.
+- Your intranet is now in Microsoft Teams
+- Viva Connections on your desktop
+- Viva Connections on the go
+
+### Viva Learning
+A Viva Learning subcategory has been added to Learning Pathways for the August update. Viva Learning creates a central hub for learning in Teams where people can share, recommend, and learn from content libraries across an organization to empower teams and individuals to make learning a natural part of their day.
+
+#### Get started with Viva Learning
+The Get started with Viva Learning playlist contains the following assets.
+- Viva Learning Overview
+- Social learning with Viva Learning
+- Discover Viva Learning content
+- Personalize your learning with Viva Learning
+- Recommend and manage content in Viva Learning
+- Learning content providers for Viva Learning
+- Bring your own content to Viva Learning
+
+### Updates to the Learning Pathways SharePoint template
+The link to the Downloadable Adoption Kit in the Learning Pathways Admin Success Center has been updated in the Learning Pathways SharePoint template. For those who have already provisioned the Learning Pathways template, the easiest fix is to change the link to [https://aka.ms/M365LPAdoptionKit](https://aka.ms/M365LPAdoptionKit).
+
 ## February 2022 Content Updates
 The following lists the content updates for February 2022.
 
