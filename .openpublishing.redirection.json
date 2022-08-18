@@ -9,6 +9,11 @@
       "source_path": "CustomLearning/sitesetup.md",
       "redirect_url": "/Office365/CustomLearning/custom_setupoptions",
       "redirect_document_id": false
-   }                                              
+   },
+   {
+    "source_path": "CustomLearning/champ_o365program.md",
+    "redirect_url": "/Office365/CustomLearning/champ_m365program",
+    "redirect_document_id": true
+  }                                              
   ] 
 }
