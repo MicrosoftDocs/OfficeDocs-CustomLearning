@@ -2,6 +2,14 @@
 
 
 
+## Week of August 15, 2022
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 8/17/2022 | [Champion Program Best Practices - Join the Microsoft 365 Champions program](/Office365/CustomLearning/champ_o365program) | modified |
+
+
 ## Week of August 01, 2022
 
 
