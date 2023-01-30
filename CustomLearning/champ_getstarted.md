@@ -42,6 +42,6 @@ Champions will help reduce the strain on the resources of the core project team,
 
 1. Create a ground swell of enthusiasm that grows adoption of improved ways of working
 1. Build a circle of influence amongst their teams
-1. Bring the new ways of working ot life across teams
+1. Bring the new ways of working to life across teams
 1. Identify business challenges and possible solutions
 1. Provide feedback to the project team and sponsors
