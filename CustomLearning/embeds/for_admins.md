@@ -23,6 +23,6 @@ ms.topic: article
 
 ## Links for Office 365 Administrators
 - [[Microsoft 365 Roadmap](https://aka.ms/M365Roadmap)
-- [Technical Documentation](https://docs.microsoft.com)
+- [Technical Documentation](/)
 - [FastTrack Service Deployment support](https://www.microsoft.com/fasttrack)
 -
