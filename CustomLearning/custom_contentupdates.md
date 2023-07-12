@@ -13,6 +13,37 @@ audience: itpro
 Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).  
 
 ## August 2022 Content Updates
+The following lists the content updates for June 2023.
+
+### Microsoft Loop
+A Microsoft Loop subcategory has been added to Learning Pathways for the June 2023 update. Loop combines a powerful and flexible canvas with portable components that move freely and stay in sync across applications — enabling teams to think, plan, and create together.
+
+#### Get started with Microsoft Loop
+The Get started with Microsoft Loop playlist contains the following assets.
+- Get started with Microsoft Loop
+- Introduction to Loop components
+- How to send a Loop component in Microsoft Teams
+- Editing Loop components in Whiteboard
+- Using Loop components in Outlook
+- Using Loop components in Word for the web
+
+### Viva Goals
+A Microsoft Viva Goals subcategory has been added to Learning Pathways for the June 2023 update. Viva Goals is a goal setting and management solution that aligns teams to your organization’s strategic priorities, driving results, and a thriving business. It enables individuals and companies to organize and track their goals through “Objectives and Key Results” (OKRs).
+
+#### Get started with Viva Goals
+The Get started with Viva Goals playlist contains the following assets.
+- Introducing Microsoft Viva Goals
+- Viva Goals quick start
+- Quick start in Teams
+- Quick start for Executives
+- Collaborate with Viva Goals
+- Create OKRs with Viva Goals
+- Check-in with Viva Goals
+- Close with Viva Goals
+- Engage with Viva Goals
+- Review dashboards with Viva Goals
+
+## August 2022 Content Updates
 The following lists the content updates for August 2022.
 
 ### Viva Connections
