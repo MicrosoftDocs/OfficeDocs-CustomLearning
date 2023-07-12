@@ -27,7 +27,7 @@ Using the following scenarios in your communication campaign will help engage us
 - Provide a chat-based workspace with Teams
 - Save and share files
 - Share sites and content
-- Connect your organization with Yammer
+- Connect your organization with Viva Engage
 
 ## Use the downloadable Adoption Kit
 To assist you with executing your Microsoft 365 learning pathways communication campaign, use the [downloadable Adoption Kit](https://adoption.microsoft.com/files/m365lp/m365lpadoptionkit.zip). It contains:
@@ -46,7 +46,7 @@ At a minimum, to ensure success, we recommend you:
 - Communicate about the launch of the Microsoft 365 learning pathways site to your employees.
 - Connect Microsoft 365 learning pathways to common tasks that your employees can learn or improve upon.
 - Sustain the communications campaign over a period of time so employees have an opportunity to understand the message.
-- Encourage feedback through a Yammer community or Microsoft Team.
+- Encourage feedback through a Viva Engage community or Microsoft Team.
 - Reach out to key business leaders in your organization and encourage them to build playlists for common tasks and processes that they would like their team members to learn.  
 
 ## Integrate with your service desk

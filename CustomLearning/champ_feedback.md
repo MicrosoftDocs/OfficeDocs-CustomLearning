@@ -13,8 +13,8 @@ ms.service: sharepoint-online
 
 The adoption of a new collaboration experience is about changing the behavior of your users. Human change requires training, encouragement, and positive examples. It is also critical for people to feel heard during the transition. If you have previously established successful feedback methods in your organization, consider expanding them to include your Office 365 implementation. If you have not done this before, consider one of the following approaches:
 
-## Use Yammer to provide an open community for best practices and support for the experience.
-Community-driven feedback methods require champions and service owners to be engaged. Create an open Yammer community that is targeted to the technology you are rolling out.  For instance you may have a general one for Office 365 or choose to target it to users of Office, Microsoft Teams or other technology.  We recommend creating a monitoring schedule for your Yammer community that rotates among these members. 
+## Use Viva Engage to provide an open community for best practices and support for the experience.
+Community-driven feedback methods require champions and service owners to be engaged. Create an open Viva Engage community that is targeted to the technology you are rolling out.  For instance you may have a general one for Office 365 or choose to target it to users of Office, Microsoft Teams or other technology.  We recommend creating a monitoring schedule for your Viva Engage community that rotates among these members. 
 
 ## Creating an org-wide team within Microsoft Teams (up to 2500)
 For smaller organizations an org-wide, public team can also provide a center of gravity for feedback and help.  Consider creating a channel called "Ask a Champion" to foster communication between Champions and employees.  Remember, that currently Microsoft Teams is limited to 2500 people though this will be increasing in the future. You can learn more about org-wide teams in [this article](/microsoftteams/create-an-org-wide-team). 

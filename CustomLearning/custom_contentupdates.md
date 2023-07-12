@@ -241,33 +241,33 @@ The following playlists and assets have been updated in Microsoft 365 (basics) i
 ## May 2021 Content Updates
 The following lists the content updates for May 2021.    
 
-### Yammer
-Yammer content has been updated.
+### Viva Engage
+Viva Engage content has been updated.
 
-#### Yammer Quick Start (updated)
+#### Viva Engage Quick Start (updated)
 - Sign in – updated with new video
 - Discover communities – updated with new title
 - Join the conversation – updated content
 - Collaborate – retired
 - Set up mobile apps – no change
 
-#### Roll out a successful Yammer network (updated)
-- What is Yammer? – updated with new video
+#### Roll out a successful Viva Engage network (updated)
+- What is Viva Engage? – updated with new video
 - Plan your strategy – updated content
-- Personalize a Yammer network – updated with new video
+- Personalize a Viva Engage network – updated with new video
 - Identify the right use cases – updated, removed video
 - Create a community for a use case – updated, changed group to community in title 
 - Educate users – updated, removed video
 - Drive ongoing engagement – retired
-- Integrate Yammer – updated, changed title
+- Integrate Viva Engage – updated, changed title
 
-#### Use Yammer every day (updated)
-- What is Yammer – updated with new video
-- Change my Yammer profile and settings – updated content
+#### Use Viva Engage every day (updated)
+- What is Viva Engage – updated with new video
+- Change my Viva Engage profile and settings – updated content
 - Start a conversation – updated title
 - Edit notifications and receive announcements – updated title
 - Join and create communities – updated title
-- Discover and search in Yammer - retired
+- Discover and search in Viva Engage - retired
 - Create and edit files – retired
 - Keep it going – updated content
 
