@@ -22,11 +22,11 @@ As a learning pathways administrator, you use the learning pathways administrati
 5. To unhide content, follow steps 1 and 2, and then unselect the eye for the content you want to unhide.
 
 ## To hide and unhide content by Technology
-In some cases, you might want to hide content by Technology. For example, you might want to hide all content related to Yammer, including Yammer playlists under Products and Yammer-related playlists in the Recommended subcategory.
+In some cases, you might want to hide content by Technology. For example, you might want to hide all content related to Viva Engage, including Viva Engage playlists under Products and Viva Engage related playlists in the Recommended subcategory.
 
 1. From the **Home** page of the learning pathways site, point to the **Home** menu, and then select **Learning pathways administration**.
 2. In the upper-right dropdown box, select **Technology**.
 3. Under **Microsoft 365 learning pathways**, select a technology
-4. Select the eye to the right of the technology you want to hide. For example, to hide content for Yammer, select the eye to the right of the **Yammer** technology. All changes are automatically saved.
+4. Select the eye to the right of the technology you want to hide. For example, to hide content for Viva Engage, select the eye to the right of the **Viva Engage** technology. All changes are automatically saved.
 5. To verify your changes have been applied, from the learning pathways site, select **Microsoft 365 training** from the menu, and then refresh the web browser. You can also select **Recommended playlists** from the Learning pathways **Home** page and verify that playlists for technology you've hidden are not visible.
 
