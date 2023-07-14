@@ -12,7 +12,7 @@ audience: itpro
 # Microsoft 365 Learning Pathways Content Updates
 Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).  
 
-## August 2022 Content Updates
+## June 2023 Content Updates
 The following lists the content updates for June 2023.
 
 ### Microsoft Loop
