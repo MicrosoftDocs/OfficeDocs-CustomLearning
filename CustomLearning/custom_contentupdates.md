@@ -1,7 +1,7 @@
 ---
-author: pkrebs
-ms.author: pkrebs
-manager: bpardi
+author: jhwang
+ms.author: jhwang
+manager: karuanag
 title: Learning pathways Content Updates
 ms.date: 5/19/2021
 ms.topic: article
@@ -10,7 +10,66 @@ ms.service: o365-solutions
 audience: itpro
 ---
 # Microsoft 365 Learning Pathways Content Updates
-Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).  
+Learning pathways strives to adhere to a quarterly content update cycle. To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).
+
+## September 2023 Content Updates
+The following lists the content updates for September 2023.
+
+### Viva Engage
+A Viva Engage subcategory has been added to Learning Pathways for the September update. Building on Yammer, Viva Engage brings together leaders and coworkers across your organization, enabling them to answer each other's questions, share their unique stories, and create belonging at work, combining its communities, conversations, and personalized discovery with new capabilities for self-expression and sharing through storyline and stories.
+
+#### Get started with Viva Engage
+The Get started with Viva Connections playlist contains the following assets.
+- Get started with Viva Engage
+
+#### Communities
+The Communities playlist contains the following assets.
+- Join and create a community in Viva Engage
+- Manage community members in Viva Engage
+- Add community members with a CSV file
+
+#### Storyline
+The Storyline playlist contains the following assets.
+- Storyline in Viva Engage
+- Why am I receiving the storylines update?
+- Storyline Announcements in Viva Engage
+- Create polls, praise, and questions
+
+#### Leadership
+The Leadership playlist contains the following assets.
+- Leadership corner in Viva Engage
+- Delegation in Viva Engage
+- Audience Configuration in Viva Engage
+- AMA events in Viva Engage
+
+#### Answers in Viva
+The Answers in Viva playlist contains the following assets.
+- Answers in Viva: Overview
+- View similar or related questions
+- Ask a question
+- Answer, upvote, or react to a question
+- Explore and filter questions
+- View and follow topics
+- Search across all questions and answers
+- Earn and view badges
+- View personal Answers analytics
+- Receive notifications
+
+#### Campaigns
+The Campaigns playlist contains the following assets.
+- Campaigns in Viva Engage
+- Add an executive sponsor to your campaign
+- View all campaigns in the discovery hub
+- Search for a Viva Engage campaign
+
+#### Analytics
+The Analytics playlist contains the following assets.
+- Analytics in Viva Engage
+
+#### Viva Engage Mobile App
+The Viva Engage Mobile App playlist contains the following assets.
+- Set up Viva Engage on your mobile phone
+- Discover the features that keep you connected on the Viva Engage mobile app
 
 ## June 2023 Content Updates
 The following lists the content updates for June 2023.
