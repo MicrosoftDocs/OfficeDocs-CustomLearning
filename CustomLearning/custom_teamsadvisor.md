@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: Use Advisor for Teams with learning pathways to help roll out Microsoft Teams
 ms.date: 12/9/2020
 description: Use Advisor for Teams with learning pathways to help roll out Microsoft Teams 

@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: How to hide and show playlists
 description: How to hide playlists provided by Microsoft and replace them with playlists that you create for your organization.
 ms.date: 02/15/2019

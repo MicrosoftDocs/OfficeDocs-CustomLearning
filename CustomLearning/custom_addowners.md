@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: Go to the Custom Learning for Office 365 site
 ms.date: 02/18/2019
 description: Go to the Custom Learning Site

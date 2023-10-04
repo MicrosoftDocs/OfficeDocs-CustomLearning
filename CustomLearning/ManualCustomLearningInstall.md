@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title:  Manual Install Learning Pathways
 ms.date: 02/18/2019
 manager: bpardi

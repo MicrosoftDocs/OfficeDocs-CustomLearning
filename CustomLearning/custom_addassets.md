@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: Add assets to a playlist
 ms.date: 02/17/2019
 description: Add new and existing assets to a learning pathways playlist

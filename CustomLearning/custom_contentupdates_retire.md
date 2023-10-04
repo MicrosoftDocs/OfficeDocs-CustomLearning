@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: November 2019 Content Updates
 ms.date: 10/20/2019
 description: Microsoft 365 learning pathways - update in content

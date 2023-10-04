@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: Customize learning pathways
 ms.date: 02/18/2019
 manager: bpardi 

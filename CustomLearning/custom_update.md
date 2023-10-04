@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: Update Microsoft 365 learning pathways
 ms.date: 07/06/2020
 description: Update Microsoft 365 learning pathways

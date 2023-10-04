@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: Provision the Custom Learning site
 ms.date: 02/10/2019
 description: Provision the Custom Learning for Office 365 site via the SharePoint Provisioning Engine

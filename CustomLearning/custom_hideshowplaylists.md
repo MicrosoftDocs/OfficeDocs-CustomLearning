@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: Hide and show the playlists
 ms.date: 10/27/2019
 description: Hide and show playlists

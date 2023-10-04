@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: Search
 ms.date: 02/10/2019
 description: Search in Microsoft 365 learning pathways

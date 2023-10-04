@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: Troubleshooting Microsoft 365 learning pathways
 ms.date: 02/10/2019
 description: Learn how to troubleshoot Microsoft 365 learning pathways

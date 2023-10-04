@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: Create SharePoint pages for playlists
 ms.date: 02/10/2019
 description: Create SharePoint pages for playlists

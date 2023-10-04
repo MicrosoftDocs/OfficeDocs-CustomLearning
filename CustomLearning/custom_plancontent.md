@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: Plan your learning pathways content
 ms.date: 10/20/2019
 description: Microsoft 365 content update for learning pathways

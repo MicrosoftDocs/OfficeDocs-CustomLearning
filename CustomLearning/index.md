@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 manager: bpardi
 title: Overview of Microsoft 365 learning pathways 
 ms.date: 5/19/2021

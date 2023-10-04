@@ -1,6 +1,6 @@
 ---
 author: pkrebs
-ms.author: pkrebs
+ms.author: bpardi
 title: Partner integration models
 ms.date: 3/9/2019
 description: Partner integration models
