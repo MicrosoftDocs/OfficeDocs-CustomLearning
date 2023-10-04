@@ -1,6 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
+author: blokpardi
+ms.author: bpardi
 title: Partner Onboarding Guide
 ms.date: 3/9/2019
 description: Partner Onboarding Guide for Microsoft 365 Learning Pathways

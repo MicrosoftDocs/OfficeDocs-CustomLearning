@@ -1,6 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
+author: blokpardi
+ms.author: bpardi
 title: Learning pathways manual setup for ml
 ms.date: 02/10/2019
 description: Learning pathways manual setup

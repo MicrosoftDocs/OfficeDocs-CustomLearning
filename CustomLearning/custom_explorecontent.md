@@ -1,6 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
+author: blokpardi
+ms.author: bpardi
 title: Explore the site and default content
 ms.date: 02/10/2019
 description: Explore the learning pathways site and default content

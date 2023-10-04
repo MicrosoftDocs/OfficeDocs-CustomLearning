@@ -1,6 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
+author: blokpardi
+ms.author: bpardi
 title: Setup options for multilingual learning pathways
 ms.date: 07/6/2020
 description: Setup options for multilingual learning pathways

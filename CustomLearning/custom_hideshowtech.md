@@ -1,6 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
+author: blokpardi
+ms.author: bpardi
 title: Hide and show technology
 ms.date: 05/20/2019
 description: How to hide and show technology

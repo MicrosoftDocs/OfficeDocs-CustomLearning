@@ -1,6 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
+author: blokpardi
+ms.author: bpardi
 title: Learning pathways Admin Success Center
 ms.date: 10/24/2019
 description: Learning pathways Admin Success Center

@@ -1,6 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
+author: blokpardi
+ms.author: bpardi
 title: Set-up option for learning pathways
 ms.date: 07/16/2020
 description: Setup option for learning pathways

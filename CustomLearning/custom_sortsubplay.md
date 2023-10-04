@@ -1,6 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
+author: blokpardi
+ms.author: bpardi
 title: Sort subcategories and playlists
 ms.date: 07/20/2020
 description: Sort subcategories and playlists in learning pathways

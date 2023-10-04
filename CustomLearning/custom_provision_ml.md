@@ -1,6 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
+author: blokpardi
+ms.author: bpardi
 title: Provision a new learning pathways multilingual solution
 ms.date: 02/10/2019
 description: Provision the Microsoft 365 learning pathways site via the SharePoint Provisioning Service

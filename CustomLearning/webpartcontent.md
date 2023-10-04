@@ -1,6 +1,6 @@
 ---
 author: karuanag
-ms.author: pkrebs
+ms.author: bpardi
 title: Webpart default content
 ms.date: 08/21/2018
 manager: alexb
