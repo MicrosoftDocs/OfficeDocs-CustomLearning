@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Add assets to a playlist
 ms.date: 02/17/2019

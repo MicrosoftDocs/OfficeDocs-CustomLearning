@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Create a new subcategory
 ms.date: 02/17/2019

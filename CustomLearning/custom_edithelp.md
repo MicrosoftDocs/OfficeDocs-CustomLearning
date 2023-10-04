@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Customize site of learning pathways
 ms.date: 02/15/2019

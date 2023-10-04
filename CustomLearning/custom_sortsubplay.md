@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Sort subcategories and playlists
 ms.date: 07/20/2020

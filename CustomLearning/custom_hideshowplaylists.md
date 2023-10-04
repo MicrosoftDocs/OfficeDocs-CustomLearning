@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Hide and show the playlists
 ms.date: 10/27/2019

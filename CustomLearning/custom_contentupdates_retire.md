@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: November 2019 Content Updates
 ms.date: 10/20/2019

@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Provision a new learning pathways multilingual solution
 ms.date: 02/10/2019

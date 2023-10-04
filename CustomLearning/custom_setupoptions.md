@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Set-up option for learning pathways
 ms.date: 07/16/2020

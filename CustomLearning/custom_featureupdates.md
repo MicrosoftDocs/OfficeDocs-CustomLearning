@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Learning pathways Feature Updates
 ms.date: 4/13/2021

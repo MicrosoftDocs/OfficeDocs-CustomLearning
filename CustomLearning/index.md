@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 manager: bpardi
 title: Overview of Microsoft 365 learning pathways 

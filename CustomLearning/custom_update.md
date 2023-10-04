@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Update Microsoft 365 learning pathways
 ms.date: 07/06/2020

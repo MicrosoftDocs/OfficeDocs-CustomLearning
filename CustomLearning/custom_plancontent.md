@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Plan your learning pathways content
 ms.date: 10/20/2019

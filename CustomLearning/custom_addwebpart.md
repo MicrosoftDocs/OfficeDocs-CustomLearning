@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Add and edit the Microsoft 365 learning pathways Web part
 ms.date: 02/17/2019

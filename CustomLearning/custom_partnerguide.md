@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Microsoft 365 learning pathways Early Adopter Program
 ms.date: 3/9/2019

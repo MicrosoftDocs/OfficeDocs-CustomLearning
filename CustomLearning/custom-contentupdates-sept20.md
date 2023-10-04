@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Learning pathways September 2020 Content Updates
 ms.date: 9/21/2020

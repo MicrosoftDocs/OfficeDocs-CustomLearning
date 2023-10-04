@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Translate the site name, navigation and footers
 ms.date: 7/6/2020

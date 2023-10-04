@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Linking to Microsoft 365 learning pathways assets
 ms.date: 02/15/2019

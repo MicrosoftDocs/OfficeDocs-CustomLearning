@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Go to the Microsoft 365 learning pathways site
 ms.date: 02/18/2019

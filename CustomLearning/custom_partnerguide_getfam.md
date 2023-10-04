@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Partner Onboarding Guide
 ms.date: 3/9/2019

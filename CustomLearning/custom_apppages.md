@@ -1,5 +1,5 @@
 ---
-author: pkrebs
+author: blokpardi
 ms.author: bpardi
 title: Get to know the SharePoint Application pages
 ms.date: 02/15/2019
