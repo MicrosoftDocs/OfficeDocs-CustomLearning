@@ -1,6 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
+author: blokpardi
+ms.author: bpardi
 title: Hide and show learning pathways multilingual playlists
 ms.date: 10/27/2019
 description: Hide and show playlists

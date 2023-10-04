@@ -1,6 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
+author: blokpardi
+ms.author: bpardi
 title: Update learning pathways for multilingual support
 ms.date: 05/20/2019
 description: Update learning pathways for multilingual support
