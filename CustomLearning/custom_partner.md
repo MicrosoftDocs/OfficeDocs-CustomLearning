@@ -1,7 +1,7 @@
 ---
-author: mhollinshead
-ms.author: patrickp
-manager: patrickp
+author: blokpardi
+ms.author: bpardi
+manager: bpardi
 title: Partner Frequently Asked Questions
 ms.date: 3/9/2019
 description: How does Microsoft 365 learning pathways compare to partner offerings from companies that provide enterprise training services?
