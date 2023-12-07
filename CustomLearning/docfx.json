@@ -42,9 +42,8 @@
       "extendBreadcrumb": true,
       "searchScope": ["Office 365 Custom Learning"],
       "recommendations": true,
-      "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/OfficeDocs-CustomLearning",
-      "uhfHeaderId": "MSDocsHeader-M365-IT",
+      "feedback_system": "Standard",
+            "uhfHeaderId": "MSDocsHeader-M365-IT",
       "contributors_to_exclude": [ 
         "rjagiewich", 
         "traya1", 
