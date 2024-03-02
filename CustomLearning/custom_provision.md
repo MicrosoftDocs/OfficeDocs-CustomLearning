@@ -31,8 +31,9 @@ Before you provision learning pathways, ensure that the Admin Account for the te
 3.	In Microsoft 365, click **All Apps** > Delve. 
 4.	Click **Me** > **Update Profile**.
 5.	Scroll down the page and click **How can I change language and regional settings**.
-6.	Click **here**, and then click the ellipses **...**.
+6.	Click **here**, click the ellipsis (**…**), and then choose **Language and Region**.
 7.	Under **My Display Languages**, you should see **No languages selected**. If a language is selected, unselect it.
+8. Click **Save all and close** at the bottom of the page.
 
 ### To provision learning pathways
 
